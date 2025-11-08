@@ -17,9 +17,12 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path, include
+from django.http import JsonResponse
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/six_degrees/', include('six_degrees.urls')),
+    path('', lambda request: JsonResponse({"message": "Welcome to the Art Museum Six Degrees Project Root!"})),
 ]
+
 
