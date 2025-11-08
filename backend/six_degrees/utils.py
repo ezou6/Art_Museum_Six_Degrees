@@ -3,7 +3,8 @@ from collections import Counter
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import json
-from .models import ArtObject, Maker
+from django.core.cache import cache
+from .models import ArtObject
 
 WEIGHTS = {
     "artist": 0.4,
@@ -15,11 +16,12 @@ WEIGHTS = {
 }
 
 MAX_EDGES_PER_NODE = 5
+CACHE_KEY = "art_graph_json"
+CACHE_TIMEOUT = 60 * 60 * 6  # 6 hours
 
 # -------------------------
 # Helper similarity functions
 # -------------------------
-
 def similarity_artist(a, b):
     if a.maker and b.maker:
         return 1.0 if a.maker.name == b.maker.name else 0.0
@@ -67,19 +69,23 @@ def compute_combined_similarity(a, b, material_freq):
 # -------------------------
 # Main function
 # -------------------------
-
 def generate_art_graph(export_path=None):
-    # 1. Load artworks
+    # 1. Check cache first
+    cached = cache.get(CACHE_KEY)
+    if cached:
+        return cached
+
+    # 2. Load artworks
     artworks = list(ArtObject.objects.select_related('maker').all())
     artworks = [a for a in artworks if a.title and a.maker]
 
-    # 2. Preprocess embeddings & material frequencies
+    # 3. Preprocess embeddings & material frequency
     material_freq = Counter(a.medium for a in artworks if a.medium)
     for a in artworks:
         np.random.seed(a.object_id)
         a.embedding = np.random.rand(1, 5)  # placeholder, replace with real embeddings
 
-    # 3. Build graph
+    # 4. Build graph
     G = nx.Graph()
     for a in artworks:
         G.add_node(
@@ -97,14 +103,14 @@ def generate_art_graph(export_path=None):
             if score > 0.6:
                 G.add_edge(a.object_id, b.object_id, weight=score, relation=relation)
 
-    # 4. Prune edges
+    # 5. Prune edges
     for node in list(G.nodes):
         neighbors = list(G[node].items())
         neighbors.sort(key=lambda x: x[1]["weight"], reverse=True)
         for extra in neighbors[MAX_EDGES_PER_NODE:]:
             G.remove_edge(node, extra[0])
 
-    # 5. Export JSON
+    # 6. Export JSON
     export = {
         "nodes": [
             {"id": n, "label": G.nodes[n]["title"], "maker": G.nodes[n]["maker"], "image_url": G.nodes[n]["image_url"]}
@@ -116,8 +122,12 @@ def generate_art_graph(export_path=None):
         ]
     }
 
+    # Optional: write to file
     if export_path:
         with open(export_path, "w") as f:
             json.dump(export, f, indent=2)
+
+    # 7. Cache result
+    cache.set(CACHE_KEY, export, CACHE_TIMEOUT)
 
     return export
