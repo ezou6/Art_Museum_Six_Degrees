@@ -6,18 +6,19 @@ from django.db import models
 from django.db import models
 
 class Maker(models.Model):
-    name = models.CharField(max_length=255)
-    culture = models.CharField(max_length=255, blank=True, null=True)
-    gender = models.CharField(max_length=50, blank=True, null=True)
-    birth_year = models.CharField(max_length=10, blank=True, null=True)
-    death_year = models.CharField(max_length=10, blank=True, null=True)
+    makerid = models.IntegerField(unique=True)
+    displayname = models.CharField(max_length=255)
+    begindate = models.IntegerField(blank=True, null=True)
+    enddate = models.IntegerField(blank=True, null=True)
+    culturegroup = models.CharField(max_length=255, blank=True, null=True)
+    makertype = models.CharField(max_length=50, blank=True, null=True)
+    biography = models.TextField(blank=True, null=True)
 
     def __str__(self):
-        return self.name
-
+        return self.displayname
 
 class ArtObject(models.Model):
-    object_id = models.IntegerField(unique=True)
+    object_id = models.IntegerField(unique=True, default=0)
     title = models.CharField(max_length=255)
     date = models.CharField(max_length=100, blank=True, null=True)
     medium = models.CharField(max_length=255, blank=True, null=True)
