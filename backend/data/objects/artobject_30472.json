@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":30472,
+    "objectnumber":"y1968-73",
+    "sortnumber":"1968   73y",
+    "displaytitle":"Dancer",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":350,
+    "dateend":500,
+    "datecomputed":425,
+    "daterange":"A.D. 1-500",
+    "displaydate":"350–500 CE",
+    "medium":"Ceramic with pigment",
+    "dimensions":"h. 10.0 cm., w. 7.6 cm., d. 4.6 cm. (3 15/16 x 3 x 1 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dancer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":50000,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV016649",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 30",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Central Mexico, Teotihuacan",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Central Mexico",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Teotihuacan",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8379475/teotihuacan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089652,
+            "term":"dancers",
+            "aatid":300025653,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039116,
+            "term":"Tlamimilolpa",
+            "aatid":300017018,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2039146,
+            "term":"Teotihuacán",
+            "aatid":300017031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035663,
+            "term":"Classic",
+            "aatid":300016983,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035666,
+            "term":"Early Classic",
+            "aatid":300016984,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168423,
+            "term":"pigment",
+            "aatid":300013109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13848,
+            "culture":"Teotihuacán",
+            "alphasort":"Teotihuacán",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Teotihuacán",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039146,
+            "culture":"Teotihuacán"
+        }
+    ],
+    "periods":[
+        {
+            "id":24014,
+            "period":"Early Classic Period",
+            "alphasort":"Classic Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Classic Period (Xolalpan)",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2039116,
+            "period":"Tlamimilolpa"
+        },
+        {
+            "id":2035663,
+            "period":"Classic"
+        },
+        {
+            "id":2035666,
+            "period":"Early Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.56"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.58"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV016649"
+    ],
+    "displaymaker":null,
+    "displayculture":"Teotihuacán",
+    "displayperiod":"Early Classic Period (Xolalpan)",
+    "caption":"Teotihuacán, Early Classic Period (Xolalpan), 350–500 CE, Central Mexico, Mexico, Mesoamerica, Dancer. Ceramic with pigment; 10 x 7.6 x 4.6 cm. Gift of J. Lionberger Davis, Class of 1900 (y1968-73)",
+    "captionhtml":"Teotihuacán, Early Classic Period (Xolalpan), 350–500 CE, Central Mexico, Mexico, Mesoamerica, <i>Dancer</i>. Ceramic with pigment; 10 x 7.6 x 4.6 cm. Gift of J. Lionberger Davis, Class of 1900 (y1968-73)",
+    "published_date":"2025-10-31 02:04:57.464610",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

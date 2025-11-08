@@ -1,0 +1,274 @@
+{
+    "type":"artobject",
+    "objectid":86007,
+    "objectnumber":"2012-123",
+    "sortnumber":"2012  123",
+    "displaytitle":"St. Louis, Missouri",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1977,
+    "dateend":1977,
+    "datecomputed":1977,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1977",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 24.6 x 19.6 cm. (9 11/16 x 7 11/16 in.)\r\nsheet: 25.3 x 20.3 cm. (9 15/16 x 8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of M. Robin Krasny, Class of 1973",
+    "markings":"Stamped with Meyerowitz's phone number",
+    "inscribed":"Titled, dated, and signed in ink, verso: St. Louis 1977 Joel Meyerowitz 1977\r\n\r\nIn ink, verso: SL131-1977\r\n\r\nOn mat: JMRK-01",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Joel Meyerowitz",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Louis, Missouri",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"St. Louis",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1329,
+            "displayname":"Joel Meyerowitz",
+            "displaydate":"born 1938, New York, NY; active New York",
+            "datebegin":1938,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joel Meyerowitz, born 1938, New York, NY; active New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":192043,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_8000",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 126",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Missouri, St. Louis",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Missouri",
+            "city":"St. Louis",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4407066/st-louis.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171359,
+            "term":"cities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2058601,
+            "term":"green (color)",
+            "aatid":300128438,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053444,
+            "term":"vintage prints",
+            "aatid":300136578,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053444,
+            "classification":"vintage prints"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_8000"
+    ],
+    "displaymaker":"Joel Meyerowitz, born 1938, New York, NY; active New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joel Meyerowitz (born 1938, New York, NY; active New York), St. Louis, Missouri, 1977. Chromogenic print; 24.6 x 19.6 cm (image), 25.3 x 20.3 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2012-123)",
+    "captionhtml":"Joel Meyerowitz (born 1938, New York, NY; active New York), <i>St. Louis, Missouri</i>, 1977. Chromogenic print; 24.6 x 19.6 cm (image), 25.3 x 20.3 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2012-123)",
+    "published_date":"2025-10-16 17:05:49.199985",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

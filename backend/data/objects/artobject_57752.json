@@ -1,0 +1,184 @@
+{
+    "type":"artobject",
+    "objectid":57752,
+    "objectnumber":"PP640",
+    "sortnumber":"P       640P",
+    "displaytitle":"Rhumba",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1972,
+    "dateend":1991,
+    "datecomputed":1982,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"African granite",
+    "dimensions":"270.5 x 48.3 x 44.5 cm (106 1/2 x 19 x 17 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Charles Erdman III, Class of 1946, presented in 1991",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Richard Erdman",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Rhumba",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15449,
+            "displayname":"Richard Erdman",
+            "displaydate":"American, born 1952",
+            "datebegin":1952,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Richard Erdman, American, born 1952",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Richard Erdman works with stone and bronze, creating abstract sculptures known for their buoyant motion. Here the artist employs rectangular slabs of granite that convey the twisting and turning movements of the dance for which it is titled.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":50248,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP640",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2163224,
+            "term":"granite",
+            "aatid":300011183,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"270.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"48.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP640"
+    ],
+    "displaymaker":"Richard Erdman, American, born 1952",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Richard Erdman (American, born 1952), Rhumba. African granite; 270.5 x 48.3 x 44.5 cm. Princeton University, gift of Charles Erdman III, Class of 1946, presented in 1991 (PP640)",
+    "captionhtml":"Richard Erdman (American, born 1952), <i>Rhumba</i>. African granite; 270.5 x 48.3 x 44.5 cm. Princeton University, gift of Charles Erdman III, Class of 1946, presented in 1991 (PP640)",
+    "published_date":"2025-10-16 15:40:34.793569",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Social Sciences and Engineering Neighborhood",
+            "lat":"40.3499",
+            "lon":"-74.6519"
+        }
+    ],
+    "extended_content":false
+}

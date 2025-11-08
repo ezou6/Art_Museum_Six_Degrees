@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":49749,
+    "objectnumber":"2006-373",
+    "sortnumber":"2006  373",
+    "displaytitle":"Little Dilemma",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1985,
+    "dateend":1985,
+    "datecomputed":1985,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1985",
+    "medium":"Color etching and aquatint",
+    "dimensions":"plate: 23.8 × 15.4 cm (9 3/8 × 6 1/16 in.)\r\nsheet: 42.3 × 33.5 cm (16 5/8 × 13 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Numbered in graphite below plate, lower left: 5//70\r\nSigned and dated in graphite below plate, lower right: Tsiaras '85",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Little Dilemma",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2843,
+            "displayname":"Philip Tsiaras",
+            "displaydate":"American, born 1952",
+            "datebegin":1952,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Philip Tsiaras, American, born 1952",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110857,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34073",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 113",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098346,
+            "term":"rectangles",
+            "aatid":300055636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171653,
+            "term":"suns",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34073"
+    ],
+    "displaymaker":"Philip Tsiaras, American, born 1952",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Philip Tsiaras (American, born 1952), Little Dilemma, 1985. Color etching and aquatint; 23.8 × 15.4 cm (plate), 42.3 × 33.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-373)",
+    "captionhtml":"Philip Tsiaras (American, born 1952), <i>Little Dilemma</i>, 1985. Color etching and aquatint; 23.8 × 15.4 cm (plate), 42.3 × 33.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-373)",
+    "published_date":"2025-10-16 15:08:08.449892",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

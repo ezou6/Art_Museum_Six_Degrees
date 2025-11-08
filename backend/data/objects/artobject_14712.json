@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":14712,
+    "objectnumber":"x1982-22 c",
+    "sortnumber":"1982   22xc",
+    "displaytitle":"A Venetian Canal",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1897,
+    "dateend":1897,
+    "datecomputed":1897,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1897",
+    "medium":"Photogravure",
+    "dimensions":"image: 26.4 x 18.4 cm. (10 3/8 x 7 1/4 in.)\r\nsheet: 50.2 x 40 cm. (19 3/4 x 15 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David H. McAlpin, Class of 1920",
+    "markings":"Printed, upper left corner above image: Copyright 1897 by Alfred Stieglitz",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"A Venetian Canal",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2568,
+            "displayname":"Alfred Stieglitz",
+            "displaydate":"1864–1946; born Hoboken, NJ; died New York, NY; active New York",
+            "datebegin":1864,
+            "dateend":1946,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alfred Stieglitz, 1864–1946; born Hoboken, NJ; died New York, NY; active New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":89564,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV15599",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":89565,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV15600",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfred Stieglitz and W.E. Woodbury, \"Picturesque Bits of New York and Other Studies\" (New York: R.H. Russell, 1897).",
+            "citation":"Alfred Stieglitz and W.E. Woodbury, \"Picturesque Bits of New York and Other Studies\" (New York: R.H. Russell, 1897).",
+            "date":1897,
+            "id":4065,
+            "uri":"http://www.worldcat.org/oclc/900273448"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 66",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Venice",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Venice",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6540220/venice.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2080678,
+            "term":"canals",
+            "aatid":300006075,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV15600"
+    ],
+    "displaymaker":"Alfred Stieglitz, 1864–1946; born Hoboken, NJ; died New York, NY; active New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alfred Stieglitz (1864–1946; born Hoboken, NJ; died New York, NY; active New York), A Venetian Canal, 1897. Photogravure; 26.4 x 18.4 cm (image), 50.2 x 40 cm (sheet). Gift of David H. McAlpin, Class of 1920 (x1982-22 c)",
+    "captionhtml":"Alfred Stieglitz (1864–1946; born Hoboken, NJ; died New York, NY; active New York), <i>A Venetian Canal</i>, 1897. Photogravure; 26.4 x 18.4 cm (image), 50.2 x 40 cm (sheet). Gift of David H. McAlpin, Class of 1920 (x1982-22 c)",
+    "published_date":"2025-10-16 11:56:42.378331",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

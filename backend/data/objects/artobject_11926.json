@@ -1,0 +1,219 @@
+{
+    "type":"artobject",
+    "objectid":11926,
+    "objectnumber":"x1971-25 e",
+    "sortnumber":"1971   25xe",
+    "displaytitle":"Squeezing the Tube",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1970,
+    "dateend":1970,
+    "datecomputed":1970,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1970",
+    "medium":"Drypoint on Arches white paper",
+    "dimensions":"plate: 30.7 x 39.8 cm (12 1/16 x 15 11/16 in.)\r\nsheet: 37.7 x 48.5 cm (14 13/16 x 19 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Henry Strater, Class of 1919",
+    "markings":"Blindstamps of Abrams Original Editions and Carol Luick, lower left corner\r\n\r\nRubberstamp, verso lower right: © Arman 1970",
+    "inscribed":"Editioned and signed in graphite below plate, lower left and right: 68//125 / Arman",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1971-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Squeezing the Tube",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":136,
+            "displayname":"Arman",
+            "displaydate":"French, 1928–2005",
+            "datebegin":1928,
+            "dateend":2005,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Arman, French, 1928–2005",
+            "displayorder":1
+        },
+        {
+            "id":20062,
+            "displayname":"Impressions Workshop Inc.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by Carol Luick at",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed by Carol Luick at Impressions Workshop Inc.",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":99312,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24761",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>",
+            "citation":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>, p. 20",
+            "date":1972,
+            "id":882,
+            "uri":"https://www.jstor.org/stable/3774565"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054535,
+            "term":"drypoints",
+            "aatid":300041349,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154936,
+            "term":"drypoint",
+            "aatid":300053228,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043871,
+            "term":"Arches (TM) paper",
+            "aatid":300183989,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054535,
+            "classification":"drypoints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24761"
+    ],
+    "displaymaker":"Arman, French, 1928–2005 | Printed by Carol Luick at Impressions Workshop Inc.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Arman (French, 1928–2005), Printed by Carol Luick at Impressions Workshop Inc., Squeezing the Tube, 1970. Drypoint on Arches white paper; 30.7 x 39.8 cm (plate), 37.7 x 48.5 cm (sheet). Gift of Henry Strater, Class of 1919 (x1971-25 e)",
+    "captionhtml":"Arman (French, 1928–2005), Printed by Carol Luick at Impressions Workshop Inc., <i>Squeezing the Tube</i>, 1970. Drypoint on Arches white paper; 30.7 x 39.8 cm (plate), 37.7 x 48.5 cm (sheet). Gift of Henry Strater, Class of 1919 (x1971-25 e)",
+    "published_date":"2025-10-16 11:34:59.732077",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

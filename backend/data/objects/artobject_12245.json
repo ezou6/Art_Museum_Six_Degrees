@@ -1,0 +1,214 @@
+{
+    "type":"artobject",
+    "objectid":12245,
+    "objectnumber":"x1971-51",
+    "sortnumber":"1971   51x",
+    "displaytitle":"Wadi El Sebuoua",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1890,
+    "dateend":1890,
+    "datecomputed":1890,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1890",
+    "medium":"Black, blue and pink crayon",
+    "dimensions":"20.7 x 32.8 cm. (8 1/8 x 12 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Paul F. Walter",
+    "markings":null,
+    "inscribed":"in black crayon and graphite, lower left: W.B. 13th-Feb-Nub\r\nin black crayon, lower center: Wady Sabeech\r\nin red crayon, lower right: 13",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1971-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wadi El Sebuoua",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2935,
+            "displayname":"Elihu Vedder",
+            "displaydate":"1836–1923; born New York, NY; died Rome, Italy",
+            "datebegin":1836,
+            "dateend":1923,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Elihu Vedder, 1836–1923; born New York, NY; died Rome, Italy",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":49494,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1971-51",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>",
+            "citation":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>, p. 24",
+            "date":1972,
+            "id":882,
+            "uri":"https://www.jstor.org/stable/3774565"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 352, checklist no. 1076",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Africa, Egypt, Wadi es-Sebua, Lower Nubia",
+            "code":"Place depicted",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Wadi es-Sebua, Lower Nubia",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/350981/nubia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2084828,
+            "term":"temples",
+            "aatid":300007595,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120264,
+            "term":"shores (landforms)",
+            "aatid":300008733,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172711,
+            "term":"hills",
+            "aatid":300008777,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2140775,
+            "term":"crayons",
+            "aatid":300022415,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1971-51"
+    ],
+    "displaymaker":"Elihu Vedder, 1836–1923; born New York, NY; died Rome, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Elihu Vedder (1836–1923; born New York, NY; died Rome, Italy), Wadi El Sebuoua, 1890. Black, blue and pink crayon; 20.7 x 32.8 cm. Gift of Paul F. Walter (x1971-51)",
+    "captionhtml":"Elihu Vedder (1836–1923; born New York, NY; died Rome, Italy), <i>Wadi El Sebuoua</i>, 1890. Black, blue and pink crayon; 20.7 x 32.8 cm. Gift of Paul F. Walter (x1971-51)",
+    "published_date":"2025-10-16 11:39:23.077486",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

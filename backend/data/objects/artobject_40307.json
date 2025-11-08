@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":40307,
+    "objectnumber":"MWA X79",
+    "sortnumber":"WA    X    M   79",
+    "displaytitle":"Otra señal, Teotihuacán (Another Sign, Teotihuacan)",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1956,
+    "dateend":1956,
+    "datecomputed":1956,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1956",
+    "medium":"Gelatin silver print",
+    "dimensions":"sheet: 5 13/16 x 9 5/8 in. (14.8 x 24.4 cm)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum.  Bequest of Minor White",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in ink, verso lower right: M. Alvarez Bravo. | México.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Colette Urbajtel/Archivo Manuel Álvarez Bravo, SC.",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":72,
+            "displayname":"Manuel Álvarez Bravo",
+            "displaydate":"1902–2002; born and died Mexico City, Mexico",
+            "datebegin":1902,
+            "dateend":2002,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Manuel Álvarez Bravo, 1902–2002; born and died Mexico City, Mexico",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Minor White (gift from the artist?);&nbsp;Minor White Archive (bequest to Princeton University Art Museum, 1976).",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":124260,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47183",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":478,
+            "citation":"Museum Project in Modern Photography Thursday, February 01, 2001 - Friday, February 01, 2002",
+            "isvirtual":true,
+            "begindate":"2001-02-01",
+            "enddate":"2002-02-01",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/478"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico, Teotihuacan",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Mexico",
+            "city":"Teotihuacan",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/8379475/teotihuacan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2135437,
+            "term":"deaths",
+            "aatid":300151836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122799,
+            "term":"advertisements",
+            "aatid":300193993,
+            "termtype":"Subject"
+        },
+        {
+            "id":2111658,
+            "term":"doorways",
+            "aatid":300002767,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126915,
+            "term":"signs",
+            "aatid":300123013,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073719,
+            "term":"coffins",
+            "aatid":300197585,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.44"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.76"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47183"
+    ],
+    "displaymaker":"Manuel Álvarez Bravo, 1902–2002; born and died Mexico City, Mexico",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Manuel Álvarez Bravo (1902–2002; born and died Mexico City, Mexico), Otra señal, Teotihuacán (Another Sign, Teotihuacan), 1956. Gelatin silver print; 5 13/16 x 9 5/8 in. The Minor White Archive, Princeton University Art Museum.  Bequest of Minor White (MWA X79)",
+    "captionhtml":"Manuel Álvarez Bravo (1902–2002; born and died Mexico City, Mexico), <i>Otra señal, Teotihuacán (Another Sign, Teotihuacan)</i>, 1956. Gelatin silver print; 5 13/16 x 9 5/8 in. The Minor White Archive, Princeton University Art Museum.  Bequest of Minor White (MWA X79)",
+    "published_date":"2025-10-21 02:03:20.141282",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

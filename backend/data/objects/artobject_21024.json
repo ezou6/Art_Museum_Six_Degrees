@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":21024,
+    "objectnumber":"y1937-151 a-c",
+    "sortnumber":"1937  151ya    c",
+    "displaytitle":"Tea Pot and Lid on Burner",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1759,
+    "dateend":1937,
+    "datecomputed":1848,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Black basaltes earthenware",
+    "dimensions":"teapot: 15.7 × 29.8 × 15.1 cm (6 3/16 × 11 3/4 × 5 15/16 in.)\r\nstand: 11.8 × 15.3 cm (4 5/8 × 6 in.)\r\nteapot on stand: 27.3 × 29.8 × 15.3 cm (10 3/4 × 11 3/4 × 6 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tea Pot and Lid on Burner",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1687,
+            "displayname":"Josiah Wedgwood and Sons",
+            "displaydate":"English, established 1759",
+            "datebegin":1759,
+            "dateend":0,
+            "prefix":"Manufactory: possibly",
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Manufactory: possibly Josiah Wedgwood and Sons, English, established 1759",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":136291,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58642",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136292,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58643",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136293,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58644",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136294,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58645",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2077247,
+            "term":"teapots",
+            "aatid":300043022,
+            "termtype":"Subject"
+        },
+        {
+            "id":2114894,
+            "term":"burners",
+            "aatid":300179654,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"15.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"15.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV58642"
+    ],
+    "displaymaker":"Manufactory: possibly Josiah Wedgwood and Sons, English, established 1759",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Manufactory: possibly Josiah Wedgwood and Sons (English, established 1759), Tea Pot and Lid on Burner. Black basaltes earthenware; 15.7 × 29.8 × 15.1 cm (teapot), 11.8 × 15.3 cm (stand), 27.3 × 29.8 × 15.3 cm (teapot on stand). Trumbull-Prime Collection (y1937-151 a-c)",
+    "captionhtml":"Manufactory: possibly Josiah Wedgwood and Sons (English, established 1759), <i>Tea Pot and Lid on Burner</i>. Black basaltes earthenware; 15.7 × 29.8 × 15.1 cm (teapot), 11.8 × 15.3 cm (stand), 27.3 × 29.8 × 15.3 cm (teapot on stand). Trumbull-Prime Collection (y1937-151 a-c)",
+    "published_date":"2025-10-16 12:38:04.662740",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

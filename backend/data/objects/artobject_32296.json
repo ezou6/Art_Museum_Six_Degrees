@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":32296,
+    "objectnumber":"y1975-29 i",
+    "sortnumber":"1975   29yi",
+    "displaytitle":"Colophon, from an album of Flowers, Landscapes, and Vegetables",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1819,
+    "dateend":1873,
+    "datecomputed":1846,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"undated",
+    "medium":"Album leaf; ink on gold-flecked paper",
+    "dimensions":"Colophon: 28 x 62 cm. (11 x 24 7/16 in.)\r\nLeaf: 74.4 x 65 cm. (29 5/16 x 25 9/16 in.)\r\nMat: 43 x 73.5 cm. (16 15/16 x 28 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David L. Elliott",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Colophon",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":5240,
+            "displayname":"He Shaoji 何紹基",
+            "displaydate":"1799–1873",
+            "datebegin":1799,
+            "dateend":1873,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"He Shaoji 何紹基, 1799–1873",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22921,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1975-29i",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":58755,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03788",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122099,
+            "term":"colophons",
+            "aatid":300028710,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2122099,
+            "classification":"colophons"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.00"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.50"
+        },
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"74.40"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"65.00"
+        },
+        {
+            "element":"Colophon",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"Colophon",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":224486,
+            "name":"2023_ART572/EAS573_03_06"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03788"
+    ],
+    "displaymaker":"He Shaoji 何紹基, 1799–1873",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), He Shaoji 何紹基 (1799–1873), Colophon, from an album of Flowers, Landscapes, and Vegetables, undated. Album leaf; ink on gold-flecked paper; 26.4 x 59.4 cm, 28 x 62 cm (Colophon), 74.4 x 65 cm (Leaf), 43 x 73.5 cm (mat). Gift of David L. Elliott (y1975-29 i)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), He Shaoji 何紹基 (1799–1873), <i>Colophon, from an album of Flowers, Landscapes, and Vegetables</i>, undated. Album leaf; ink on gold-flecked paper; 26.4 x 59.4 cm, 28 x 62 cm (Colophon), 74.4 x 65 cm (Leaf), 43 x 73.5 cm (mat). Gift of David L. Elliott (y1975-29 i)",
+    "published_date":"2025-10-16 13:29:14.025793",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

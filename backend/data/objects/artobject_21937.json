@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":21937,
+    "objectnumber":"2004-278",
+    "sortnumber":"2004  278",
+    "displaytitle":"Saint-Cloud",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1924,
+    "dateend":1924,
+    "datecomputed":1924,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1924",
+    "medium":"Albumen print",
+    "dimensions":"17 × 22.1 cm (6 11/16 × 8 11/16 in.)\r\nmount: 37.1 x 29.6 cm (14 5/8 x 11 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell",
+    "markings":"Stamped in ink, verso center: PHOTO E. ATGET / COLLECTION BERENICE ABBOTT / 1 W. 67th ST. / COPYRIGHT\r\n\r\nIn negative, lower right of print: [reversed] 234",
+    "inscribed":"Inscribed in graphite, lower center: cg 79-10\r\n\r\nTitled and numbered in graphite, verso center: St. Cloud 234 / #234\r\n",
+    "signed":null,
+    "catalograisonne":"Szarkowski/Hambourg 78",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint-Cloud",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":156,
+            "displayname":"Eugène Atget",
+            "displaydate":"French, 1857–1927",
+            "datebegin":1857,
+            "dateend":1927,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Atget, French, 1857–1927",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66747,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-278",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 108",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        },
+        {
+            "boilertext":"John Szarkowski and Maria Morris Hambourg, <EM>The Work of Atget </EM>(London: Gordon Fraser, 1982).",
+            "citation":"John Szarkowski and Maria Morris Hambourg, <EM>The Work of Atget </EM>(London: Gordon Fraser, 1982)., Volume 1, pl. 78, p. 177",
+            "date":1982,
+            "id":7108,
+            "uri":"http://www.worldcat.org/oclc/9952402"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Saint-Cloud",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Saint-Cloud",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2981041/saint-cloud.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098550,
+            "term":"autumn",
+            "aatid":300133093,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166436,
+            "term":"earth",
+            "aatid":300011734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-278"
+    ],
+    "displaymaker":"Eugène Atget, French, 1857–1927",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Atget (French, 1857–1927), Saint-Cloud, 1924. Albumen print; 17 × 22.1 cm. Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell (2004-278)",
+    "captionhtml":"Eugène Atget (French, 1857–1927), <i>Saint-Cloud</i>, 1924. Albumen print; 17 × 22.1 cm. Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell (2004-278)",
+    "published_date":"2025-10-16 12:43:06.030382",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

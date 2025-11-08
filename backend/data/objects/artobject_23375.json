@@ -1,0 +1,216 @@
+{
+    "type":"artobject",
+    "objectid":23375,
+    "objectnumber":"y1950-124",
+    "sortnumber":"1950  124y",
+    "displaytitle":"Abstraction",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1944,
+    "dateend":1950,
+    "datecomputed":1947,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1944–50",
+    "medium":"Oil on canvas",
+    "dimensions":"63.5 x 76.5 cm (25 x 30 1/8 in.)\r\nframe: 90.4 x 77.2 x 7 cm (35 9/16 x 30 3/8 x 2 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. Gallatin",
+    "markings":null,
+    "inscribed":"Signed on back of canvas with following dates: A. E. Gallatin / Feb’y 1944 / DEC 1949 / MAY 1950;",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1950-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Abstraction",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6045,
+            "displayname":"Albert Eugene Gallatin",
+            "displaydate":"1881–1952; born Villanova, PA; died New York, NY; active Paris, France and New York",
+            "datebegin":1881,
+            "dateend":1952,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Albert Eugene Gallatin, 1881–1952; born Villanova, PA; died New York, NY; active Paris, France and New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Donated to the Princeton Art Museum by the artist, Albert Eugene Gallatin (1881-1952), 1950.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Gallatin was among the earliest American artists to adopt the principles of Cubism, emphasizing the planar geometric relationships of an object from various perspectives at a time when the arts community in New York was still resistant to abstract, nonfigurative art. Here Gallatin produced the illusion of depth through the suggestions of shadows in his arrangement of layers of geometric shapes and color tones. In 1927 he founded the Museum of Living Art at New York University, where contemporary modes of European abstraction from his personal collection were on display and were debated in discussions he organized there. Many influential abstract artists of the postwar generation in New York—including Adolf Gottlieb, David Smith, and Willem de Kooning (artists whose works are on view in nearby galleries)—credited Gallatin with influencing their practices and fostering memorable debates about art.",
+            "remarks":"MOD_09-12_WLA – Day 1 Cataloguing"
+        }
+    ],
+    "media":[
+        {
+            "id":121831,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44839",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986)",
+            "citation":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986), p. 290 (illus.)",
+            "date":1986,
+            "id":1899,
+            "uri":"http://www.worldcat.org/oclc/14244748"
+        },
+        {
+            "boilertext":"Debra Bricker Balken, <EM>Albert Eugene Gallatin and his circle</EM>, (Coral Gables, FL: Lowe Art Museum, University of Miami, 1986).",
+            "citation":"Debra Bricker Balken, <EM>Albert Eugene Gallatin and his circle</EM>, (Coral Gables, FL: Lowe Art Museum, University of Miami, 1986)., checklist, p. 63",
+            "date":1986,
+            "id":7675,
+            "uri":"http://www.worldcat.org/oclc/878406570"
+        },
+        {
+            "boilertext":"'Recent acquisitions\", <em>Record of the Art Museum, Princeton University </em>10, no. 1 (1951): p. 19.",
+            "citation":"'Recent acquisitions\", <em>Record of the Art Museum, Princeton University </em>10, no. 1 (1951): p. 19., p. 19",
+            "date":1951,
+            "id":6667,
+            "uri":"https://www.jstor.org/stable/3774247"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098298,
+            "term":"geometric figures",
+            "aatid":300055626,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.40"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"77.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.98"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"63.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":219376,
+            "name":"Gallery_09-ModernContemporary"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44839"
+    ],
+    "displaymaker":"Albert Eugene Gallatin, 1881–1952; born Villanova, PA; died New York, NY; active Paris, France and New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Albert Eugene Gallatin (1881–1952; born Villanova, PA; died New York, NY; active Paris, France and New York), Abstraction, 1944–50. Oil on canvas; 63.5 x 76.5 cm, 90.4 × 77.2 × 7 cm (frame). Gift of Albert E. Gallatin (y1950-124)",
+    "captionhtml":"Albert Eugene Gallatin (1881–1952; born Villanova, PA; died New York, NY; active Paris, France and New York), <i>Abstraction</i>, 1944–50. Oil on canvas; 63.5 x 76.5 cm, 90.4 × 77.2 × 7 cm (frame). Gift of Albert E. Gallatin (y1950-124)",
+    "published_date":"2025-10-30 02:02:51.851052",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

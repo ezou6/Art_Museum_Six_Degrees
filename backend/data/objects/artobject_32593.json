@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":32593,
+    "objectnumber":"y1982-26",
+    "sortnumber":"1982   26y",
+    "displaytitle":"Musical pipe with owl head",
+    "department":"Art of the Ancient Americas",
+    "classification":"Musical Instruments",
+    "datebegin":600,
+    "dateend":900,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"600–900",
+    "medium":"Ceramic",
+    "dimensions":"h. 36.2 cm., diam. 3.0 cm. (14 1/4 x 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Leonard H. Bernheim Jr., Class of 1959",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Musical pipe with owl head",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1982, gift of Leonard H. Bernheim Jr. (1937-2000), New York, to the Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":7546,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1982-26",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John H. Burkhalter III and Gillett G. Griffin,<I> Music from the Land of the Jaguar</I> (Princeton: Princeton University Art Museum, 2004).",
+            "citation":"John H. Burkhalter III and Gillett G. Griffin,<I> Music from the Land of the Jaguar</I> (Princeton: Princeton University Art Museum, 2004)., no. 13",
+            "date":2004,
+            "id":2551,
+            "uri":"http://www.worldcat.org/oclc/457910964"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 68",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Gulf Coast",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Gulf Coast",
+            "state":"Veracruz",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514780/estado-de-veracruz-llave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158036,
+            "term":"owls",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035671,
+            "term":"Late Classic",
+            "aatid":300016986,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035746,
+            "term":"Classic Veracruz",
+            "aatid":300017056,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147449,
+            "term":"flutes (aerophones)",
+            "aatid":300042513,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2147449,
+            "classification":"flutes (aerophones)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13849,
+            "culture":"Classic Veracruz",
+            "alphasort":"Classic Veracruz",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Classic Veracruz",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035746,
+            "culture":"Classic Veracruz"
+        }
+    ],
+    "periods":[
+        {
+            "id":24016,
+            "period":"Late Classic Period",
+            "alphasort":"Classic Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035671,
+            "period":"Late Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"3.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1982-26"
+    ],
+    "displaymaker":null,
+    "displayculture":"Classic Veracruz",
+    "displayperiod":"Late Classic Period",
+    "caption":"Classic Veracruz, Late Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, Musical pipe with owl head. Ceramic; 36.2 x 3 cm. Gift of Leonard H. Bernheim Jr., Class of 1959 (y1982-26)",
+    "captionhtml":"Classic Veracruz, Late Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, <i>Musical pipe with owl head</i>. Ceramic; 36.2 x 3 cm. Gift of Leonard H. Bernheim Jr., Class of 1959 (y1982-26)",
+    "published_date":"2025-10-31 02:05:26.055791",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

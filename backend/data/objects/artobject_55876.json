@@ -1,0 +1,283 @@
+{
+    "type":"artobject",
+    "objectid":55876,
+    "objectnumber":"2008-1083",
+    "sortnumber":"2008 1083",
+    "displaytitle":"Frau auf Teppich (Woman on a Carpet)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1915,
+    "dateend":1915,
+    "datecomputed":1915,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1915",
+    "medium":"Woodcut",
+    "dimensions":"block: 25 × 17.8 cm (9 13/16 × 7 in.)\r\nsheet: 51.5 x 33.5 cm. (20 1/4 x 13 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":"Signed in graphite, lower right: S Rottluff",
+    "signed":null,
+    "catalograisonne":"H. 172",
+    "creditlinerepro":"© 2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Frau auf Teppich (Woman on a Carpet)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3502,
+            "displayname":"Karl Schmidt-Rottluff",
+            "displaydate":"German, 1884–1976",
+            "datebegin":1884,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Karl Schmidt-Rottluff, German, 1884–1976",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Didactics",
+            "textentryhtml":"Arriving in Dresden in 1905 to study architecture, Schmidt-Rottluff left school after one year to pursue painting (and, later, printmaking) with the other artists who formed Die Brücke. Schmidt-Rottluff's simplified, angular forms reflect his interest in African art, which he first encountered directly at the Ethnographic Museum in Dresden. Here, his emphasis on the graphic quality of the woodcut, with its use of parallel lines and the contrast between black and white forms, gives the figure a monumental quality.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":101331,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26004",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":20576,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1083",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., pp. 84–85 (illus.)",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1519,
+            "citation":"1913: The Year of Modernism (Saturday, March 23, 2013 - Sunday, June 23, 2013)",
+            "isvirtual":true,
+            "begindate":"2013-03-23",
+            "enddate":"2013-06-23",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1519"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2032285,
+            "term":"Expressionist",
+            "aatid":300021502,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2061785,
+            "term":"carpets",
+            "aatid":300185756,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":53649,
+            "name":"web_2015-10_GlobalHistory"
+        },
+        {
+            "packageid":3084,
+            "name":"Web_1913_3-2"
+        },
+        {
+            "packageid":30294,
+            "name":"web_GlobalHistory_2015"
+        },
+        {
+            "packageid":3077,
+            "name":"Web_1913_1-1"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1083"
+    ],
+    "displaymaker":"Karl Schmidt-Rottluff, German, 1884–1976",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Karl Schmidt-Rottluff (German, 1884–1976), Frau auf Teppich (Woman on a Carpet), 1915. Woodcut; 25 × 17.8 cm (block), 51.5 x 33.5 cm (sheet). Museum purchase, Felton Gibbons Fund (2008-1083)",
+    "captionhtml":"Karl Schmidt-Rottluff (German, 1884–1976), <i>Frau auf Teppich (Woman on a Carpet)</i>, 1915. Woodcut; 25 × 17.8 cm (block), 51.5 x 33.5 cm (sheet). Museum purchase, Felton Gibbons Fund (2008-1083)",
+    "published_date":"2025-10-16 15:26:04.456583",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

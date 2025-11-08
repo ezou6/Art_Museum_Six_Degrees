@@ -1,0 +1,205 @@
+{
+    "type":"artobject",
+    "objectid":45103,
+    "objectnumber":"PP420",
+    "sortnumber":"P       420P",
+    "displaytitle":"Unknown Woman, Lady",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1610,
+    "dateend":1964,
+    "datecomputed":1787,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"75.7 x 63.1 cm (29 13/16 x 24 13/16 in.)\r\nframe: 94 x 81.2 x 4.5 cm (37 x 31 15/16 x 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Unknown Woman, Lady",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":9820,
+            "displayname":"Unknown",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Unknown",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123458,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46449",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123606,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46593",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.20"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"94.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46449"
+    ],
+    "displaymaker":"Unknown",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown, Unknown Woman, Lady. Oil on canvas; 75.7 x 63.1 cm, 94 × 81.2 × 4.5 cm (frame). Princeton University (PP420)",
+    "captionhtml":"Unknown, <i>Unknown Woman, Lady</i>. Oil on canvas; 75.7 x 63.1 cm, 94 × 81.2 × 4.5 cm (frame). Princeton University (PP420)",
+    "published_date":"2025-10-16 14:27:39.143168",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

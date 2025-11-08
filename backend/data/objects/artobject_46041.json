@@ -1,0 +1,144 @@
+{
+    "type":"artobject",
+    "objectid":46041,
+    "objectnumber":"x1934-1147",
+    "sortnumber":"1934 1147x",
+    "displaytitle":"John Weaver",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1631,
+    "dateend":1631,
+    "datecomputed":1631,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1631",
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 17.2 x 11.7 cm. (6 3/4 x 4 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Weaver",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6340,
+            "displayname":"J. Cecill",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"J. Cecill",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102024,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26775",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206377,
+            "name":"image_descriptions_AD"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26775"
+    ],
+    "displaymaker":"J. Cecill",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"J. Cecill, John Weaver, 1631. Engraving; 17.2 x 11.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1147)",
+    "captionhtml":"J. Cecill, <i>John Weaver</i>, 1631. Engraving; 17.2 x 11.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1147)",
+    "published_date":"2025-10-16 14:34:46.022122",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

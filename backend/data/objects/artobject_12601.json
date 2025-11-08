@@ -1,0 +1,233 @@
+{
+    "type":"artobject",
+    "objectid":12601,
+    "objectnumber":"x1973-64",
+    "sortnumber":"1973   64x",
+    "displaytitle":"Cloister of San Giovanni in Laterano",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1856,
+    "dateend":1856,
+    "datecomputed":1856,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1856",
+    "medium":"Albumen print",
+    "dimensions":"sheet: 29 x 36.8 cm. (11 7/16 x 14 1/2 in.)\r\nmount: 46.6 x 58.7 cm. (18 3/8 x 23 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of David H. McAlpin, Class of 1920",
+    "markings":null,
+    "inscribed":"In graphite, lower right corner: Cloister / Giovanni",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1973-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cloister of San Giovanni in Laterano",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6626,
+            "displayname":"Eugène Constant",
+            "displaydate":"French, active 1848–1855",
+            "datebegin":1848,
+            "dateend":1855,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Constant, French, active 1848–1855",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84191,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10826",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47.",
+            "citation":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47., p. 44 (illus.)",
+            "date":1974,
+            "id":3613,
+            "uri":"https://www.jstor.org/stable/3774502"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Lateran, Basilica of St. John",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Lateran",
+            "county":null,
+            "subregion":null,
+            "locale":"Basilica of St. John",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/7602857/basilica-of-st-john-lateran.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112470,
+            "term":"archways",
+            "aatid":300002771,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106865,
+            "term":"cloisters",
+            "aatid":300007423,
+            "termtype":"Subject"
+        },
+        {
+            "id":2107872,
+            "term":"colonnades",
+            "aatid":300002613,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.60"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":184096,
+            "name":"x-COMPLETE-image_descriptions_DF"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10826"
+    ],
+    "displaymaker":"Eugène Constant, French, active 1848–1855",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Constant (French, active 1848–1855), Cloister of San Giovanni in Laterano, 1856. Albumen print; 29 x 36.8 cm (sheet). Museum purchase, gift of David H. McAlpin, Class of 1920 (x1973-64)",
+    "captionhtml":"Eugène Constant (French, active 1848–1855), <i>Cloister of San Giovanni in Laterano</i>, 1856. Albumen print; 29 x 36.8 cm (sheet). Museum purchase, gift of David H. McAlpin, Class of 1920 (x1973-64)",
+    "published_date":"2025-10-16 11:43:00.519747",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

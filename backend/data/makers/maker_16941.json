@@ -1,0 +1,57 @@
+{
+    "makerid":16941,
+    "published_date":"2025-05-16 02:03:48.708089",
+    "type":"maker",
+    "displayname":"George Inness",
+    "makertype":"Individual",
+    "alphasort":"Inness, George",
+    "lastname":"Inness",
+    "firstname":"George",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":"Sr.",
+    "displaybio":"1825–1894; born Newburgh, NY; died Bridge of Allan, United Kingdom",
+    "begindate":1825,
+    "enddate":1894,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"George Inness",
+            "alphasort":"Inness, George",
+            "lastname":"Inness",
+            "firstname":"George",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":"Sr.",
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500013380"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/35252496"
+        }
+    ],
+    "audio":[],
+    "video":[],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"668ef127d5441e3e2214cb3d"
+            },
+            "title":"George Inness’s Moonrise",
+            "essay_uri":"https://artmuseum.princeton.edu/story/george-inness%E2%80%99s-moonrise",
+            "author_type":"Curator",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ]
+}

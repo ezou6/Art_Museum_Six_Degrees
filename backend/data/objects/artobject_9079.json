@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":9079,
+    "objectnumber":"x1957-51",
+    "sortnumber":"1957   51x",
+    "displaytitle":"An Umbrian Street",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1925,
+    "dateend":1925,
+    "datecomputed":1925,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1925",
+    "medium":"Etching",
+    "dimensions":"plate: 25.8 x 13.6 cm (10 3/16 x 5 3/8 in.)\r\nsheet: 46.4 x 25.8 cm (18 1/4 x 10 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John Taylor Arms, Class of 1909, and the Class of 1909",
+    "markings":null,
+    "inscribed":"In graphite, lower left: 170",
+    "signed":"Signed and dated in graphite, lower right below plate: John Taylor Arms-1925",
+    "catalograisonne":"Fletcher 168",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"An Umbrian Street from the Italian Series #2",
+            "titletype":"Primary Title",
+            "displayorder":2
+        },
+        {
+            "title":"An Umbrian Street",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":138,
+            "displayname":"John Taylor Arms",
+            "displaydate":"1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "datebegin":1887,
+            "dateend":1953,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "displayorder":1
+        },
+        {
+            "id":22179,
+            "displayname":"Frederick Thomas Reynolds",
+            "displaydate":"1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "datebegin":1882,
+            "dateend":1945,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105700,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30069",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105701,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30070",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Umbria, Assisi",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":"Umbria",
+            "city":"Assisi",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2080979,
+            "term":"fountains",
+            "aatid":300006179,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119652,
+            "term":"hill towns",
+            "aatid":300008479,
+            "termtype":"Subject"
+        },
+        {
+            "id":2084715,
+            "term":"cathedrals",
+            "aatid":300007501,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2080979,
+            "period":"fountains"
+        },
+        {
+            "id":2120559,
+            "period":"streetscapes"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30070"
+    ],
+    "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT | Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), An Umbrian Street, 1925. Etching; 25.8 x 13.6 cm (plate), 46.4 x 25.8 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-51)",
+    "captionhtml":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), <i>An Umbrian Street</i>, 1925. Etching; 25.8 x 13.6 cm (plate), 46.4 x 25.8 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-51)",
+    "published_date":"2025-10-16 11:13:31.841267",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

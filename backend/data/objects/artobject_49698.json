@@ -1,0 +1,275 @@
+{
+    "type":"artobject",
+    "objectid":49698,
+    "objectnumber":"2006-322 a-b",
+    "sortnumber":"2006  322 a    b",
+    "displaytitle":"BAM video",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1990,
+    "dateend":1990,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1990",
+    "medium":"Animated VHS videotape, and a painted animation cell, mounted over hand-painted color-offset lithograph",
+    "dimensions":"animation cell: 40.5 x 50.8 cm. (15 15/16 x 20 in.)\r\nvideo case: 20.4 × 12.1 × 2.8 cm (8 1/16 × 4 3/4 × 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Signed in pen and black ink, lower right: Susan Pitt\r\n\r\nVideotape dated: 9//7//90",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"Art © Suzan Pitt",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"BAM video",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12837,
+            "displayname":"Suzan Pitt",
+            "displaydate":"American, born 1943",
+            "datebegin":1943,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Suzan Pitt, American, born 1943",
+            "displayorder":1
+        },
+        {
+            "id":12978,
+            "displayname":"Parasol Press, Ltd.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Parasol Press, Ltd.",
+            "displayorder":2
+        },
+        {
+            "id":14422,
+            "displayname":"Tape House Editorial Co.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Tape House Editorial Co.",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":15444,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2006-322A",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":110665,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33896",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 116 (illus.)",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2152965,
+            "term":"animation",
+            "aatid":300053160,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126610,
+            "term":"videotapes",
+            "aatid":300028689,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155034,
+            "term":"offset lithography",
+            "aatid":300192900,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2152965,
+            "term":"animation",
+            "aatid":300053160,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2126610,
+            "classification":"videotapes"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2006-322A"
+    ],
+    "displaymaker":"Suzan Pitt, American, born 1943 | Printed by Parasol Press, Ltd. | Published by Tape House Editorial Co.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Suzan Pitt (American, born 1943), Printed by Parasol Press, Ltd., Published by Tape House Editorial Co., BAM video, 1990. Animated VHS videotape, and a painted animation cell, mounted over hand-painted color-offset lithograph; 40.5 x 50.8 cm (animation cell), 20.4 × 12.1 × 2.8 cm (video case). Gift of James Kraft, Class of 1957 (2006-322 a-b)",
+    "captionhtml":"Suzan Pitt (American, born 1943), Printed by Parasol Press, Ltd., Published by Tape House Editorial Co., <i>BAM video</i>, 1990. Animated VHS videotape, and a painted animation cell, mounted over hand-painted color-offset lithograph; 40.5 x 50.8 cm (animation cell), 20.4 × 12.1 × 2.8 cm (video case). Gift of James Kraft, Class of 1957 (2006-322 a-b)",
+    "published_date":"2025-10-16 15:07:49.104770",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

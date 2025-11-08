@@ -1,0 +1,191 @@
+{
+    "type":"artobject",
+    "objectid":31223,
+    "objectnumber":"y1968-50",
+    "sortnumber":"1968   50y",
+    "displaytitle":"Bird",
+    "department":"Art of the Ancient Americas",
+    "classification":"Metal",
+    "datebegin":1200,
+    "dateend":1400,
+    "datecomputed":1300,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1400",
+    "medium":"Gold (gilded copper more likely)",
+    "dimensions":"h. 3.8 cm., w. 4.3 cm. (1 1/2 x 1 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":"Davis JLD265",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bird",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":48847,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV014387",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":18814,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-50",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 29",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, North coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"North coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055330,
+            "term":"reliefs",
+            "aatid":300047230,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036054,
+            "term":"Chimú",
+            "aatid":300017316,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162191,
+            "term":"gold",
+            "aatid":300011021,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055330,
+            "classification":"reliefs"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13513,
+            "culture":"Chimú",
+            "alphasort":"Chimú",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Late Chimú",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036054,
+            "culture":"Chimú"
+        }
+    ],
+    "periods":[
+        {
+            "id":13508,
+            "period":"Late Intermediate Period",
+            "alphasort":"Intermediate, Late",
+            "begindate":900,
+            "enddate":1450,
+            "displayperiod":"Late Intermediate Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV014387"
+    ],
+    "displaymaker":null,
+    "displayculture":"Late Chimú",
+    "displayperiod":"Late Intermediate Period",
+    "caption":"Late Chimú, Late Intermediate Period, 1200–1400, North coast, Peru, Andes, Bird. Gold (gilded copper more likely); 3.8 x 4.3 cm. Gift of J. Lionberger Davis, Class of 1900 (y1968-50)",
+    "captionhtml":"Late Chimú, Late Intermediate Period, 1200–1400, North coast, Peru, Andes, <i>Bird</i>. Gold (gilded copper more likely); 3.8 x 4.3 cm. Gift of J. Lionberger Davis, Class of 1900 (y1968-50)",
+    "published_date":"2025-10-16 13:23:13.247124",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

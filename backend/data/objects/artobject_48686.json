@@ -1,0 +1,194 @@
+{
+    "type":"artobject",
+    "objectid":48686,
+    "objectnumber":"x1937-349 a",
+    "sortnumber":"1937  349xa",
+    "displaytitle":"Walton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1814,
+    "dateend":1865,
+    "datecomputed":1840,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 30.7 × 25.4 cm (12 1/16 × 10 in.)\r\nsheet: 43.5 × 29.7 cm (17 1/8 × 11 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Walton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5368,
+            "displayname":"William Humphrys",
+            "displaydate":"British, 1794–1865",
+            "datebegin":1794,
+            "dateend":1865,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Humphrys, British, 1794–1865",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118467,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40929",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40929"
+    ],
+    "displaymaker":"William Humphrys, British, 1794–1865",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Humphrys (British, 1794–1865), Walton. Engraving; 30.7 × 25.4 cm (plate), 43.5 × 29.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-349 a)",
+    "captionhtml":"William Humphrys (British, 1794–1865), <i>Walton</i>. Engraving; 30.7 × 25.4 cm (plate), 43.5 × 29.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-349 a)",
+    "published_date":"2025-10-23 17:22:51.774508",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

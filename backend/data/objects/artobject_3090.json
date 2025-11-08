@@ -1,0 +1,181 @@
+{
+    "type":"artobject",
+    "objectid":3090,
+    "objectnumber":"x1938-191",
+    "sortnumber":"1938  191x",
+    "displaytitle":"Jo",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1862,
+    "dateend":1862,
+    "datecomputed":1862,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1862",
+    "medium":"Wood engraving",
+    "dimensions":"plate: 13.6 x 9 cm. (5 3/8 x 3 9/16 in.)\r\nsheet: 27.2 x 22.5 cm. (10 11/16 x 8 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1938-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jo",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1719,
+            "displayname":"J. H. E. Whitney",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"J. H. E. Whitney",
+            "displayorder":1
+        },
+        {
+            "id":1787,
+            "displayname":"James McNeill Whistler",
+            "displaydate":"1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "datebegin":1834,
+            "dateend":1903,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":103882,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28301",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":103883,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28302",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28301"
+    ],
+    "displaymaker":"J. H. E. Whitney | after James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"J. H. E. Whitney, after James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), Jo, 1862. Wood engraving; 13.6 x 9 cm (plate), 27.2 x 22.5 cm (sheet). Gift of Frank Jewett Mather Jr. (x1938-191)",
+    "captionhtml":"J. H. E. Whitney, after James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), <i>Jo</i>, 1862. Wood engraving; 13.6 x 9 cm (plate), 27.2 x 22.5 cm (sheet). Gift of Frank Jewett Mather Jr. (x1938-191)",
+    "published_date":"2025-10-16 10:22:39.559533",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,299 @@
+{
+    "type":"artobject",
+    "objectid":133224,
+    "objectnumber":"2017-173",
+    "sortnumber":"2017  173",
+    "displaytitle":"Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1901,
+    "dateend":1901,
+    "datecomputed":1901,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1901",
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"Painting: 133.8 × 50.7 cm (52 11/16 × 19 15/16 in.)\r\nMount: 204 × 65 cm (80 5/16 × 25 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Mary Trumbull Adams Art Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":19071,
+            "displayname":"Tanomura Chokunyu 田能村直入",
+            "displaydate":"1814–1907",
+            "datebegin":1814,
+            "dateend":1907,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Tanomura Chokunyu 田能村直入, 1814–1907",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>&nbsp;–2017&nbsp;Oriental Art Sekisen (Kyoto, Japan), sold to the Princeton University Art Museum, 2017.</p><p><br></p>",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<span lang=\"EN\">\n<p align=\"left\" dir=\"ltr\">Chokunyū was born into a samurai family and had the opportunity to study the Chinese paintings then in Japan. <br />He painted in a great variety of styles, from densely packed ink landscapes that seem to have an affinity with Chinese masters, to brightly colored, stiffly formed landscapes that were popular in the late Meiji era. Both the monochrome and the colored styles are seen in these two examples.</p></span>",
+            "remarks":"Asian rotation May 2018"
+        }
+    ],
+    "media":[
+        {
+            "id":213715,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46969",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":213716,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46971",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033917,
+            "term":"Meiji",
+            "aatid":300018567,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034077,
+            "term":"Nanga",
+            "aatid":300018580,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12591,
+            "period":"Meiji era",
+            "alphasort":"Meiji era",
+            "begindate":1868,
+            "enddate":1912,
+            "displayperiod":"Meiji era, 1868–1912",
+            "displaydate":"1868–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033917,
+            "period":"Meiji"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"133.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.70"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"204.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"65.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46971"
+    ],
+    "displaymaker":"Tanomura Chokunyu 田能村直入, 1814–1907",
+    "displayculture":"Japanese",
+    "displayperiod":"Meiji era, 1868–1912",
+    "caption":"Japanese, Meiji era (1868–1912), Tanomura Chokunyu 田能村直入 (1814–1907), Landscape, 1901. Hanging scroll; ink and color on silk; 133.8 × 50.7 cm (Painting). Museum purchase, Mary Trumbull Adams Art Fund (2017-173)",
+    "captionhtml":"Japanese, Meiji era (1868–1912), Tanomura Chokunyu 田能村直入 (1814–1907), <i>Landscape</i>, 1901. Hanging scroll; ink and color on silk; 133.8 × 50.7 cm (Painting). Museum purchase, Mary Trumbull Adams Art Fund (2017-173)",
+    "published_date":"2025-10-16 18:40:51.574544",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

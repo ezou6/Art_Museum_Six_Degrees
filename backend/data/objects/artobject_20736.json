@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":20736,
+    "objectnumber":"y1937-14",
+    "sortnumber":"1937   14y",
+    "displaytitle":"Psyche",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1759,
+    "dateend":1937,
+    "datecomputed":1848,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Porcelain",
+    "dimensions":"diam. 4 × 0.7 cm (1 9/16 × 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Psyche",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1687,
+            "displayname":"Josiah Wedgwood and Sons",
+            "displaydate":"English, established 1759",
+            "datebegin":1759,
+            "dateend":0,
+            "prefix":"Manufactory:",
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Manufactory: Josiah Wedgwood and Sons, English, established 1759",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tFrom antiquity to the present, cameos have been created by carving away layers of gemstones or shells so that an image projects from the surface. In the eighteenth century, Josiah Wedgwood devised a new technique that mimicked this process by using several layers of a ceramic called jasperware. Although retaining some characteristics of ancient pieces, like monochrome scenes and mythological subjects, his cameos were distinct from their ancient counterparts in both technique and function. Wedgwood sold his cameos as inlays for furniture, buttons, and lockets, while ancient cameos were typically set into rings. Ancient examples retained the earthy color palettes of natural materials, but Wedgwood often painted the background of his cameos in pastel tones. Despite these differences, the technical and thematic connections to ancient objects made Wedgwood’s cameos marketable to a growing middle class who sought to display their knowledge of antiquity.\n</p>",
+            "remarks":"MED_22_ADJ-1_CLA-Day 1 Cataloguing (group chat for y1937-32, -33, -14, -25, -26 a, -18, 19, -30) "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137245,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59586",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055259,
+            "term":"cameos",
+            "aatid":300047261,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171855,
+            "term":"goddesses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055259,
+            "classification":"cameos"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Thickness",
+            "units":"centimeters",
+            "dimension":"0.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59586"
+    ],
+    "displaymaker":"Manufactory: Josiah Wedgwood and Sons, English, established 1759",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Manufactory: Josiah Wedgwood and Sons (English, established 1759), Psyche. Porcelain; 4 × 0.7 cm. Trumbull-Prime Collection (y1937-14)",
+    "captionhtml":"Manufactory: Josiah Wedgwood and Sons (English, established 1759), <i>Psyche</i>. Porcelain; 4 × 0.7 cm. Trumbull-Prime Collection (y1937-14)",
+    "published_date":"2025-10-16 12:36:06.891036",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

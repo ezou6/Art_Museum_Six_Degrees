@@ -1,0 +1,207 @@
+{
+    "type":"artobject",
+    "objectid":54452,
+    "objectnumber":"y1972-9",
+    "sortnumber":"1972    9y",
+    "displaytitle":"Bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1000,
+    "dateend":1150,
+    "datecomputed":1075,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1000–1150",
+    "medium":"Reddish brown to gray ceramic with black and white slip",
+    "dimensions":"h. 10.0 cm., diam. 21.4 cm. (3 15/16 x 8 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1972-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":227234,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM_ImageWithheld",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Image Withheld Due to Potential Cultural Sensitivity"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"J. J. Brody, <I>Mimbres Painted Pottery</I> (Albuquerque: University of New Mexico Press, 1977).<I></I>",
+            "citation":"J. J. Brody, <I>Mimbres Painted Pottery</I> (Albuquerque: University of New Mexico Press, 1977).<I></I>, fig. 15, p. 49",
+            "date":1977,
+            "id":2908,
+            "uri":"http://www.worldcat.org/oclc/2984415"
+        },
+        {
+            "boilertext":"<p>\"Acquisitions 1972\", <em>Record of the Art Museum, Princeton University</em> 32, no. 1 (1973): p. 20-30.</p>",
+            "citation":"<p>\"Acquisitions 1972\", <em>Record of the Art Museum, Princeton University</em> 32, no. 1 (1973): p. 20-30.</p>, p. 28 (illus.); p. 30",
+            "date":1973,
+            "id":3442,
+            "uri":"https://www.jstor.org/stable/3774431"
+        },
+        {
+            "boilertext":"Margaret C. Nelson and Michelle Hegmon, eds. <em>Mimbres Lives and Landscapes</em> (Santa Fe: School for Advanced Research Press, 2010).",
+            "citation":"Margaret C. Nelson and Michelle Hegmon, eds. <em>Mimbres Lives and Landscapes</em> (Santa Fe: School for Advanced Research Press, 2010)., fig. 11.6 (illus.; line drawing)",
+            "date":2010,
+            "id":9242,
+            "uri":"http://www.worldcat.org/oclc/758548841"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Mimbres valley",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Mimbres valley",
+            "state":"New Mexico",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5479548/mimbres-canyon.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158054,
+            "term":"mammals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035589,
+            "term":"Mimbres black-on-white",
+            "aatid":300016945,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":13595,
+            "period":"Modern",
+            "alphasort":"Modern",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Modern, in the style of Mimbres Classic Black-on-White, Style III",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035589,
+            "period":"Mimbres black-on-white"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"21.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM_ImageWithheld"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Modern, in the style of Mimbres Classic Black-on-White, Style III",
+    "caption":"Modern, in the style of Mimbres Classic Black-on-White, Style III, 1000–1150, New Mexico, Mimbres valley, United States, American southwest, Bowl. Reddish brown to gray ceramic with black and white slip; 10 x 21.4 cm. Museum Collection (y1972-9)",
+    "captionhtml":"Modern, in the style of Mimbres Classic Black-on-White, Style III, 1000–1150, New Mexico, Mimbres valley, United States, American southwest, <i>Bowl</i>. Reddish brown to gray ceramic with black and white slip; 10 x 21.4 cm. Museum Collection (y1972-9)",
+    "published_date":"2025-10-16 15:21:45.340397",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

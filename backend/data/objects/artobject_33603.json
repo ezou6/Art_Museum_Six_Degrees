@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":33603,
+    "objectnumber":"y1992-147",
+    "sortnumber":"1992  147y",
+    "displaytitle":"Sling",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1300,
+    "dateend":1500,
+    "datecomputed":1400,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1300–1500",
+    "medium":"Cotton and wool",
+    "dimensions":"h. 26.1 cm., w. 6.8 cm., l. 252.0 cm. (10 1/4 x 2 11/16 x 99 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. Daniel Rifkin, Class of 1962, and Mrs. Rifkin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sling",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":3608,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1992-147_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":46019,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV011063",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 80",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, Central coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"Central coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039451,
+            "term":"Late Intermediate period",
+            "aatid":300017313,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051130,
+            "term":"slings (projectile weapons)",
+            "aatid":300037216,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036051,
+            "term":"Chancay",
+            "aatid":300017315,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036054,
+            "term":"Chimú",
+            "aatid":300017316,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044375,
+            "term":"textile materials",
+            "aatid":300231565,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044482,
+            "term":"wool (textile)",
+            "aatid":300243430,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051130,
+            "classification":"slings (projectile weapons)"
+        },
+        {
+            "id":2044375,
+            "classification":"textile materials"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13514,
+            "culture":"Chancay",
+            "alphasort":"Chancay",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chancay or Chimú",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039451,
+            "culture":"Late Intermediate period"
+        },
+        {
+            "id":2036051,
+            "culture":"Chancay"
+        },
+        {
+            "id":2036054,
+            "culture":"Chimú"
+        }
+    ],
+    "periods":[
+        {
+            "id":13508,
+            "period":"Late Intermediate Period",
+            "alphasort":"Intermediate, Late",
+            "begindate":900,
+            "enddate":1450,
+            "displayperiod":"Late Intermediate Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"252.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV011063"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chancay or Chimú",
+    "displayperiod":"Late Intermediate Period",
+    "caption":"Chancay or Chimú, Late Intermediate Period, 1300–1500, Central coast, Peru, Andes, Sling. Cotton and wool; 26.1 x 6.8 x 252 cm. Gift of Dr. Daniel Rifkin, Class of 1962, and Mrs. Rifkin (y1992-147)",
+    "captionhtml":"Chancay or Chimú, Late Intermediate Period, 1300–1500, Central coast, Peru, Andes, <i>Sling</i>. Cotton and wool; 26.1 x 6.8 x 252 cm. Gift of Dr. Daniel Rifkin, Class of 1962, and Mrs. Rifkin (y1992-147)",
+    "published_date":"2025-10-16 13:36:45.081566",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":49676,
+    "objectnumber":"2006-300 a-c",
+    "sortnumber":"2006  300 a    c",
+    "displaytitle":"Don Giovanni",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1991,
+    "dateend":1992,
+    "datecomputed":1992,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1991–92",
+    "medium":"Three-color soft-ground etchings with aquatint",
+    "dimensions":"plate (each): 68.5 × 43.2 cm (26 15/16 × 17 in.)\r\nsheet (each): 102.8 × 68.6 cm (40 1/2 × 27 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Each numbered in graphite below plate, lower left: 11//40\r\n\r\nEach signed and dated in graphite below plate, lower right: Will Mentor 91.92",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Will Mentor",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Don Giovanni",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3710,
+            "displayname":"Will Mentor",
+            "displaydate":"American, born 1958",
+            "datebegin":1958,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Will Mentor, American, born 1958",
+            "displayorder":1
+        },
+        {
+            "id":12978,
+            "displayname":"Parasol Press, Ltd.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Parasol Press, Ltd.",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":262995,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250716_22128",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262996,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250716_22130",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262997,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250716_22132",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 101",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171241,
+            "term":"soft ground",
+            "aatid":300183909,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"102.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"68.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250716_22128"
+    ],
+    "displaymaker":"Will Mentor, American, born 1958 | Published by Parasol Press, Ltd.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Will Mentor (American, born 1958), Published by Parasol Press, Ltd., Don Giovanni, 1991–92. Three-color soft-ground etchings with aquatint; 102.8 x 68.6 cm, 68.5 × 43.2 cm (plate, each), 102.8 × 68.6 cm (sheet, each). Gift of James Kraft, Class of 1957 (2006-300 a-c)",
+    "captionhtml":"Will Mentor (American, born 1958), Published by Parasol Press, Ltd., <i>Don Giovanni</i>, 1991–92. Three-color soft-ground etchings with aquatint; 102.8 x 68.6 cm, 68.5 × 43.2 cm (plate, each), 102.8 × 68.6 cm (sheet, each). Gift of James Kraft, Class of 1957 (2006-300 a-c)",
+    "published_date":"2025-10-16 15:07:40.318476",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

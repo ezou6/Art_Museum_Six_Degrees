@@ -1,0 +1,202 @@
+{
+    "type":"artobject",
+    "objectid":23298,
+    "objectnumber":"y1949-146",
+    "sortnumber":"1949  146y",
+    "displaytitle":"Mirror",
+    "department":"Asian Art",
+    "classification":"Metal",
+    "datebegin":-206,
+    "dateend":220,
+    "datecomputed":7,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"d. 1.8 cm., diam. 11.6 cm. (11/16 x 4 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dean Arthur M. Greene",
+    "markings":null,
+    "inscribed":"Inscription band along outer edge",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mirror",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":55458,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV022597",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22.",
+            "citation":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22., p. 22",
+            "date":1950,
+            "id":7847,
+            "uri":"https://www.jstor.org/stable/3774210"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072164,
+            "term":"hand mirrors",
+            "aatid":300223941,
+            "termtype":"Classification"
+        },
+        {
+            "id":2121598,
+            "term":"inscriptions",
+            "aatid":300028702,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033394,
+            "term":"Han (Chinese)",
+            "aatid":300018385,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048931,
+            "classification":"ornament"
+        },
+        {
+            "id":2072164,
+            "classification":"hand mirrors"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12606,
+            "period":"Eastern Han dynasty",
+            "alphasort":"Eastern Han dynasty",
+            "begindate":25,
+            "enddate":220,
+            "displayperiod":"Eastern Han dynasty, 25–220 CE",
+            "displaydate":"25–220 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033394,
+            "period":"Han (Chinese)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"11.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV022597"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Eastern Han dynasty, 25–220 CE",
+    "caption":"Chinese, Eastern Han dynasty (25–220 CE), Mirror. Bronze; 1.8 x 11.6 cm. Gift of Dean Arthur M. Greene (y1949-146)",
+    "captionhtml":"Chinese, Eastern Han dynasty (25–220 CE), <i>Mirror</i>. Bronze; 1.8 x 11.6 cm. Gift of Dean Arthur M. Greene (y1949-146)",
+    "published_date":"2025-10-29 02:03:01.830564",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

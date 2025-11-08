@@ -1,0 +1,189 @@
+{
+    "type":"artobject",
+    "objectid":20983,
+    "objectnumber":"y1937-103",
+    "sortnumber":"1937  103y",
+    "displaytitle":"Platter",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1870,
+    "dateend":1899,
+    "datecomputed":1884,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"late 19th century",
+    "medium":"Cream-colored glazed earthenware",
+    "dimensions":"4 × 42.5 × 33.4 cm (1 9/16 × 16 3/4 × 13 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":"Mark stamped on base: Hôtel de Ville Terre de fer, Vermont Fres 12 Avenue de l'Opera, Rue Auber 17 Paris Déposé",
+    "inscribed":"Impressed on base: 1E\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Platter",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1600,
+            "displayname":"Vermont Freres",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Vermont Freres",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137231,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59572",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137232,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59573",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Paris",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2076032,
+            "term":"platters",
+            "aatid":300043053,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"33.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59572"
+    ],
+    "displaymaker":"Vermont Freres",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Vermont Freres, Platter, late 19th century. Cream-colored glazed earthenware; 4 × 42.5 × 33.4 cm. Trumbull-Prime Collection (y1937-103)",
+    "captionhtml":"Vermont Freres, <i>Platter</i>, late 19th century. Cream-colored glazed earthenware; 4 × 42.5 × 33.4 cm. Trumbull-Prime Collection (y1937-103)",
+    "published_date":"2025-10-16 12:37:50.666765",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":5220,
+    "objectnumber":"x1944-55 a-b",
+    "sortnumber":"1944   55xa    b",
+    "displaytitle":"Illustration for Dickens' \"Barnaby Rudge\":  \"When she dropped the book\" etc.",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1842,
+    "dateend":1944,
+    "datecomputed":1893,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate (a): 21.4 x 15.7 cm. (8 7/16 x 6 3/16 in.)\r\nsheet (a): 33.8 x 26.5 cm. (13 5/16 in.)\r\nsheet trimmed to plate (b): 19.7 x 13.3 cm. (7 3/4 x 5 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"Inscribed in plate, lower left: F.O.C. Darley fecit\r\nInscribed in plate, lower right: R. Hinshelwood Sc.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Illustration for Dickens' \"Barnaby Rudge\":  \"When she dropped the book\" etc.",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5231,
+            "displayname":"R. Hinshelwood",
+            "displaydate":"American, 1812–after 1876",
+            "datebegin":1812,
+            "dateend":1876,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"R. Hinshelwood, American, 1812–after 1876",
+            "displayorder":1
+        },
+        {
+            "id":5507,
+            "displayname":"Felix Octavious Carr Darley",
+            "displaydate":"American, 1822–1888",
+            "datebegin":1822,
+            "dateend":1888,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Felix Octavious Carr Darley, American, 1822–1888",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":106639,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30971",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":106640,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30972",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185086,
+            "term":"sleeping",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30972"
+    ],
+    "displaymaker":"R. Hinshelwood, American, 1812–after 1876 | after Felix Octavious Carr Darley, American, 1822–1888",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"R. Hinshelwood (American, 1812–after 1876), after Felix Octavious Carr Darley (American, 1822–1888), Illustration for Dickens' \"Barnaby Rudge\":  \"When she dropped the book\" etc. Engraving; 21.4 x 15.7 cm (plate, a), 33.8 cm (sheet, a), 19.7 x 13.3 cm (plate, b). Mather Collection (x1944-55 a-b)",
+    "captionhtml":"R. Hinshelwood (American, 1812–after 1876), after Felix Octavious Carr Darley (American, 1822–1888), <i>Illustration for Dickens' \"Barnaby Rudge\":  \"When she dropped the book\" etc.</i>. Engraving; 21.4 x 15.7 cm (plate, a), 33.8 cm (sheet, a), 19.7 x 13.3 cm (plate, b). Mather Collection (x1944-55 a-b)",
+    "published_date":"2025-10-16 10:36:31.959660",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

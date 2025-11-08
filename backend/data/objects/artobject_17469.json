@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":17469,
+    "objectnumber":"y1929-295 b",
+    "sortnumber":"1929  295yb",
+    "displaytitle":"Fragment",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":-700,
+    "dateend":500,
+    "datecomputed":-100,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Blue glass",
+    "dimensions":"2.5 x 3.2 x 0.2 cm (1 x 1 1/4 x 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Unknown provenance; possibly part of the Old Collection; with the Museum by at least 1929",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22894,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00085",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22897,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/29-295b",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00085"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Fragment. Blue glass; 2.5 x 3.2 x 0.2 cm. Museum Collection (y1929-295 b)",
+    "captionhtml":"Roman, <i>Fragment</i>. Blue glass; 2.5 x 3.2 x 0.2 cm. Museum Collection (y1929-295 b)",
+    "published_date":"2025-10-16 12:17:12.772468",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

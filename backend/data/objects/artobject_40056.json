@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":40056,
+    "objectnumber":"2001-47",
+    "sortnumber":"2001   47",
+    "displaytitle":"Los Encuentros (Encounters)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1990,
+    "dateend":1990,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1990",
+    "medium":"Etching",
+    "dimensions":"plate: 47 × 60 cm (18 1/2 × 23 5/8 in.)\r\nsheet: 53.5 × 78.4 cm (21 1/16 × 30 7/8 in.)",
+    "dimensionsproposed":"Proposed frame (style not specified): 73 × 91.4 × 3.8 cm (28 3/4 × 36 × 1 1/2 in.)",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, lower left: P/A  \r\nin graphite, lower center: \"Los Encuentros\"  \r\n",
+    "signed":"Signed in graphite, lower right: Arevalo | Mex / 90",
+    "catalograisonne":null,
+    "creditlinerepro":"© Javier Arevalo",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Los Encuentros",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1422,
+            "displayname":"Javier Arevalo",
+            "displaydate":"1937– 2020; born and died Guadalajara, Mexico",
+            "datebegin":1937,
+            "dateend":2020,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Javier Arevalo, 1937– 2020; born and died Guadalajara, Mexico",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Intertwining hands, heads, and faces create a parade of expressions in <em>Los Encuentros</em>. Marching along the exterior edges of the image, these figures might equally suggest a crowd assembling on a plaza, the cacophony of a lively conversation, or the many moods of an individual. Arevalo combines the techniques and compositional strategies of the two sources of his training: the Mexican muralists and academic lessons of figure painting taught at the National School of Arts in Mexico City. His talent was recognized early in his life; at age ten, he began studying drawing, painting, and calligraphy with Jorge Martínez, an assistant to muralist José Orozco.",
+            "remarks":"MM rotation January 2020"
+        }
+    ],
+    "media":[
+        {
+            "id":78708,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09519",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 114",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.40"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"73.00"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"91.40"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09519"
+    ],
+    "displaymaker":"Javier Arevalo, 1937– 2020; born and died Guadalajara, Mexico",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Javier Arevalo (1937– 2020; born and died Guadalajara, Mexico), Los Encuentros (Encounters), 1990. Etching; 47 × 60 cm (plate), 53.5 x 78.4 cm, 53.5 × 78.4 cm (sheet). Bequest of David L. Meginnity, Class of 1958 (2001-47)",
+    "captionhtml":"Javier Arevalo (1937– 2020; born and died Guadalajara, Mexico), <i>Los Encuentros (Encounters)</i>, 1990. Etching; 47 × 60 cm (plate), 53.5 x 78.4 cm, 53.5 × 78.4 cm (sheet). Bequest of David L. Meginnity, Class of 1958 (2001-47)",
+    "published_date":"2025-10-16 14:08:51.167810",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

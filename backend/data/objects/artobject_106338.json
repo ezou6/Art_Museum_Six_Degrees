@@ -1,0 +1,193 @@
+{
+    "type":"artobject",
+    "objectid":106338,
+    "objectnumber":"PP698",
+    "sortnumber":"P       698P",
+    "displaytitle":"Moonlight",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1896,
+    "dateend":1945,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"Painting: 24.8 x 17.8 cm (9 3/4 x 7 in.)\r\nframe: 40.6 x 30.5 cm (16 x 12 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Ruth Juskowitz in memory of her sister, Edith W. Kirsch, Graduate School Class of 1981",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Moonlight",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18691,
+            "displayname":"Louis Borgo",
+            "displaydate":"American, born in Italy, 1876, died after 1940",
+            "datebegin":1876,
+            "dateend":2026,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Louis Borgo, American, born in Italy, 1876, died after 1940",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":167556,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU01282",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.63"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.47"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.76"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.77"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU01282"
+    ],
+    "displaymaker":"Louis Borgo, American, born in Italy, 1876, died after 1940",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Louis Borgo (American, born in Italy, 1876, died after 1940), Moonlight. Oil on canvas; 24.8 × 17.8 cm (Painting), 40.6 × 30.5 cm (frame). Gift of Mrs. Ruth Juskowitz in memory of her sister, Edith W. Kirsch, Graduate School Class of 1981 (PP698)",
+    "captionhtml":"Louis Borgo (American, born in Italy, 1876, died after 1940), <i>Moonlight</i>. Oil on canvas; 24.8 × 17.8 cm (Painting), 40.6 × 30.5 cm (frame). Gift of Mrs. Ruth Juskowitz in memory of her sister, Edith W. Kirsch, Graduate School Class of 1981 (PP698)",
+    "published_date":"2025-10-16 18:12:38.167081",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

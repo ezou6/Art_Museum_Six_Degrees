@@ -1,0 +1,189 @@
+{
+    "type":"artobject",
+    "objectid":8499,
+    "objectnumber":"x1949-125",
+    "sortnumber":"1949  125x",
+    "displaytitle":"Portrait of James K. Polk",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1851,
+    "dateend":1879,
+    "datecomputed":1865,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Lithograph",
+    "dimensions":"image: 30.5 x 22.8 cm. (12 x 9 in.)\r\nsheet: 26.7 x 34.4 cm. (10 1/2 x 13 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of James K. Polk",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4000,
+            "displayname":"A. Newsam",
+            "displaydate":"American, 1831–1879",
+            "datebegin":1831,
+            "dateend":1879,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"A. Newsam, American, 1831–1879",
+            "displayorder":2
+        },
+        {
+            "id":5724,
+            "displayname":"P. S. Duval",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"P. S. Duval",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104717,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29135",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088801,
+            "term":"presidents",
+            "aatid":300025470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29135"
+    ],
+    "displaymaker":"P. S. Duval | A. Newsam, American, 1831–1879",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"P. S. Duval, A. Newsam (American, 1831–1879), Portrait of James K. Polk. Lithograph; 30.5 x 22.8 cm (image), 26.7 x 34.4 cm (sheet). Mather Collection (x1949-125)",
+    "captionhtml":"P. S. Duval, A. Newsam (American, 1831–1879), <i>Portrait of James K. Polk</i>. Lithograph; 30.5 x 22.8 cm (image), 26.7 x 34.4 cm (sheet). Mather Collection (x1949-125)",
+    "published_date":"2025-10-16 11:09:35.773600",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,282 @@
+{
+    "type":"artobject",
+    "objectid":49422,
+    "objectnumber":"2006-424 a-b",
+    "sortnumber":"2006  424 a    b",
+    "displaytitle":"a. The Taj Mahal, Agra, India\r\nb. Women walking with water gourds",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1985,
+    "dateend":1995,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1990",
+    "medium":"Transfer from an instant photograph",
+    "dimensions":"a: 14.5 × 13.2 cm (5 11/16 × 5 3/16 in.)\r\nb: 13.8 × 12.5 cm (5 7/16 × 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Signed in graphite, verso: Jane Lombard",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Jane Lombard",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":12740,
+            "displayname":"Jane Lombard",
+            "displaydate":"American, active late 20th century",
+            "datebegin":1975,
+            "dateend":1999,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jane Lombard, American, active late 20th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91294,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17549",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":91295,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17550",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":91296,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17551",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 97",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: Asia, India",
+            "code":"Place depicted",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"India",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1269750/republic-of-india.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171378,
+            "term":"roads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051419,
+            "term":"diptychs",
+            "aatid":300178228,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2184476,
+            "term":"historic sites",
+            "aatid":300000833,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053374,
+            "term":"dye diffusion transfer prints",
+            "aatid":300134881,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154579,
+            "term":"transfer printing",
+            "aatid":300053922,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153991,
+            "term":"dye diffusion transfer process",
+            "aatid":300139110,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053374,
+            "classification":"dye diffusion transfer prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17551"
+    ],
+    "displaymaker":"Jane Lombard, American, active late 20th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jane Lombard (American, active late 20th century), a. The Taj Mahal, Agra, India\r\nb. Women walking with water gourds, ca. 1990. Transfer from an instant photograph; 14.5 × 13.2 cm (a), 13.8 × 12.5 cm (b). Gift of James Kraft, Class of 1957 (2006-424 a-b)",
+    "captionhtml":"Jane Lombard (American, active late 20th century), a. The Taj Mahal, Agra, India\r\nb. Women walking with water gourds, ca. 1990. Transfer from an instant photograph; 14.5 × 13.2 cm (a), 13.8 × 12.5 cm (b). Gift of James Kraft, Class of 1957 (2006-424 a-b)",
+    "published_date":"2025-10-16 15:06:13.978670",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

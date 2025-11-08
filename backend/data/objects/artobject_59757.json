@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":59757,
+    "objectnumber":"2010-108",
+    "sortnumber":"2010  108",
+    "displaytitle":"Pastoral Landscape",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1632,
+    "dateend":1666,
+    "datecomputed":1649,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"34.3 x 26 cm (13 1/2 x 10 1/4 in.)\r\nframe: 44 × 35.5 × 3 cm (17 5/16 × 14 × 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. and Mrs. A. Richard Turner, Class of 1955 and 1959",
+    "markings":"Sticker on top: FA / L-184-72\r\nOther round sticker, on right corner): L.408\r\nRound label on bottom of frame: red ink--\r\nOn left of stretcher: C33/102",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pastoral Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3802,
+            "displayname":"Pier Francesco Mola",
+            "displaydate":"Italian, 1612–1666",
+            "datebegin":1612,
+            "dateend":1666,
+            "prefix":"circle of",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"circle of Pier Francesco Mola, Italian, 1612–1666",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":124473,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47386",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 92 (illus.)",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188572,
+            "term":"livestock",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095755,
+            "term":"pastoral",
+            "aatid":300250491,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2147420,
+            "term":"mythical or legendary beings",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119332,
+            "term":"inhabited places",
+            "aatid":300008347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.25"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47386"
+    ],
+    "displaymaker":"circle of Pier Francesco Mola, Italian, 1612–1666",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Circle of Pier Francesco Mola (Italian, 1612–1666), Pastoral Landscape. Oil on canvas; 34.3 x 26 cm, 44 × 35.5 × 3 cm (frame). Gift of Dr. and Mrs. A. Richard Turner, Class of 1955 and 1959 (2010-108)",
+    "captionhtml":"Circle of Pier Francesco Mola (Italian, 1612–1666), <i>Pastoral Landscape</i>. Oil on canvas; 34.3 x 26 cm, 44 × 35.5 × 3 cm (frame). Gift of Dr. and Mrs. A. Richard Turner, Class of 1955 and 1959 (2010-108)",
+    "published_date":"2025-10-30 02:07:29.619548",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

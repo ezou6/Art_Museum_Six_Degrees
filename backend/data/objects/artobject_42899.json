@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":42899,
+    "objectnumber":"2005-241",
+    "sortnumber":"2005  241",
+    "displaytitle":"The Steel Mill",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1930,
+    "dateend":1940,
+    "datecomputed":1935,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1935",
+    "medium":"White line color woodcut on cream Japanese paper",
+    "dimensions":"block: 24 x 35.4 cm. (9 7/16 x 13 15/16 in.)\r\nsheet: 33.4 x 46.1 cm. (13 1/8 x 18 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase Kathleen Compton Sherrerd Fund for Acquisitions in American Art",
+    "markings":"Stamped in ink, lower right: 00163",
+    "inscribed":"Inscribed in graphite, at lower left: The Steel Mills #11 / $10.00 #2\r\n\r\nSigned in graphite, lower right: Mabel A. Hewit\r\n\r\nInscribed on verso in graphite, lower right: Mabel A. Hewit / 307 K. Of C. Bldg. / Youngstown, Ohio",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Mabel A. Hewit",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Steel Mill",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1225,
+            "displayname":"Mabel A. Hewit",
+            "displaydate":"American, 1903–1984",
+            "datebegin":1903,
+            "dateend":1984,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Mabel A. Hewit, American, 1903–1984",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110352,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33718",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 61",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Ohio, Columbus",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Ohio",
+            "city":"Columbus",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4509177/columbus.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2032451,
+            "term":"Cubist",
+            "aatid":300021495,
+            "termtype":"Subject"
+        },
+        {
+            "id":2081184,
+            "term":"factories",
+            "aatid":300006232,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155096,
+            "term":"white line engraving",
+            "aatid":300053300,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043924,
+            "term":"Japanese paper",
+            "aatid":300014143,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.10"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":147273,
+            "name":"web_WoPSR_2018_American_Landscape"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33718"
+    ],
+    "displaymaker":"Mabel A. Hewit, American, 1903–1984",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mabel A. Hewit (American, 1903–1984), The Steel Mill, ca. 1935. White line color woodcut on cream Japanese paper; 24 × 35.4 cm (block), 33.4 x 46.1 cm (sheet). Museum purchase Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2005-241)",
+    "captionhtml":"Mabel A. Hewit (American, 1903–1984), <i>The Steel Mill</i>, ca. 1935. White line color woodcut on cream Japanese paper; 24 × 35.4 cm (block), 33.4 x 46.1 cm (sheet). Museum purchase Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2005-241)",
+    "published_date":"2025-10-16 14:21:59.517946",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,273 @@
+{
+    "type":"artobject",
+    "objectid":17438,
+    "objectnumber":"x1990-31",
+    "sortnumber":"1990   31x",
+    "displaytitle":"Painting and Wall (Gray)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1989,
+    "dateend":1989,
+    "datecomputed":1989,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1989",
+    "medium":"Dye destruction print",
+    "dimensions":"image: 59.8 x 42.9 cm. (23 9/16 x 16 7/8 in.)\r\nsheet: 61 x 50.8 cm. (24 x 20 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":"Signed, dated, and editioned in graphite, verso center:  Louise A. Lawler  1989 / 5//5",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"©1989, Louise Lawler\r\n",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Painting and Wall (Gray)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4485,
+            "displayname":"Louise Lawler",
+            "displaydate":"American, born 1947",
+            "datebegin":1947,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Louise Lawler, American, born 1947",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":83993,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10627",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1070,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1990-31",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 46",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, Manhattan, New York, Gagosian Gallery",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":"Gagosian Gallery",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5125771/manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135053,
+            "term":"exhibitions",
+            "aatid":300054766,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Subject"
+        },
+        {
+            "id":2121008,
+            "term":"maps",
+            "aatid":300028094,
+            "termtype":"Subject"
+        },
+        {
+            "id":2110200,
+            "term":"walls",
+            "aatid":300002469,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053622,
+            "term":"silver-dye bleach prints",
+            "aatid":300252136,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154213,
+            "term":"silver-dye bleach process",
+            "aatid":300133465,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053622,
+            "classification":"silver-dye bleach prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        },
+        {
+            "packageid":228579,
+            "name":"2023_ART490/GSS490/VIS490_11_20"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1990-31"
+    ],
+    "displaymaker":"Louise Lawler, American, born 1947",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Louise Lawler (American, born 1947), Painting and Wall (Gray), 1989. Dye destruction print; 59.8 x 42.9 cm (image), 61 x 50.8 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from John B. Elliott, Class of 1951 (x1990-31)",
+    "captionhtml":"Louise Lawler (American, born 1947), <i>Painting and Wall (Gray)</i>, 1989. Dye destruction print; 59.8 x 42.9 cm (image), 61 x 50.8 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from John B. Elliott, Class of 1951 (x1990-31)",
+    "published_date":"2025-10-30 02:00:25.566272",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

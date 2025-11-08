@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":87488,
+    "objectnumber":"2013-53",
+    "sortnumber":"2013   53",
+    "displaytitle":"M. Bouguereau",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1885,
+    "dateend":1885,
+    "datecomputed":1885,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1885",
+    "medium":"Lithograph",
+    "dimensions":"image: 21.5 x 17.9 cm. (8 7/16 x 7 1/16 in.)\r\nsheet: 29.1 x 25.7 cm. (11 7/16 x 10 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Donato Esposito",
+    "markings":null,
+    "inscribed":"Printed above plate, upper center and right: FIGURES DU JOUR / 127\r\n\r\nSigned in plate, upper right corner: Alfred Le Petit\r\n\r\nInscribed in plate, lower right corner: SGAP Sc\r\n\r\nPrinted below plate, center: M. BOUGUEREAU (Médaille d’honneur de 1885). / C’est un prix de sagesse, a dit la raillerie … / Par notre temps de fous ce prix est dédaigné ; / Mais, bien que contre lui le rapin se récrie, / Ce gars fait du travail Bouguereaument soigné.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"M. Bouguereau",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18170,
+            "displayname":"Alfred Le Petit",
+            "displaydate":"French, 1841–1909",
+            "datebegin":1841,
+            "dateend":1909,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alfred Le Petit, French, 1841–1909",
+            "displayorder":1
+        },
+        {
+            "id":20266,
+            "displayname":"SGAP",
+            "displaydate":"French, active 1892–1900",
+            "datebegin":1892,
+            "dateend":1900,
+            "prefix":"Engraver",
+            "suffix":null,
+            "role":"Engraver",
+            "displaymaker":"Engraver SGAP, French, active 1892–1900",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":164784,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV78593",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 61",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        },
+        {
+            "boilertext":"<EM>Le Charivari</EM> 54 (1885).",
+            "citation":"<EM>Le Charivari</EM> 54 (1885)., no. 127, p. 719 (illus.)",
+            "date":1885,
+            "id":6371,
+            "uri":"http://www.worldcat.org/oclc/1553899"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2100245,
+            "term":"prizes",
+            "aatid":300225692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051476,
+            "term":"caricatures",
+            "aatid":300015634,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV78593"
+    ],
+    "displaymaker":"Alfred Le Petit, French, 1841–1909 | Engraver SGAP, French, active 1892–1900",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alfred Le Petit (French, 1841–1909), Engraver SGAP (French, active 1892–1900), M. Bouguereau, 1885. Lithograph; 21.5 x 17.9 cm (image), 29.1 x 25.7 cm (sheet). Gift of Donato Esposito (2013-53)",
+    "captionhtml":"Alfred Le Petit (French, 1841–1909), Engraver SGAP (French, active 1892–1900), <i>M. Bouguereau</i>, 1885. Lithograph; 21.5 x 17.9 cm (image), 29.1 x 25.7 cm (sheet). Gift of Donato Esposito (2013-53)",
+    "published_date":"2025-10-16 17:13:23.719860",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

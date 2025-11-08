@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":49486,
+    "objectnumber":"2006-138.7",
+    "sortnumber":"2006  138     7",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1994,
+    "dateend":1994,
+    "datecomputed":1994,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1994",
+    "medium":"Etching and color aquatint",
+    "dimensions":"plate: 30.4 x 30.4 cm. (11 15/16 x 11 15/16 in.)\r\nsheet: 48.2 x 50.9 cm. (19 x 20 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Numbered, signed, and dated in graphite below plate, left: 28//75, right: Sylvia Plimack Mangold 1994",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4780,
+            "displayname":"Sylvia Plimack Mangold",
+            "displaydate":"American, born 1938",
+            "datebegin":1938,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sylvia Plimack Mangold, American, born 1938",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101773,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26529",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 99, p. 121",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26529"
+    ],
+    "displaymaker":"Sylvia Plimack Mangold, American, born 1938",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sylvia Plimack Mangold (American, born 1938), Untitled, 1994. Etching and color aquatint; 30.4 x 30.4 cm (plate), 48.2 x 50.9 cm (sheet). Gift of James Kraft, Class of 1957 (2006-138.7)",
+    "captionhtml":"Sylvia Plimack Mangold (American, born 1938), <i>Untitled</i>, 1994. Etching and color aquatint; 30.4 x 30.4 cm (plate), 48.2 x 50.9 cm (sheet). Gift of James Kraft, Class of 1957 (2006-138.7)",
+    "published_date":"2025-10-16 15:06:38.325964",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

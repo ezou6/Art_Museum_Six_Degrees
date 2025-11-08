@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":35664,
+    "objectnumber":"PU 5358",
+    "sortnumber":"U      5358P",
+    "displaytitle":"Grease dish",
+    "department":"Art of the Ancient Americas",
+    "classification":"Vessels",
+    "datebegin":1800,
+    "dateend":1885,
+    "datecomputed":1842,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"before 1885",
+    "medium":"Wood, formerly inlayed with opercula",
+    "dimensions":"h. 12.6 cm., l.  20.0 cm., w. 18 cm. (4 15/16 x 7 7/8 x 7 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":"PU 5358 stamped into bottom",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Grease dish",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"Times New Roman\" size=\"3\"><span style='line-height: 107%; font-family: \"Arial\",sans-serif; font-size: 10pt;'>Collected by Rev. Dr. Sheldon Jackson, in or after 1877;\nGiven to E. M. Museum (Princeton Museum of Natural History), 1882-1885</span></font><font face=\"Times New Roman\" size=\"3\">\n\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44375,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010056",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8617633/coastal-waters-of-southeast-alaska-and-british-columbia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164994,
+            "term":"oil",
+            "aatid":300014254,
+            "termtype":"Subject"
+        },
+        {
+            "id":2165212,
+            "term":"grease",
+            "aatid":300014268,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040133,
+            "term":"Lingít",
+            "aatid":300017629,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134661,
+            "term":"feasts",
+            "aatid":300069097,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134746,
+            "term":"potlatches",
+            "aatid":300069169,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2075787,
+            "term":"dishes",
+            "aatid":300042973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2151653,
+            "term":"inlay (process)",
+            "aatid":300053850,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2075787,
+            "classification":"dishes"
+        },
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2134746,
+            "classification":"potlatches"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13962,
+            "culture":"Lingít",
+            "alphasort":"Lingít",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"probably Lingít",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040133,
+            "culture":"Lingít"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"20.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":152535,
+            "name":"web_seashells"
+        },
+        {
+            "packageid":132030,
+            "name":"CRS_HaidaNaming"
+        },
+        {
+            "packageid":143825,
+            "name":"CRS_TlingitBowls/Boxes"
+        },
+        {
+            "packageid":132031,
+            "name":"CRS_TlingitNaming"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010056"
+    ],
+    "displaymaker":null,
+    "displayculture":"probably Lingít",
+    "displayperiod":null,
+    "caption":"Probably Lingít, before 1885, Alaska, United States, Northwest Coast, Grease dish. Wood, formerly inlayed with opercula; 12.6 x 20 x 18 cm. Lent by the Department of Geosciences, Princeton University (PU 5358)",
+    "captionhtml":"Probably Lingít, before 1885, Alaska, United States, Northwest Coast, <i>Grease dish</i>. Wood, formerly inlayed with opercula; 12.6 x 20 x 18 cm. Lent by the Department of Geosciences, Princeton University (PU 5358)",
+    "published_date":"2025-10-16 13:49:07.558591",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

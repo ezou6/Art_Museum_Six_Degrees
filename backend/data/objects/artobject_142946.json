@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":142946,
+    "objectnumber":"2024-271",
+    "sortnumber":"2024  271",
+    "displaytitle":"Niagara Falls",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1910,
+    "dateend":1920,
+    "datecomputed":1915,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1915",
+    "medium":"Halftone",
+    "dimensions":"image: 12.9 × 7.9 cm (5 1/16 × 3 1/8 in.)\r\nsheet: 14 × 8.8 cm (5 1/2 × 3 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Peter J. Cohen",
+    "markings":null,
+    "inscribed":"printed in ink, across top: 274:—ROCK OF AGES AND CAVE OF WINDS.\r\nprinted in ink, bottom center: NIAGARA FALLS.\r\nprinted, lower right of image: 1090",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted Download - Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2024-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Rock of Ages and Cave of Winds, Niagara Falls",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":22882,
+            "displayname":"Photographer unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Photographer unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Created by an unidentified photographer; acquired by Peter J. Cohen, after 1985; gift to Princeton University Art Museum, 2024.\n",
+            "remarks":"as per acquisition justification"
+        }
+    ],
+    "media":[
+        {
+            "id":252625,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-38-46_ref",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Niagara Falls",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Niagara Falls",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5128723/niagara-falls.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096423,
+            "term":"travel",
+            "aatid":300080094,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049024,
+            "term":"souvenirs",
+            "aatid":300028886,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126685,
+            "term":"postcards",
+            "aatid":300026816,
+            "termtype":"Classification"
+        },
+        {
+            "id":2099252,
+            "term":"tourism",
+            "aatid":300132466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119959,
+            "term":"waterfalls",
+            "aatid":300008736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2189533,
+            "term":"collecting",
+            "aatid":300077121,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052904,
+            "term":"mail art",
+            "aatid":300121462,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122657,
+            "term":"correspondence",
+            "aatid":300026877,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2056008,
+            "term":"halftone",
+            "aatid":300202115,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2126685,
+            "classification":"postcards"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264438,
+            "name":"CFA-since-1-1-2024"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-38-46_ref"
+    ],
+    "displaymaker":"Photographer unidentified",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Photographer unidentified, Niagara Falls, ca. 1915. Halftone; 12.9 × 7.9 cm (image), 14 × 8.8 cm (sheet). Gift of Peter J. Cohen (2024-271)",
+    "captionhtml":"Photographer unidentified, Niagara Falls, ca. 1915. Halftone; 12.9 × 7.9 cm (image), 14 × 8.8 cm (sheet). Gift of Peter J. Cohen (2024-271)",
+    "published_date":"2025-10-16 19:13:21.395401",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,181 @@
+{
+    "type":"artobject",
+    "objectid":45383,
+    "objectnumber":"PP312",
+    "sortnumber":"P       312P",
+    "displaytitle":"Tigers Drinking",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1867,
+    "dateend":1898,
+    "datecomputed":1882,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"112.7 x 176.7 cm (44 3/8 x 69 9/16 in.)\r\nframe: 48 x 212.1 cm (58 1/4 x 83 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Helen Frick, 1937",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower right: John M. Swan",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tigers Drinking",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2651,
+            "displayname":"John Macallan Swan",
+            "displaydate":"1847–1910; born Brentford, England; died Isle of Wight, England",
+            "datebegin":1847,
+            "dateend":1910,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Macallan Swan, 1847–1910; born Brentford, England; died Isle of Wight, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":235305,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_0760",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"176.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"112.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"212.09"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"147.95"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_0760"
+    ],
+    "displaymaker":"John Macallan Swan, 1847–1910; born Brentford, England; died Isle of Wight, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Macallan Swan (1847–1910; born Brentford, England; died Isle of Wight, England), Tigers Drinking. Oil on canvas; 112.7 x 176.7 cm, 58 1/4 x 83 1/2 in (frame). Princeton University, gift of Helen Frick, 1937 (PP312)",
+    "captionhtml":"John Macallan Swan (1847–1910; born Brentford, England; died Isle of Wight, England), <i>Tigers Drinking</i>. Oil on canvas; 112.7 x 176.7 cm, 58 1/4 x 83 1/2 in (frame). Princeton University, gift of Helen Frick, 1937 (PP312)",
+    "published_date":"2025-10-28 02:01:37.886665",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":136897,
+    "objectnumber":"2019-276",
+    "sortnumber":"2019  276",
+    "displaytitle":"Wrapper",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1920,
+    "dateend":1929,
+    "datecomputed":1924,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1920s",
+    "medium":"Cotton and dye",
+    "dimensions":"154 × 271 cm (60 5/8 × 106 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"photo: Jaron James",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wrapper",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21834,
+            "displayname":"Abron",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":", Kulango, or possibly Dyula artist",
+            "role":"Artist",
+            "displaymaker":"Abron, Kulango, or possibly Dyula artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Unrecorded trader, Bondoukou, Côte d’Ivoire]; Private collection, Accra, Ghana; [Adire African Textiles, London, UK by purchase from the above, 2005]; Princeton University Art Museum by purchase from the above, October 2019",
+            "remarks":"Text formatted by Perrin Lathrop, 9/29/2023. See Provenance Notes for additional, private provenance information. -Perrin Lathrop, 11/6/2023"
+        }
+    ],
+    "media":[
+        {
+            "id":225631,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2019-276_VEN",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Dealer image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>Duncan Clarke, \"The Cloth from Bondoukou: Textiles of the Ghana / Côte d’Ivoire border,\" <em>Hali Magazine</em>, no. 157 (Autumn 2008): 98-104</p>",
+            "citation":"<p>Duncan Clarke, \"The Cloth from Bondoukou: Textiles of the Ghana / Côte d’Ivoire border,\" <em>Hali Magazine</em>, no. 157 (Autumn 2008): 98-104</p>, no. 8 (illus.)",
+            "date":2008,
+            "id":9551,
+            "uri":"http://www.worldcat.org/oclc/1048396094"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Côte d'Ivoire, Bondoukou",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Côte d'Ivoire",
+            "region":"Bondoukou",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/2287781/republic-of-cote-d-ivoire.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042127,
+            "term":"Brong",
+            "aatid":300015984,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042354,
+            "term":"Kulango",
+            "aatid":300015869,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2157648,
+            "term":"textile weaving processes and techniques",
+            "aatid":300245451,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043611,
+            "term":"cotton (fiber)",
+            "aatid":300183670,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049610,
+            "classification":"textiles"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042127,
+            "culture":"Brong"
+        },
+        {
+            "id":2042354,
+            "culture":"Kulango"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"154.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"271.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2019-276_VEN"
+    ],
+    "displaymaker":"Abron, Kulango, or possibly Dyula artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Abron, Kulango, or possibly Dyula artist, Bondoukou, Côte d'Ivoire, Western Africa, Wrapper, ca. 1920s. Cotton and dye; 154 × 271 cm. Museum purchase, anonymous gift (2019-276)",
+    "captionhtml":"Abron, Kulango, or possibly Dyula artist, Bondoukou, Côte d'Ivoire, Western Africa, <i>Wrapper</i>, ca. 1920s. Cotton and dye; 154 × 271 cm. Museum purchase, anonymous gift (2019-276)",
+    "published_date":"2025-10-16 18:52:34.317459",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

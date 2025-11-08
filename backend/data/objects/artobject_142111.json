@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":142111,
+    "objectnumber":"2023-403 a-b",
+    "sortnumber":"2023  403 a    b",
+    "displaytitle":"Couplet",
+    "department":"Asian Art",
+    "classification":"Rubbings",
+    "datebegin":1600,
+    "dateend":1899,
+    "datecomputed":1750,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"ca. 17th–19th century",
+    "medium":"Hanging scrolls: ink rubbing on paper",
+    "dimensions":"(a) Calligraphy: 109.5 × 25.2 cm (43 1/8 × 9 15/16 in.)\r\nmount: 147 × 33.5 cm (57 7/8 × 13 3/16 in.)\r\n(b) Calligraphy: 109.4 × 25.2 cm (43 1/16 × 9 15/16 in.)\r\nmount: 147.3 × 33.7 cm (58 × 13 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Benjamin and Sarah Elman",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2023-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Couplet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2984,
+            "displayname":"Wang Xizhi 王羲之",
+            "displaydate":"303–361",
+            "datebegin":303,
+            "dateend":361,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wang Xizhi 王羲之, 303–361",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":252581,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240501_12947",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":252582,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240501_12948",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":252583,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240501_12949",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":252584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240501_12950",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054786,
+            "term":"rubbings",
+            "aatid":300103035,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054786,
+            "classification":"rubbings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":12539,
+            "period":"Eastern Jin dynasty",
+            "alphasort":"Eastern Jin",
+            "begindate":317,
+            "enddate":420,
+            "displayperiod":"Eastern Jin dynasty, 317–420 CE",
+            "displaydate":"317–420 CE"
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"147.31"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.65"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"109.37"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.24"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"147.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.49"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"109.53"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.24"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240501_12950"
+    ],
+    "displaymaker":"Wang Xizhi 王羲之, 303–361",
+    "displayculture":"Chinese",
+    "displayperiod":"Eastern Jin dynasty, 317–420 CE",
+    "caption":"Chinese, Eastern Jin dynasty (317–420 CE), Wang Xizhi 王羲之 (303–361), Couplet, ca. 17th–19th century. Hanging scrolls: ink rubbing on paper; 109.5 × 25.2 cm (Calligraphy), 109.4 × 25.2 cm (Calligraphy). Gift of Benjamin and Sarah Elman (2023-403 a-b)",
+    "captionhtml":"Chinese, Eastern Jin dynasty (317–420 CE), Wang Xizhi 王羲之 (303–361), <i>Couplet</i>, ca. 17th–19th century. Hanging scrolls: ink rubbing on paper; 109.5 × 25.2 cm (Calligraphy), 109.4 × 25.2 cm (Calligraphy). Gift of Benjamin and Sarah Elman (2023-403 a-b)",
+    "published_date":"2025-10-16 19:10:27.314159",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

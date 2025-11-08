@@ -1,0 +1,292 @@
+{
+    "type":"artobject",
+    "objectid":23567,
+    "objectnumber":"y1947-336",
+    "sortnumber":"1947  336y",
+    "displaytitle":"St. Luke",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1699,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Tempera on wood panel",
+    "dimensions":"56 x 39.5 x 6 cm (22 1/16 x 15 9/16 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":"Inscription in Greek, on either side of halo, in red [see accession card for reproduction];",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Luke",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Once with Mr. Stora, New York; entered the Museum collection by at least 1947<!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /-->",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":14665,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-336",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2066033,
+            "term":"thrones",
+            "aatid":300038141,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188636,
+            "term":"halos (glories)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133994,
+            "term":"eagles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188653,
+            "term":"tempera paintings",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171831,
+            "term":"angels",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171872,
+            "term":"Luke",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051776,
+            "term":"icons",
+            "aatid":300033945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031691,
+            "term":"Byzantine",
+            "aatid":300020669,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2115819,
+            "term":"crowns (costume components)",
+            "aatid":300213000,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167890,
+            "term":"tempera",
+            "aatid":300015062,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2188653,
+            "classification":"tempera paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13630,
+            "culture":"Byzantine",
+            "alphasort":"Byzantine",
+            "begindate":641,
+            "enddate":1453,
+            "displayculture":"Byzantine",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031691,
+            "period":"Byzantine"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":208145,
+            "name":"2022_ART535/HLS535_02_17"
+        },
+        {
+            "packageid":216990,
+            "name":"2022_ART430/MED430/HLS430_09_29"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-336"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Byzantine",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Byzantine, Eastern Mediterranean, 17th century, St. Luke. Tempera on wood panel; 56 × 39.5 × 6 cm. Museum Collection (y1947-336)",
+    "captionhtml":"Artist unidentified, Byzantine, Eastern Mediterranean, 17th century, <i>St. Luke</i>. Tempera on wood panel; 56 × 39.5 × 6 cm. Museum Collection (y1947-336)",
+    "published_date":"2025-10-30 02:02:52.747634",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":28440,
+    "objectnumber":"y1959-136",
+    "sortnumber":"1959  136y",
+    "displaytitle":"30 D",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1959,
+    "dateend":1959,
+    "datecomputed":1959,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1959",
+    "medium":"Oil on canvas",
+    "dimensions":"195 x 129.5 cm (76 3/4 x 51 in.)\r\nframe: 199 x 133 x 4.5 cm (78 3/8 x 52 3/8 x 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Samuel M. Kootz",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated, lower right: Schneider / 4-59",
+    "catalograisonne":null,
+    "creditlinerepro":"© Gérard Schneider",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"30 D",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3507,
+            "displayname":"Gérard Schneider",
+            "displaydate":"French, 1896–1986, born Switzerland",
+            "datebegin":1896,
+            "dateend":1986,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gérard Schneider, French, 1896–1986, born Switzerland",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":3116,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1959-136",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 24",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_46_2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"199.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"133.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"195.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"129.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181933,
+            "name":"CRS_2020_ART477/FRE477_03_23"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":152533,
+            "name":"web_frenchpaintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1959-136"
+    ],
+    "displaymaker":"Gérard Schneider, French, 1896–1986, born Switzerland",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gérard Schneider (French, 1896–1986, born Switzerland), 30 D, 1959. Oil on canvas; 195 x 129.5 cm, 199 × 133 × 4.5 cm (frame). Gift of Mr. and Mrs. Samuel M. Kootz (y1959-136)",
+    "captionhtml":"Gérard Schneider (French, 1896–1986, born Switzerland), <i>30 D</i>, 1959. Oil on canvas; 195 x 129.5 cm, 199 × 133 × 4.5 cm (frame). Gift of Mr. and Mrs. Samuel M. Kootz (y1959-136)",
+    "published_date":"2025-10-16 13:07:55.148415",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

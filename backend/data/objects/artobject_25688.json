@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":25688,
+    "objectnumber":"2016-1383",
+    "sortnumber":"2016 1383",
+    "displaytitle":"Celt figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":-500,
+    "dateend":-200,
+    "datecomputed":-350,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"500–200 BCE",
+    "medium":"Greenstone (serpentine)",
+    "dimensions":"h. 22.2 cm., w. 5.8 cm., d. 5.4 cm. (8 3/4 x 2 5/16 x 2 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Celt figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ, by 1987 [1]; bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated videos.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":50472,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV017486",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>Joan Mark, <em>The Silver Gringo: William Spratling and Taxco</em> (Albuquerque: University of New Mexico Press, 2000)<br></p>",
+            "citation":"<p>Joan Mark, <em>The Silver Gringo: William Spratling and Taxco</em> (Albuquerque: University of New Mexico Press, 2000)<br></p>, p. 102 (illus.)",
+            "date":2000,
+            "id":9581,
+            "uri":"http://www.worldcat.org/oclc/982253187"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3527213/estado-de-guerrero.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2139834,
+            "term":"celts",
+            "aatid":300251881,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199062,
+            "term":"greenstone (rock)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035648,
+            "term":"Early Preclassic",
+            "aatid":300016970,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035843,
+            "term":"Mezcala",
+            "aatid":300017193,
+            "termtype":"Culture"
+        },
+        {
+            "id":2199062,
+            "term":"greenstone (rock)",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2139834,
+            "classification":"celts"
+        },
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2199062,
+            "classification":"greenstone (rock)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13850,
+            "culture":"Mezcala",
+            "alphasort":"Mezcala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mezcala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035648,
+            "culture":"Early Preclassic"
+        },
+        {
+            "id":2035843,
+            "culture":"Mezcala"
+        }
+    ],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":226010,
+            "name":"VisibleStorage_GHC-E_Mesoamerica1"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV017486"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mezcala",
+    "displayperiod":"Late Formative Period",
+    "caption":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, Celt figure. Greenstone (serpentine); 22.2 x 5.8 x 5.4 cm. Bequest of Gillett G. Griffin (2016-1383)",
+    "captionhtml":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, <i>Celt figure</i>. Greenstone (serpentine); 22.2 x 5.8 x 5.4 cm. Bequest of Gillett G. Griffin (2016-1383)",
+    "published_date":"2025-10-29 02:03:28.497169",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

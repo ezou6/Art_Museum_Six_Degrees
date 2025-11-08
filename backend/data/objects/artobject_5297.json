@@ -1,0 +1,223 @@
+{
+    "type":"artobject",
+    "objectid":5297,
+    "objectnumber":"1995-377 a-b",
+    "sortnumber":"1995  377 a    b",
+    "displaytitle":"Decorated box",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":1000,
+    "dateend":1470,
+    "datecomputed":1235,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1000–1470",
+    "medium":"Wood",
+    "dimensions":"h. 11.2 cm., w. 11.2 cm., d. 24.8 cm. (4 7/16 x 4 7/16 x 9 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Decorated box",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":49663,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV016094",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":125,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-377_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., pp. 70–71 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        },
+        {
+            "boilertext":"Andrew Hamilton, <em>Scale and the Incas</em> (Princeton: Princeton University Press, 2018).",
+            "citation":"Andrew Hamilton, <em>Scale and the Incas</em> (Princeton: Princeton University Press, 2018)., pl. 29",
+            "date":2018,
+            "id":9263,
+            "uri":"http://www.worldcat.org/oclc/1027588922"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, Central coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"Central coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036045,
+            "term":"Late Intermediate period",
+            "aatid":300017313,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072562,
+            "term":"boxes (containers)",
+            "aatid":300045643,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072562,
+            "classification":"boxes (containers)"
+        },
+        {
+            "id":2156347,
+            "classification":"carving"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13923,
+            "culture":"Sicán",
+            "alphasort":"Sicán",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Sicán",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":13508,
+            "period":"Late Intermediate Period",
+            "alphasort":"Intermediate, Late",
+            "begindate":900,
+            "enddate":1450,
+            "displayperiod":"Late Intermediate Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036045,
+            "period":"Late Intermediate period"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"24.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":119494,
+            "name":"CRS_ART419_2017_Objects"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV016094"
+    ],
+    "displaymaker":null,
+    "displayculture":"Sicán",
+    "displayperiod":"Late Intermediate Period",
+    "caption":"Sicán, Late Intermediate Period, 1000–1470, Central coast, Peru, Andes, Decorated box. Wood; 11.2 x 11.2 x 24.8 cm. Anonymous gift (1995-377 a-b)",
+    "captionhtml":"Sicán, Late Intermediate Period, 1000–1470, Central coast, Peru, Andes, <i>Decorated box</i>. Wood; 11.2 x 11.2 x 24.8 cm. Anonymous gift (1995-377 a-b)",
+    "published_date":"2025-10-16 10:37:19.207544",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

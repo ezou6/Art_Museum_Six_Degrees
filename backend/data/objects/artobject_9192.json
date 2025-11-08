@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":9192,
+    "objectnumber":"x1952-8",
+    "sortnumber":"1952    8x",
+    "displaytitle":"The Little Venice",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1880,
+    "dateend":1880,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1880",
+    "medium":"Etching",
+    "dimensions":"sheet trimmed to plate 18.6 x 26.5 cm. (7 5/16 x 10 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Lower left: artist monogram [butterfly]",
+    "catalograisonne":"Glasgow 238 ii/ii; Kennedy 183 i/i; Mansfield 180;",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Little Venice",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1787,
+            "displayname":"James McNeill Whistler",
+            "displaydate":"1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "datebegin":1834,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104591,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29014",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 25",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Venice",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Venice",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078386,
+            "term":"bell towers",
+            "aatid":300004848,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119913,
+            "term":"lagoons",
+            "aatid":300008679,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2102498,
+            "term":"gondolas",
+            "aatid":300212742,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051499,
+            "term":"panoramas",
+            "aatid":300015537,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120555,
+            "term":"skylines",
+            "aatid":300075416,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055711,
+            "term":"marines (visual works)",
+            "aatid":300235692,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":223860,
+            "name":"2023_THR318/MTD318/VIS318_03_29"
+        },
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29014"
+    ],
+    "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), The Little Venice, 1880. Etching; 18.6 x 26.5 cm (plate). Gift of J. Lionberger Davis, Class of 1900 (x1952-8)",
+    "captionhtml":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), <i>The Little Venice</i>, 1880. Etching; 18.6 x 26.5 cm (plate). Gift of J. Lionberger Davis, Class of 1900 (x1952-8)",
+    "published_date":"2025-10-16 11:14:11.297669",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

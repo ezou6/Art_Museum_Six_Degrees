@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":24323,
+    "objectnumber":"y1952-81",
+    "sortnumber":"1952   81y",
+    "displaytitle":"Paysage, Laval, Normandie",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1918,
+    "dateend":1952,
+    "datecomputed":1935,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on academy board",
+    "dimensions":"33 x 40.8 cm (13 x 16 1/16 in.)\r\nframe: 45.4 × 53 × 2.6 cm (17 7/8 × 20 7/8 × 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Everett E. Rogerson",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: Salcia Bahnc.",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Paysage, Laval, Normandie",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":197,
+            "displayname":"Salcia Bahnc",
+            "displaydate":"American, born Poland, 1896 - 1979",
+            "datebegin":1896,
+            "dateend":1979,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Salcia Bahnc, American, born Poland, 1896 - 1979",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123296,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46289",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123297,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46290",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39., p. 38",
+            "date":1953,
+            "id":869,
+            "uri":"https://www.jstor.org/stable/3774393"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: France, Mayenne",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":"Mayenne",
+            "city":null,
+            "county":"Laval",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_48.067_-0.767.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2085105,
+            "term":"dwellings",
+            "aatid":300005425,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058196,
+            "term":"greenish yellow",
+            "aatid":300128098,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058601,
+            "term":"green (color)",
+            "aatid":300128438,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044038,
+            "term":"academy board",
+            "aatid":300014235,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.40"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46289"
+    ],
+    "displaymaker":"Salcia Bahnc, American, born Poland, 1896 - 1979",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Salcia Bahnc (American, born Poland, 1896 - 1979), Paysage, Laval, Normandie. Oil on academy board; 33 x 40.8 cm, 45.4 × 53 × 2.6 cm (frame). Gift of Everett E. Rogerson (y1952-81)",
+    "captionhtml":"Salcia Bahnc (American, born Poland, 1896 - 1979), <i>Paysage, Laval, Normandie</i>. Oil on academy board; 33 x 40.8 cm, 45.4 × 53 × 2.6 cm (frame). Gift of Everett E. Rogerson (y1952-81)",
+    "published_date":"2025-10-16 12:57:42.358253",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

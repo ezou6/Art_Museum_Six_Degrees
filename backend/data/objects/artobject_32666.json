@@ -1,0 +1,267 @@
+{
+    "type":"artobject",
+    "objectid":32666,
+    "objectnumber":"y1982-98",
+    "sortnumber":"1982   98y",
+    "displaytitle":"Bare Trees and Rocks (Ku mu shi tu ku枯木石圖)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1506,
+    "dateend":1506,
+    "datecomputed":1506,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1506",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 80.5 x 30.6 cm. (31 11/16 x 12 1/16 in.)\r\nMount: 190 x 46 cm. (74 13/16 x 18 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John B. Elliott, Class of 1951",
+    "markings":"8 seals\r\nCharacters in ink on label adhered to edge of rolled scroll\r\nTag attached to rolled scroll: cat #17",
+    "inscribed":"dated 1506; 2 inscriptions",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":2366,
+            "displayname":"Shi Zhong 史忠",
+            "displaydate":"active 1438 - ca. 1520",
+            "datebegin":1438,
+            "dateend":1520,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shi Zhong 史忠, active 1438 - ca. 1520",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":7788,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1982-98_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":61735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08354",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 55",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        },
+        {
+            "boilertext":"Wen C. Fong, <i>Images of the mind: selections from the Edward L. Elliott family and John B. Elliott collections of Chinese calligraphy and painting at the Art Museum, Princeton University</i>, (Princeton, NJ: The Art Museum, Princeton University, 1984).",
+            "citation":"Wen C. Fong, <i>Images of the mind: selections from the Edward L. Elliott family and John B. Elliott collections of Chinese calligraphy and painting at the Art Museum, Princeton University</i>, (Princeton, NJ: The Art Museum, Princeton University, 1984)., cat. no. 17",
+            "date":1984,
+            "id":6467,
+            "uri":"http://www.worldcat.org/oclc/770927319"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"80.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"190.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":224483,
+            "name":"2023_ART572/EAS573_02_13"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1982-98_SL"
+    ],
+    "displaymaker":"Shi Zhong 史忠, active 1438 - ca. 1520",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Shi Zhong 史忠 (active 1438 - ca. 1520), Bare Trees and Rocks (Ku mu shi tu ku枯木石圖), 1506. Hanging scroll; ink on paper; 80.5 x 30.6 cm (Painting), 190 x 46 cm (mount). Gift of John B. Elliott, Class of 1951 (y1982-98)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Shi Zhong 史忠 (active 1438 - ca. 1520), <i>Bare Trees and Rocks (Ku mu shi tu ku枯木石圖)</i>, 1506. Hanging scroll; ink on paper; 80.5 x 30.6 cm (Painting), 190 x 46 cm (mount). Gift of John B. Elliott, Class of 1951 (y1982-98)",
+    "published_date":"2025-10-16 13:31:20.242491",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

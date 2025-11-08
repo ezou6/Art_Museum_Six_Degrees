@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":50914,
+    "objectnumber":"2015-6697 a-b",
+    "sortnumber":"2015 6697 a    b",
+    "displaytitle":"Tappers",
+    "department":"African and Oceanic Art",
+    "classification":"Ornament",
+    "datebegin":1880,
+    "dateend":1920,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Bone",
+    "dimensions":"a: 19.5 x 5.1 x 2.3 cm. (7 11/16 x 2 x 7/8 in.)\r\nb: 19.9 x 4.6 x 2.3 cm. (7 13/16 x 1 13/16 x 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Perry E. H. Smith, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2015-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tappers",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15024,
+            "displayname":"Lega",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Lega artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by&nbsp;Perry E.H. Smith&nbsp;in Zaire (present-day Democratic Republic of the Congo) between 1971 and circa 1975; Princeton University Art Museum, 2017",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":19867,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-92A",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":19868,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-92B",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125., p. 106",
+            "date":2016,
+            "id":9661,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo, Shabunda area",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":"Shabunda area",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":"Lake Kivu",
+            "excavation":null,
+            "geoname":"http://www.geonames.org/205696/shabunda.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2087870,
+            "term":"social groups",
+            "aatid":300162096,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042820,
+            "term":"Lega",
+            "aatid":300016404,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135632,
+            "term":"tools",
+            "aatid":300024841,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2135632,
+            "classification":"tools"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042820,
+            "culture":"Lega"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-92A"
+    ],
+    "displaymaker":"Lega artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lega artist, Shabunda area, Democratic Republic of the Congo, Central Africa, Tappers, ca. 1900. Bone; 19.5 x 5.1 x 2.3 cm (a), 19.9 x 4.6 x 2.3 cm (b). Gift of Perry E. H. Smith, Class of 1957 (2015-6697 a-b)",
+    "captionhtml":"Lega artist, Shabunda area, Democratic Republic of the Congo, Central Africa, <i>Tappers</i>, ca. 1900. Bone; 19.5 x 5.1 x 2.3 cm (a), 19.9 x 4.6 x 2.3 cm (b). Gift of Perry E. H. Smith, Class of 1957 (2015-6697 a-b)",
+    "published_date":"2025-10-16 15:12:43.866823",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

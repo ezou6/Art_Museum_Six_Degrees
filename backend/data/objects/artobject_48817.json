@@ -1,0 +1,224 @@
+{
+    "type":"artobject",
+    "objectid":48817,
+    "objectnumber":"x1937-288",
+    "sortnumber":"1937  288x",
+    "displaytitle":"The Lady Brownlow",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1676,
+    "dateend":1686,
+    "datecomputed":1681,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"ca. 1681",
+    "medium":"Mezzotint",
+    "dimensions":"plate: 34.2 x 25.2 cm. (13 7/16 x 9 15/16 in.)\r\nsheet: 35.3 x 26.8 cm. (13 7/8 x 10 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Lady Brownlow",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":309,
+            "displayname":"Isaac Becket",
+            "displaydate":"British, 1653–1719",
+            "datebegin":1653,
+            "dateend":1719,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Isaac Becket, British, 1653–1719",
+            "displayorder":1
+        },
+        {
+            "id":2464,
+            "displayname":"Gerard Soest",
+            "displaydate":"Dutch, ca. 1600–1681",
+            "datebegin":1600,
+            "dateend":1681,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Gerard Soest, Dutch, ca. 1600–1681",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"One of the earliest native British mezzotinters, Beckett specialized in reproductive portraits of aristocrats of all ages, such as this charming likeness of Lady Elizabeth Brownlow (1681–1723), later Countess of Exeter. Members of the general public eagerly collected such images of upper-class elites for the prominence of the sitters and their artistic quality. The inscription in the lower right provides the address of the print’s publisher, Alexander Browne, a major player in the late seventeenth-century London art market.",
+            "remarks":"K2 corridor: “The Artful Disposition of Shades”: The Great Age of British Mezzotints"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103983,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28480",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":103984,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28481",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088162,
+            "term":"infants",
+            "aatid":300189561,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054545,
+            "term":"mezzotints",
+            "aatid":300041356,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054545,
+            "classification":"mezzotints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        },
+        {
+            "packageid":159960,
+            "name":"web_2019_K2 Corridor_March"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28480"
+    ],
+    "displaymaker":"Isaac Becket, British, 1653–1719 | after Gerard Soest, Dutch, ca. 1600–1681",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Isaac Becket (British, 1653–1719), after Gerard Soest (Dutch, ca. 1600–1681), The Lady Brownlow, ca. 1681. Mezzotint; 34.2 x 25.2 cm (plate), 35.3 x 26.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-288)",
+    "captionhtml":"Isaac Becket (British, 1653–1719), after Gerard Soest (Dutch, ca. 1600–1681), <i>The Lady Brownlow</i>, ca. 1681. Mezzotint; 34.2 x 25.2 cm (plate), 35.3 x 26.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-288)",
+    "published_date":"2025-10-16 15:02:38.264423",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

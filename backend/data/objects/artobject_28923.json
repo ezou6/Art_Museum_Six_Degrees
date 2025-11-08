@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":28923,
+    "objectnumber":"y1963-13",
+    "sortnumber":"1963   13y",
+    "displaytitle":"Bridge at Fortingall, Perthshire, Scotland",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1896,
+    "dateend":1896,
+    "datecomputed":1896,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1896",
+    "medium":"Oil on wood panel",
+    "dimensions":"26.3 x 35.4 cm (10 3/8 x 13 15/16 in.)\r\nframe: 31.7 x 40.6 x 2.2 cm (12 1/2 x 16 x 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John Gordon, Class of 1905",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: G. Boyle",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1963-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bridge at Fortingall, Perthshire, Scotland",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":555,
+            "displayname":"George A. Boyle",
+            "displaydate":"British, active 1884–1899",
+            "datebegin":1884,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George A. Boyle, British, active 1884–1899",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":124209,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47132",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":124210,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47133",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31.",
+            "citation":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31., p. 29",
+            "date":1964,
+            "id":545,
+            "uri":"https://www.jstor.org/stable/3774404"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Scotland, Perthshire, Fortingall",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Scotland",
+            "region":null,
+            "state":"Perthshire",
+            "city":"Fortingall",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/wikipedia_56.5979_-4.0554.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188543,
+            "term":"cattle",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119862,
+            "term":"streams",
+            "aatid":300008699,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.60"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47132"
+    ],
+    "displaymaker":"George A. Boyle, British, active 1884–1899",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George A. Boyle (British, active 1884–1899), Bridge at Fortingall, Perthshire, Scotland, 1896. Oil on wood panel; 26.3 x 35.4 cm, 31.7 × 40.6 × 2.2 cm (frame). Gift of John Gordon, Class of 1905 (y1963-13)",
+    "captionhtml":"George A. Boyle (British, active 1884–1899), <i>Bridge at Fortingall, Perthshire, Scotland</i>, 1896. Oil on wood panel; 26.3 x 35.4 cm, 31.7 × 40.6 × 2.2 cm (frame). Gift of John Gordon, Class of 1905 (y1963-13)",
+    "published_date":"2025-10-16 13:10:57.042951",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

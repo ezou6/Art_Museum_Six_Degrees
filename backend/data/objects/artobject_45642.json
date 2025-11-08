@@ -1,0 +1,207 @@
+{
+    "type":"artobject",
+    "objectid":45642,
+    "objectnumber":"PP569",
+    "sortnumber":"P       569P",
+    "displaytitle":"Engineering (Bridge)",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1899,
+    "dateend":1943,
+    "datecomputed":1921,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"91.5 × 76.3 cm (36 × 30 1/16 in.)\r\nframe: 114.3 × 98.4 × 8.6 cm (45 × 38 3/4 × 3 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: Edward Bruce",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Engineering (Bridge)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6163,
+            "displayname":"Edward Bruce",
+            "displaydate":"American, 1879–1943",
+            "datebegin":1879,
+            "dateend":1943,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edward Bruce, American, 1879–1943",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":21610,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv1022",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188502,
+            "term":"Redefining the Sublime: Bridges' Conquest over Nature",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"91.50"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"114.29"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"98.42"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.57"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv1022"
+    ],
+    "displaymaker":"Edward Bruce, American, 1879–1943",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edward Bruce (American, 1879–1943), Engineering (Bridge). Oil on canvas; 91.5 × 76.3 cm, 114.3 × 98.4 × 8.6 cm (frame). Princeton University (PP569)",
+    "captionhtml":"Edward Bruce (American, 1879–1943), <i>Engineering (Bridge)</i>. Oil on canvas; 91.5 × 76.3 cm, 114.3 × 98.4 × 8.6 cm (frame). Princeton University (PP569)",
+    "published_date":"2025-10-16 14:32:08.654458",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

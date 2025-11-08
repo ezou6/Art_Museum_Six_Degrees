@@ -1,0 +1,179 @@
+{
+    "type":"artobject",
+    "objectid":19065,
+    "objectnumber":"x1994-84",
+    "sortnumber":"1994   84x",
+    "displaytitle":"Renaissance portrait, after Ghirlandaio",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1881,
+    "dateend":1938,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"color mezzotint",
+    "dimensions":"plate: 27.8 x 17.7 cm (10 15/16 x 6 15/16 in.)\r\nsheet: 32.6 x 22.5 cm. (12 13/16 x 8 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Harriet Dyer Adams",
+    "markings":null,
+    "inscribed":"lower left:  Engraved & printed myself [?] / [signed] C Herbert  Moore",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1994-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Renaissance portrait, after Ghirlandaio",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5756,
+            "displayname":"Samuel Arlent Edwards",
+            "displaydate":"American, 1861–1938",
+            "datebegin":1861,
+            "dateend":1938,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Samuel Arlent Edwards, American, 1861–1938",
+            "displayorder":1
+        },
+        {
+            "id":6110,
+            "displayname":"Ghirlandaio",
+            "displaydate":"Italian, 1483–1561",
+            "datebegin":1483,
+            "dateend":1561,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Ghirlandaio, Italian, 1483–1561",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104326,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28749",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2812,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1994-84_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79.",
+            "citation":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79., p. 55",
+            "date":1995,
+            "id":569,
+            "uri":"https://www.jstor.org/stable/3774717"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28749"
+    ],
+    "displaymaker":"Samuel Arlent Edwards, American, 1861–1938 | after Ghirlandaio, Italian, 1483–1561",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Samuel Arlent Edwards (American, 1861–1938), after Ghirlandaio (Italian, 1483–1561), Renaissance portrait, after Ghirlandaio. Color mezzotint; 27.8 x 17.7 cm (plate), 32.6 x 22.5 cm (sheet). Gift of Harriet Dyer Adams (x1994-84)",
+    "captionhtml":"Samuel Arlent Edwards (American, 1861–1938), after Ghirlandaio (Italian, 1483–1561), <i>Renaissance portrait, after Ghirlandaio</i>. Color mezzotint; 27.8 x 17.7 cm (plate), 32.6 x 22.5 cm (sheet). Gift of Harriet Dyer Adams (x1994-84)",
+    "published_date":"2025-10-16 12:26:15.240783",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

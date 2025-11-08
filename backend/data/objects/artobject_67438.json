@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":67438,
+    "objectnumber":"x1980-530",
+    "sortnumber":"1980  530x",
+    "displaytitle":"Lands End, San Francisco",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1946,
+    "dateend":1946,
+    "datecomputed":1946,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"October 29, 1946",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 17.1 × 22.2 cm (6 3/4 × 8 3/4 in.)\r\nsheet: 20.1 × 25.2 cm (7 15/16 × 9 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 46-84-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lands End, San Francisco",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Twigs",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":161938,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00281",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":163266,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled421.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Minor White, <i>Mirrors, Messages, Manifestations</i>, 2nd ed. (New York: Aperture, 1982)",
+            "citation":"Minor White, <i>Mirrors, Messages, Manifestations</i>, 2nd ed. (New York: Aperture, 1982), p. 33 (top, illus.), p. 226",
+            "date":1982,
+            "id":1982,
+            "uri":"http://www.worldcat.org/oclc/220158223"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 55 (as MWA# 1946-84)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, California, San Francisco, Lands End",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"San Francisco",
+            "county":"San Francisco County",
+            "subregion":null,
+            "locale":"Lands End",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5364999/lands-end.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153868,
+            "term":"nature photography",
+            "aatid":300138239,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188594,
+            "term":"branches (plant components)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098810,
+            "term":"light",
+            "aatid":300056024,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00281"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Lands End, San Francisco, October 29, 1946. Gelatin silver print; 17.1 × 22.2 cm (image), 20.1 × 25.2 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-530)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Lands End, San Francisco</i>, October 29, 1946. Gelatin silver print; 17.1 × 22.2 cm (image), 20.1 × 25.2 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-530)",
+    "published_date":"2025-10-16 16:28:28.261931",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

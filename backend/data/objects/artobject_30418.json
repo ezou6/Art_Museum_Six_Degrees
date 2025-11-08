@@ -1,0 +1,282 @@
+{
+    "type":"artobject",
+    "objectid":30418,
+    "objectnumber":"y1967-3",
+    "sortnumber":"1967    3y",
+    "displaytitle":"Searching for Plum Blossoms (Tanmei shihua tu)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1685,
+    "dateend":1685,
+    "datecomputed":1685,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1685",
+    "medium":"Handscroll; ink on paper",
+    "dimensions":"Painting: 30.6 x 132.2 cm. (12 1/16 x 52 1/16 in.)\r\nColophon (left): 30.6 x 125 cm. (12 1/16 x 49 3/16 in.)\r\nMount: h. 31.7 cm. (12 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Arthur M. Sackler Collection",
+    "markings":"Characters and two seals in ink on label adhered to edge of rolled scroll",
+    "inscribed":"dated 1685",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Searching for Plum Blossoms (Tanmei shihua tu)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2372,
+            "displayname":"Shitao 石濤",
+            "displaydate":"1642–1707; born Guilin, China; died Yangzhou, China",
+            "datebegin":1642,
+            "dateend":1707,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shitao 石濤, 1642–1707; born Guilin, China; died Yangzhou, China",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22988,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-3_A",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":22989,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-3_B",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":62384,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08635",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41., p. 35",
+            "date":1968,
+            "id":884,
+            "uri":"https://www.jstor.org/stable/3774425"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2122099,
+            "term":"colophons",
+            "aatid":300028710,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122351,
+            "term":"poems",
+            "aatid":300026451,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171788,
+            "term":"plum blossoms",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        },
+        {
+            "id":2122099,
+            "classification":"colophons"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.60"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"132.20"
+        },
+        {
+            "element":"Colophon",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.60"
+        },
+        {
+            "element":"Colophon",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"125.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":43777,
+            "name":"web_2015-05_Chinese"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-3_A"
+    ],
+    "displaymaker":"Shitao 石濤, 1642–1707; born Guilin, China; died Yangzhou, China",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Shitao 石濤 (1642–1707; born Guilin, China; died Yangzhou, China), Searching for Plum Blossoms (Tanmei shihua tu), 1685. Handscroll; ink on paper; 30.6 x 125 cm, 30.6 x 132.2 cm (Painting), 30.6 x 125 cm (Colophon, left), 31.7 cm (mount). The Arthur M. Sackler Collection (y1967-3)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Shitao 石濤 (1642–1707; born Guilin, China; died Yangzhou, China), <i>Searching for Plum Blossoms (Tanmei shihua tu)</i>, 1685. Handscroll; ink on paper; 30.6 x 125 cm, 30.6 x 132.2 cm (Painting), 30.6 x 125 cm (Colophon, left), 31.7 cm (mount). The Arthur M. Sackler Collection (y1967-3)",
+    "published_date":"2025-10-21 02:02:39.812739",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

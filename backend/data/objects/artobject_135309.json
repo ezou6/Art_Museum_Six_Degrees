@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":135309,
+    "objectnumber":"2019-155",
+    "sortnumber":"2019  155",
+    "displaytitle":"The Inlet",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2007,
+    "dateend":2007,
+    "datecomputed":2007,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2007",
+    "medium":"Screenprint",
+    "dimensions":"image: 81.3 × 26 cm (32 × 10 1/4 in.)\r\nsheet: 89.9 × 34 cm (35 3/8 × 13 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Salish Weave Collection of George and Christiane Smyth",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, dated, editioned and titled in graphite: Susan A. Point '07 6/100, Stanley Park House Post",
+    "catalograisonne":null,
+    "creditlinerepro":"© Susan Point",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Inlet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21488,
+            "displayname":"Susan Point",
+            "displaydate":"Musqueam, born 1952, Alert Bay, Canada",
+            "datebegin":1952,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Susan Point, Musqueam, born 1952, Alert Bay, Canada",
+            "displayorder":1
+        },
+        {
+            "id":21500,
+            "displayname":"Seacoast Screen Printing",
+            "displaydate":null,
+            "datebegin":2008,
+            "dateend":0,
+            "prefix":"Printed by Eric Bourquin at",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Eric Bourquin at Seacoast Screen Printing",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[The Salish Weave Collection (George and Christiane Smyth)]; gifted to the Princeton University Art Museum, 2019.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"In this screenprint, Point references the yearly migration of salmon, an important food source for Northwest Coast peoples, who fish when the salmon return from the ocean to spawn in freshwater inlets. Point mimics design elements common in the woodwork of the Coastal Salish, including circles, ovals, crescents, and trigons (triangular shapes with curved sides). Traditional Salish woodwork compositions often rely on the juxtaposition of positive and negative space to create meaning and a sense of movement. The undulating lines of this print outline the bodies of the fish while also signaling the flow of water and the patterns of migration.",
+            "remarks":"PBL Rotation January 2020"
+        }
+    ],
+    "media":[
+        {
+            "id":243111,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_101038",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Canada, British Columbia, Victoria",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"Canada",
+            "region":null,
+            "state":"British Columbia",
+            "city":"Victoria",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6174041/victoria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096251,
+            "term":"iconography",
+            "aatid":300055859,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040113,
+            "term":"Salish",
+            "aatid":300017621,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040113,
+            "culture":"Salish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"89.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"81.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_101038"
+    ],
+    "displaymaker":"Susan Point, Musqueam, born 1952, Alert Bay, Canada | Printed by Eric Bourquin at Seacoast Screen Printing",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Susan Point (Musqueam, born 1952, Alert Bay, Canada), Printed by Eric Bourquin at Seacoast Screen Printing, The Inlet, 2007. Screenprint; 81.3 × 26 cm (image), 89.9 × 34 cm (sheet). Gift of the Salish Weave Collection of George and Christiane Smyth (2019-155)",
+    "captionhtml":"Susan Point (Musqueam, born 1952, Alert Bay, Canada), Printed by Eric Bourquin at Seacoast Screen Printing, <i>The Inlet</i>, 2007. Screenprint; 81.3 × 26 cm (image), 89.9 × 34 cm (sheet). Gift of the Salish Weave Collection of George and Christiane Smyth (2019-155)",
+    "published_date":"2025-10-16 18:46:36.627010",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

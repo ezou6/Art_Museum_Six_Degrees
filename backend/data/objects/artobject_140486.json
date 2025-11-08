@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":140486,
+    "objectnumber":"2022-188",
+    "sortnumber":"2022  188",
+    "displaytitle":"Jar",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1920,
+    "dateend":1955,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1925–50",
+    "medium":"Ceramic with white and black slip-paint",
+    "dimensions":"h. 29.8 × diam. 31 cm (11 3/4 × 12 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Antique American Indian Art, Oak Harbor, Whidbey Island (WA)]; purchased by Jim Maddox, ca. 2020; donated to the Princeton University Art Museum by Jim Maddox and Lucy Maddox, 2022.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":240013,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3310",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":240014,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3306",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":240015,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3305",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Kewa (Santo Domingo) Pueblo, Rio Grande",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American Southwest",
+            "country":"United States",
+            "region":"Rio Grande",
+            "state":"New Mexico",
+            "city":"Kewa (Santo Domingo) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040532,
+            "term":"Santo Domingo",
+            "aatid":300017758,
+            "termtype":"Culture"
+        },
+        {
+            "id":2199330,
+            "term":"Kewa",
+            "aatid":300017758,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":23170,
+            "culture":"Kewa (Santo Domingo)",
+            "alphasort":"Kewa",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Kewa (Santo Domingo)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040532,
+            "culture":"Santo Domingo"
+        },
+        {
+            "id":2199330,
+            "culture":"Kewa"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"31.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3305"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Kewa (Santo Domingo)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Kewa (Santo Domingo), ca. 1925–50, Kewa (Santo Domingo) Pueblo, New Mexico, Rio Grande, United States, American Southwest, Jar. Ceramic with white and black slip-paint; 29.8 × 31 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2022-188)",
+    "captionhtml":"Artist unidentified, Kewa (Santo Domingo), ca. 1925–50, Kewa (Santo Domingo) Pueblo, New Mexico, Rio Grande, United States, American Southwest, <i>Jar</i>. Ceramic with white and black slip-paint; 29.8 × 31 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2022-188)",
+    "published_date":"2025-10-30 02:10:31.798009",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

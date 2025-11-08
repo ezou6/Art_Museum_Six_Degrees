@@ -1,0 +1,201 @@
+{
+    "type":"artobject",
+    "objectid":44708,
+    "objectnumber":"PP406",
+    "sortnumber":"P       406P",
+    "displaytitle":"Prometheus",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1635,
+    "dateend":1673,
+    "datecomputed":1654,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"101.3 × 85.5 cm (39 7/8 × 33 11/16 in.)\r\nframe: 128.6 × 112.4 × 6.3 cm (50 5/8 × 44 1/4 × 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Thomas Shields Clarke, Class of 1882",
+    "markings":null,
+    "inscribed":"On stretcher: Salvator ro[f]a",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Prometheus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3325,
+            "displayname":"Salvator Rosa",
+            "displaydate":"1615–1673; born Naples, Italy; died Rome, Italy",
+            "datebegin":1615,
+            "dateend":1673,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Salvator Rosa, 1615–1673; born Naples, Italy; died Rome, Italy",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":219013,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1933053",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.34"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"101.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"85.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"112.40"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"128.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1933053"
+    ],
+    "displaymaker":"Salvator Rosa, 1615–1673; born Naples, Italy; died Rome, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Salvator Rosa (1615–1673; born Naples, Italy; died Rome, Italy), Prometheus. Oil on canvas; 101.3 × 85.5 cm, 128.6 × 112.4 × 6.3 cm (frame). Princeton University, gift of Thomas Shields Clarke, Class of 1882 (PP406)",
+    "captionhtml":"Salvator Rosa (1615–1673; born Naples, Italy; died Rome, Italy), <i>Prometheus</i>. Oil on canvas; 101.3 × 85.5 cm, 128.6 × 112.4 × 6.3 cm (frame). Princeton University, gift of Thomas Shields Clarke, Class of 1882 (PP406)",
+    "published_date":"2025-10-18 02:04:29.409229",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

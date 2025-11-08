@@ -1,0 +1,170 @@
+{
+    "type":"artobject",
+    "objectid":9411,
+    "objectnumber":"x1954-10",
+    "sortnumber":"1954   10x",
+    "displaytitle":"Cow",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1645,
+    "dateend":1654,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Black chalk",
+    "dimensions":"9.6 x 13.1 cm (3 3/4 x 5 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"in graphite, on verso: 32636\r\nin ink, on verso: 1237",
+    "signed":"Signed, upper right: P. Pot",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3092,
+            "displayname":"Paulus Potter",
+            "displaydate":"Dutch, 1625–1654",
+            "datebegin":1625,
+            "dateend":1654,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paulus Potter, Dutch, 1625–1654",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Count Stroganoff; Mathias Komor",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":110316,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33682",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 19",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103922,
+            "term":"cows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33682"
+    ],
+    "displaymaker":"Paulus Potter, Dutch, 1625–1654",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paulus Potter (Dutch, 1625–1654), Cow. Black chalk; 9.6 x 13.1 cm. Museum purchase, Laura P. Hall Memorial Fund (x1954-10)",
+    "captionhtml":"Paulus Potter (Dutch, 1625–1654), Cow. Black chalk; 9.6 x 13.1 cm. Museum purchase, Laura P. Hall Memorial Fund (x1954-10)",
+    "published_date":"2025-10-16 11:15:29.167237",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

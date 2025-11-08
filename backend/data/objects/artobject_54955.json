@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":54955,
+    "objectnumber":"2008-360",
+    "sortnumber":"2008  360",
+    "displaytitle":"Venus and Cupid",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1910,
+    "dateend":1920,
+    "datecomputed":1915,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1915",
+    "medium":"Oil on canvas",
+    "dimensions":"68.6 × 53.3 cm (27 × 21 in.)\r\nframe: 85.7 × 71.4 × 7.6 cm (33 3/4 × 28 1/8 × 3 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of the Joseph F. McCrindle Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3464,
+            "displayname":"John Singer Sargent",
+            "displaydate":"1856–1925; born Florence, Italy; died London, United Kingdom",
+            "datebegin":1856,
+            "dateend":1925,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Singer Sargent, 1856–1925; born Florence, Italy; died London, United Kingdom",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Emily Sargent (1857-1936), sister of the artist; donated to Sir Alec Martin (1884-1971), after 1927. [Sutch and Martin, London, 1971]; purchased by Joseph F. Mc Crindle (1923-2008), New York (NY); estate of Joseph F. Mc Crindle; donated to the Princeton University Art Museum, 2008.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123334,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46326",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123432,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46325",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 70",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057929,
+            "term":"cream",
+            "aatid":300127919,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171354,
+            "term":"Roman mythology",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171856,
+            "term":"gods",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"85.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.40"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.61"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.57"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.33"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        },
+        {
+            "packageid":181959,
+            "name":"web_2020_K4-6"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46326"
+    ],
+    "displaymaker":"John Singer Sargent, 1856–1925; born Florence, Italy; died London, United Kingdom",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Singer Sargent (1856–1925; born Florence, Italy; died London, United Kingdom), Venus and Cupid, ca. 1915. Oil on canvas; 68.6 × 53.3 cm, 85.7 × 71.4 × 7.6 cm (frame). Bequest of the Joseph F. McCrindle Collection (2008-360)",
+    "captionhtml":"John Singer Sargent (1856–1925; born Florence, Italy; died London, United Kingdom), <i>Venus and Cupid</i>, ca. 1915. Oil on canvas; 68.6 × 53.3 cm, 85.7 × 71.4 × 7.6 cm (frame). Bequest of the Joseph F. McCrindle Collection (2008-360)",
+    "published_date":"2025-10-30 02:07:20.714322",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

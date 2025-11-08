@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":134738,
+    "objectnumber":"2018-161",
+    "sortnumber":"2018  161",
+    "displaytitle":"Three-pointed cemí",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":1200,
+    "dateend":1500,
+    "datecomputed":1350,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1500",
+    "medium":"Dark vesicular stone",
+    "dimensions":"6.6 × 6 × 10 cm (2 5/8 × 2 3/8 × 3 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":217760,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931437",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":217761,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931439",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":217762,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931446",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":217763,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931450",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 164",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":3596,
+            "citation":"Taíno: Ancient Voyagers of the Caribbean, El Museo del Barrio (October 2000–August 2003)\r\n",
+            "isvirtual":true,
+            "begindate":"2000-10",
+            "enddate":"2003-08",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3596"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, Dominican Republic, Azua, Azua",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Intermediate area",
+            "country":"Dominican Republic",
+            "region":null,
+            "state":"Azua",
+            "city":"Azua",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035920,
+            "term":"Taino",
+            "aatid":300017878,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13908,
+            "culture":"Taíno",
+            "alphasort":"Taíno",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Taíno",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035920,
+            "culture":"Taino"
+        }
+    ],
+    "periods":[
+        {
+            "id":21429,
+            "period":"Chicoid",
+            "alphasort":"Chicoid",
+            "begindate":1200,
+            "enddate":1500,
+            "displayperiod":"Chicoid",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"10.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":188261,
+            "name":"Web_Taino_AAMD"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931437"
+    ],
+    "displaymaker":null,
+    "displayculture":"Taíno",
+    "displayperiod":"Chicoid",
+    "caption":"Taíno, Chicoid, 1200–1500, Azua, Azua, Dominican Republic, Intermediate area, Three-pointed cemí. Dark vesicular stone; 6.6 × 6 × 10 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2018-161)",
+    "captionhtml":"Taíno, Chicoid, 1200–1500, Azua, Azua, Dominican Republic, Intermediate area, Three-pointed cemí. Dark vesicular stone; 6.6 × 6 × 10 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2018-161)",
+    "published_date":"2025-10-16 18:45:04.032954",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

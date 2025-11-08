@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":9221,
+    "objectnumber":"x1960-80",
+    "sortnumber":"1960   80x",
+    "displaytitle":"Bald-headed Man",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1627,
+    "dateend":1677,
+    "datecomputed":1652,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 6.8 x 4.5 cm (2 11/16 x 1 3/4 in.)\r\nsheet: 7.2 x 5.1 cm (2 13/16 x 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Caroline G. Mather Fund",
+    "markings":null,
+    "inscribed":"top right: Leonardo da Vinci inu. W. Hollar fec. 1648.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bald-headed Man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4543,
+            "displayname":"Leonardo da Vinci",
+            "displaydate":"Italian, 1452–1519",
+            "datebegin":1452,
+            "dateend":1519,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Leonardo da Vinci, Italian, 1452–1519",
+            "displayorder":2
+        },
+        {
+            "id":5270,
+            "displayname":"Wenceslaus Hollar",
+            "displaydate":"1607–1677; born Prague, Czech Republic; died London, Englad; active Germany",
+            "datebegin":1607,
+            "dateend":1677,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wenceslaus Hollar, 1607–1677; born Prague, Czech Republic; died London, Englad; active Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101061,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25893",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181513,
+            "name":"CRS_2020_ART363_04_07"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25893"
+    ],
+    "displaymaker":"Wenceslaus Hollar, 1607–1677; born Prague, Czech Republic; died London, Englad; active Germany | after Leonardo da Vinci, Italian, 1452–1519",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Wenceslaus Hollar (1607–1677; born Prague, Czech Republic; died London, Englad; active Germany), after Leonardo da Vinci (Italian, 1452–1519), Bald-headed Man. Engraving; 6.8 x 4.5 cm (plate), 7.2 x 5.1 cm (sheet). Museum purchase, Caroline G. Mather Fund (x1960-80)",
+    "captionhtml":"Wenceslaus Hollar (1607–1677; born Prague, Czech Republic; died London, Englad; active Germany), after Leonardo da Vinci (Italian, 1452–1519), <i>Bald-headed Man</i>. Engraving; 6.8 x 4.5 cm (plate), 7.2 x 5.1 cm (sheet). Museum purchase, Caroline G. Mather Fund (x1960-80)",
+    "published_date":"2025-10-23 16:51:19.209874",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

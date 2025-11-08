@@ -1,0 +1,281 @@
+{
+    "type":"artobject",
+    "objectid":60550,
+    "objectnumber":"2010-208",
+    "sortnumber":"2010  208",
+    "displaytitle":"The Marder Sisters",
+    "department":"Modern and Contemporary Art",
+    "classification":"Photographs",
+    "datebegin":2000,
+    "dateend":2000,
+    "datecomputed":2000,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2000",
+    "medium":"Chromogenic print",
+    "dimensions":"121.9 × 152.4 cm (48 × 60 in.)\r\nframe: 124.3 × 154.7 × 4.4 cm (48 15/16 × 60 7/8 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed on label on verso",
+    "catalograisonne":null,
+    "creditlinerepro":"© Malerie Marder",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Marder Sisters",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16468,
+            "displayname":"Malerie Marder",
+            "displaydate":"born 1971, Philadelphia, PA; active Los Angeles, CA",
+            "datebegin":1971,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Malerie Marder, born 1971, Philadelphia, PA; active Los Angeles, CA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Herbert C. Schorr and Leonore Schorr, Marina Del Rey, California, gift; to Princeton University Art Museum, 2010.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":167559,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU01290",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 97",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056025,
+            "term":"pink (color)",
+            "aatid":300124707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056963,
+            "term":"orange",
+            "aatid":300126734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057315,
+            "term":"light grayish brown",
+            "aatid":300127538,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058168,
+            "term":"pale orange yellow",
+            "aatid":300128084,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061785,
+            "term":"carpets",
+            "aatid":300185756,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088235,
+            "term":"sisters",
+            "aatid":300188720,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"124.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"154.70"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.44"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"121.91"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"152.39"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU01290"
+    ],
+    "displaymaker":"Malerie Marder, born 1971, Philadelphia, PA; active Los Angeles, CA",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Malerie Marder (born 1971, Philadelphia, PA; active Los Angeles, CA), The Marder Sisters, 2000. Chromogenic print; 121.9 × 152.4 cm, 124.3 × 154.7 × 4.4 cm (frame). Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr (2010-208)",
+    "captionhtml":"Malerie Marder (born 1971, Philadelphia, PA; active Los Angeles, CA), <i>The Marder Sisters</i>, 2000. Chromogenic print; 121.9 × 152.4 cm, 124.3 × 154.7 × 4.4 cm (frame). Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr (2010-208)",
+    "published_date":"2025-10-16 15:53:33.666304",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":125471,
+    "objectnumber":"2016-22.8",
+    "sortnumber":"2016   22     8",
+    "displaytitle":"Singirl",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":2006,
+    "dateend":2006,
+    "datecomputed":2006,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2006",
+    "medium":"Lithography, screenprinting, embossing, and relief printing on paper",
+    "dimensions":"49.5 × 61 cm (19 1/2 × 24 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Karen Karp, Class of 1981, on the occasion of her 35th Reunion",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Amanda Heng",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Singirl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":19763,
+            "displayname":"Amanda Heng",
+            "displaydate":"born 1951, Singapore; active Singapore",
+            "datebegin":1951,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Amanda Heng, born 1951, Singapore; active Singapore",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<br>2006–2016 Karen Karp (New York, NY), by gift to the Princeton University Art Museum, 2016.<br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":204726,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2017_40966",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 136 (illus.)",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Singapore",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Singapore",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1880251/republic-of-singapore.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2032899,
+            "term":"Asian",
+            "aatid":300018279,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156689,
+            "term":"embossing",
+            "aatid":300053826,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154559,
+            "term":"relief printing",
+            "aatid":300053285,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2032899,
+            "culture":"Asian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":206417,
+            "name":"image_descriptions_top250"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2017_40966"
+    ],
+    "displaymaker":"Amanda Heng, born 1951, Singapore; active Singapore",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Amanda Heng (born 1951, Singapore; active Singapore), Singirl, 2006. Lithography, screenprinting, embossing, and relief printing on paper; 49.5 × 61 cm. Gift of Karen Karp, Class of 1981, on the occasion of her 35th Reunion (2016-22.8)",
+    "captionhtml":"Amanda Heng (born 1951, Singapore; active Singapore), <i>Singirl</i>, 2006. Lithography, screenprinting, embossing, and relief printing on paper; 49.5 × 61 cm. Gift of Karen Karp, Class of 1981, on the occasion of her 35th Reunion (2016-22.8)",
+    "published_date":"2025-10-16 18:24:09.067779",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

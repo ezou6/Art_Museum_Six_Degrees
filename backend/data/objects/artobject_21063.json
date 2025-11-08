@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":21063,
+    "objectnumber":"y1937-241",
+    "sortnumber":"1937  241y",
+    "displaytitle":"Allegory of Hearing",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1642,
+    "dateend":1670,
+    "datecomputed":1656,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Oil on canvas laid down on wood",
+    "dimensions":"14.7 cm (5 13/16 in.)\r\nframe: 22.1 x 22.1 x 1.9 cm (8 11/16 x 8 11/16 x 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Allegory of Hearing",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5620,
+            "displayname":"Abraham Diepraem",
+            "displaydate":"Dutch, 1622–1670",
+            "datebegin":1622,
+            "dateend":1670,
+            "prefix":"attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"attributed to Abraham Diepraem, Dutch, 1622–1670",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Frank Jewett Mather, Jr., Princeton (until 1937; gift to Princeton University Art Museum).",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":124145,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47067",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Netherlands",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Netherlands",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.25_5.75.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2091870,
+            "term":"peasants",
+            "aatid":300230852,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095243,
+            "term":"allegory",
+            "aatid":300055866,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2148165,
+            "term":"accordions",
+            "aatid":300042819,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"147.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"14.70"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.06"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.06"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47067"
+    ],
+    "displaymaker":"attributed to Abraham Diepraem, Dutch, 1622–1670",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Attributed to Abraham Diepraem (Dutch, 1622–1670), Allegory of Hearing, 17th century. Oil on canvas laid down on wood; 14.7 cm, 22.1 × 22.1 × 1.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1937-241)",
+    "captionhtml":"Attributed to Abraham Diepraem (Dutch, 1622–1670), <i>Allegory of Hearing</i>, 17th century. Oil on canvas laid down on wood; 14.7 cm, 22.1 × 22.1 × 1.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1937-241)",
+    "published_date":"2025-10-16 12:38:17.552297",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

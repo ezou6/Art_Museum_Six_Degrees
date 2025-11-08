@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":3102,
+    "objectnumber":"x1938-202",
+    "sortnumber":"1938  202x",
+    "displaytitle":"Jesse James",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1936,
+    "dateend":1936,
+    "datecomputed":1936,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1936",
+    "medium":"Lithograph",
+    "dimensions":"image: 41 x 55.7 cm. (16 1/8 x 21 15/16 in.)\r\nsheet: 48.7 x 60.2 cm. (19 3/16 x 23 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":"In graphite, lower right: Benton\r\nIn stone, lower left: Benton",
+    "catalograisonne":"Fath 46",
+    "creditlinerepro":"Art © T.H. and R.P. Benton Testamentary Trusts/Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1938-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jesse James",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":351,
+            "displayname":"Thomas Hart Benton",
+            "displaydate":"1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City",
+            "datebegin":1889,
+            "dateend":1975,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Hart Benton, 1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City",
+            "displayorder":1
+        },
+        {
+            "id":19489,
+            "displayname":"Associated American Artists",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Associated American Artists",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":80573,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09896",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States of America, Missouri",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States of America",
+            "region":null,
+            "state":"Missouri",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2079097,
+            "term":"banks (buildings)",
+            "aatid":300005214,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2101942,
+            "term":"locomotives",
+            "aatid":300113388,
+            "termtype":"Subject"
+        },
+        {
+            "id":2191948,
+            "term":"railroads",
+            "aatid":300008591,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050510,
+            "term":"firearms",
+            "aatid":300037148,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072446,
+            "term":"barrels (containers)",
+            "aatid":300194514,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072772,
+            "term":"crates",
+            "aatid":300194527,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094196,
+            "term":"criminals",
+            "aatid":300025837,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"41.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":47305,
+            "name":"Web_WOPSR_2015_07"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09896"
+    ],
+    "displaymaker":"Thomas Hart Benton, 1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City | Published by Associated American Artists",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Hart Benton (1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City), Published by Associated American Artists, Jesse James, 1936. Lithograph; 41 x 55.7 cm (image), 48.7 x 60.2 cm (sheet). Mather Collection (x1938-202)",
+    "captionhtml":"Thomas Hart Benton (1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City), Published by Associated American Artists, <i>Jesse James</i>, 1936. Lithograph; 41 x 55.7 cm (image), 48.7 x 60.2 cm (sheet). Mather Collection (x1938-202)",
+    "published_date":"2025-10-16 10:22:43.611917",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

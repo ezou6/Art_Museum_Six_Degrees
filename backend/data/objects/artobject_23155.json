@@ -1,0 +1,267 @@
+{
+    "type":"artobject",
+    "objectid":23155,
+    "objectnumber":"y1946-70",
+    "sortnumber":"1946   70y",
+    "displaytitle":"Luxembourg",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1887,
+    "dateend":1933,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on wood panel",
+    "dimensions":"21.7 x 15.5 cm (8 9/16 x 6 1/8 in.)\r\nframe: 36.5 x 30.2 x 3.9 cm (14 3/8 x 11 7/8 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Luxembourg",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4702,
+            "displayname":"George Luks",
+            "displaydate":"American, 1867–1933",
+            "datebegin":1867,
+            "dateend":1933,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Luks, American, 1867–1933",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ex-coll. John Frederick Braun, Philadelphia, PA",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":259217,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17716",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":259218,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17718",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":259220,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17801",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<EM>Catalog of an exhibition of the work of George Benjamin Luks</EM>, (Newark, NJ:&nbsp;Newark Museum Association, 1934). ",
+            "citation":"<EM>Catalog of an exhibition of the work of George Benjamin Luks</EM>, (Newark, NJ:&nbsp;Newark Museum Association, 1934). , no. 4; p. 19",
+            "date":1934,
+            "id":7655,
+            "uri":"http://www.worldcat.org/oclc/878631949"
+        },
+        {
+            "boilertext":"D.D. Egbert, \"Three landscapes by American artists\", <em>Record of the Museum of Historic Art, Princeton University </em>5, no. 2 (1946): p. 4-5.",
+            "citation":"D.D. Egbert, \"Three landscapes by American artists\", <em>Record of the Museum of Historic Art, Princeton University </em>5, no. 2 (1946): p. 4-5., p. 4-5; fig. 2",
+            "date":1946,
+            "id":3282,
+            "uri":"https://www.jstor.org/stable/3774190"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris, Luxembourg Gardens",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":"Luxembourg Gardens",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_48.847_2.337.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":247734,
+            "name":"BackOfPaintings_EXH"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17801"
+    ],
+    "displaymaker":"George Luks, American, 1867–1933",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Luks (American, 1867–1933), Luxembourg. Oil on wood panel; 21.7 x 15.5 cm, 36.5 × 30.2 × 3.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1946-70)",
+    "captionhtml":"George Luks (American, 1867–1933), <i>Luxembourg</i>. Oil on wood panel; 21.7 x 15.5 cm, 36.5 × 30.2 × 3.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1946-70)",
+    "published_date":"2025-10-16 12:51:21.127195",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":10485,
+    "objectnumber":"x1963-37",
+    "sortnumber":"1963   37x",
+    "displaytitle":"Art Museum, Princeton College: Longitudinal Section",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1886,
+    "dateend":1886,
+    "datecomputed":1886,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1886",
+    "medium":"Pen and ink and watercolor",
+    "dimensions":"69.4 x 79.4 cm. (27 5/16 x 31 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of A. Page Brown",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1963-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Art Museum, Princeton College: Longitudinal Section",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6149,
+            "displayname":"Arthur Page Brown",
+            "displaydate":"American, 1859–1896",
+            "datebegin":1859,
+            "dateend":1896,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Arthur Page Brown, American, 1859–1896",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":78729,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09540",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2484,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1963-37_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 298, checklist no. 79",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31.",
+            "citation":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31., p. 30",
+            "date":1964,
+            "id":545,
+            "uri":"https://www.jstor.org/stable/3774404"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Princeton",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5102922/princeton.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2079935,
+            "term":"museums",
+            "aatid":300005768,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2083069,
+            "term":"universities",
+            "aatid":300006617,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2126348,
+            "term":"blueprints",
+            "aatid":300028499,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044168,
+            "term":"tracing paper",
+            "aatid":300014161,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09540"
+    ],
+    "displaymaker":"Arthur Page Brown, American, 1859–1896",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Arthur Page Brown (American, 1859–1896), Art Museum, Princeton College: Longitudinal Section, 1886. Pen and ink and watercolor; 69.4 x 79.4 cm. Gift of A. Page Brown (x1963-37)",
+    "captionhtml":"Arthur Page Brown (American, 1859–1896), <i>Art Museum, Princeton College: Longitudinal Section</i>, 1886. Pen and ink and watercolor; 69.4 x 79.4 cm. Gift of A. Page Brown (x1963-37)",
+    "published_date":"2025-10-16 11:22:09.121312",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

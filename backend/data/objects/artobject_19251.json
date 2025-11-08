@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":19251,
+    "objectnumber":"y1929-249",
+    "sortnumber":"1929  249y",
+    "displaytitle":"Plate with \"Bank of the United States, Philadelphia\"",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1790,
+    "dateend":1829,
+    "datecomputed":1810,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Earthenware",
+    "dimensions":"3.9 x diam. 26 cm (1 9/16 x 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Livingston Collection",
+    "markings":"On bottom: Mark and title in oval",
+    "inscribed":"In cavetto: \"Bank of the United States, Philadelphia\";\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate with \"Bank of the United States, Philadelphia\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2606,
+            "displayname":"Joseph Stubbs",
+            "displaydate":"British, 1790–1829",
+            "datebegin":1790,
+            "dateend":1829,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joseph Stubbs, British, 1790–1829",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":136883,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59212",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136884,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59213",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England, Burslem",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Burslem",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_53.004_-2.185.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: United States, Pennsylvania, Philadelphia, First Bank of the United States",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Pennsylvania",
+            "city":"Philadelphia",
+            "county":null,
+            "subregion":null,
+            "locale":"First Bank of the United States",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.948_-75.147.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2079097,
+            "term":"banks (buildings)",
+            "aatid":300005214,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159813,
+            "term":"scalloping",
+            "aatid":300165381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160041,
+            "term":"scrolling foliage",
+            "aatid":300165387,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154579,
+            "term":"transfer printing",
+            "aatid":300053922,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59212"
+    ],
+    "displaymaker":"Joseph Stubbs, British, 1790–1829",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joseph Stubbs (British, 1790–1829), Plate with \"Bank of the United States, Philadelphia\". Earthenware; 3.9 × 26 cm. Livingston Collection (y1929-249)",
+    "captionhtml":"Joseph Stubbs (British, 1790–1829), <i>Plate with \"Bank of the United States, Philadelphia\"</i>. Earthenware; 3.9 × 26 cm. Livingston Collection (y1929-249)",
+    "published_date":"2025-10-16 12:27:11.478348",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

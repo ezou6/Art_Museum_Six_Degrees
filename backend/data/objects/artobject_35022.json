@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":35022,
+    "objectnumber":"1998-342",
+    "sortnumber":"1998  342",
+    "displaytitle":"Saucer brooch",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ornament",
+    "datebegin":500,
+    "dateend":699,
+    "datecomputed":600,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"6th–7th century",
+    "medium":"Gilt bronze",
+    "dimensions":"diam. 5.8 x d. 0.5 cm (2 5/16 x 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saucer brooch",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Museum in 1998",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":17412,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-342",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 57",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"<P><EM>A guide to the Anglo-Saxon and foreign Teutonic antiquities</EM>, (London?:&nbsp;British Museum. Department of British and Mediaeval Antiquities, 1923).</P>",
+            "citation":"<P><EM>A guide to the Anglo-Saxon and foreign Teutonic antiquities</EM>, (London?:&nbsp;British Museum. Department of British and Mediaeval Antiquities, 1923).</P>, p. 34-35; cat. nos. 28-30",
+            "date":1923,
+            "id":2118,
+            "uri":"http://www.worldcat.org/oclc/48993096"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: British Isles",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"British Isles",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_54_-4.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031876,
+            "term":"Anglo-Saxon",
+            "aatid":300021024,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098434,
+            "term":"line",
+            "aatid":300056279,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098308,
+            "term":"circles (plane figures)",
+            "aatid":300055627,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098336,
+            "term":"triangles (polygons)",
+            "aatid":300009806,
+            "termtype":"Subject"
+        },
+        {
+            "id":2130905,
+            "term":"brooches",
+            "aatid":300045995,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159364,
+            "term":"stars",
+            "aatid":300009811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151699,
+            "term":"gilding",
+            "aatid":300053789,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130905,
+            "classification":"brooches"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15053,
+            "culture":"Anglo-Saxon",
+            "alphasort":"Anglo-Saxon",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Anglo-Saxon",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031876,
+            "culture":"Anglo-Saxon"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"5.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-342"
+    ],
+    "displaymaker":null,
+    "displayculture":"Anglo-Saxon",
+    "displayperiod":null,
+    "caption":"Anglo-Saxon, British Isles, 6th–7th century, Saucer brooch. Gilt bronze; 5.8 × 0.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-342)",
+    "captionhtml":"Anglo-Saxon, British Isles, 6th–7th century, <i>Saucer brooch</i>. Gilt bronze; 5.8 × 0.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-342)",
+    "published_date":"2025-10-28 02:01:18.877882",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

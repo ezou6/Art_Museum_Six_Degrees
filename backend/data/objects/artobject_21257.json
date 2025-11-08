@@ -1,0 +1,208 @@
+{
+    "type":"artobject",
+    "objectid":21257,
+    "objectnumber":"y1937-97",
+    "sortnumber":"1937   97y",
+    "displaytitle":"Cup",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1835,
+    "dateend":1937,
+    "datecomputed":1886,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Porcelain",
+    "dimensions":"6.6 x 11.9 x 9.5 cm (2 5/8 x 4 11/16 x 3 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":"Mark, on base: Double Eagle",
+    "inscribed":"Inscription [in Russian]: Brothers Korniloff",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cup",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6145,
+            "displayname":"Kornilov Brothers Porcelain Factory",
+            "displaydate":"Russian, founded 1835 in St. Petersburg",
+            "datebegin":1835,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kornilov Brothers Porcelain Factory, Russian, founded 1835 in St. Petersburg",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":138470,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60589",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138471,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60590",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Russia, St. Petersburg",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Russia",
+            "region":null,
+            "state":null,
+            "city":"St. Petersburg",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_59.939_30.314.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031652,
+            "term":"Russian",
+            "aatid":300111276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159813,
+            "term":"scalloping",
+            "aatid":300165381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2160764,
+            "classification":"porcelain"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031652,
+            "culture":"Russian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"9.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60589"
+    ],
+    "displaymaker":"Kornilov Brothers Porcelain Factory, Russian, founded 1835 in St. Petersburg",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kornilov Brothers Porcelain Factory (Russian, founded 1835 in St. Petersburg), Cup. Porcelain; 6.6 × 11.9 × 9.5 cm. Museum Collection (y1937-97)",
+    "captionhtml":"Kornilov Brothers Porcelain Factory (Russian, founded 1835 in St. Petersburg), <i>Cup</i>. Porcelain; 6.6 × 11.9 × 9.5 cm. Museum Collection (y1937-97)",
+    "published_date":"2025-10-16 12:39:26.699428",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

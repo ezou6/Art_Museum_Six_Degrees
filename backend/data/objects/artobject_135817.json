@@ -1,0 +1,274 @@
+{
+    "type":"artobject",
+    "objectid":135817,
+    "objectnumber":"2019-224",
+    "sortnumber":"2019  224",
+    "displaytitle":"Olla",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1905,
+    "dateend":1915,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1910",
+    "medium":"Ceramic with red and black slip-paint",
+    "dimensions":"h. 24.1 × diam. 29.2 cm (9 1/2 × 11 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Martha Hopkins Struever, Santa Fe (NM), by 2012]; purchased by Jim Maddox, 2012; donated to the Princeton University Art Museum by Jim Maddox and Lucy Maddox, 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":227123,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62753",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":227124,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62750",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Po-woh-ge-oweenge (San Ildefonso) Pueblo, Rio Grande",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Rio Grande",
+            "state":"New Mexico",
+            "city":"Po-woh-ge-oweenge (San Ildefonso) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5489602/san-ildefonso-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040527,
+            "term":"San Ildefonso",
+            "aatid":300017754,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073397,
+            "term":"ollas",
+            "aatid":300199780,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073397,
+            "classification":"ollas"
+        }
+    ],
+    "cultures":[
+        {
+            "id":24001,
+            "culture":"Po-woh-ge-oweenge (San Ildefonso)",
+            "alphasort":"Po-woh-ge-oweenge (San Ildefonso)",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Po-woh-ge-oweenge (San Ildefonso)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040527,
+            "culture":"San Ildefonso"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.12"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"29.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62750"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Po-woh-ge-oweenge (San Ildefonso)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Po-woh-ge-oweenge (San Ildefonso), ca. 1910, Po-woh-ge-oweenge (San Ildefonso) Pueblo, New Mexico, Rio Grande, United States, American southwest, Olla. Ceramic with red and black slip-paint; 24.1 × 29.2 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-224)",
+    "captionhtml":"Artist unidentified, Po-woh-ge-oweenge (San Ildefonso), ca. 1910, Po-woh-ge-oweenge (San Ildefonso) Pueblo, New Mexico, Rio Grande, United States, American southwest, <i>Olla</i>. Ceramic with red and black slip-paint; 24.1 × 29.2 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-224)",
+    "published_date":"2025-10-30 02:09:35.680798",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,296 @@
+{
+    "type":"artobject",
+    "objectid":33361,
+    "objectnumber":"y1991-49",
+    "sortnumber":"1991   49y",
+    "displaytitle":"Saint Nicholas",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1799,
+    "datecomputed":1700,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"17th–18th century",
+    "medium":"Tempera and shellac-coated silver leaf on wood panel",
+    "dimensions":"53.5 x 45 x 5.5 cm (21 1/16 x 17 11/16 x 2 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Edith Merrill Bancroft in memory of Frederick Thayer Merrill, Class of 1928",
+    "markings":null,
+    "inscribed":"Inscriptions to the right and left of main figure's head.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint Nicholas",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Bucharest, Romania; purchased ca. 1960-62 by Bancrofts; 1991 gift by Edith Merrill Bancroft to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":19885,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-49",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 26",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Russia",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Russia",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_60_100.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: Romania, Bucharest",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Romania",
+            "region":null,
+            "state":null,
+            "city":"Bucharest",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_44.432_26.106.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031652,
+            "term":"Russian",
+            "aatid":300111276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188636,
+            "term":"halos (glories)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051776,
+            "term":"icons",
+            "aatid":300033945,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048566,
+            "term":"crosses (objects)",
+            "aatid":300235443,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162319,
+            "term":"silver",
+            "aatid":300011029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167609,
+            "term":"shellac",
+            "aatid":300014918,
+            "termtype":"Materials"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167890,
+            "term":"tempera",
+            "aatid":300015062,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2051776,
+            "classification":"icons"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14101,
+            "culture":"Russian",
+            "alphasort":"Russian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Russian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031652,
+            "culture":"Russian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":216990,
+            "name":"2022_ART430/MED430/HLS430_09_29"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-49"
+    ],
+    "displaymaker":null,
+    "displayculture":"Russian",
+    "displayperiod":null,
+    "caption":"Russian, Saint Nicholas, 17th–18th century. Tempera and shellac-coated silver leaf on wood panel; 53.5 × 45 × 5.5 cm. Gift of Edith Merrill Bancroft in memory of Frederick Thayer Merrill, Class of 1928 (y1991-49)",
+    "captionhtml":"Russian, <i>Saint Nicholas</i>, 17th–18th century. Tempera and shellac-coated silver leaf on wood panel; 53.5 × 45 × 5.5 cm. Gift of Edith Merrill Bancroft in memory of Frederick Thayer Merrill, Class of 1928 (y1991-49)",
+    "published_date":"2025-10-16 13:35:20.204594",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

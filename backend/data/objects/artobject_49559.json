@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":49559,
+    "objectnumber":"2006-186",
+    "sortnumber":"2006  186",
+    "displaytitle":"German Art Critic",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1984,
+    "dateend":1984,
+    "datecomputed":1984,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1984",
+    "medium":"Woodcut on Rives BFK white wove paper",
+    "dimensions":"block: 56.8 × 64.1 cm (22 3/8 × 25 1/4 in.)\r\nsheet: 75.5 x 79.5 cm. (29 3/4 x 31 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Numbered in graphite below image, lower left: 5//30\r\n\r\nSigned and dated in graphite below image, lower right: CICERO 1984\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"German Art Critic",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6539,
+            "displayname":"Carmen Louis Cicero",
+            "displaydate":"American, born 1926",
+            "datebegin":1926,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Carmen Louis Cicero, American, born 1926",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":142960,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63779",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 83",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.50"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.80"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"64.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63779"
+    ],
+    "displaymaker":"Carmen Louis Cicero, American, born 1926",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Carmen Louis Cicero (American, born 1926), German Art Critic, 1984. Woodcut on Rives BFK white wove paper; 75.5 x 79.5 cm (sheet), 56.8 × 64.1 cm (block). Gift of James Kraft, Class of 1957 (2006-186)",
+    "captionhtml":"Carmen Louis Cicero (American, born 1926), <i>German Art Critic</i>, 1984. Woodcut on Rives BFK white wove paper; 75.5 x 79.5 cm (sheet), 56.8 × 64.1 cm (block). Gift of James Kraft, Class of 1957 (2006-186)",
+    "published_date":"2025-10-16 15:06:55.031656",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

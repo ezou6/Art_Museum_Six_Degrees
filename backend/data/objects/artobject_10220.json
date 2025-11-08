@@ -1,0 +1,171 @@
+{
+    "type":"artobject",
+    "objectid":10220,
+    "objectnumber":"x1960-42",
+    "sortnumber":"1960   42x",
+    "displaytitle":"Reflections",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1904,
+    "dateend":1949,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 20 x 5 cm. (7 7/8 x 1 15/16 in.)\r\nsheet: 25.2 x 9.7 cm. (9 15/16 x 3 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Julie Parsons Redmond",
+    "markings":null,
+    "inscribed":"Signed in pencil below bottom right corner of plate: Will Simmons",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Reflections",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2407,
+            "displayname":"Will Simmons",
+            "displaydate":"American, 1884–1949",
+            "datebegin":1884,
+            "dateend":1949,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Will Simmons, American, 1884–1949",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104452,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28874",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 25",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28874"
+    ],
+    "displaymaker":"Will Simmons, American, 1884–1949",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Will Simmons (American, 1884–1949), Reflections. Etching; 20 x 5 cm (plate), 25.2 x 9.7 cm (sheet). Bequest of Julie Parsons Redmond (x1960-42)",
+    "captionhtml":"Will Simmons (American, 1884–1949), <i>Reflections</i>. Etching; 20 x 5 cm (plate), 25.2 x 9.7 cm (sheet). Bequest of Julie Parsons Redmond (x1960-42)",
+    "published_date":"2025-10-16 11:20:36.542617",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":36097,
+    "objectnumber":"PU 7176",
+    "sortnumber":"U      7176P",
+    "displaytitle":"Doll",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Buckskin, linen, yarn, beads, and tin",
+    "dimensions":"h. 32.0 cm., w. 12.0 cm., d. 4.3 cm. (12 5/8 x 4 3/4 x 1 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Doll",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"Times New Roman\" size=\"3\">\n\n</font><p style=\"margin: 0in 0in 8pt;\"><span style='line-height: 107%; font-family: \"Arial\",sans-serif; font-size: 10pt;'>Collected by W. A. M. van der Gracht ca. 1900; Given to E.\nM. Museum (Princeton Museum of Natural History), 1925</span></p><font face=\"Times New Roman\" size=\"3\">\n\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43678,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009048",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Patricia Garrett, ed. <i>The Guardians: The Native American Artists</i> (Summit, NJ: Summit Art Center, 1980).",
+            "citation":"Patricia Garrett, ed. <i>The Guardians: The Native American Artists</i> (Summit, NJ: Summit Art Center, 1980)., cat. no. 50, p. 8",
+            "date":1980,
+            "id":1234,
+            "uri":"http://www.worldcat.org/oclc/30414350"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1739,
+            "citation":"The Guardians: The Native American Artists (September 28 - November 9, 1980)",
+            "isvirtual":true,
+            "begindate":"1980-09-28",
+            "enddate":"1980-11-09",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1739"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Plains",
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048999,
+            "term":"regalia",
+            "aatid":300185696,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055452,
+            "term":"dolls",
+            "aatid":300211087,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040459,
+            "term":"Apache",
+            "aatid":300017724,
+            "termtype":"Culture"
+        },
+        {
+            "id":2089652,
+            "term":"dancers",
+            "aatid":300025653,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2157849,
+            "term":"beading (process)",
+            "aatid":300235440,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2048485,
+            "term":"beads",
+            "aatid":300234006,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162369,
+            "term":"tin",
+            "aatid":300133748,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151468,
+            "term":"sewing",
+            "aatid":300053658,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045497,
+            "term":"buckskin",
+            "aatid":300011846,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055452,
+            "classification":"dolls"
+        }
+    ],
+    "cultures":[
+        {
+            "id":16421,
+            "culture":"Apache",
+            "alphasort":"Apache",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Apache",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040459,
+            "culture":"Apache"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.25"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009048"
+    ],
+    "displaymaker":null,
+    "displayculture":"Apache",
+    "displayperiod":null,
+    "caption":"Apache, ca. 1900, United States, Plains, Doll. Buckskin, linen, yarn, beads, and tin; 32 x 12 x 4.3 cm. Lent by the Department of Geosciences, Princeton University (PU 7176)",
+    "captionhtml":"Apache, ca. 1900, United States, Plains, <i>Doll</i>. Buckskin, linen, yarn, beads, and tin; 32 x 12 x 4.3 cm. Lent by the Department of Geosciences, Princeton University (PU 7176)",
+    "published_date":"2025-10-16 13:51:26.237617",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

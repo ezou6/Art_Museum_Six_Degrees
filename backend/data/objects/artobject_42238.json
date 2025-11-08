@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":42238,
+    "objectnumber":"2003-289",
+    "sortnumber":"2003  289",
+    "displaytitle":"Cigar box",
+    "department":"American Art",
+    "classification":"Metal",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Silver with cedar lining",
+    "dimensions":"12.4 × 19.7 × 11.1 cm (4 7/8 × 7 3/4 × 4 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Emily Fisher Landau",
+    "markings":null,
+    "inscribed":"Gorham/Sterling; inscribed on lid: LW",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cigar box",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4904,
+            "displayname":"Gorham Manufacturing Co.",
+            "displaydate":"American, established in 1831",
+            "datebegin":1831,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Silversmithy",
+            "displaymaker":"Gorham Manufacturing Co., American, established in 1831",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":138727,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138728,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60677",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138729,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60678",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 105",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: United States, Rhode Island, Providence, Gorham Manufacturing Co.",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Rhode Island",
+            "city":"Providence",
+            "county":null,
+            "subregion":null,
+            "locale":"Gorham Manufacturing Co.",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072562,
+            "term":"boxes (containers)",
+            "aatid":300045643,
+            "termtype":"Subject"
+        },
+        {
+            "id":2074534,
+            "term":"cigar boxes",
+            "aatid":300221187,
+            "termtype":"Classification"
+        },
+        {
+            "id":2047261,
+            "term":"cedar",
+            "aatid":300012514,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162319,
+            "term":"silver",
+            "aatid":300011029,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2047261,
+            "term":"cedar",
+            "aatid":300012514,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162319,
+            "term":"silver",
+            "aatid":300011029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2074534,
+            "classification":"cigar boxes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"11.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60676"
+    ],
+    "displaymaker":"Gorham Manufacturing Co., American, established in 1831",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gorham Manufacturing Co. (American, established in 1831), Providence, Rhode Island, Cigar box, ca. 1900. Silver with cedar lining; 12.4 × 19.7 × 11.1 cm. Gift of Emily Fisher Landau (2003-289)",
+    "captionhtml":"Gorham Manufacturing Co. (American, established in 1831), Providence, Rhode Island, <i>Cigar box</i>, ca. 1900. Silver with cedar lining; 12.4 × 19.7 × 11.1 cm. Gift of Emily Fisher Landau (2003-289)",
+    "published_date":"2025-10-30 02:06:53.199244",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

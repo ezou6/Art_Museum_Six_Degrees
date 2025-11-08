@@ -1,0 +1,174 @@
+{
+    "type":"artobject",
+    "objectid":7018,
+    "objectnumber":"x1948-1900",
+    "sortnumber":"1948 1900x",
+    "displaytitle":"Greeting",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1892,
+    "dateend":1892,
+    "datecomputed":1892,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1892",
+    "medium":"Etching",
+    "dimensions":"plate: 11.8 x 8.8 cm. (4 5/8 x 3 7/16 in.)\r\nsheet: 30.4 x 20.5 cm. (11 15/16 x 8 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Estate of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":"signed in pencil, l.r.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Greeting",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4355,
+            "displayname":"Käthe Kollwitz",
+            "displaydate":"1867–1945; born Königsberg, Prussia (Kaliningrad, Russia); died Moritzburg Castle, Germany",
+            "datebegin":1867,
+            "dateend":1945,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Käthe Kollwitz, 1867–1945; born Königsberg, Prussia (Kaliningrad, Russia); died Moritzburg Castle, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted by the estate to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":101465,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26103",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":101466,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26104",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15.",
+            "citation":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15., p. 15",
+            "date":1949,
+            "id":847,
+            "uri":"https://www.jstor.org/stable/3774270"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26103"
+    ],
+    "displaymaker":"Käthe Kollwitz, 1867–1945; born Königsberg, Prussia (Kaliningrad, Russia); died Moritzburg Castle, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Käthe Kollwitz (1867–1945; born Königsberg, Prussia (Kaliningrad, Russia); died Moritzburg Castle, Germany), Greeting, 1892. Etching; 11.8 x 8.8 cm (plate), 30.4 x 20.5 cm (sheet). Estate of Albert E. McVitty, Class of 1898 (x1948-1900)",
+    "captionhtml":"Käthe Kollwitz (1867–1945; born Königsberg, Prussia (Kaliningrad, Russia); died Moritzburg Castle, Germany), <i>Greeting</i>, 1892. Etching; 11.8 x 8.8 cm (plate), 30.4 x 20.5 cm (sheet). Estate of Albert E. McVitty, Class of 1898 (x1948-1900)",
+    "published_date":"2025-10-16 10:52:33.174104",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

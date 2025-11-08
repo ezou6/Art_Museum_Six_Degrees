@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":9538,
+    "objectnumber":"x1954-28",
+    "sortnumber":"1954   28x",
+    "displaytitle":"Art Dealer's Window",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1899,
+    "dateend":1954,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 20.1 x 17.6 cm (7 15/16 x 6 15/16 in.)\r\nsheet: 45 x 33 cm (17 11/16 x 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Henry K. Dick, Class of 1909",
+    "markings":null,
+    "inscribed":"On back: This print is an original etching made by me..",
+    "signed":"Signed in plate, lower right: © Raymond",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Art Dealer's Window",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3188,
+            "displayname":"Grant Raymond",
+            "displaydate":"American",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Grant Raymond, American",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104731,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29149",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":104732,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29150",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 18",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089652,
+            "term":"dancers",
+            "aatid":300025653,
+            "termtype":"Subject"
+        },
+        {
+            "id":2092422,
+            "term":"dealers",
+            "aatid":300025236,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29150"
+    ],
+    "displaymaker":"Grant Raymond, American",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Grant Raymond (American), Art Dealer's Window. Etching; 20.1 x 17.6 cm (plate), 45 x 33 cm (sheet). Bequest of Henry K. Dick, Class of 1909 (x1954-28)",
+    "captionhtml":"Grant Raymond (American), <i>Art Dealer's Window</i>. Etching; 20.1 x 17.6 cm (plate), 45 x 33 cm (sheet). Bequest of Henry K. Dick, Class of 1909 (x1954-28)",
+    "published_date":"2025-10-23 16:51:44.613479",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

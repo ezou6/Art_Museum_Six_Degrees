@@ -1,0 +1,271 @@
+{
+    "type":"artobject",
+    "objectid":40239,
+    "objectnumber":"2001-130",
+    "sortnumber":"2001  130",
+    "displaytitle":"Jalada de pelos (Pulling One's Hairs)",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1987,
+    "dateend":1987,
+    "datecomputed":1987,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1987",
+    "medium":"Gouache and watercolor with sand and black ink",
+    "dimensions":"24.7 x 34.5 cm (9 3/4 x 13 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, on verso bottom center: Jalada de pelos, 1987 \r\n",
+    "signed":"Signed in graphite, lower center: Toledo",
+    "catalograisonne":null,
+    "creditlinerepro":"© Francisco Toledo",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":2793,
+            "displayname":"Francisco Toledo",
+            "displaydate":"1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "datebegin":1940,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13458,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-130_REC",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "citation":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "date":2007,
+            "id":5865,
+            "uri":"http://www.worldcat.org/oclc/225896945"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 112",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Oaxaca, Oaxaca City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Oaxaca",
+            "city":"Oaxaca City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3522507/oaxaca.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2166391,
+            "term":"sand",
+            "aatid":300014341,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":100432,
+            "name":"web_wopsr_2017_02_Latin_American"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2001-130_REC"
+    ],
+    "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), Jalada de pelos (Pulling One's Hairs), 1987. Gouache and watercolor with sand and black ink; 24.7 x 34.5 cm. Bequest of David L. Meginnity, Class of 1958 (2001-130)",
+    "captionhtml":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), <i>Jalada de pelos (Pulling One's Hairs)</i>, 1987. Gouache and watercolor with sand and black ink; 24.7 x 34.5 cm. Bequest of David L. Meginnity, Class of 1958 (2001-130)",
+    "published_date":"2025-10-16 14:09:39.005486",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

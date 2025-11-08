@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":34672,
+    "objectnumber":"y831",
+    "sortnumber":"831     y",
+    "displaytitle":"Pitcher",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1833,
+    "dateend":1847,
+    "datecomputed":1840,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1833–47",
+    "medium":"Stoneware",
+    "dimensions":"14.7 x 21 x 16.5 cm (5 13/16 x 8 1/4 x 6 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":"Impressed on base: Copeland & Garrett;\r\nOn base, written: “Staffordshire” and “831”;",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pitcher",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6637,
+            "displayname":"Copeland & Garrett",
+            "displaydate":"British, 1833–1847",
+            "datebegin":1833,
+            "dateend":1847,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Copeland & Garrett, British, 1833–1847",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":136784,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59113",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136785,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59114",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136786,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59115",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136787,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59116",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136788,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59117",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":"Staffordshire",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.833_-2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055330,
+            "term":"reliefs",
+            "aatid":300047230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049308,
+            "term":"stoneware",
+            "aatid":300010672,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159384,
+            "term":"plant-derived motifs",
+            "aatid":300164599,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073439,
+            "term":"pitchers",
+            "aatid":300194765,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147324,
+            "term":"hunting",
+            "aatid":300239666,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049308,
+            "term":"stoneware",
+            "aatid":300010672,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049308,
+            "classification":"stoneware"
+        },
+        {
+            "id":2073439,
+            "classification":"pitchers"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"16.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59113"
+    ],
+    "displaymaker":"Copeland & Garrett, British, 1833–1847",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Copeland & Garrett (British, 1833–1847), Pitcher, 1833–47. Stoneware; 14.7 × 21 × 16.5 cm. Trumbull-Prime Collection (y831)",
+    "captionhtml":"Copeland & Garrett (British, 1833–1847), <i>Pitcher</i>, 1833–47. Stoneware; 14.7 × 21 × 16.5 cm. Trumbull-Prime Collection (y831)",
+    "published_date":"2025-10-16 13:42:04.307941",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

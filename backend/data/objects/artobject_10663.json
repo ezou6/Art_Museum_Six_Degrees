@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":10663,
+    "objectnumber":"x1965-79",
+    "sortnumber":"1965   79x",
+    "displaytitle":"Old '79 Hall, Princeton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1909,
+    "dateend":1954,
+    "datecomputed":1932,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching, 145/300",
+    "dimensions":"plate: 22.3 x 19 cm (8 3/4 x 7 1/2 in.)\r\nsheet: 33 x 26 cm (13 x 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Artist (Don Swann)",
+    "markings":null,
+    "inscribed":"Signed in pencil, lower right below plate: Don Swann",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Old '79 Hall, Princeton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2657,
+            "displayname":"Don Swann",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Don Swann",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104457,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28879",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28879"
+    ],
+    "displaymaker":"Don Swann",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Don Swann, Old '79 Hall, Princeton. Etching, 145/300; 22.3 x 19 cm (plate), 33 x 26 cm (sheet). Gift of the Artist (Don Swann) (x1965-79)",
+    "captionhtml":"Don Swann, <i>Old '79 Hall, Princeton</i>. Etching, 145/300; 22.3 x 19 cm (plate), 33 x 26 cm (sheet). Gift of the Artist (Don Swann) (x1965-79)",
+    "published_date":"2025-10-23 16:53:36.996398",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

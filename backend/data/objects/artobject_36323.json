@@ -1,0 +1,276 @@
+{
+    "type":"artobject",
+    "objectid":36323,
+    "objectnumber":"1998-69",
+    "sortnumber":"1998   69",
+    "displaytitle":"Quotations on Canonical Texts",
+    "department":"Asian Art",
+    "classification":"Calligraphy",
+    "datebegin":1739,
+    "dateend":1804,
+    "datecomputed":1772,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Calligraphy: 175.2 x 45.3 cm. (69 x 17 13/16 in.)\r\nMount: 229 x 65.5 cm. (90 3/16 x 25 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":"Artist, \"Liu Yong zhi yin\" 劉墉之印, square intaglio\r\nArtist, \"Shian\" 石菴, square relief\r\nArtist, ???? , tall rectangular relief\r\n\r\nThree characters in ink on label adhered to edge of rolled scroll",
+    "inscribed":null,
+    "signed":"signed \"Shian\" 石菴",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Quotations on Canonical Texts",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4646,
+            "displayname":"Liu Yong 劉墉",
+            "displaydate":"1719–1804",
+            "datebegin":1719,
+            "dateend":1804,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Liu Yong 劉墉, 1719–1804",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;John B. Elliott (Princeton, NJ), by bequest to the Princeton University Art Museum, 1998. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":62189,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08395",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1891,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-69",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 79",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122110,
+            "term":"quotations (texts)",
+            "aatid":300026941,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"229.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"65.50"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"175.20"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-69"
+    ],
+    "displaymaker":"Liu Yong 劉墉, 1719–1804",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Liu Yong 劉墉 (1719–1804), Quotations on Canonical Texts, undated. Hanging scroll; ink on paper; 175.2 x 45.3 cm (Calligraphy). Bequest of John B. Elliott, Class of 1951 (1998-69)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Liu Yong 劉墉 (1719–1804), <i>Quotations on Canonical Texts</i>, undated. Hanging scroll; ink on paper; 175.2 x 45.3 cm (Calligraphy). Bequest of John B. Elliott, Class of 1951 (1998-69)",
+    "published_date":"2025-10-16 13:52:30.921889",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

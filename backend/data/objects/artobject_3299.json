@@ -1,0 +1,197 @@
+{
+    "type":"artobject",
+    "objectid":3299,
+    "objectnumber":"1995-215",
+    "sortnumber":"1995  215",
+    "displaytitle":"Bottle",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":800,
+    "dateend":999,
+    "datecomputed":900,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"9th–10th century",
+    "medium":"Glass",
+    "dimensions":"h. 5.1 cm, diam. 3.4 cm (2 x 1 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumberg, Jr., Class of 1924",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bottle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Formerly in the collection of&nbsp;Edward S. Naumburg, Jr. '24; given to the Museum in 1995 by  Elliott M. Sanger and Kenneth E. Sanger",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43804,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008878",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":9790,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-215-217_SL",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 67",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Syria, Damascus",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Damascus",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_33.51_36.291.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2037621,
+            "term":"Islamic World dynastic styles and periods",
+            "aatid":300021520,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072893,
+            "term":"bottles",
+            "aatid":300045627,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072893,
+            "classification":"bottles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14523,
+            "culture":"Islamic",
+            "alphasort":"Islamic",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Islamic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2037621,
+            "period":"Islamic World dynastic styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.10"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"3.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008878"
+    ],
+    "displaymaker":null,
+    "displayculture":"Islamic",
+    "displayperiod":null,
+    "caption":"Islamic, Syria, 9th–10th century, Bottle. Glass; 5.1 x 3.4 cm. Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumberg, Jr., Class of 1924 (1995-215)",
+    "captionhtml":"Islamic, Syria, 9th–10th century, <i>Bottle</i>. Glass; 5.1 x 3.4 cm. Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumberg, Jr., Class of 1924 (1995-215)",
+    "published_date":"2025-10-16 10:23:53.136307",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

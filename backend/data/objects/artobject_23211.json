@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":23211,
+    "objectnumber":"y1947-171",
+    "sortnumber":"1947  171y",
+    "displaytitle":"Bamboo and Mantis (Zhu chong tu ce 竹蟲圖冊)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1370,
+    "dateend":1499,
+    "datecomputed":1434,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"late 14th–15th century",
+    "medium":"Album leaf; color on silk",
+    "dimensions":"Painting: 23 x 23.9 cm. (9 1/16 x 9 7/16 in.)\r\nLeaf: 43.4 x 69.4 cm. (17 1/16 x 27 5/16 in.)\r\nMat: 51 x 40.7 cm. (20 1/16 x 16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":null,
+    "signed":"unsigned",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":14359,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-171",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158048,
+            "term":"insects",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.90"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.00"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.70"
+        },
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.40"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"69.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":3734,
+            "name":"Web_Chinese_2013_12"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":181967,
+            "name":"web_2020_Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-171"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Anonymous, Bamboo and Mantis (Zhu chong tu ce 竹蟲圖冊), late 14th–15th century. Album leaf; color on silk; 23 x 23.9 cm (Painting), 43.4 x 69.4 cm (Leaf), 51 x 40.7 cm (mat). Gift of DuBois Schanck Morris, Class of 1893   (y1947-171)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Anonymous, <i>Bamboo and Mantis (Zhu chong tu ce 竹蟲圖冊)</i>, late 14th–15th century. Album leaf; color on silk; 23 x 23.9 cm (Painting), 43.4 x 69.4 cm (Leaf), 51 x 40.7 cm (mat). Gift of DuBois Schanck Morris, Class of 1893   (y1947-171)",
+    "published_date":"2025-10-16 12:51:37.825832",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

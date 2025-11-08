@@ -1,0 +1,276 @@
+{
+    "type":"artobject",
+    "objectid":130022,
+    "objectnumber":"2017-148",
+    "sortnumber":"2017  148",
+    "displaytitle":"Saturday Night",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1939,
+    "dateend":1949,
+    "datecomputed":1944,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1944–45",
+    "medium":"Carborundum print",
+    "dimensions":"plate: 21 × 18.8 cm (8 1/4 × 7 3/8 in.)\r\nsheet: 28 × 24.2 cm (11 × 9 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite lower right: D THRASH",
+    "catalograisonne":null,
+    "creditlinerepro":"© Dox Thrash",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saturday Night",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18304,
+            "displayname":"Dox Thrash",
+            "displaydate":"1893–1965; born Griffin, GA; died Philadelphia, PA",
+            "datebegin":1893,
+            "dateend":1965,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Dox Thrash, 1893–1965; born Griffin, GA; died Philadelphia, PA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<SPAN lang=EN>\r\n<P dir=ltr align=left>An important figure in the history of modern printmaking, Thrash was one of several African American artists who worked in the Federal Art Project’s Fine Print Workshop in Philadelphia during the 1930s and 1940s. There he developed an innovative technique that utilized the commercial abrasive Carborundum to produce the rich velvety and atmospheric effects in prints such as <I>Saturday Night</I>, one of several variations of the same interior scene. Wedged in between a stove and a large chair, a young woman laboriously straightens her hair with a heating comb in preparation for an evening out. Possibly a hairdresser working out of her apartment, she gazes into a mirror placed on the chair, which may have been vacated by her last client. </P>\r\n<P dir=ltr align=left></P></SPAN>",
+            "remarks":"K2 Corridor: Revealing Interiors"
+        }
+    ],
+    "media":[
+        {
+            "id":202657,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2017-38",
+            "isprimary":0,
+            "rank":40,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Acquisition meeting image"
+        },
+        {
+            "id":217432,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931139",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Pennsylvania, Philadelphia",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Pennsylvania",
+            "city":"Philadelphia",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4560349/philadelphia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199090,
+            "term":"hair straighteners",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054545,
+            "term":"mezzotints",
+            "aatid":300041356,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154948,
+            "term":"mezzotint",
+            "aatid":300053233,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2166526,
+            "term":"Carborundum (TM)",
+            "aatid":300183644,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054545,
+            "classification":"mezzotints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":156231,
+            "name":"web_WoPSR_2019_AfricanAmericanPrints"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":134982,
+            "name":"web_2018_K2_Interiors_Install_April"
+        },
+        {
+            "packageid":210081,
+            "name":"2022_AAS341/ART375_02_07"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931139"
+    ],
+    "displaymaker":"Dox Thrash, 1893–1965; born Griffin, GA; died Philadelphia, PA",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Dox Thrash (1893–1965; born Griffin, GA; died Philadelphia, PA), Saturday Night, ca. 1944–45. Carborundum print; 21 × 18.8 cm (plate), 28 × 24.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2017-148)",
+    "captionhtml":"Dox Thrash (1893–1965; born Griffin, GA; died Philadelphia, PA), <i>Saturday Night</i>, ca. 1944–45. Carborundum print; 21 × 18.8 cm (plate), 28 × 24.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2017-148)",
+    "published_date":"2025-10-16 18:39:58.089820",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

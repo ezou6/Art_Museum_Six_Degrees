@@ -1,0 +1,224 @@
+{
+    "type":"artobject",
+    "objectid":62534,
+    "objectnumber":"ui.2010.171",
+    "sortnumber":"i      2010u  171",
+    "displaytitle":"Hat",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1840,
+    "dateend":1860,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1850",
+    "medium":"Twined spruce or cedar root with blue paint",
+    "dimensions":"h. 24 × diam. 30.5 cm (9 7/16 × 12 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hat",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Probably collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to E. M. Museum (Princeton Museum of Natural History), 1882-1885",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":61422,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009629",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8617633/coastal-waters-of-southeast-alaska-and-british-columbia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127414,
+            "term":"clothing",
+            "aatid":300178802,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040029,
+            "term":"Northwest Coast Native American styles",
+            "aatid":300017594,
+            "termtype":"Culture"
+        },
+        {
+            "id":2199052,
+            "term":"basketry (object genre)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159966,
+            "term":"zigzags",
+            "aatid":300165028,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2157642,
+            "term":"twining",
+            "aatid":300228538,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045855,
+            "term":"root",
+            "aatid":300081475,
+            "termtype":"Materials"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Color"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2131442,
+            "classification":"hats"
+        },
+        {
+            "id":2199052,
+            "classification":"basketry (object genre)"
+        },
+        {
+            "id":2127414,
+            "classification":"clothing"
+        }
+    ],
+    "cultures":[
+        {
+            "id":21180,
+            "culture":"Northern Northwest Coast",
+            "alphasort":"Northern Northwest Coast",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Northern Northwest Coast",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040029,
+            "culture":"Northwest Coast Native American styles"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009629"
+    ],
+    "displaymaker":null,
+    "displayculture":"Northern Northwest Coast",
+    "displayperiod":null,
+    "caption":"Northern Northwest Coast, ca. 1850, Alaska, United States, Northwest Coast, Hat. Twined spruce or cedar root with blue paint; 24 × 30.5 cm. Museum Collection (ui.2010.171)",
+    "captionhtml":"Northern Northwest Coast, ca. 1850, Alaska, United States, Northwest Coast, <i>Hat</i>. Twined spruce or cedar root with blue paint; 24 × 30.5 cm. Museum Collection (ui.2010.171)",
+    "published_date":"2025-10-16 16:10:26.425809",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

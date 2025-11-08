@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":34248,
+    "objectnumber":"y223",
+    "sortnumber":"223     y",
+    "displaytitle":"Beaker",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":100,
+    "dateend":299,
+    "datecomputed":200,
+    "daterange":"A.D. 1-500",
+    "displaydate":"probably 2nd–3rd century CE",
+    "medium":"Transparent light green glass",
+    "dimensions":"h. 11.2 cm, diam. rim 6.6 cm, diam. base 4.5 cm (4 7/16 x 2 5/8 x 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W.L. Bogert, Class of 1912",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Beaker",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Rounded, fire-polished, flaring rim. The sides of the body bulge near the top and narrow gradually to a disk foot with a slightly concave bottom.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74503,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y223",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 174 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Syria",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_38.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: Israel, Ṭabariyyah",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Israel",
+            "region":null,
+            "state":null,
+            "city":"Ṭabariyyah",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_32.792_35.531.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072880,
+            "term":"beakers (vessels)",
+            "aatid":300199747,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036755,
+            "term":"Late Antique",
+            "aatid":300020666,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072880,
+            "classification":"beakers (vessels)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Roman Imperial to Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        },
+        {
+            "id":2036755,
+            "period":"Late Antique"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"6.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"4.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y223"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial to Late Antiquity, ca. 476–700 CE",
+    "caption":"Roman Imperial to Late Antiquity (ca. 476–700 CE), Syria, probably 2nd–3rd century CE, Beaker. Transparent light green glass; 11.2 x 6.6 x 4.5 cm. Gift of W.L. Bogert, Class of 1912 (y223)",
+    "captionhtml":"Roman Imperial to Late Antiquity (ca. 476–700 CE), Syria, probably 2nd–3rd century CE, <i>Beaker</i>. Transparent light green glass; 11.2 x 6.6 x 4.5 cm. Gift of W.L. Bogert, Class of 1912 (y223)",
+    "published_date":"2025-10-18 02:04:07.527624",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

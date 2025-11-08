@@ -1,0 +1,171 @@
+{
+    "type":"artobject",
+    "objectid":36199,
+    "objectnumber":"1998-237",
+    "sortnumber":"1998  237",
+    "displaytitle":"The Artist's Wife, Alice",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1879,
+    "dateend":1927,
+    "datecomputed":1903,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Color etching on off-white wove paper",
+    "dimensions":"plate: 21.4 x 15.9 cm. (8 7/16 x 6 1/4 in.)\r\nsheet: 39.5 x 32.5 cm (15 9/16 x 12 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of George C. Kenney II",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Artist's Wife, Alice",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5168,
+            "displayname":"Paul-Cesar Helleu",
+            "displaydate":"French, 1859–1927",
+            "datebegin":1859,
+            "dateend":1927,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paul-Cesar Helleu, French, 1859–1927",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":96931,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22545",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":371,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-237_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 98",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22545"
+    ],
+    "displaymaker":"Paul-Cesar Helleu, French, 1859–1927",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paul-Cesar Helleu (French, 1859–1927), The Artist's Wife, Alice. Color etching on off-white wove paper; 21.4 x 15.9 cm (plate), 39.5 x 32.5 cm (sheet). Gift of George C. Kenney II (1998-237)",
+    "captionhtml":"Paul-Cesar Helleu (French, 1859–1927), <i>The Artist's Wife, Alice</i>. Color etching on off-white wove paper; 21.4 x 15.9 cm (plate), 39.5 x 32.5 cm (sheet). Gift of George C. Kenney II (1998-237)",
+    "published_date":"2025-10-16 13:51:52.973811",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

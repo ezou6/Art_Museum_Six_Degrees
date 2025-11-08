@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":40743,
+    "objectnumber":"2001-243",
+    "sortnumber":"2001  243",
+    "displaytitle":"Dead stag on rocks by the river",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1850,
+    "dateend":1859,
+    "datecomputed":1854,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1850s",
+    "medium":"Albumen print",
+    "dimensions":"18.7 × 23.5 cm (7 3/8 × 9 1/4 in.)\r\nmount: 29.1 x 32.8 cm (11 7/16 x 12 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. Donald Lappé, Class of 1968, and Mrs. Alice Lappé",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":682,
+            "displayname":"Horatio Ross",
+            "displaydate":"British, 1801–1886",
+            "datebegin":1801,
+            "dateend":1886,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Horatio Ross, British, 1801–1886",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84908,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11499",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 129",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2642370/river-mole.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158074,
+            "term":"deer",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2135437,
+            "term":"deaths",
+            "aatid":300151836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147324,
+            "term":"hunting",
+            "aatid":300239666,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.80"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11499"
+    ],
+    "displaymaker":"Horatio Ross, British, 1801–1886",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Horatio Ross (British, 1801–1886), Dead stag on rocks by the river, 1850s. Albumen print; 18.7 × 23.5 cm. Gift of Dr. Donald Lappé, Class of 1968, and Mrs. Alice Lappé (2001-243)",
+    "captionhtml":"Horatio Ross (British, 1801–1886), Dead stag on rocks by the river, 1850s. Albumen print; 18.7 × 23.5 cm. Gift of Dr. Donald Lappé, Class of 1968, and Mrs. Alice Lappé (2001-243)",
+    "published_date":"2025-10-16 14:11:25.328408",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

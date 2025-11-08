@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":69850,
+    "objectnumber":"x1980-3295",
+    "sortnumber":"1980 3295x",
+    "displaytitle":"Vicinity of Smethport, Pennsylvania",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1957,
+    "dateend":1957,
+    "datecomputed":1957,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"October 30, 1957",
+    "medium":"Gelatin silver print",
+    "dimensions":"24 × 18 cm (9 7/16 × 7 1/16 in.)\r\nmount: 44 × 35.6 cm (17 5/16 × 14 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 57-64-2",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two Trees",
+            "titletype":"Published",
+            "displayorder":3
+        },
+        {
+            "title":"Vicinity of Smethport, Pennsylvania",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Prospect Mill, Vicinity of Smethport, Pennsylvania",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":176231,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA04714",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Pennsylvania, Smethport",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Pennsylvania",
+            "city":"Smethport",
+            "county":"McKean County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5212582/smethport.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171663,
+            "term":"leaves",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120396,
+            "term":"woods",
+            "aatid":300132451,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120580,
+            "term":"forests",
+            "aatid":300008863,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA04714"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Vicinity of Smethport, Pennsylvania, October 30, 1957. Gelatin silver print; 24 × 18 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-3295)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Vicinity of Smethport, Pennsylvania</i>, October 30, 1957. Gelatin silver print; 24 × 18 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-3295)",
+    "published_date":"2025-10-16 16:44:00.568373",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

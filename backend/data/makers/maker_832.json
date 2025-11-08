@@ -1,0 +1,72 @@
+{
+    "makerid":832,
+    "published_date":"2025-06-27 02:02:21.769994",
+    "type":"maker",
+    "displayname":"Joseph Wright of Derby",
+    "makertype":"Individual",
+    "alphasort":"Wright of Derby, Joseph",
+    "lastname":"Wright of Derby",
+    "firstname":"Joseph",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1734–1797; born and died Derby, England",
+    "begindate":1734,
+    "enddate":1797,
+    "nationality":"English",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Joseph Wright of Derby",
+            "alphasort":"Wright of Derby, Joseph",
+            "lastname":"Wright of Derby",
+            "firstname":"Joseph",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        },
+        {
+            "nametype":"Alternate",
+            "displayname":"Joseph Wright",
+            "alphasort":"Wright, Joseph",
+            "lastname":"Wright",
+            "firstname":"Joseph",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500029777"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/89048916"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d77b2615b2d1200164d398d"
+            },
+            "title":"Mary Pitcairn Keating Lecture | Bart J. C. Devolder",
+            "description":"Bart J. C. Devolder, conservator at the Princeton University Art Museum, discusses the importance of conservation along with the history and future of the field at Princeton.",
+            "speaker_type":"Expert ",
+            "file_uri":"https://mediacentral.princeton.edu/id/0_7lgvt5us",
+            "transcript":"",
+            "source_project":"Other",
+            "displaydate":"May 2, 2019",
+            "sort_date":"2019-05-02",
+            "video_type":"Lectures",
+            "caption_file":[]
+        }
+    ],
+    "essay":[]
+}

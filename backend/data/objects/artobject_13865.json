@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":13865,
+    "objectnumber":"x1977-150",
+    "sortnumber":"1977  150x",
+    "displaytitle":"Claude Lorrain Glass",
+    "department":"Photography",
+    "classification":"Photographic Equipment",
+    "datebegin":1775,
+    "dateend":1799,
+    "datecomputed":1787,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"late 18th century",
+    "medium":"Glass",
+    "dimensions":"glass: 13.8 x 10.7 cm. (5 7/16 x 4 3/16 in.)\r\ncase: 15.2 x 12.7 x 2 cm. (6 x 5 x 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Henry Russell Hitchcock",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Claude Lorrain Glass",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"American",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91710,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17733",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":91711,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17734",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 39",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153225,
+            "term":"drawing (image-making)",
+            "aatid":300054196,
+            "termtype":"Subject"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Subject"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188591,
+            "term":"Claude glasses",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098998,
+            "term":"reflections",
+            "aatid":300056034,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072114,
+            "term":"mirrors",
+            "aatid":300037682,
+            "termtype":"Subject"
+        },
+        {
+            "id":2141258,
+            "term":"photographic equipment",
+            "aatid":300022633,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044877,
+            "term":"velvet",
+            "aatid":300133711,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045543,
+            "term":"leather",
+            "aatid":300011845,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2141258,
+            "classification":"photographic equipment"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2188591,
+            "classification":"claude glasses"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17733"
+    ],
+    "displaymaker":"American",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"American, Claude Lorrain Glass, late 18th century. Glass; 13.8 × 10.7 cm (glass), 15.2 × 12.7 × 2 cm (case). Gift of Henry Russell Hitchcock (x1977-150)",
+    "captionhtml":"American, <i>Claude Lorrain Glass</i>, late 18th century. Glass; 13.8 × 10.7 cm (glass), 15.2 × 12.7 × 2 cm (case). Gift of Henry Russell Hitchcock (x1977-150)",
+    "published_date":"2025-10-16 11:51:45.593995",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

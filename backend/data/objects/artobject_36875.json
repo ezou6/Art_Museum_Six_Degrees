@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":36875,
+    "objectnumber":"1998-689",
+    "sortnumber":"1998  689",
+    "displaytitle":"Oil lamp (fitira)",
+    "department":"African and Oceanic Art",
+    "classification":"Ceramic",
+    "datebegin":1870,
+    "dateend":1970,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"19th–20th century",
+    "medium":"Terracotta and paint",
+    "dimensions":"h. 34.2 cm., diam. 23.6 cm. (13 7/16 x 9 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oil lamp (fitira)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21081,
+            "displayname":"Bargu (Bariba)",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Bargu (Bariba) artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43472,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008527",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":43473,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008528",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 71",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Africa, Benin",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Benin",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2395170/republic-of-benin.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042050,
+            "term":"Yoruba",
+            "aatid":300016031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2071641,
+            "term":"oil lamps",
+            "aatid":300037630,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156809,
+            "term":"firing (technique)",
+            "aatid":300053887,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2071641,
+            "classification":"oil lamps"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042050,
+            "culture":"Yoruba"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"23.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008527"
+    ],
+    "displaymaker":"Bargu (Bariba) artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bargu (Bariba) artist, Nigeria, Western Africa, Oil lamp (fitira), 19th–20th century. Terracotta and paint; 34.2 x 23.6 cm. Bequest of John B. Elliott, Class of 1951 (1998-689)",
+    "captionhtml":"Bargu (Bariba) artist, Nigeria, Western Africa, <i>Oil lamp (fitira)</i>, 19th–20th century. Terracotta and paint; 34.2 x 23.6 cm. Bequest of John B. Elliott, Class of 1951 (1998-689)",
+    "published_date":"2025-10-17 08:25:44.765810",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

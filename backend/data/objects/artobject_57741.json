@@ -1,0 +1,278 @@
+{
+    "type":"artobject",
+    "objectid":57741,
+    "objectnumber":"2010-12",
+    "sortnumber":"2010   12",
+    "displaytitle":"Self-portrait",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1891,
+    "dateend":1891,
+    "datecomputed":1891,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1891",
+    "medium":"Woodcut printed in black on tan wove paper",
+    "dimensions":"block: 13 × 10.8 cm (5 1/8 × 4 1/4 in.)\r\nsheet: 24.9 x 16.4 cm. (9 13/16 x 6 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of William J. Salman, Class of 1955",
+    "markings":null,
+    "inscribed":"Inscribed in block at lower right: FV\r\n\r\nSigned in graphite below block at right: F Vallotton",
+    "signed":null,
+    "catalograisonne":"Godefroy 81; Vallotton and Goerg 82",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Self-portrait",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2924,
+            "displayname":"Félix Vallotton",
+            "displaydate":"Swiss, 1865–1925",
+            "datebegin":1865,
+            "dateend":1865,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Félix Vallotton, Swiss, 1865–1925",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":50417,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2010-12",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 108, p. 110 (illus.)",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"Louis Godefroy, <em>L'Oeuvre gravé de Félix Vallotton</em> (Paris: Chez l'auteur; Lausanne: Chez Paul Vallotton, 1932).",
+            "citation":"Louis Godefroy, <em>L'Oeuvre gravé de Félix Vallotton</em> (Paris: Chez l'auteur; Lausanne: Chez Paul Vallotton, 1932)., no. 81",
+            "date":1932,
+            "id":6520,
+            "uri":"http://www.worldcat.org/oclc/29125527"
+        },
+        {
+            "boilertext":"Charles Goerg and Maxime Vallotton,<EM>&nbsp;Felix Vallotton, catalogue raisonné de l'oeuvre gravé et lithographié </EM>(Genève: Éditions de Bonvent, 1972).",
+            "citation":"Charles Goerg and Maxime Vallotton,<EM>&nbsp;Felix Vallotton, catalogue raisonné de l'oeuvre gravé et lithographié </EM>(Genève: Éditions de Bonvent, 1972)., no. 82",
+            "date":1972,
+            "id":6521,
+            "uri":"http://www.worldcat.org/oclc/689773"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1280,
+            "citation":"Artist as Image (Saturday, February 20, 2010 - Sunday, May 16, 2010)",
+            "isvirtual":true,
+            "begindate":"2010-02-20",
+            "enddate":"2010-05-16",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1280"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3017382/republic-of-france.html",
+            "location":{
+                "lat":"46",
+                "lon":"2"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2096454,
+            "term":"avant-garde",
+            "aatid":300055775,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031678,
+            "term":"Swiss",
+            "aatid":300111221,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055785,
+            "term":"self-portraits",
+            "aatid":300124534,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031678,
+            "culture":"Swiss"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.40"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":224495,
+            "name":"2023_ART343_02_27"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2010-12"
+    ],
+    "displaymaker":"Félix Vallotton, Swiss, 1865–1925",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Félix Vallotton (Swiss, 1865–1925), Self-portrait, 1891. Woodcut printed in black on tan wove paper; 13 × 10.8 cm (block), 24.9 x 16.4 cm (sheet). Museum purchase, gift of William J. Salman, Class of 1955 (2010-12)",
+    "captionhtml":"Félix Vallotton (Swiss, 1865–1925), <i>Self-portrait</i>, 1891. Woodcut printed in black on tan wove paper; 13 × 10.8 cm (block), 24.9 x 16.4 cm (sheet). Museum purchase, gift of William J. Salman, Class of 1955 (2010-12)",
+    "published_date":"2025-10-16 15:40:29.392222",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

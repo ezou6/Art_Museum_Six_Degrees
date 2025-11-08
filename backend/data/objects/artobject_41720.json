@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":41720,
+    "objectnumber":"2005-106",
+    "sortnumber":"2005  106",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1973,
+    "dateend":1973,
+    "datecomputed":1973,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1973",
+    "medium":"Color screenprint on Rives BFK paper",
+    "dimensions":"image: 48.7 x 41 cm (19 3/16 x 16 1/8 in.)\r\nsheet: 105.5 x 75.7 cm (41 9/16 x 29 13/16 in.)\r\nframe: 119.5 × 89.6 × 3.3 cm (47 1/16 × 35 1/4 × 1 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alan Hoblitzell, class of 1953, and Louise Hoblitzell",
+    "markings":"Workshop blindstamp lower right",
+    "inscribed":"Signed, dated, and numbered in graphite, lower center: B. Marden 73 42//50",
+    "signed":null,
+    "catalograisonne":"Lewison 24",
+    "creditlinerepro":"© Brice Marden / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4811,
+            "displayname":"Brice Marden",
+            "displaydate":"American, 1938-2023",
+            "datebegin":1938,
+            "dateend":2023,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Brice Marden, American, 1938-2023",
+            "displayorder":1
+        },
+        {
+            "id":14020,
+            "displayname":"Simca Print Artists, Inc.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by Hiroshe Kawanishi at",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Hiroshe Kawanishi at Simca Print Artists, Inc.",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121789,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44803",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":11892,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2005-106",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":null
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 63",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098346,
+            "term":"rectangles",
+            "aatid":300055636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044340,
+            "term":"moldmade paper",
+            "aatid":300014186,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"119.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"89.60"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"105.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"75.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2005-106"
+    ],
+    "displaymaker":"Brice Marden, American, 1938-2023 | Printed by Hiroshe Kawanishi at Simca Print Artists, Inc.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Brice Marden (American, 1938-2023), Printed by Hiroshe Kawanishi at Simca Print Artists, Inc., Untitled, 1973. Color screenprint on Rives BFK paper; 48.7 × 41 cm (image), 105.5 × 75.7 cm (sheet), 119.5 × 89.6 × 3.3 cm (frame). Gift of Alan Hoblitzell, class of 1953, and Louise Hoblitzell (2005-106)",
+    "captionhtml":"Brice Marden (American, 1938-2023), Printed by Hiroshe Kawanishi at Simca Print Artists, Inc., <i>Untitled</i>, 1973. Color screenprint on Rives BFK paper; 48.7 × 41 cm (image), 105.5 × 75.7 cm (sheet), 119.5 × 89.6 × 3.3 cm (frame). Gift of Alan Hoblitzell, class of 1953, and Louise Hoblitzell (2005-106)",
+    "published_date":"2025-10-16 14:15:55.519669",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

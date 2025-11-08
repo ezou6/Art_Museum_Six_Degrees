@@ -1,0 +1,207 @@
+{
+    "type":"artobject",
+    "objectid":12804,
+    "objectnumber":"x1975-222",
+    "sortnumber":"1975  222x",
+    "displaytitle":"Mrs. Francis Willis",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1765,
+    "dateend":1806,
+    "datecomputed":1786,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Pastel",
+    "dimensions":"61 × 46 cm (24 × 18 1/8 in.)\r\nframe: 76.5 × 61.9 × 6.2 cm (30 1/8 × 24 3/8 × 2 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Mrs. Marguerite L. Buckner, in memory of her late husband, Harry Bamberger",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mrs. Francis Willis",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3390,
+            "displayname":"John Russell",
+            "displaydate":"1745–1806; born Guildford, England; died Kingston upon Hull, England",
+            "datebegin":1745,
+            "dateend":1806,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Russell, 1745–1806; born Guildford, England; died Kingston upon Hull, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Christie's, London, 13 July, 1928, lot. 45; Leggatt Brothers, London; Ehrich Galleries, New York; acquired in October 1928 by&nbsp;Harry Bamberger; Marguerite L. Buckner.</p><p><br></p><p>Sold&nbsp;at Chritie's in 1928, together with x 1975-221, for 190 gns.</p><p>According to accession card the pastel was bought, together with x1975-221, from Ehrich Galleries for $3,500.</p>",
+            "remarks":"As per Giada Damen, IMLS Drawings 2018-2020"
+        }
+    ],
+    "media":[
+        {
+            "id":121280,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41564",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31.",
+            "citation":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31., p. 24",
+            "date":1976,
+            "id":3366,
+            "uri":"https://www.jstor.org/stable/3774452"
+        },
+        {
+            "boilertext":"Neil Jeffares, \"Simon-Bernard Lenoir\", <em>Dictionary of Pastellists before 1800</em> (London: Unicorn, 2006)",
+            "citation":"Neil Jeffares, \"Simon-Bernard Lenoir\", <em>Dictionary of Pastellists before 1800</em> (London: Unicorn, 2006), p. 469 (illus.)",
+            "date":2006,
+            "id":9305,
+            "uri":"http://www.worldcat.org/oclc/849107244"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2131027,
+            "term":"fichus",
+            "aatid":300216738,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140798,
+            "term":"pastels",
+            "aatid":300122621,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.91"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.19"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41564"
+    ],
+    "displaymaker":"John Russell, 1745–1806; born Guildford, England; died Kingston upon Hull, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Russell (1745–1806; born Guildford, England; died Kingston upon Hull, England), Mrs. Francis Willis. Pastel; 61 × 46 cm, 76.5 × 61.9 × 6.2 cm (frame). Bequest of Mrs. Marguerite L. Buckner, in memory of her late husband, Harry Bamberger (x1975-222)",
+    "captionhtml":"John Russell (1745–1806; born Guildford, England; died Kingston upon Hull, England), <i>Mrs. Francis Willis</i>. Pastel; 61 × 46 cm, 76.5 × 61.9 × 6.2 cm (frame). Bequest of Mrs. Marguerite L. Buckner, in memory of her late husband, Harry Bamberger (x1975-222)",
+    "published_date":"2025-10-25 02:00:14.720935",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

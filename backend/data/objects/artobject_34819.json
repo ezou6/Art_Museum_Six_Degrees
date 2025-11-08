@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":34819,
+    "objectnumber":"y833 a-b",
+    "sortnumber":"833a    yb",
+    "displaytitle":"Cup and Saucer",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1813,
+    "dateend":1920,
+    "datecomputed":1866,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Earthenware",
+    "dimensions":"cup (a): 5.1 x diam. 8.5 cm (2 x 3 3/8 in.)\r\nsaucer (b): 2.6 x diam. 13.9 cm (1 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":"On base of cup: 756",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cup and Saucer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18559,
+            "displayname":"Nantgarw Pottery",
+            "displaydate":"British, 1813–1920",
+            "datebegin":1813,
+            "dateend":1920,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Nantgarw Pottery, British, 1813–1920",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137381,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59691",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137382,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59692",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137383,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59693",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159384,
+            "term":"plant-derived motifs",
+            "aatid":300164599,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159385,
+            "term":"acanthus",
+            "aatid":300164902,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031600,
+            "term":"Welsh",
+            "aatid":300111225,
+            "termtype":"Culture"
+        },
+        {
+            "id":2075939,
+            "term":"saucers",
+            "aatid":300195535,
+            "termtype":"Classification"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160025,
+            "term":"scrollwork",
+            "aatid":300010205,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2075939,
+            "classification":"saucers"
+        },
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031600,
+            "culture":"Welsh"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.10"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"8.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"13.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59691"
+    ],
+    "displaymaker":"Nantgarw Pottery, British, 1813–1920",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Nantgarw Pottery (British, 1813–1920), Cup and Saucer. Earthenware; 5.1 × 8.5 cm (cup), 2.6 × 13.9 cm (saucer). Trumbull-Prime Collection (y833 a-b)",
+    "captionhtml":"Nantgarw Pottery (British, 1813–1920), <i>Cup and Saucer</i>. Earthenware; 5.1 × 8.5 cm (cup), 2.6 × 13.9 cm (saucer). Trumbull-Prime Collection (y833 a-b)",
+    "published_date":"2025-10-16 13:42:49.475216",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

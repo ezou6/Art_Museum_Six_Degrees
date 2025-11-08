@@ -1,0 +1,149 @@
+{
+    "type":"artobject",
+    "objectid":5042,
+    "objectnumber":"x1946-123",
+    "sortnumber":"1946  123x",
+    "displaytitle":"The Shepherd",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1900,
+    "dateend":1946,
+    "datecomputed":1923,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Drypoint and etching",
+    "dimensions":"plate: 20.1 x 25.4 cm. (7 15/16 x 10 in.)\r\nsheet: 29.5 x 37.5 cm. (11 5/8 x 14 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Laura P. Hall Memorial Collection",
+    "markings":null,
+    "inscribed":"in pencil, recto: name and edition of 75 proofs",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Shepherd",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":234,
+            "displayname":"Anthony Raine Barker",
+            "displaydate":"British, 1880 - 1963",
+            "datebegin":1880,
+            "dateend":1963,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anthony Raine Barker, British, 1880 - 1963",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":103953,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28450",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28450"
+    ],
+    "displaymaker":"Anthony Raine Barker, British, 1880 - 1963",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Anthony Raine Barker (British, 1880 - 1963), The Shepherd. Drypoint and etching; 20.1 x 25.4 cm (plate), 29.5 x 37.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-123)",
+    "captionhtml":"Anthony Raine Barker (British, 1880 - 1963), <i>The Shepherd</i>. Drypoint and etching; 20.1 x 25.4 cm (plate), 29.5 x 37.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-123)",
+    "published_date":"2025-10-16 10:35:28.967240",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

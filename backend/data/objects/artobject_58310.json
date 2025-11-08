@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":58310,
+    "objectnumber":"2010-8",
+    "sortnumber":"2010    8",
+    "displaytitle":"Session of November 19, 1909",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1909,
+    "dateend":1909,
+    "datecomputed":1909,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1909",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 11.6 x 15.3 cm. (4 9/16 x 6 in.)\r\nmount: 16.7 x 23.2 cm. (6 9/16 x 9 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Enrico Imoda",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":15644,
+            "displayname":"Enrico Imoda",
+            "displaydate":"Italian, active late 19th century",
+            "datebegin":1875,
+            "dateend":1910,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Enrico Imoda, Italian, active late 19th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66455,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09122",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 96",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Turin",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Turin",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3165524/turin.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096921,
+            "term":"spiritualism",
+            "aatid":300055975,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2135524,
+            "term":"rituals (events)",
+            "aatid":300065284,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09122"
+    ],
+    "displaymaker":"Enrico Imoda, Italian, active late 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Enrico Imoda (Italian, active late 19th century), Session of November 19, 1909, 1909. Gelatin silver print; 11.6 x 15.3 cm (image). Museum purchase, Fowler McCormick, Class of 1921, Fund (2010-8)",
+    "captionhtml":"Enrico Imoda (Italian, active late 19th century), <i>Session of November 19, 1909</i>, 1909. Gelatin silver print; 11.6 x 15.3 cm (image). Museum purchase, Fowler McCormick, Class of 1921, Fund (2010-8)",
+    "published_date":"2025-10-16 15:45:48.417418",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

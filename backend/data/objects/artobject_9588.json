@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":9588,
+    "objectnumber":"x1954-65",
+    "sortnumber":"1954   65x",
+    "displaytitle":"The March to Finchley",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1750,
+    "dateend":1750,
+    "datecomputed":1750,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"publ. 1750",
+    "medium":"Engraving",
+    "dimensions":"plate: 43 × 55.2 cm. (16 15/16 × 21 3/4 in.)\r\nsheet: 45.5 x 57.3 cm (17 15/16 x 22 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Henry K. Dick, Class of 1909",
+    "markings":null,
+    "inscribed":"Inscribed in plate, lower right: Engraved by Luke Sullivan\r\nInscribed and dated in plate, lower left: Painted by Willm Hogarth & Publish'd / Dec r 30, 1750. According to Act of Parliament.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The March to Finchley",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2624,
+            "displayname":"Luke Sullivan",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Luke Sullivan",
+            "displayorder":2
+        },
+        {
+            "id":5257,
+            "displayname":"William Hogarth",
+            "displaydate":"1697–1764; born and died London, England",
+            "datebegin":1697,
+            "dateend":1764,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Hogarth, 1697–1764; born and died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":112753,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV35806",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 18",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134610,
+            "term":"celebrations",
+            "aatid":300152441,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088735,
+            "term":"soldiers",
+            "aatid":300185678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120565,
+            "term":"townscapes (built environment)",
+            "aatid":300008923,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV35806"
+    ],
+    "displaymaker":"William Hogarth, 1697–1764; born and died London, England | Luke Sullivan",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Hogarth (1697–1764; born and died London, England), Luke Sullivan, The March to Finchley, publ. 1750. Engraving; 43 × 55.2 cm (plate), 45.5 x 57.3 cm (sheet). Bequest of Henry K. Dick, Class of 1909 (x1954-65)",
+    "captionhtml":"William Hogarth (1697–1764; born and died London, England), Luke Sullivan, <i>The March to Finchley</i>, publ. 1750. Engraving; 43 × 55.2 cm (plate), 45.5 x 57.3 cm (sheet). Bequest of Henry K. Dick, Class of 1909 (x1954-65)",
+    "published_date":"2025-10-16 11:16:31.893031",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

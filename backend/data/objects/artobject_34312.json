@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":34312,
+    "objectnumber":"y45",
+    "sortnumber":"45     y",
+    "displaytitle":"Angel",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1470,
+    "dateend":1499,
+    "datecomputed":1484,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"late 15th century",
+    "medium":"Stone with traces of polychromy and gilding",
+    "dimensions":"60 x 37.5 x 15.2 cm (23 5/8 x 14 3/4 x 6 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Angel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Georges J. Demotte; 1908 purchase by Princeton University Art Museum.",
+            "remarks":"Not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":48401,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y45",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Burgundy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":"Burgundy",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_47_4.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151306,
+            "term":"polychromy",
+            "aatid":300247962,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055330,
+            "term":"reliefs",
+            "aatid":300047230,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050143,
+            "term":"swords",
+            "aatid":300037048,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171831,
+            "term":"angels",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2090918,
+            "term":"religious (people)",
+            "aatid":300025783,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055330,
+            "classification":"reliefs"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.46"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"15.23"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y45"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, Angel, late 15th century. Stone with traces of polychromy and gilding; 60 x 37.5 x 15.2 cm. Museum purchase (y45)",
+    "captionhtml":"French, <i>Angel</i>, late 15th century. Stone with traces of polychromy and gilding; 60 x 37.5 x 15.2 cm. Museum purchase (y45)",
+    "published_date":"2025-10-16 13:40:06.411427",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

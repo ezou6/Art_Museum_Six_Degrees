@@ -1,0 +1,145 @@
+{
+    "type":"artobject",
+    "objectid":9798,
+    "objectnumber":"x1957-123",
+    "sortnumber":"1957  123x",
+    "displaytitle":"St. Christopher",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1500,
+    "dateend":1538,
+    "datecomputed":1519,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Woodcut",
+    "dimensions":"sheet trimmed to block:12 x 9.3 cm (4 3/4 x 3 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gilbert S. McClintock, Class of 1908",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Christopher",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":66,
+            "displayname":"Albrecht Altdorfer",
+            "displaydate":"ca. 1480–1538; died Regensburg, Germany",
+            "datebegin":1480,
+            "dateend":1538,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Albrecht Altdorfer, ca. 1480–1538; died Regensburg, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":100862,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25695",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25695"
+    ],
+    "displaymaker":"Albrecht Altdorfer, ca. 1480–1538; died Regensburg, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Albrecht Altdorfer (ca. 1480–1538; died Regensburg, Germany), St. Christopher. Woodcut; 12 x 9.3 cm (block). Gift of Gilbert S. McClintock, Class of 1908 (x1957-123)",
+    "captionhtml":"Albrecht Altdorfer (ca. 1480–1538; died Regensburg, Germany), <i>St. Christopher</i>. Woodcut; 12 x 9.3 cm (block). Gift of Gilbert S. McClintock, Class of 1908 (x1957-123)",
+    "published_date":"2025-10-16 11:17:47.583914",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

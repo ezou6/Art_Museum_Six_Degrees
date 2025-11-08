@@ -1,0 +1,268 @@
+{
+    "type":"artobject",
+    "objectid":23716,
+    "objectnumber":"y1949-60",
+    "sortnumber":"1949   60y",
+    "displaytitle":"Peach Blossom Spring",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":960,
+    "dateend":1279,
+    "datecomputed":1120,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":null,
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 72 x 36.5 cm. (28 3/8 x 14 3/8 in.)\r\nMount: 240 x 57.7 cm. (94 1/2 x 22 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Ten characters in ink on label adhered to edge of rolled scroll Seven characters in ink on label adhered to silk bag Seven characters sticked onto silk bag Written on tag attached to silk bag: D268",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Peach Blossom Spring",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1356,
+            "displayname":"Liu Songnian 劉松年",
+            "displaydate":"active ca. 1150–after 1200",
+            "datebegin":1150,
+            "dateend":1200,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Liu Songnian 劉松年, active ca. 1150–after 1200",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1949 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":22613,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-60",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":61887,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08120",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098554,
+            "term":"spring",
+            "aatid":300133097,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033550,
+            "term":"Song",
+            "aatid":300018427,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171740,
+            "term":"peach blossoms",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12555,
+            "period":"Song dynasty",
+            "alphasort":"Song dynasty",
+            "begindate":960,
+            "enddate":1279,
+            "displayperiod":"Song dynasty, 960–1279",
+            "displaydate":"960–1279"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033550,
+            "period":"Song"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"240.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"72.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-60"
+    ],
+    "displaymaker":"after Liu Songnian 劉松年, active ca. 1150–after 1200",
+    "displayculture":"Chinese",
+    "displayperiod":"Song dynasty, 960–1279",
+    "caption":"Chinese, Song dynasty (960–1279), after Liu Songnian 劉松年 (active ca. 1150–after 1200), Peach Blossom Spring. Hanging scroll; colors on silk; 72 x 36.5 cm (Painting), 240 x 57.7 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-60)",
+    "captionhtml":"Chinese, Song dynasty (960–1279), after Liu Songnian 劉松年 (active ca. 1150–after 1200), <i>Peach Blossom Spring</i>. Hanging scroll; colors on silk; 72 x 36.5 cm (Painting), 240 x 57.7 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-60)",
+    "published_date":"2025-10-16 12:54:27.872472",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

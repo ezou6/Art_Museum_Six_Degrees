@@ -1,0 +1,169 @@
+{
+    "type":"artobject",
+    "objectid":8648,
+    "objectnumber":"x1951-8",
+    "sortnumber":"1951    8x",
+    "displaytitle":"Girl in Field",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1888,
+    "dateend":1888,
+    "datecomputed":1888,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"published 1888",
+    "medium":"Etching",
+    "dimensions":"plate: 34 x 21.2 cm. (13 3/8 x 8 3/8 in.)\r\nsheet: 53 x 40.5 cm. (20 7/8 x 15 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Moses Bigelow",
+    "markings":null,
+    "inscribed":"Plate signed, l.l.: G. Ferris; l.r.: Leon Moran. Engraved, top l.: Copyright 1888 by C. Klackner; pencil signatures below plate",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1951-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Girl in Field",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3850,
+            "displayname":"Leon Moran",
+            "displaydate":"American, 1864–1941",
+            "datebegin":1864,
+            "dateend":1941,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Leon Moran, American, 1864–1941",
+            "displayorder":2
+        },
+        {
+            "id":5886,
+            "displayname":"Jean Leon Gerome Ferris",
+            "displaydate":"French, born 1863",
+            "datebegin":1863,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Leon Gerome Ferris, French, born 1863",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101953,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26705",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23., p. 23",
+            "date":1951,
+            "id":862,
+            "uri":"https://www.jstor.org/stable/3774224"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26705"
+    ],
+    "displaymaker":"Jean Leon Gerome Ferris, French, born 1863 | Leon Moran, American, 1864–1941",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Leon Gerome Ferris (French, born 1863), Leon Moran (American, 1864–1941), Girl in Field, published 1888. Etching; 34 x 21.2 cm (plate), 53 x 40.5 cm (sheet). Gift of Moses Bigelow (x1951-8)",
+    "captionhtml":"Jean Leon Gerome Ferris (French, born 1863), Leon Moran (American, 1864–1941), <i>Girl in Field</i>, published 1888. Etching; 34 x 21.2 cm (plate), 53 x 40.5 cm (sheet). Gift of Moses Bigelow (x1951-8)",
+    "published_date":"2025-10-16 11:10:32.870103",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

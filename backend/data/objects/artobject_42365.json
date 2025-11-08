@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":42365,
+    "objectnumber":"2004-36",
+    "sortnumber":"2004   36",
+    "displaytitle":"Mask (\"Azigho\" the Antelope)",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1900,
+    "dateend":1978,
+    "datecomputed":1939,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"probably 20th century",
+    "medium":"Wood, kaolin, and paint",
+    "dimensions":"h. 34.0 cm., w. 16.5 cm., d. 14.0 cm. (13 3/8 x 6 1/2 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask (\"Azigho\" the Antelope)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14982,
+            "displayname":"Northern Edo",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Northern Edo artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Frederick Pleasants, Brooklyn, NY by 1978; Alan Burke, Tucson, AZ; Princeton University Art Museum, 2004",
+            "remarks":"Frederick Pleasants was a Monuments Man and a 1930 graduate of Princeton, where he specialized in Mayan art and civilization; 1949-56 Curator of Primitive Art at Brooklyn Museum d.1978"
+        }
+    ],
+    "media":[
+        {
+            "id":43487,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008488",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2214,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-36",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 135 (illus.)",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2197880,
+            "term":"societies",
+            "aatid":300026009,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041997,
+            "term":"Edo (African)",
+            "aatid":300018564,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135237,
+            "term":"masquerades",
+            "aatid":300254016,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185122,
+            "term":"antelopes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160373,
+            "term":"kaolin",
+            "aatid":300010445,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2041997,
+            "culture":"Edo (African)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008488"
+    ],
+    "displaymaker":"Northern Edo artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Northern Edo artist, Nigeria, Western Africa, Mask (\"Azigho\" the Antelope), probably 20th century. Wood, kaolin, and paint; 34 x 16.5 x 14 cm. Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961 (2004-36)",
+    "captionhtml":"Northern Edo artist, Nigeria, Western Africa, <i>Mask (\"Azigho\" the Antelope)</i>, probably 20th century. Wood, kaolin, and paint; 34 x 16.5 x 14 cm. Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961 (2004-36)",
+    "published_date":"2025-10-16 14:19:08.083915",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

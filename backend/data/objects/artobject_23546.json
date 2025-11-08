@@ -1,0 +1,290 @@
+{
+    "type":"artobject",
+    "objectid":23546,
+    "objectnumber":"y1947-54",
+    "sortnumber":"1947   54y",
+    "displaytitle":"Eagle and Bear",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1368,
+    "dateend":1912,
+    "datecomputed":1640,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink and light colors on silk",
+    "dimensions":"Painting: 164 x 85 cm. (64 9/16 x 33 7/16 in.)\r\nMount: 309 x 92 cm. (121 5/8 x 36 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Seven characters in ink on label adhered to edge of rolled scroll; Seven characters in ink on label adhered to silk bag ",
+    "inscribed":"Inscription\r\nSigned: \"Inscribed by Zhang Xiang 張祥 for the Wenkui 文魁 [provincial degree holder] Mr. Luo 羅先生\"\r\n1. Zhang Xiang has yet to be identified, but the use of \"Mr.\" (先生) indicates a late Qing date.\r\n2. \"Wenkui\" 文魁:乡试(清代乡试考场设于各省称贡院）于八月举行，亦曰秋闱。九月放榜（因时值秋季，桂花盛开，所以也称桂花榜），新科举人第一名称解元，第二名称亚元，第三、四、五名称经魁，第六名称亚魁，其余称文魁，均由国家颁给20两牌坊银和顶戴衣帽匾额。匾额悬挂住宅大门之上，门前可以树立牌坊。\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"photo: Masatsugu Nokubo",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Eagle and Bear",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":53615,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-54",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"University of Tokyo imaging project"
+        },
+        {
+            "id":61961,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08011",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":61962,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08010",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2133994,
+            "term":"eagles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171773,
+            "term":"bears",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        },
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        },
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"164.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"85.00"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"309.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"92.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-54"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644 | Qing dynasty, 1644–1912",
+    "caption":"Chinese, Ming dynasty (1368–1644), Qing dynasty (1644–1912), Anonymous, Eagle and Bear, undated. Hanging scroll; ink and light colors on silk; 164 x 85 cm (Painting), 309 x 92 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-54)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Qing dynasty (1644–1912), Anonymous, <i>Eagle and Bear</i>, undated. Hanging scroll; ink and light colors on silk; 164 x 85 cm (Painting), 309 x 92 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-54)",
+    "published_date":"2025-10-16 12:53:32.034089",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

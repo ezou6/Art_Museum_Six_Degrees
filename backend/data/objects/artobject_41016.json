@@ -1,0 +1,171 @@
+{
+    "type":"artobject",
+    "objectid":41016,
+    "objectnumber":"2002-129",
+    "sortnumber":"2002  129",
+    "displaytitle":"Book",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Inkjet print",
+    "dimensions":"image: 30.5 x 45.5 cm (12 x 17 15/16 in.)\r\nsheet: 32.9 x 48.3 cm (12 15/16 x 19 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Peter C. Bunnell Collection, gift of the artist",
+    "markings":null,
+    "inscribed":"Inscribed in ink, recto lower left corner below image: 3/30 \r\nInscribed in ink, recto lower center below image: “Book”\r\nSigned in ink, recto lower right corner below image: Olivia Parker © 2001",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Olivia Parker",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Book",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4153,
+            "displayname":"Olivia Parker",
+            "displaydate":"American, born 1941",
+            "datebegin":1941,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Olivia Parker, American, born 1941",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84345,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10980",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 136",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10980"
+    ],
+    "displaymaker":"Olivia Parker, American, born 1941",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Olivia Parker (American, born 1941), Book, 2001. Inkjet print; 30.5 x 45.5 cm (image), 32.9 x 48.3 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-129)",
+    "captionhtml":"Olivia Parker (American, born 1941), <i>Book</i>, 2001. Inkjet print; 30.5 x 45.5 cm (image), 32.9 x 48.3 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-129)",
+    "published_date":"2025-10-16 14:12:38.721743",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

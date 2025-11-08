@@ -1,0 +1,282 @@
+{
+    "type":"artobject",
+    "objectid":29473,
+    "objectnumber":"y1964-217",
+    "sortnumber":"1964  217y",
+    "displaytitle":"Pine Tree and Flowers",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1756,
+    "dateend":1756,
+    "datecomputed":1756,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1756",
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"Painting: 182.2 x 46.2 cm. (71 3/4 x 18 3/16 in.)\r\nMount: 241 x 64.8 cm. (94 7/8 x 25 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Chi-chuan Wang",
+    "markings":null,
+    "inscribed":"dated 1756",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1964-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pine Tree and Flowers",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4585,
+            "displayname":"Li Shan 李鱓",
+            "displaydate":"1686–ca. 1756",
+            "datebegin":1686,
+            "dateend":1756,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Li Shan 李鱓, 1686–ca. 1756",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66494,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1964-217",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61814,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08291",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>",
+            "citation":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>, p. 20",
+            "date":1965,
+            "id":1864,
+            "uri":"https://www.jstor.org/stable/3774350"
+        },
+        {
+            "boilertext":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>24, no. 2 (1965): p. 26<FONT face=Times>-</FONT>39.",
+            "citation":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>24, no. 2 (1965): p. 26<FONT face=Times>-</FONT>39., p. 28 (illus.)",
+            "date":1965,
+            "id":7782,
+            "uri":"https://www.jstor.org/stable/3774548"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158082,
+            "term":"peonies",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171671,
+            "term":"pine trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134004,
+            "term":"orchids",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171723,
+            "term":"wisteria",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"241.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"64.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"182.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1964-217"
+    ],
+    "displaymaker":"Li Shan 李鱓, 1686–ca. 1756",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Li Shan 李鱓 (1686–ca. 1756), Pine Tree and Flowers, 1756. Hanging scroll; ink and color on silk; 182.2 x 46.2 cm (Painting), 241 x 64.8 cm (mount). Gift of Mr. and Mrs. Chi-chuan Wang (y1964-217)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Li Shan 李鱓 (1686–ca. 1756), <i>Pine Tree and Flowers</i>, 1756. Hanging scroll; ink and color on silk; 182.2 x 46.2 cm (Painting), 241 x 64.8 cm (mount). Gift of Mr. and Mrs. Chi-chuan Wang (y1964-217)",
+    "published_date":"2025-10-16 13:15:05.553825",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

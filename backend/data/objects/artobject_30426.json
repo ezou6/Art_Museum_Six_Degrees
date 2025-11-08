@@ -1,0 +1,298 @@
+{
+    "type":"artobject",
+    "objectid":30426,
+    "objectnumber":"y1967-1",
+    "sortnumber":"1967    1y",
+    "displaytitle":"Winter Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1655,
+    "dateend":1665,
+    "datecomputed":1660,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"undated; ca. 1660",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 345.9 x 102.4 cm. (136 3/16 x 40 5/16 in.)\r\nMount: 414 x 118.5 cm. (163 x 46 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Else Sackler, Arthur M. Sackler Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":"unsigned",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Winter Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6402,
+            "displayname":"Zhang Jisu 張積素",
+            "displaydate":"1604-1684",
+            "datebegin":1604,
+            "dateend":1684,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Zhang Jisu 張積素, 1604-1684",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":39966,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-1",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":61805,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08200",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41., p. 35\r\n(assigned to Chang Chi-su after the authors' identification)",
+            "date":1968,
+            "id":884,
+            "uri":"https://www.jstor.org/stable/3774425"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098560,
+            "term":"winter",
+            "aatid":300133101,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119959,
+            "term":"waterfalls",
+            "aatid":300008736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2120324,
+            "term":"peaks (landform components)",
+            "aatid":300008798,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"345.90"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"102.40"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"414.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"118.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-1"
+    ],
+    "displaymaker":"Zhang Jisu 張積素, 1604-1684",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Zhang Jisu 張積素 (1604-1684), Winter Landscape, undated; ca. 1660. Hanging scroll; ink and color on paper; 345.9 x 102.4 cm (Painting), 414 x 118.5 cm (mount). Gift of Mrs. Else Sackler, Arthur M. Sackler Collection (y1967-1)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Zhang Jisu 張積素 (1604-1684), <i>Winter Landscape</i>, undated; ca. 1660. Hanging scroll; ink and color on paper; 345.9 x 102.4 cm (Painting), 414 x 118.5 cm (mount). Gift of Mrs. Else Sackler, Arthur M. Sackler Collection (y1967-1)",
+    "published_date":"2025-10-16 13:20:13.175998",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

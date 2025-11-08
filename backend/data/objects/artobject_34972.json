@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":34972,
+    "objectnumber":"y926 a-c",
+    "sortnumber":"926a    yc",
+    "displaytitle":"Sceau à glace (ice pail)",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1825,
+    "dateend":1845,
+    "datecomputed":1835,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"probably ca. 1830s",
+    "medium":"Porcelain",
+    "dimensions":"32.5 x 26.5 x 22.3 cm (12 13/16 x 10 7/16 x 8 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":"In garland on side: \"L'Ister\";",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sceau à glace (ice pail)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14148,
+            "displayname":"Sèvres Porcelain Manufactory",
+            "displaydate":"France, established 1756",
+            "datebegin":1756,
+            "dateend":1756,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Sèvres Porcelain Manufactory, France, established 1756",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137739,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60019",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137740,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60020",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137741,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60018",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2160050,
+            "term":"vine scrolls",
+            "aatid":300010105,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159384,
+            "term":"plant-derived motifs",
+            "aatid":300164599,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159399,
+            "term":"palmettes",
+            "aatid":300009995,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159409,
+            "term":"festoons",
+            "aatid":300167386,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075519,
+            "term":"wine coolers",
+            "aatid":300040023,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2075519,
+            "classification":"wine coolers"
+        },
+        {
+            "id":2160764,
+            "classification":"porcelain"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"22.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60019"
+    ],
+    "displaymaker":"Sèvres Porcelain Manufactory, France, established 1756",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sèvres Porcelain Manufactory (France, established 1756), Sceau à glace (ice pail), probably ca. 1830s. Porcelain; 32.5 × 26.5 × 22.3 cm. Trumbull-Prime Collection (y926 a-c)",
+    "captionhtml":"Sèvres Porcelain Manufactory (France, established 1756), <i>Sceau à glace (ice pail)</i>, probably ca. 1830s. Porcelain; 32.5 × 26.5 × 22.3 cm. Trumbull-Prime Collection (y926 a-c)",
+    "published_date":"2025-10-16 13:43:35.317694",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

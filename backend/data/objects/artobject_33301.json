@@ -1,0 +1,220 @@
+{
+    "type":"artobject",
+    "objectid":33301,
+    "objectnumber":"y1989-26",
+    "sortnumber":"1989   26y",
+    "displaytitle":"Portrait of a man",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Sculpture",
+    "datebegin":130,
+    "dateend":230,
+    "datecomputed":180,
+    "daterange":"A.D. 1-500",
+    "displaydate":"ca. 180 CE",
+    "medium":"White, finely crystalline marble",
+    "dimensions":"27.6 x 24.2 x 24.0 cm (10 7/8 x 9 1/2 x 9 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of John B. Elliott, Class of 1951, in memory of Mathias Komor",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1989-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Peter Sharrer at an unknown date from an unknown source; purchased by the Museum in 1989 from Sharrer as a gift of John B. Elliott, Class of 1951, in memory of Mathias Komor.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":3529,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1989-26",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57.",
+            "citation":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57., p. 52 (illus.)",
+            "date":1990,
+            "id":3099,
+            "uri":"https://www.jstor.org/stable/3774747"
+        },
+        {
+            "boilertext":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001).",
+            "citation":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001)., p. 67-70; cat. no. 16",
+            "date":2001,
+            "id":2140,
+            "uri":"http://www.worldcat.org/oclc/47868668"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036751,
+            "term":"Antonine",
+            "aatid":300020560,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036753,
+            "term":"Severan",
+            "aatid":300020566,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2193589,
+            "term":"marbles",
+            "aatid":300211125,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":14102,
+            "period":"Antonine Period",
+            "alphasort":"Antonine",
+            "begindate":138,
+            "enddate":193,
+            "displayperiod":"Antonine Period or Severan, 138–193 CE",
+            "displaydate":"138–193 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        },
+        {
+            "id":2036751,
+            "period":"Antonine"
+        },
+        {
+            "id":2036753,
+            "period":"Severan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"24.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182067,
+            "name":"web_2020_ancient_italy-earlyroman"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1989-26"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Antonine Period or Severan, 138–193 CE",
+    "caption":"Roman, Antonine Period or Severan (138–193 CE), ca. 180 CE, Portrait of a man. White, finely crystalline marble; 27.6 x 24.2 x 24 cm. Museum purchase, gift of John B. Elliott, Class of 1951, in memory of Mathias Komor (y1989-26)",
+    "captionhtml":"Roman, Antonine Period or Severan (138–193 CE), ca. 180 CE, <i>Portrait of a man</i>. White, finely crystalline marble; 27.6 x 24.2 x 24 cm. Museum purchase, gift of John B. Elliott, Class of 1951, in memory of Mathias Komor (y1989-26)",
+    "published_date":"2025-10-16 13:34:59.512409",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

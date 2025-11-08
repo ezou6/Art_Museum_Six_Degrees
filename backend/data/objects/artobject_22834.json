@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":22834,
+    "objectnumber":"y1946-171",
+    "sortnumber":"1946  171y",
+    "displaytitle":"Girl with Landscape-Sleeves",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":0,
+    "dateend":1946,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 118.8 x 61.7 cm. (46 3/4 x 24 5/16 in.)\r\nMount: 243 x 74.5 cm. (95 11/16 x 29 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":null,
+    "signed":"unsigned",
+    "catalograisonne":null,
+    "creditlinerepro":"photo: Masatsugu Nokubo",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Girl with Landscape-Sleeves",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1946 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":53597,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-171",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"University of Tokyo imaging project"
+        },
+        {
+            "id":61009,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07900",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"243.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"118.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-171"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":null,
+    "caption":"Chinese, Anonymous, Girl with Landscape-Sleeves, undated. Hanging scroll; colors on silk; 118.8 x 61.7 cm (Painting), 243 x 74.5 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1946-171)",
+    "captionhtml":"Chinese, Anonymous, <i>Girl with Landscape-Sleeves</i>, undated. Hanging scroll; colors on silk; 118.8 x 61.7 cm (Painting), 243 x 74.5 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1946-171)",
+    "published_date":"2025-10-16 12:49:13.972204",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

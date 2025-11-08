@@ -1,0 +1,208 @@
+{
+    "type":"artobject",
+    "objectid":142042,
+    "objectnumber":"2023-234",
+    "sortnumber":"2023  234",
+    "displaytitle":"Peacock Alley, Lee Plaza Hotel, Detroit",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2008,
+    "dateend":2008,
+    "datecomputed":2008,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2008",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 68.5 × 86.5 cm (26 15/16 × 34 1/16 in.)\r\nsheet: 76.2 × 101.6 cm (30 × 40 in.)\r\nframe: 87.6 × 104.1 × 4.4 cm (34 1/2 × 41 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Joshua R. Slocum, Class of 1998, and Sara T. Slocum",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed on verso on label",
+    "catalograisonne":null,
+    "creditlinerepro":"© Andrew Moore",
+    "restrictions":"Restricted Download - Under Copyright and Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2023-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Peacock Alley, Lee Plaza Hotel, Detroit",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3843,
+            "displayname":"Andrew Moore",
+            "displaydate":"born 1957, Old Greenwich, CT; active Detroit, MI and Kingston, NY",
+            "datebegin":1957,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Andrew Moore, born 1957, Old Greenwich, CT; active Detroit, MI and Kingston, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Special Exhibition",
+            "textentryhtml":"<p>\n\tDetroit has been one of the most productive focuses of Moore’s photography, embodying his interest in locations where, as he puts it, “multiple tangents of time overlap and tangle.” In Detroit’s half-collapsed train stations and once-elegant hotels, Moore finds a beauty in both the city’s grandeur and its decay. Part of an idiom dubbed “ruin porn” by some, photographs like this expose troubling complexities about the glamorization of decay and ruin. The Lee Plaza Hotel was an upscale residence completed in 1929 that declined over many years until it was shuttered in the 1990s. The lobby was nicknamed Peacock Alley for the many mirrors lining its walls, where residents and guests could preen at their multiple reflections. Educated at Princeton, Moore was one of a generation of students mentored by the esteemed photographer Emmet Gowin and the photography historian Peter C. Bunnell.\n</p>\n<p>\n\t<br />\n</p>",
+            "remarks":"Princeton Collects PUAM-LABELS_G8_6x10-Day 1 Cataloguing "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gifted by Joshua R. Slocum, Class of 1998, and Sara T. Slocum to Princeton University Art Museum, October 2023.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":253180,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240611_14308",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright and Reference Image",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253181,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240611_14310",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright and Reference Image",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"87.62"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"104.13"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.44"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.19"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"86.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":265287,
+            "name":"Princeton Collects Gallery 8"
+        },
+        {
+            "packageid":264884,
+            "name":"Princeton Collects 8"
+        },
+        {
+            "packageid":259699,
+            "name":"Gallery_08-SpecX"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240611_14308"
+    ],
+    "displaymaker":"Andrew Moore, born 1957, Old Greenwich, CT; active Detroit, MI and Kingston, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Andrew Moore (born 1957, Old Greenwich, CT; active Detroit, MI and Kingston, NY), Peacock Alley, Lee Plaza Hotel, Detroit, 2008. Chromogenic print; 68.5 × 86.5 cm (image), 76.2 × 101.6 cm (sheet), 87.6 × 104.1 × 4.4 cm (frame). Gift of Joshua R. Slocum, Class of 1998, and Sara T. Slocum (2023-234)",
+    "captionhtml":"Andrew Moore (born 1957, Old Greenwich, CT; active Detroit, MI and Kingston, NY), <i>Peacock Alley, Lee Plaza Hotel, Detroit</i>, 2008. Chromogenic print; 68.5 × 86.5 cm (image), 76.2 × 101.6 cm (sheet), 87.6 × 104.1 × 4.4 cm (frame). Gift of Joshua R. Slocum, Class of 1998, and Sara T. Slocum (2023-234)",
+    "published_date":"2025-10-18 02:05:02.422454",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

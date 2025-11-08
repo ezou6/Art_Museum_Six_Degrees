@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":135252,
+    "objectnumber":"2018-172",
+    "sortnumber":"2018  172",
+    "displaytitle":"Geometry, Inside the Chase One Plaza Building, Manhattan, NY",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2003,
+    "dateend":2005,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2003–05",
+    "medium":"Inkjet print",
+    "dimensions":"image: 67.8 × 101.7 cm (26 11/16 × 40 1/16 in.)\r\nsheet: 78.8 × 111.9 cm (31 × 44 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, dated, editioned in graphite on verso",
+    "catalograisonne":null,
+    "creditlinerepro":"© Vesna Pavlović",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Geometry, Inside the Chase One Plaza Building, Manhattan, NY",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21467,
+            "displayname":"Vesna Pavlović",
+            "displaydate":"born 1970, Belgrade, Serbia; active Nashville, TN",
+            "datebegin":1970,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Vesna Pavlović, born 1970, Belgrade, Serbia; active Nashville, TN",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist. Acquired by Matthew E. Trevenen; given to the Princeton University Art Museum, 2018.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":222560,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_36027",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 183",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Manhattan, New York",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5125771/manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188610,
+            "term":"inkjet prints",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2191269,
+            "term":"elevators",
+            "aatid":300051186,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199172,
+            "term":"Serbian",
+            "aatid":300263642,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2188610,
+            "classification":"inkjet prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        },
+        {
+            "id":2199172,
+            "culture":"Serbian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"67.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"78.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"111.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_36027"
+    ],
+    "displaymaker":"Vesna Pavlović, born 1970, Belgrade, Serbia; active Nashville, TN",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Vesna Pavlović (born 1970, Belgrade, Serbia; active Nashville, TN), Geometry, Inside the Chase One Plaza Building, Manhattan, NY, 2003–05. Inkjet print; 67.8 × 101.7 cm (image), 78.8 × 111.9 cm (sheet). Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001 (2018-172)",
+    "captionhtml":"Vesna Pavlović (born 1970, Belgrade, Serbia; active Nashville, TN), <i>Geometry, Inside the Chase One Plaza Building, Manhattan, NY</i>, 2003–05. Inkjet print; 67.8 × 101.7 cm (image), 78.8 × 111.9 cm (sheet). Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001 (2018-172)",
+    "published_date":"2025-10-16 18:46:00.389256",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

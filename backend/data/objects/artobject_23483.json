@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":23483,
+    "objectnumber":"y1947-281",
+    "sortnumber":"1947  281y",
+    "displaytitle":"Portrait of Tang Yin",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1465,
+    "dateend":1550,
+    "datecomputed":1508,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"undated",
+    "medium":"Color on silk",
+    "dimensions":"Painting: 47 x 36 cm. (18 1/2 x 14 3/16 in.)\r\nMount (sight): 70 x 48.8 cm. (27 9/16 x 19 3/16 in.)\r\nFrame: 73.3 x 53 x 2.7 cm. (28 7/8 x 20 7/8 x 1 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":"inscription: [Liu?] [ru?] jushi xiaojing Dongcun xie",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Tang Yin",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6517,
+            "displayname":"Zhou Chen 周臣",
+            "displaydate":"ca. 1450 - ca. 1535",
+            "datebegin":1445,
+            "dateend":1455,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Zhou Chen 周臣, ca. 1450 - ca. 1535",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":66241,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08996",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":122102,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV45300",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"73.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.70"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"70.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV45300"
+    ],
+    "displaymaker":"Zhou Chen 周臣, ca. 1450 - ca. 1535",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Zhou Chen 周臣 (ca. 1450 - ca. 1535), Portrait of Tang Yin, undated. Color on silk; 47 x 36 cm (Painting), 70 x 48.8 cm (mount, sight), 73.3 x 53 x 2.7 cm (frame). Gift of DuBois Schanck Morris, Class of 1893   (y1947-281)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Zhou Chen 周臣 (ca. 1450 - ca. 1535), <i>Portrait of Tang Yin</i>, undated. Color on silk; 47 x 36 cm (Painting), 70 x 48.8 cm (mount, sight), 73.3 x 53 x 2.7 cm (frame). Gift of DuBois Schanck Morris, Class of 1893   (y1947-281)",
+    "published_date":"2025-10-23 17:05:33.431257",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

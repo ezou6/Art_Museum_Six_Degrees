@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":22673,
+    "objectnumber":"y1945-291",
+    "sortnumber":"1945  291y",
+    "displaytitle":"Ushabti",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Funerary Objects",
+    "datebegin":-3000,
+    "dateend":395,
+    "datecomputed":-1302,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 3000 BCE–395 CE",
+    "medium":"Wood",
+    "dimensions":"14.7 x 4.1 x 2.6 cm (5 3/4 x 1 5/8 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1945-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ushabti",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by the Museum from an unknown dealer; with the collection by 1945.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":40852,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV005885",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Egypt",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055000,
+            "term":"ushabti",
+            "aatid":300184956,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048783,
+            "term":"funerary objects",
+            "aatid":300234126,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055000,
+            "classification":"ushabti"
+        },
+        {
+            "id":2048783,
+            "classification":"funerary objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.65"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.09"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV005885"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":null,
+    "caption":"Egyptian, Egypt, ca. 3000 BCE–395 CE, Ushabti. Wood; 14.7 x 4.1 x 2.6 cm. Museum Collection (y1945-291)",
+    "captionhtml":"Egyptian, Egypt, ca. 3000 BCE–395 CE, <i>Ushabti</i>. Wood; 14.7 x 4.1 x 2.6 cm. Museum Collection (y1945-291)",
+    "published_date":"2025-10-16 12:48:12.618846",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

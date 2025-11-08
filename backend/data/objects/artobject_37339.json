@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":37339,
+    "objectnumber":"1999-35",
+    "sortnumber":"1999   35",
+    "displaytitle":"Arabs on Horseback",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1848,
+    "dateend":1899,
+    "datecomputed":1874,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"62 x 97 cm (24 7/16 x 38 3/16 in.)\r\nframe: 64.9 x 101.9 cm (25 9/16 x 40 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Richard B. Heath",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1999-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Arabs on Horseback",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1542,
+            "displayname":"Adolf Schreyer",
+            "displaydate":"German, 1828–1899",
+            "datebegin":1828,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Adolf Schreyer, German, 1828–1899",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":591,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1999-35",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101.",
+            "citation":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101., p. 70",
+            "date":2000,
+            "id":3036,
+            "uri":"https://www.jstor.org/stable/3774806"
+        },
+        {
+            "boilertext":"Rudolf M. Bisanz, <EM>The René von Schleinitz collection of the Milwaukee Art Center: major schools of German nineteenth-century popular painting</EM>, (Milwaukee, WI: The Center ; Madison, WI: University of Wisconsin Press, 1980).",
+            "citation":"Rudolf M. Bisanz, <EM>The René von Schleinitz collection of the Milwaukee Art Center: major schools of German nineteenth-century popular painting</EM>, (Milwaukee, WI: The Center ; Madison, WI: University of Wisconsin Press, 1980)., p. 208-209",
+            "date":1980,
+            "id":5215,
+            "uri":"http://www.worldcat.org/oclc/4492514"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_51.5_10.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.90"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"97.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"62.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1999-35"
+    ],
+    "displaymaker":"Adolf Schreyer, German, 1828–1899",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Adolf Schreyer (German, 1828–1899), Arabs on Horseback. Oil on canvas; 62 x 97 cm, 64.9 x 101.9 cm (frame). Gift of Mrs. Richard B. Heath (1999-35)",
+    "captionhtml":"Adolf Schreyer (German, 1828–1899), <i>Arabs on Horseback</i>. Oil on canvas; 62 x 97 cm, 64.9 x 101.9 cm (frame). Gift of Mrs. Richard B. Heath (1999-35)",
+    "published_date":"2025-10-16 13:58:35.558699",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

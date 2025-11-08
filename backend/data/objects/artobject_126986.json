@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":126986,
+    "objectnumber":"x1982-341.1",
+    "sortnumber":"1982  341x    1",
+    "displaytitle":"William Bingham Baring",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1854,
+    "dateend":1864,
+    "datecomputed":1859,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1859",
+    "medium":"Albumen print",
+    "dimensions":"mount (approx.): 34 × 27 cm (13 3/8 × 10 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Robert O. Dougan Collection, gift of Warner Communications, Inc.",
+    "markings":"Blindstamp, lower left corner: MOFFAT",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3797,
+            "displayname":"John Moffat",
+            "displaydate":"Scottish, 1819–1894",
+            "datebegin":1819,
+            "dateend":1894,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Moffat, Scottish, 1819–1894",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":96123,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV21846",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Scotland, Edinburgh, 126 Princes Street",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Scotland",
+            "region":null,
+            "state":null,
+            "city":"Edinburgh",
+            "county":null,
+            "subregion":null,
+            "locale":"126 Princes Street",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2650225/edinburgh.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031595,
+            "term":"Scottish",
+            "aatid":300111212,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125789,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2153946,
+            "classification":"albumen process"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031595,
+            "culture":"Scottish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206378,
+            "name":"x-COMPLETE-image_descriptions_SP"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV21846"
+    ],
+    "displaymaker":"John Moffat, Scottish, 1819–1894",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Moffat (Scottish, 1819–1894), William Bingham Baring, ca. 1859. Albumen print; . Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-341.1)",
+    "captionhtml":"John Moffat (Scottish, 1819–1894), William Bingham Baring, ca. 1859. Albumen print; . Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-341.1)",
+    "published_date":"2025-10-16 18:27:59.784314",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

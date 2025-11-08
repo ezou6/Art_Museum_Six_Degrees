@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":42459,
+    "objectnumber":"2004-61.1",
+    "sortnumber":"2004   61     1",
+    "displaytitle":"H",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2004,
+    "dateend":2004,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2004",
+    "medium":"Monotype",
+    "dimensions":"plate: 49 x 45 cm (19 5/16 x 17 11/16 in.)\r\nsheet: 71 x 56.5 cm (27 15/16 x 22 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Visual Arts Program, Princeton University",
+    "markings":null,
+    "inscribed":"In graphite, lower left below image: MONOPRINT/ \"H\"",
+    "signed":"Signed and dated, in graphite, lower right below image: Nina Bovasso 2004",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"H",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1518,
+            "displayname":"Nina Bovasso",
+            "displaydate":"American, born 1965",
+            "datebegin":1965,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Nina Bovasso, American, born 1965",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":97256,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22841",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 103",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054641,
+            "term":"monotypes",
+            "aatid":300041538,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054641,
+            "classification":"monotypes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"56.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"71.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22841"
+    ],
+    "displaymaker":"Nina Bovasso, American, born 1965",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Nina Bovasso (American, born 1965), H, 2004. Monotype; 49 x 45 cm (plate), 71 x 56.5 cm (sheet). Gift of the Visual Arts Program, Princeton University (2004-61.1)",
+    "captionhtml":"Nina Bovasso (American, born 1965), <i>H</i>, 2004. Monotype; 49 x 45 cm (plate), 71 x 56.5 cm (sheet). Gift of the Visual Arts Program, Princeton University (2004-61.1)",
+    "published_date":"2025-10-16 14:19:37.457962",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

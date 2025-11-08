@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":134740,
+    "objectnumber":"2020-253",
+    "sortnumber":"2020  253",
+    "displaytitle":"Duho (ritual seat)",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":1200,
+    "dateend":1500,
+    "datecomputed":1350,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1500",
+    "medium":"Lignum Vitae (Guayacán, Guaiacum sp.)",
+    "dimensions":"8.8 × 13.1 × 27.4 cm (3 7/16 × 5 3/16 × 10 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Duho (ritual seat)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":218199,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931935",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218200,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931942",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":3596,
+            "citation":"Taíno: Ancient Voyagers of the Caribbean, El Museo del Barrio (October 2000–August 2003)\r\n",
+            "isvirtual":true,
+            "begindate":"2000-10",
+            "enddate":"2003-08",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3596"
+        },
+        {
+            "exhibitionid":3595,
+            "citation":"The Art of Mesoamerica before Columbus September 26–December 13, 1992",
+            "isvirtual":true,
+            "begindate":"1992-09-26",
+            "enddate":"1992-12-13",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3595"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, Dominican Republic, San Pedro de Macorís, Juan Dolio",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Intermediate area",
+            "country":"Dominican Republic",
+            "region":null,
+            "state":"San Pedro de Macorís",
+            "city":"Juan Dolio",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2192196,
+            "term":"seating",
+            "aatid":300252440,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035920,
+            "term":"Taino",
+            "aatid":300017878,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2192196,
+            "classification":"seating"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13908,
+            "culture":"Taíno",
+            "alphasort":"Taíno",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Taíno",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035920,
+            "culture":"Taino"
+        }
+    ],
+    "periods":[
+        {
+            "id":21429,
+            "period":"Chicoid",
+            "alphasort":"Chicoid",
+            "begindate":1200,
+            "enddate":1500,
+            "displayperiod":"Chicoid",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"27.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":188261,
+            "name":"Web_Taino_AAMD"
+        },
+        {
+            "packageid":189897,
+            "name":"web_recacq_2020"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931942"
+    ],
+    "displaymaker":null,
+    "displayculture":"Taíno",
+    "displayperiod":"Chicoid",
+    "caption":"Taíno, Chicoid, 1200–1500, Juan Dolio, San Pedro de Macorís, Dominican Republic, Intermediate area, Duho (ritual seat). Lignum Vitae (Guayacán, Guaiacum sp.); 8.8 × 13.1 × 27.4 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-253)",
+    "captionhtml":"Taíno, Chicoid, 1200–1500, Juan Dolio, San Pedro de Macorís, Dominican Republic, Intermediate area, <i>Duho (ritual seat)</i>. Lignum Vitae (Guayacán, Guaiacum sp.); 8.8 × 13.1 × 27.4 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-253)",
+    "published_date":"2025-10-16 18:45:04.801169",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

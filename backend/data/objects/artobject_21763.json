@@ -1,0 +1,197 @@
+{
+    "type":"artobject",
+    "objectid":21763,
+    "objectnumber":"y1941-77",
+    "sortnumber":"1941   77y",
+    "displaytitle":"Head",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":600,
+    "dateend":900,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"600–900",
+    "medium":"Molded ceramic",
+    "dimensions":"h. 10.5 cm., w. 10.9 cm., d. 5.7 cm. (4 1/8 x 4 5/16 x 2 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Marion Welker",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Head",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":49470,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015496",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions\", <EM>Record of the Museum of Historic Art, Princeton University </EM>1, no. 1 (1942): p. 19.",
+            "citation":"\"Recent accessions\", <EM>Record of the Museum of Historic Art, Princeton University </EM>1, no. 1 (1942): p. 19., p. 19",
+            "date":1942,
+            "id":3200,
+            "uri":"https://www.jstor.org/stable/3774184"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Santiago Tuxtla",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Veracruz",
+            "city":"Santiago Tuxtla",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8583789/santiago-tuxtla.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035666,
+            "term":"Early Classic",
+            "aatid":300016984,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13849,
+            "culture":"Classic Veracruz",
+            "alphasort":"Classic Veracruz",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Classic Veracruz",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24016,
+            "period":"Late Classic Period",
+            "alphasort":"Classic Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035666,
+            "period":"Early Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015496"
+    ],
+    "displaymaker":null,
+    "displayculture":"Classic Veracruz",
+    "displayperiod":"Late Classic Period",
+    "caption":"Classic Veracruz, Late Classic Period, 600–900, Santiago Tuxtla, Veracruz, Mexico, Mesoamerica, Head. Molded ceramic; 10.5 x 10.9 x 5.7 cm. Gift of Marion Welker (y1941-77)",
+    "captionhtml":"Classic Veracruz, Late Classic Period, 600–900, Santiago Tuxtla, Veracruz, Mexico, Mesoamerica, <i>Head</i>. Molded ceramic; 10.5 x 10.9 x 5.7 cm. Gift of Marion Welker (y1941-77)",
+    "published_date":"2025-10-31 02:03:37.287552",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

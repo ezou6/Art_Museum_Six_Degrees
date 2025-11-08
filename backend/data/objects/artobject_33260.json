@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":33260,
+    "objectnumber":"y1990-33",
+    "sortnumber":"1990   33y",
+    "displaytitle":"Landscape with a Cornfield",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1923,
+    "dateend":1923,
+    "datecomputed":1923,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1923",
+    "medium":"Oil on canvas",
+    "dimensions":"60.3 x 72.7 cm (23 3/4 x 28 5/8 in.)\r\nframe: 62 x 75 x 5 cm (24 7/16 x 29 1/2 x 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Sophie Goldberg Bargmann and Valentine Bargmann",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left :Wundt",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape with a Cornfield",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1922,
+            "displayname":"Wilhelm Wundt",
+            "displaydate":"1884–1964; born Krakow, Germany; died Troy, New York; active Berlin",
+            "datebegin":1884,
+            "dateend":1964,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wilhelm Wundt, 1884–1964; born Krakow, Germany; died Troy, New York; active Berlin",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Dr. Zacharias Goldberg, Zürich; Sophie and Valentine Bargmann, by inheritance in 1962; 1990 gift to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":124081,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47003",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 18",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120510,
+            "term":"agricultural land",
+            "aatid":300008631,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045866,
+            "term":"corn",
+            "aatid":300011903,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"62.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"75.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"72.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206416,
+            "name":"image_descriptions_KG"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47003"
+    ],
+    "displaymaker":"Wilhelm Wundt, 1884–1964; born Krakow, Germany; died Troy, New York; active Berlin",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Wilhelm Wundt (1884–1964; born Krakow, Germany; died Troy, New York; active Berlin), Landscape with a Cornfield, 1923. Oil on canvas; 60.3 x 72.7 cm, 62 × 75 × 5 cm (frame). Bequest of Sophie Goldberg Bargmann and Valentine Bargmann (y1990-33)",
+    "captionhtml":"Wilhelm Wundt (1884–1964; born Krakow, Germany; died Troy, New York; active Berlin), <i>Landscape with a Cornfield</i>, 1923. Oil on canvas; 60.3 x 72.7 cm, 62 × 75 × 5 cm (frame). Bequest of Sophie Goldberg Bargmann and Valentine Bargmann (y1990-33)",
+    "published_date":"2025-10-30 02:06:04.283104",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

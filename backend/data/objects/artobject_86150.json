@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":86150,
+    "objectnumber":"2012-110",
+    "sortnumber":"2012  110",
+    "displaytitle":"Hair and There",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2004,
+    "dateend":2004,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2004",
+    "medium":"Etching",
+    "dimensions":"48.3 × 40.6 cm (19 × 16 in.)\r\nframe: 54 × 46 × 2.9 cm (21 1/4 × 18 1/8 × 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund and the Henry E. Bessire, Class of 1957, Contemporary Art Fund",
+    "markings":null,
+    "inscribed":"Signed and numbered, lower right: Mona Hatoum 9//20\r\n\r\nSigned verso, lower right: Mona Hatoum",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Mona Hatoum",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hair and There",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":17751,
+            "displayname":"Mona Hatoum",
+            "displaydate":"born 1952, Beirut, Lebanon; active London, United Kingdom, and Berlin, Germany",
+            "datebegin":1952,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Mona Hatoum, born 1952, Beirut, Lebanon; active London, United Kingdom, and Berlin, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":244448,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_101867",
+            "isprimary":0,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":81939,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Hatoum, Mona_Hair and There_b",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Exhibition Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 131",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England, London",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2643743/london.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037333,
+            "term":"Palestinian",
+            "aatid":300107688,
+            "termtype":"Culture"
+        },
+        {
+            "id":2045385,
+            "term":"hair",
+            "aatid":300011814,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2037333,
+            "culture":"Palestinian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.25"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.63"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":196698,
+            "name":"MoCo-Feminism"
+        },
+        {
+            "packageid":163462,
+            "name":"web_WoPSR_ 2019_Abstractions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/Hatoum, Mona_Hair and There_b"
+    ],
+    "displaymaker":"Mona Hatoum, born 1952, Beirut, Lebanon; active London, United Kingdom, and Berlin, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mona Hatoum (born 1952, Beirut, Lebanon; active London, United Kingdom, and Berlin, Germany), Hair and There, 2004. Etching; 48.3 × 40.6 cm, 54 × 46 × 2.9 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund and the Henry E. Bessire, Class of 1957, Contemporary Art Fund (2012-110)",
+    "captionhtml":"Mona Hatoum (born 1952, Beirut, Lebanon; active London, United Kingdom, and Berlin, Germany), <i>Hair and There</i>, 2004. Etching; 48.3 × 40.6 cm, 54 × 46 × 2.9 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund and the Henry E. Bessire, Class of 1957, Contemporary Art Fund (2012-110)",
+    "published_date":"2025-10-16 17:06:13.454008",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

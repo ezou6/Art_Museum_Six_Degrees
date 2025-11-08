@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":135798,
+    "objectnumber":"2019-210",
+    "sortnumber":"2019  210",
+    "displaytitle":"Duck",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1885,
+    "dateend":1895,
+    "datecomputed":1890,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1890",
+    "medium":"Ceramic with polychrome slip",
+    "dimensions":"18.4 × 15.9 × 10.8 cm (7 1/4 × 6 1/4 × 4 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sculpture in the form of a duck",
+            "titletype":"Primary Title",
+            "displayorder":2
+        },
+        {
+            "title":"Duck",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Adobe Gallery, Santa Fe (NM), by 2003]; purchased by Jim Maddox, 2003; donated to the Princeton University Art Museum by Jim Maddox and Lucy Maddox, 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":227152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62851",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":227153,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62846",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Haak'u (Acoma) Pueblo, Colorado Plateau",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Colorado Plateau",
+            "state":"New Mexico",
+            "city":"Haak'u (Acoma) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5454217/acoma-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171680,
+            "term":"ducks",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040518,
+            "term":"Acoma",
+            "aatid":300017749,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":23169,
+            "culture":"Haak’u (Acoma)",
+            "alphasort":"Haak’u (Acoma)",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haak’u (Acoma)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040518,
+            "culture":"Acoma"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.41"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.87"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"10.79"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62846"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Haak’u (Acoma)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Haak’u (Acoma), ca. 1890, Haak'u (Acoma) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, Duck. Ceramic with polychrome slip; 18.4 × 15.9 × 10.8 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-210)",
+    "captionhtml":"Artist unidentified, Haak’u (Acoma), ca. 1890, Haak'u (Acoma) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, <i>Duck</i>. Ceramic with polychrome slip; 18.4 × 15.9 × 10.8 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-210)",
+    "published_date":"2025-10-30 02:09:27.865463",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

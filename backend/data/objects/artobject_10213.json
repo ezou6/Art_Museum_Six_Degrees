@@ -1,0 +1,173 @@
+{
+    "type":"artobject",
+    "objectid":10213,
+    "objectnumber":"x1960-38",
+    "sortnumber":"1960   38x",
+    "displaytitle":"Quos Ego",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1717,
+    "dateend":1717,
+    "datecomputed":1717,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 44.8 x 71.6 cm\r\nsheet: 47 x 73.5 cm. (18 1/2 x 28 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Julie Parsons Redmond",
+    "markings":null,
+    "inscribed":"bottom, r.: J.M. Natier del. B. Picart sculpsit 1717; bottom, l.: Peint par Mr. Coypel  Ecuyer premier Peintre du Roy ....",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Quos Ego",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3025,
+            "displayname":"Bernard Picart",
+            "displaydate":"French, 1673–1733",
+            "datebegin":1673,
+            "dateend":1733,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Bernard Picart, French, 1673–1733",
+            "displayorder":1
+        },
+        {
+            "id":3967,
+            "displayname":"Jean-Marc Nattier",
+            "displaydate":"French, 1685–1766",
+            "datebegin":1685,
+            "dateend":1766,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jean-Marc Nattier, French, 1685–1766",
+            "displayorder":3
+        },
+        {
+            "id":6685,
+            "displayname":"Antoine Coypel",
+            "displaydate":"French, 1661–1722",
+            "datebegin":1661,
+            "dateend":1722,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Antoine Coypel, French, 1661–1722",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":78835,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09647",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 26",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09647"
+    ],
+    "displaymaker":"Bernard Picart, French, 1673–1733 | after Antoine Coypel, French, 1661–1722 | after Jean-Marc Nattier, French, 1685–1766",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bernard Picart (French, 1673–1733), after Antoine Coypel (French, 1661–1722), after Jean-Marc Nattier (French, 1685–1766), Quos Ego. Engraving; 47 x 73.5 cm (sheet). Bequest of Julie Parsons Redmond (x1960-38)",
+    "captionhtml":"Bernard Picart (French, 1673–1733), after Antoine Coypel (French, 1661–1722), after Jean-Marc Nattier (French, 1685–1766), <i>Quos Ego</i>. Engraving; 47 x 73.5 cm (sheet). Bequest of Julie Parsons Redmond (x1960-38)",
+    "published_date":"2025-10-23 16:52:26.843482",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

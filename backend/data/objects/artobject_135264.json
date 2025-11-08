@@ -1,0 +1,202 @@
+{
+    "type":"artobject",
+    "objectid":135264,
+    "objectnumber":"2019-4",
+    "sortnumber":"2019    4",
+    "displaytitle":"Seated male nude",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1680,
+    "dateend":1680,
+    "datecomputed":1680,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1680",
+    "medium":"Black and white chalk",
+    "dimensions":"58 × 40.7 cm (22 13/16 × 16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":"Stamped in red ink lower right corner: K.2 | n.m.",
+    "inscribed":null,
+    "signed":"Signed and dated in black chalk, lower right: S. Bottschild | Dresden 1680",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":21472,
+            "displayname":"Samuel Bottschild",
+            "displaydate":"1641–1706; born Sangerhausen, Germany; died Dresden, Germany",
+            "datebegin":1641,
+            "dateend":1706,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Samuel Bottschild, 1641–1706; born Sangerhausen, Germany; died Dresden, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Private collection, Germany; Galerie Bassenge, Berlin, auction, Nov. 30, 2019, lot 6445",
+            "remarks":"Submitted by Thomas DaCosta Kaufmann"
+        }
+    ],
+    "media":[
+        {
+            "id":222550,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_36001",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany, Dresden",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":"Dresden",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6551127/dresden.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160318,
+            "term":"chalk",
+            "aatid":300011727,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"58.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":189897,
+            "name":"web_recacq_2020"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_36001"
+    ],
+    "displaymaker":"Samuel Bottschild, 1641–1706; born Sangerhausen, Germany; died Dresden, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Samuel Bottschild (1641–1706; born Sangerhausen, Germany; died Dresden, Germany), Seated male nude, 1680. Black and white chalk; 58 × 40.7 cm. Museum purchase, Laura P. Hall Memorial Fund (2019-4)",
+    "captionhtml":"Samuel Bottschild (1641–1706; born Sangerhausen, Germany; died Dresden, Germany), Seated male nude, 1680. Black and white chalk; 58 × 40.7 cm. Museum purchase, Laura P. Hall Memorial Fund (2019-4)",
+    "published_date":"2025-10-16 18:46:06.253356",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

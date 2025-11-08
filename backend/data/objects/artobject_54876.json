@@ -1,0 +1,149 @@
+{
+    "type":"artobject",
+    "objectid":54876,
+    "objectnumber":"y1958-14",
+    "sortnumber":"1958   14y",
+    "displaytitle":"King",
+    "department":"Prints and Drawings",
+    "classification":"Manuscripts",
+    "datebegin":1300,
+    "dateend":1399,
+    "datecomputed":1350,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"14th century",
+    "medium":"On vellum",
+    "dimensions":"2.9 × 3 cm (1 1/8 × 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1958-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"King",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":228380,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1958-14",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"&quot;Recent Acquisitions,&quot; <i>Record of the Art Museum, Princeton University</i> 18, no. 1 (1959): p. 40-42.",
+            "citation":"&quot;Recent Acquisitions,&quot; <i>Record of the Art Museum, Princeton University</i> 18, no. 1 (1959): p. 40-42., p. 42",
+            "date":1959,
+            "id":876,
+            "uri":"https://www.jstor.org/stable/3774388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2151022,
+            "term":"kneeling",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2089201,
+            "term":"kings (people)",
+            "aatid":300025481,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1958-14"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, King, 14th century. On vellum; 2.9 × 3 cm. Museum purchase (y1958-14)",
+    "captionhtml":"French, <i>King</i>, 14th century. On vellum; 2.9 × 3 cm. Museum purchase (y1958-14)",
+    "published_date":"2025-10-23 17:25:19.555105",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

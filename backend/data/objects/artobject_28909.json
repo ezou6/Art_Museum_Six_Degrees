@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":28909,
+    "objectnumber":"y1962-126",
+    "sortnumber":"1962  126y",
+    "displaytitle":"Dog and Moon Adventure I",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1957,
+    "dateend":1957,
+    "datecomputed":1957,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1957",
+    "medium":"Oil on canvas",
+    "dimensions":"122 x 182 cm (48 1/16 x 71 5/8 in.)\r\nframe: 124.5 x 185.5 x 5 cm (49 x 73 1/16 x 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stanley J. Seeger Jr., Class of 1952",
+    "markings":"Chalk, verso center: New York No. 9",
+    "inscribed":"Chalk, verso upper right: Alan Davie June [...] / Dog and Moon Adventure Number 1 / 4' x 6'",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 1957, Alan Davie",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dog and Moon Adventure I",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5525,
+            "displayname":"Alan Davie",
+            "displaydate":"British, 1920–2014",
+            "datebegin":1920,
+            "dateend":2014,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alan Davie, British, 1920–2014",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22635,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1962-126_REC",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22636,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1962-126_VER",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 15",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        },
+        {
+            "boilertext":"<em>The Stanley J. Seeger Jr. collection on special exhibition during June 1961, </em>(Princeton, NJ: Princeton University Art Museum, 1961).",
+            "citation":"<em>The Stanley J. Seeger Jr. collection on special exhibition during June 1961, </em>(Princeton, NJ: Princeton University Art Museum, 1961).",
+            "date":1961,
+            "id":2524,
+            "uri":"http://www.worldcat.org/oclc/3508828"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":2514,
+            "citation":"The Stanley J. Seeger, Jr. Collection (Princeton University Art Museum, June 1961)\r\n",
+            "isvirtual":true,
+            "begindate":"1961-06-01",
+            "enddate":"1961-06-30",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/2514"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: England",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.16_-0.703.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159878,
+            "term":"geometric elements",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"122.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"182.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"124.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"185.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1962-126_REC"
+    ],
+    "displaymaker":"Alan Davie, British, 1920–2014",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alan Davie (British, 1920–2014), Dog and Moon Adventure I, 1957. Oil on canvas; 122 x 182 cm, 124.5 × 185.5 × 5 cm (frame). Gift of Stanley J. Seeger Jr., Class of 1952 (y1962-126)",
+    "captionhtml":"Alan Davie (British, 1920–2014), <i>Dog and Moon Adventure I</i>, 1957. Oil on canvas; 122 x 182 cm, 124.5 × 185.5 × 5 cm (frame). Gift of Stanley J. Seeger Jr., Class of 1952 (y1962-126)",
+    "published_date":"2025-10-16 13:10:53.167130",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":48184,
+    "objectnumber":"2005-69",
+    "sortnumber":"2005   69",
+    "displaytitle":"Landscape",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1857,
+    "dateend":1857,
+    "datecomputed":1857,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1857",
+    "medium":"Oil on canvas",
+    "dimensions":"41 x 69.2 cm (16 1/8 x 27 1/4 in.)\r\nframe: 62 × 80 × 7 cm (24 7/16 × 31 1/2 × 2 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin",
+    "markings":null,
+    "inscribed":null,
+    "signed":"lower left",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5611,
+            "displayname":"Virgilio Narcisse Diaz de la Peña",
+            "displaydate":"French, 1807 - 1876",
+            "datebegin":1807,
+            "dateend":1876,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Virgilio Narcisse Diaz de la Peña, French, 1807 - 1876",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The son of Spanish immigrants to France, Diaz de la Peña rose from poverty to become a successful member of the Barbizon School—a group of artists who painted the forest of Fontainebleau surrounding that small village. Among his friends was Antoine Barye, the sculptor of animals, who also practiced plein air painting, often in Diaz de la Peña’s company.<BR><BR>This forest scene is typical of the artist’s work and is perhaps an enlargement of a small view of the site signed and dated 1857. The Barbizon painters worked out of doors during the temperate seasons but in winter worked indoors, painting versions of their summer sketches and, in the case of Diaz de la Peña, Orientalist scenes, nudes, and figural works. His specialty, however, was glades such as this one.",
+            "remarks":"Works on Paper Installation May 2012"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Sotheby's London, July 9, 1958, no. 105 (sold to Lloyd); Frank E. Taplin, Jr., Class of 1937, by 1997; 2005&nbsp;gift to Princeton University Art Museum in memory of Frank E. Taplin, Class of 1937, by Margaret E Taplin.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":5945,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2005-69",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 50",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_46_2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"62.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"69.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"41.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        },
+        {
+            "packageid":152533,
+            "name":"web_frenchpaintings"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2005-69"
+    ],
+    "displaymaker":"Virgilio Narcisse Diaz de la Peña, French, 1807 - 1876",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Virgilio Narcisse Diaz de la Peña (French, 1807 - 1876), Landscape, 1857. Oil on canvas; 41 x 69.2 cm, 62 × 80 × 7 cm (frame). Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin (2005-69)",
+    "captionhtml":"Virgilio Narcisse Diaz de la Peña (French, 1807 - 1876), <i>Landscape</i>, 1857. Oil on canvas; 41 x 69.2 cm, 62 × 80 × 7 cm (frame). Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin (2005-69)",
+    "published_date":"2025-10-30 02:07:02.961623",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

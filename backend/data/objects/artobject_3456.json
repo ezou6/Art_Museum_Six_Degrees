@@ -1,0 +1,139 @@
+{
+    "type":"artobject",
+    "objectid":3456,
+    "objectnumber":"x1940-33",
+    "sortnumber":"1940   33x",
+    "displaytitle":"Adam and Eve",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1632,
+    "dateend":1648,
+    "datecomputed":1640,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"sheet trimmed to plate: 20 x 17.4 cm (7 7/8 x 6 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Adam and Eve",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6266,
+            "displayname":"Simone Cantarini",
+            "displaydate":"Italian, 1612–1648",
+            "datebegin":1612,
+            "dateend":1648,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Simone Cantarini, Italian, 1612–1648",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Henry Walters [1848-1931]; gifted to the Metropolitan Museum of Art, New York; Princeton University Art Museum, by exchange, 1940.\n\n</span>",
+            "remarks":"The verso of the print needs to be checked for collectors' marks. "
+        }
+    ],
+    "media":[
+        {
+            "id":101264,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25957",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25957"
+    ],
+    "displaymaker":"Simone Cantarini, Italian, 1612–1648",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Simone Cantarini (Italian, 1612–1648), Adam and Eve. Etching; 20 x 17.4 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1940-33)",
+    "captionhtml":"Simone Cantarini (Italian, 1612–1648), <i>Adam and Eve</i>. Etching; 20 x 17.4 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1940-33)",
+    "published_date":"2025-10-23 16:43:03.280687",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

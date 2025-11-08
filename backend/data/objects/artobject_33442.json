@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":33442,
+    "objectnumber":"y1991-17",
+    "sortnumber":"1991   17y",
+    "displaytitle":"Portrait of Joshua Logan",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1960,
+    "dateend":1960,
+    "datecomputed":1960,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1960",
+    "medium":"Oil on canvas",
+    "dimensions":"100 x 81.2 cm (39 3/8 x 31 15/16 in.)\r\nframe: 119 x 100 x 4 cm (46 7/8 x 39 3/8 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Joshua L. Logan, Class of 1931",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Initialed, lower left corner: OK",
+    "catalograisonne":null,
+    "creditlinerepro":"© Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Joshua Logan",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4352,
+            "displayname":"Oskar Kokoschka",
+            "displaydate":"Austrian, 1886–1980",
+            "datebegin":1886,
+            "dateend":1980,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Oskar Kokoschka, Austrian, 1886–1980",
+            "displayorder":1
+        }
+    ],
+    "depicted":[
+        {
+            "id":9029,
+            "displayname":"Joshua L. Logan",
+            "displaydate":"1908–1988",
+            "datebegin":1908,
+            "dateend":1988,
+            "prefix":"Person depicted:",
+            "suffix":null,
+            "role":"Depicted",
+            "displaymaker":"Person depicted: Joshua L. Logan, 1908–1988",
+            "displayorder":2
+        }
+    ],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Oskar Kokoschka; 1960 commission by Joshua Logan and Nedda Harrigan Logan; 1991 bequest to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":124304,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47222",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 23; p. 27 (illus.)",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        },
+        {
+            "boilertext":"<P>Hedy B. Landman, <EM>European and American art from Princeton alumni collections</EM><EM>, </EM>(Princeton, NJ: Art Museum, Princeton University, 1972).</P>",
+            "citation":"<P>Hedy B. Landman, <EM>European and American art from Princeton alumni collections</EM><EM>, </EM>(Princeton, NJ: Art Museum, Princeton University, 1972).</P>, no. 88; p. 108 (illus.)",
+            "date":1972,
+            "id":568,
+            "uri":"http://www.worldcat.org/oclc/403016"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031576,
+            "term":"Austrian",
+            "aatid":300111153,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031576,
+            "culture":"Austrian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"100.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"119.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"100.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47222"
+    ],
+    "displaymaker":"Oskar Kokoschka, Austrian, 1886–1980 | Person depicted: Joshua L. Logan, 1908–1988",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Oskar Kokoschka (Austrian, 1886–1980), Person depicted: Joshua L. Logan (1908–1988), Portrait of Joshua Logan, 1960. Oil on canvas; 100 x 81.2 cm, 119 × 100 × 4 cm (frame). Bequest of Joshua L. Logan, Class of 1931 (y1991-17)",
+    "captionhtml":"Oskar Kokoschka (Austrian, 1886–1980), Person depicted: Joshua L. Logan (1908–1988), <i>Portrait of Joshua Logan</i>, 1960. Oil on canvas; 100 x 81.2 cm, 119 × 100 × 4 cm (frame). Bequest of Joshua L. Logan, Class of 1931 (y1991-17)",
+    "published_date":"2025-10-30 02:06:07.221038",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

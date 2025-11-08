@@ -1,0 +1,195 @@
+{
+    "type":"artobject",
+    "objectid":34422,
+    "objectnumber":"y365",
+    "sortnumber":"365     y",
+    "displaytitle":"Bowl",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Faience",
+    "datebegin":-100,
+    "dateend":-30,
+    "datecomputed":-65,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"100–30 BCE",
+    "medium":"Faience",
+    "dimensions":"h. 9.8 cm, diam. 14.0 cm (3 7/8 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Mr. Prime in Sakkhara, 1870; part of the Museum's Old Collection",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":35195,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002706",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Egypt, Ṣaqqâra",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Ṣaqqâra",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_29.85_31.217.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037078,
+            "term":"Ptolemaic",
+            "aatid":300020432,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049250,
+            "term":"faience",
+            "aatid":300010668,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188491,
+            "term":"faience",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049250,
+            "classification":"faience"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":13454,
+            "period":"Ptolemaic Period",
+            "alphasort":"Ptolemaic Period",
+            "begindate":-304,
+            "enddate":-30,
+            "displayperiod":"Ptolemaic Period, 304–30 BCE",
+            "displaydate":"304–30 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037078,
+            "period":"Ptolemaic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002706"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"Ptolemaic Period, 304–30 BCE",
+    "caption":"Egyptian, Ptolemaic Period (304–30 BCE), Egypt, 100–30 BCE, Bowl. Faience; 9.8 x 14 cm. Prime Collection (y365)",
+    "captionhtml":"Egyptian, Ptolemaic Period (304–30 BCE), Egypt, 100–30 BCE, <i>Bowl</i>. Faience; 9.8 x 14 cm. Prime Collection (y365)",
+    "published_date":"2025-10-16 13:40:51.986406",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

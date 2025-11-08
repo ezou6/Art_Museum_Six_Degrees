@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":14431,
+    "objectnumber":"x1981-10",
+    "sortnumber":"1981   10x",
+    "displaytitle":"Double Imagery",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1967,
+    "dateend":1967,
+    "datecomputed":1967,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1967",
+    "medium":"Color lithograph",
+    "dimensions":"sheet (left): 92.5 × 78 cm (36 7/16 × 30 11/16 in.)\r\nsheet (right): 92.5 × 66 cm (36 7/16 × 26 in.)\r\nmount: 97 × 149.5 cm (38 3/16 × 58 7/8 in.)\r\nframe: 105.7 × 157.8 × 5.4 cm (41 5/8 × 62 1/8 × 2 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Edgar Harcourt",
+    "markings":null,
+    "inscribed":"Edition inked in red on right sheet, left of center, below gray strip: 9/20",
+    "signed":"Signed and dated in red ink bottom right: Louise Nevelson '67",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Louise Nevelson / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1981-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Double Imagery",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3991,
+            "displayname":"Louise Nevelson",
+            "displaydate":"1899–1988; born Pereiaslav, Ukraine; died New York, NY; active New York",
+            "datebegin":1899,
+            "dateend":1988,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Louise Nevelson, 1899–1988; born Pereiaslav, Ukraine; died New York, NY; active New York",
+            "displayorder":1
+        },
+        {
+            "id":14235,
+            "displayname":"Tamarind Institute",
+            "displaydate":"founded 1960",
+            "datebegin":1960,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Tamarind Institute, founded 1960",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Pace Gallery, New York]; purchased by Mr. and Mrs. Edgar Harcourt, New York; gifted to the Princeton University Art Museum, 1981.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Nevelson is best known for her monochromatic painted relief sculptures that gather pieces of found wood into abstract compositions. To make this print, one of sixteen lithographs from her Double Imagery series, she employed a similar assemblage technique. She cut irregular shapes from a wet print and laid the pieces onto an inverted or reversed impression of the print. The irregularly cut fragments of paper served as blotters, absorbing a lighter, semitransparent impression of the original saturated print. The varying weights and densities of color and the delicate skein of lines carved into the lithograph matrix lend these works visual and spatial complexity, while Nevelson’s process of recombining sections of her own prints to create the forms for future compositions recalls her approach to sculpture.",
+            "remarks":"MOD_09-12_WLA – Day 1 Cataloguing"
+        }
+    ],
+    "media":[
+        {
+            "id":145983,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV64194",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"92.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"92.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"149.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"97.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"105.72"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"157.79"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.39"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143052,
+            "name":"web_MM_2018-08"
+        },
+        {
+            "packageid":219380,
+            "name":"Gallery_10-12(Pavilion3)-ModernContemporary"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV64194"
+    ],
+    "displaymaker":"Louise Nevelson, 1899–1988; born Pereiaslav, Ukraine; died New York, NY; active New York | Printed by Tamarind Institute, founded 1960",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Louise Nevelson (1899–1988; born Pereiaslav, Ukraine; died New York, NY; active New York), Printed by Tamarind Lithography Workshop (founded 1960), Double Imagery, 1967. Color lithograph; 92.5 x 78 cm, 92.5 × 78 cm (sheet, left), 92.5 x 66 cm, 92.5 × 66 cm (sheet, right), 105.7 × 157.8 × 5.4 cm (frame). Gift of Mr. and Mrs. Edgar Harcourt (x1981-10)",
+    "captionhtml":"Louise Nevelson (1899–1988; born Pereiaslav, Ukraine; died New York, NY; active New York), Printed by Tamarind Lithography Workshop (founded 1960), <i>Double Imagery</i>, 1967. Color lithograph; 92.5 x 78 cm, 92.5 × 78 cm (sheet, left), 92.5 x 66 cm, 92.5 × 66 cm (sheet, right), 105.7 × 157.8 × 5.4 cm (frame). Gift of Mr. and Mrs. Edgar Harcourt (x1981-10)",
+    "published_date":"2025-10-16 11:54:57.852046",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

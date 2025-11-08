@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":42503,
+    "objectnumber":"2004-59",
+    "sortnumber":"2004   59",
+    "displaytitle":"Morning Mist",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1904,
+    "dateend":1904,
+    "datecomputed":1904,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1904",
+    "medium":"Oil on canvas",
+    "dimensions":"50.8 × 63.8 cm (20 × 25 1/8 in.)\r\nframe: 70.5 × 81 × 8.9 cm (27 3/4 × 31 7/8 × 3 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Frederick H. Remington, Class of 1943",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed: LL",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Morning Mist",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4490,
+            "displayname":"Ernest Lawson",
+            "displaydate":"1873–1939; born Halifax, Nova Scotia, Canada; died Miami, FL",
+            "datebegin":1873,
+            "dateend":1939,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ernest Lawson, 1873–1939; born Halifax, Nova Scotia, Canada; died Miami, FL",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Possibly Milch Galleries of American Art, New York (NY)]. Frederick H. Remington, by 2004; bequeathed to the Princeton University Art Museum, 2004.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":246381,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8189",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":246385,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8172",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 94",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/6255149/north-america.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119862,
+            "term":"streams",
+            "aatid":300008699,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"70.48"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.88"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8189"
+    ],
+    "displaymaker":"Ernest Lawson, 1873–1939; born Halifax, Nova Scotia, Canada; died Miami, FL",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ernest Lawson (1873–1939; born Halifax, Nova Scotia, Canada; died Miami, FL), Morning Mist, 1904. Oil on canvas; 50.8 × 63.8 cm, 70.5 × 81 × 8.9 cm (frame). Bequest of Frederick H. Remington, Class of 1943 (2004-59)",
+    "captionhtml":"Ernest Lawson (1873–1939; born Halifax, Nova Scotia, Canada; died Miami, FL), <i>Morning Mist</i>, 1904. Oil on canvas; 50.8 × 63.8 cm, 70.5 × 81 × 8.9 cm (frame). Bequest of Frederick H. Remington, Class of 1943 (2004-59)",
+    "published_date":"2025-10-30 02:06:55.478123",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

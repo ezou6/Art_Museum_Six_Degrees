@@ -1,0 +1,273 @@
+{
+    "type":"artobject",
+    "objectid":24324,
+    "objectnumber":"y1952-85",
+    "sortnumber":"1952   85y",
+    "displaytitle":"Mask of Youth",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-200,
+    "dateend":-101,
+    "datecomputed":-150,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"2nd century BCE",
+    "medium":"Terracotta",
+    "dimensions":"12.5 x 11.6 x 13.9 cm (4 15/16 x 4 9/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask of Youth",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from Mathias Komor, NY, in 1952.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13092,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-84-85_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":37469,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004253",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986)",
+            "citation":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986), p. 32 (illus.)",
+            "date":1986,
+            "id":1899,
+            "uri":"http://www.worldcat.org/oclc/14244748"
+        },
+        {
+            "boilertext":"Otto Zwierlein, <EM>Zur Kritik und Exegese des Plautus</EM>, (Stuttgart: Steiner Verlag, 1990-1992).",
+            "citation":"Otto Zwierlein, <EM>Zur Kritik und Exegese des Plautus</EM>, (Stuttgart: Steiner Verlag, 1990-1992)., Vol. 4: p. 52, fig. 3",
+            "date":1990,
+            "id":2819,
+            "uri":"http://www.worldcat.org/oclc/469931917"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Europe, Italy, Sicily, Cefalu",
+            "code":"Place excavated",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":"Sicily",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Cefalu",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_38.039_14.023.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036491,
+            "term":"Hellenistic",
+            "aatid":300020101,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036594,
+            "term":"Sicilian",
+            "aatid":300020179,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055252,
+            "term":"terracottas",
+            "aatid":300047296,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055252,
+            "classification":"terracottas"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Sicilian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        }
+    ],
+    "periods":[
+        {
+            "id":13436,
+            "period":"Hellenistic",
+            "alphasort":"Hellenistic",
+            "begindate":-323,
+            "enddate":-30,
+            "displayperiod":"Hellenistic",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036491,
+            "period":"Hellenistic"
+        },
+        {
+            "id":2036594,
+            "period":"Sicilian"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182063,
+            "name":"web_2020_ancient_greek"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004253"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek, Sicilian",
+    "displayperiod":"Hellenistic",
+    "caption":"Greek, Sicilian, Hellenistic, Sicily, Italy, 2nd century BCE, Mask of Youth. Terracotta; 12.5 x 11.6 x 13.9 cm. Museum purchase (y1952-85)",
+    "captionhtml":"Greek, Sicilian, Hellenistic, Sicily, Italy, 2nd century BCE, <i>Mask of Youth</i>. Terracotta; 12.5 x 11.6 x 13.9 cm. Museum purchase (y1952-85)",
+    "published_date":"2025-10-31 02:04:27.802488",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

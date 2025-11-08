@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":38941,
+    "objectnumber":"2000-428",
+    "sortnumber":"2000  428",
+    "displaytitle":"Radiating Lines, Nazca, Peru",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1979,
+    "dateend":1979,
+    "datecomputed":1979,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1979",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 47.7 x 39.7 cm. (18 3/4 x 15 5/8 in.)\r\nsheet: 50.6 x 40.5 cm. (19 15/16 x 15 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Fernando Vera, Class of 1979, and Marguerite Vera, Class of 1979",
+    "markings":null,
+    "inscribed":"Signed, dated, and titled in graphite, verso lower center: © Marilyn Bridges 1979 / \"Radiating Lines\", Nazca, Peru",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Marilyn Bridges",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Radiating Lines, Nazca, Peru",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":600,
+            "displayname":"Marilyn Bridges",
+            "displaydate":"American, born 1948",
+            "datebegin":1948,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Marilyn Bridges, American, born 1948",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":43608,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-428",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 78",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1374,
+            "citation":"The Life and Death of Buildings (July 23–November 6, 2011)",
+            "isvirtual":true,
+            "begindate":"2011-07-23",
+            "enddate":"2011-11-06",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1374"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: South America, Peru, Nazca",
+            "code":"Place depicted",
+            "continent":"South America",
+            "subcontinent":null,
+            "country":"Peru",
+            "region":null,
+            "state":null,
+            "city":"Nazca",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3934356/nazca.html",
+            "location":{
+                "lat":"-14.83098",
+                "lon":"-74.93895"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154341,
+            "term":"aerial photography",
+            "aatid":300053443,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119974,
+            "term":"deserts",
+            "aatid":300008916,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2172667,
+            "term":"flood plains",
+            "aatid":300132330,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2000-428"
+    ],
+    "displaymaker":"Marilyn Bridges, American, born 1948",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Marilyn Bridges (American, born 1948), Radiating Lines, Nazca, Peru, 1979. Gelatin silver print; 47.7 x 39.7 cm, 47.7 x 39.7 cm (image), 50.6 x 40.5 cm (sheet). Gift of Fernando Vera, Class of 1979, and Marguerite Vera, Class of 1979 (2000-428)",
+    "captionhtml":"Marilyn Bridges (American, born 1948), <i>Radiating Lines, Nazca, Peru</i>, 1979. Gelatin silver print; 47.7 x 39.7 cm, 47.7 x 39.7 cm (image), 50.6 x 40.5 cm (sheet). Gift of Fernando Vera, Class of 1979, and Marguerite Vera, Class of 1979 (2000-428)",
+    "published_date":"2025-10-16 14:04:34.819132",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

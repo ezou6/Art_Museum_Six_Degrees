@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":10594,
+    "objectnumber":"x1965-67",
+    "sortnumber":"1965   67x",
+    "displaytitle":"Redgrave Monument",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1923,
+    "dateend":1965,
+    "datecomputed":1944,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Gouache and collage",
+    "dimensions":"sight: 51.2 x 64 cm (20 3/16 x 25 3/16 in.)\r\nframe: 66.5 × 79.1 × 2.4 cm (26 3/16 × 31 1/8 × 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Prof. and Mrs. P. J. Kelleher",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, bottom right: John Piper",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of John Piper / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3050,
+            "displayname":"John Piper",
+            "displaydate":"1903–1992; born Epsom, England; died Henley-on-Thames, England",
+            "datebegin":1903,
+            "dateend":1992,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Piper, 1903–1992; born Epsom, England; died Henley-on-Thames, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Ex Buchholz Gallery, New York</p><p><br></p><p>Buchholz Gallery labels on back of frame [moved from exhibition history field]</p>",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":121336,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41577",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 26",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, Redgrave",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Redgrave",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/2639551/redgrave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083237,
+            "term":"monuments",
+            "aatid":300006958,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051938,
+            "term":"collages",
+            "aatid":300033963,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2152992,
+            "term":"collage",
+            "aatid":300138699,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2051938,
+            "classification":"collages"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"64.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.20"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"66.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.10"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41577"
+    ],
+    "displaymaker":"John Piper, 1903–1992; born Epsom, England; died Henley-on-Thames, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Piper (1903–1992; born Epsom, England; died Henley-on-Thames, England), Redgrave Monument. Gouache and collage; 51.2 x 64 cm (sight), 66.5 × 79.1 × 2.4 cm (frame). Gift of Prof. and Mrs. P. J. Kelleher (x1965-67)",
+    "captionhtml":"John Piper (1903–1992; born Epsom, England; died Henley-on-Thames, England), Redgrave Monument. Gouache and collage; 51.2 x 64 cm (sight), 66.5 × 79.1 × 2.4 cm (frame). Gift of Prof. and Mrs. P. J. Kelleher (x1965-67)",
+    "published_date":"2025-10-16 11:22:47.691292",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

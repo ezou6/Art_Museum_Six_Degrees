@@ -1,0 +1,166 @@
+{
+    "type":"artobject",
+    "objectid":49156,
+    "objectnumber":"x1937-49",
+    "sortnumber":"1937   49x",
+    "displaytitle":"Anne of Austria",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1620,
+    "dateend":1668,
+    "datecomputed":1644,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 13.6 x 9 cm. (5 3/8 x 3 9/16 in.)\r\nsheet: 17.1 x 12 cm. (6 3/4 x 4 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"around frame: ANNE AUSTRIAE REGINA GALLIAE; plaque underneath: La gloire de cette princess... B. Moncornet excu.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Anne of Austria",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3814,
+            "displayname":"Balthazar Moncornet",
+            "displaydate":"French, 1600–1668",
+            "datebegin":1600,
+            "dateend":1668,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Balthazar Moncornet, French, 1600–1668",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":98744,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24083",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":98745,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24084",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24084"
+    ],
+    "displaymaker":"Balthazar Moncornet, French, 1600–1668",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Balthazar Moncornet (French, 1600–1668), Anne of Austria. Engraving; 13.6 x 9 cm (plate), 17.1 x 12 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-49)",
+    "captionhtml":"Balthazar Moncornet (French, 1600–1668), <i>Anne of Austria</i>. Engraving; 13.6 x 9 cm (plate), 17.1 x 12 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-49)",
+    "published_date":"2025-10-23 17:23:51.873347",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

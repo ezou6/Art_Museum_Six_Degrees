@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":29298,
+    "objectnumber":"y1964-1",
+    "sortnumber":"1964    1y",
+    "displaytitle":"Landscape",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1616,
+    "dateend":1656,
+    "datecomputed":1636,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Oil on canvas",
+    "dimensions":"31.5 x 39 cm (12 3/8 x 15 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. J. Monroe Thorington, Class of 1915",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, near bottom, left of center: Van Goyen.;",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1964-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4921,
+            "displayname":"Jan van Goyen",
+            "displaydate":"Dutch, 1596–1656",
+            "datebegin":1596,
+            "dateend":1656,
+            "prefix":"follower of",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"follower of Jan van Goyen, Dutch, 1596–1656",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"?Sir Norton Beamish [?possibly Sir Tufton Beamish, Lord Chelwood]; J. Monroe Thorington, Philadelphia (until 1964; gift to Princeton University Art Museum).",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":7339,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1964-1_GS",
+            "isprimary":1,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>",
+            "citation":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>, p. 20",
+            "date":1965,
+            "id":1864,
+            "uri":"https://www.jstor.org/stable/3774350"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119841,
+            "term":"ponds",
+            "aatid":300008688,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101779,
+            "term":"carts",
+            "aatid":300212695,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147403,
+            "term":"fishing",
+            "aatid":300239470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1964-1_GS"
+    ],
+    "displaymaker":"follower of Jan van Goyen, Dutch, 1596–1656",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Follower of Jan van Goyen (Dutch, 1596–1656), Landscape, 17th century. Oil on canvas; 31.5 x 39 cm. Gift of Dr. J. Monroe Thorington, Class of 1915 (y1964-1)",
+    "captionhtml":"Follower of Jan van Goyen (Dutch, 1596–1656), <i>Landscape</i>, 17th century. Oil on canvas; 31.5 x 39 cm. Gift of Dr. J. Monroe Thorington, Class of 1915 (y1964-1)",
+    "published_date":"2025-10-16 13:13:40.358559",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

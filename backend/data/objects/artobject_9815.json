@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":9815,
+    "objectnumber":"x1957-136",
+    "sortnumber":"1957  136x",
+    "displaytitle":"Seated Youth",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1635,
+    "dateend":1660,
+    "datecomputed":1648,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Black chalk, heightened with white",
+    "dimensions":"39.5 x 26.3 cm. (15 9/16 x 10 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":"Stamp in ink, on verso lower left: MK [in circle] [Lugt 1882a]",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Seated Youth",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5931,
+            "displayname":"Govaert Flinck",
+            "displaydate":"Dutch, 1615–1660",
+            "datebegin":1615,
+            "dateend":1660,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Govaert Flinck, Dutch, 1615–1660",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mathias Komor, New York [Lugt 1882a]",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":12446,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1957-136_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":54490,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1957-136",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2153720,
+            "term":"heightening",
+            "aatid":300053418,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":224152,
+            "name":"2023_ART209_03_20"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1957-136"
+    ],
+    "displaymaker":"Govaert Flinck, Dutch, 1615–1660",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Govaert Flinck (Dutch, 1615–1660), Seated Youth. Black chalk, heightened with white; 39.5 x 26.3 cm. Museum purchase, Laura P. Hall Memorial Fund (x1957-136)",
+    "captionhtml":"Govaert Flinck (Dutch, 1615–1660), <i>Seated Youth</i>. Black chalk, heightened with white; 39.5 x 26.3 cm. Museum purchase, Laura P. Hall Memorial Fund (x1957-136)",
+    "published_date":"2025-10-16 11:17:54.918021",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

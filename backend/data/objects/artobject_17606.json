@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":17606,
+    "objectnumber":"x1992-107",
+    "sortnumber":"1992  107x",
+    "displaytitle":"Portrait of a seated woman wearing a shawl",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1810,
+    "dateend":1864,
+    "datecomputed":1837,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Watercolor",
+    "dimensions":"25.3 x 20.2 cm. (9 15/16 x 7 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of G. Ernest Dale, Jr., Class of 1939, and Mrs. Ann D. Dale",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in black ink, center right: W.M.[changed from H] Hunt",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a Woman",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":5372,
+            "displayname":"William Morris Hunt",
+            "displaydate":"1824–1879; born Appledore, NH; died Brattleboro, VT",
+            "datebegin":1824,
+            "dateend":1879,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to William Morris Hunt, 1824–1879; born Appledore, NH; died Brattleboro, VT",
+            "displayorder":2
+        },
+        {
+            "id":5374,
+            "displayname":"William Henry Hunt",
+            "displaydate":"1790–1864; born and died London, England",
+            "datebegin":1790,
+            "dateend":1864,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Henry Hunt, 1790–1864; born and died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gertrude Reynaud Dale in the 1940s from A. McBean, Newton Quaker (had antique shop on Stuyvesant Ave, Trenton)",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":108539,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV32335",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2647,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1992-107_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 43",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2128684,
+            "term":"shawls",
+            "aatid":300209991,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131489,
+            "term":"bonnets (hats)",
+            "aatid":300210720,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV32335"
+    ],
+    "displaymaker":"William Henry Hunt, 1790–1864; born and died London, England | formerly attributed to William Morris Hunt, 1824–1879; born Appledore, NH; died Brattleboro, VT",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Henry Hunt (1790–1864; born and died London, England), formerly attributed to William Morris Hunt (1824–1879; born Appledore, NH; died Brattleboro, VT), Portrait of a seated woman wearing a shawl. Watercolor; 25.3 x 20.2 cm. Gift of G. Ernest Dale, Jr., Class of 1939, and Mrs. Ann D. Dale (x1992-107)",
+    "captionhtml":"William Henry Hunt (1790–1864; born and died London, England), formerly attributed to William Morris Hunt (1824–1879; born Appledore, NH; died Brattleboro, VT), Portrait of a seated woman wearing a shawl. Watercolor; 25.3 x 20.2 cm. Gift of G. Ernest Dale, Jr., Class of 1939, and Mrs. Ann D. Dale (x1992-107)",
+    "published_date":"2025-10-16 12:18:00.259738",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

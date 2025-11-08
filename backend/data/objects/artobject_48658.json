@@ -1,0 +1,168 @@
+{
+    "type":"artobject",
+    "objectid":48658,
+    "objectnumber":"x1937-145",
+    "sortnumber":"1937  145x",
+    "displaytitle":"Belisaire",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1806,
+    "dateend":1806,
+    "datecomputed":1806,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 55 x 40 cm. (21 5/8 x 15 3/4 in.)\r\nsheet: 59.8 x 43.8 cm. (23 9/16 x 17 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"margin: F. Gerard Pinxt - Augte Desnoyers Sculpt 1806. Dedie a son Excellence Monsieur CHARLES MAURICE TALLEYRAND....",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Belisaire",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5598,
+            "displayname":"Auguste Desnoyers",
+            "displaydate":"French, 1779 - 1857",
+            "datebegin":1779,
+            "dateend":1857,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Desnoyers, French, 1779 - 1857",
+            "displayorder":1
+        },
+        {
+            "id":6098,
+            "displayname":"François Gérard Baron",
+            "displaydate":"French, 1770–1837",
+            "datebegin":1770,
+            "dateend":1837,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after François Gérard Baron, French, 1770–1837",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":81874,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10072",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"55.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10072"
+    ],
+    "displaymaker":"Auguste Desnoyers, French, 1779 - 1857 | after François Gérard Baron, French, 1770–1837",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Desnoyers (French, 1779 - 1857), after François Gérard Baron (French, 1770–1837), Belisaire. Engraving; 59.8 x 43.8 cm, 55 x 40 cm (plate), 59.8 x 43.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-145)",
+    "captionhtml":"Auguste Desnoyers (French, 1779 - 1857), after François Gérard Baron (French, 1770–1837), <i>Belisaire</i>. Engraving; 59.8 x 43.8 cm, 55 x 40 cm (plate), 59.8 x 43.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-145)",
+    "published_date":"2025-10-23 17:22:50.066598",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

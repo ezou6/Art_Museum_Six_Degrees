@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":70330,
+    "objectnumber":"x1980-4568",
+    "sortnumber":"1980 4568x",
+    "displaytitle":"Church Door (Old San Juan, Puerto Rico)",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1973,
+    "dateend":1973,
+    "datecomputed":1973,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"January 1973",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 29.8 × 23.6 cm (11 3/4 × 9 5/16 in.)\r\nsheet: 35.4 × 27.8 cm (13 15/16 × 10 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"Handwritten in graphite on verso, lower left: Church Door, San Juan, Puerto Rico, 1973",
+    "signed":"Signed in graphite on verso, lower right: Minor White",
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 73-39-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Church Door (Old San Juan, Puerto Rico)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":169508,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled3472.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        },
+        {
+            "id":175682,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA04589",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, Puerto Rico, San Juan, Old San Juan",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":"Puerto Rico",
+            "city":"San Juan",
+            "county":null,
+            "subregion":null,
+            "locale":"Old San Juan",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4568128/viejo-san-juan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111713,
+            "term":"doors",
+            "aatid":300002803,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2110200,
+            "term":"walls",
+            "aatid":300002469,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA04589"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Church Door (Old San Juan, Puerto Rico), January 1973. Gelatin silver print; 29.8 × 23.6 cm (image), 35.4 × 27.8 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-4568)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Church Door (Old San Juan, Puerto Rico)</i>, January 1973. Gelatin silver print; 29.8 × 23.6 cm (image), 35.4 × 27.8 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-4568)",
+    "published_date":"2025-10-16 16:47:36.108820",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

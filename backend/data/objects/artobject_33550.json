@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":33550,
+    "objectnumber":"y1991-45",
+    "sortnumber":"1991   45y",
+    "displaytitle":"Daniel in the Lion's Den",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1657,
+    "dateend":1663,
+    "datecomputed":1660,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1657–63",
+    "medium":"Oil on canvas",
+    "dimensions":"69.3 x 34.7 cm (27 5/16 x 13 11/16 in.)\r\nframe: 84 × 50 × 6 cm (33 1/16 × 19 11/16 × 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Edith Goldner",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Daniel in the Lion's Den",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3034,
+            "displayname":"Pietro da Cortona (Pietro Berrettini)",
+            "displaydate":"Italian, 1596 - 1669",
+            "datebegin":1596,
+            "dateend":1669,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pietro da Cortona (Pietro Berrettini), Italian, 1596 - 1669",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Herman Shickman Gallery, New York (around 1970s; sold to Edith Goldner); Mrs. Edith Goldner (around 1970s–1991; gift to Princeton University Art Museum).",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":3584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-45",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 23 (illus.)",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171831,
+            "term":"angels",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127397,
+            "term":"lions",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"84.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-45"
+    ],
+    "displaymaker":"Pietro da Cortona (Pietro Berrettini), Italian, 1596 - 1669",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pietro da Cortona (Pietro Berrettini) (Italian, 1596 - 1669), Daniel in the Lion's Den, 1657–63. Oil on canvas; 69.3 x 34.7 cm, 84 × 50 × 6 cm (frame). Gift of Mrs. Edith Goldner (y1991-45)",
+    "captionhtml":"Pietro da Cortona (Pietro Berrettini) (Italian, 1596 - 1669), <i>Daniel in the Lion's Den</i>, 1657–63. Oil on canvas; 69.3 x 34.7 cm, 84 × 50 × 6 cm (frame). Gift of Mrs. Edith Goldner (y1991-45)",
+    "published_date":"2025-10-30 02:06:08.520855",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

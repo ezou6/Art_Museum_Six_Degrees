@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":133889,
+    "objectnumber":"2018-15 a-b",
+    "sortnumber":"2018   15 a    b",
+    "displaytitle":"Dance panels (yàta)",
+    "department":"African and Oceanic Art",
+    "classification":"Ceremonial Objects",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Glass beads, cowrie shells, cloth, metal, and natural fibers",
+    "dimensions":"each: 59.1 × 45.4 × 6 cm (23 1/4 × 17 7/8 × 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Sherry and Arthur Stein",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":14188,
+            "displayname":"Yorùbá",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Yorùbá artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Bully Nimaga, Los Angeles, CA; Jeffrey Hammer and Deborah Stokes, Chicago (?), until 1995; Sherry and Arthur Stein by purchase, 1995; Princeton University Art Museum by gift, 2017",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":218808,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1933033",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218809,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1933035",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 159",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042050,
+            "term":"Yoruba",
+            "aatid":300016031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2157849,
+            "term":"beading (process)",
+            "aatid":300235440,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2048485,
+            "term":"beads",
+            "aatid":300234006,
+            "termtype":"Materials"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151468,
+            "term":"sewing",
+            "aatid":300053658,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044505,
+            "term":"cloth",
+            "aatid":300162391,
+            "termtype":"Materials"
+        },
+        {
+            "id":2166279,
+            "term":"cowrie shell",
+            "aatid":300011834,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042050,
+            "culture":"Yoruba"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.05"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.03"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1933033"
+    ],
+    "displaymaker":"Yorùbá artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yorùbá artist, Nigeria, Western Africa, Dance panels (yàta), 20th century. Glass beads, cowrie shells, cloth, metal, and natural fibers; 59.1 × 45.4 × 6 cm. Gift of Sherry and Arthur Stein (2018-15 a-b)",
+    "captionhtml":"Yorùbá artist, Nigeria, Western Africa, Dance panels (yàta), 20th century. Glass beads, cowrie shells, cloth, metal, and natural fibers; 59.1 × 45.4 × 6 cm. Gift of Sherry and Arthur Stein (2018-15 a-b)",
+    "published_date":"2025-10-16 18:41:05.560169",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":40621,
+    "objectnumber":"2001-306",
+    "sortnumber":"2001  306",
+    "displaytitle":"Snuff bottle with lotus blossoms",
+    "department":"Asian Art",
+    "classification":"Snuff Bottles",
+    "datebegin":1750,
+    "dateend":1799,
+    "datecomputed":1774,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"mid- to late 18th century",
+    "medium":"Snuff bottle; glass",
+    "dimensions":"h. with stopper 5.9 cm., w. 5.1 cm., d. 2.0 cm. (2 5/16 x 2 x 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Richard T. Arndt, Class of 1949, in memory of Lois Wersba Roth",
+    "markings":null,
+    "inscribed":"Artist mark on bottom in red enamel: Guyue Xuan",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Snuff bottle with lotus blossoms",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":867,
+            "displayname":"Guyue Xuan atelier",
+            "displaydate":"mid-late 18th century",
+            "datebegin":1730,
+            "dateend":1799,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Guyue Xuan atelier, mid-late 18th century",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\"><p>–2001\tRichardt T. Arndt (Washington, DC), by gift to the Princeton University Art Museum, 2001.</p></span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":52968,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV020440",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":52969,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV020441",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 135",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2156911,
+            "term":"glassworking processes and techniques",
+            "aatid":300236662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2056025,
+            "term":"pink (color)",
+            "aatid":300124707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058601,
+            "term":"green (color)",
+            "aatid":300128438,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134003,
+            "term":"lotus",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2074595,
+            "term":"snuff bottles",
+            "aatid":300220809,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2074595,
+            "classification":"snuff bottles"
+        },
+        {
+            "id":2156911,
+            "classification":"glassworking processes and techniques"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.14"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.96"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV020440"
+    ],
+    "displaymaker":"Guyue Xuan atelier, mid-late 18th century",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Guyue Xuan atelier (mid-late 18th century), Snuff bottle with lotus blossoms, mid- to late 18th century. Snuff bottle; glass; 5.9 x 5.1 x 2 cm. Gift of Richard T. Arndt, Class of 1949, in memory of Lois Wersba Roth (2001-306)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Guyue Xuan atelier (mid-late 18th century), <i>Snuff bottle with lotus blossoms</i>, mid- to late 18th century. Snuff bottle; glass; 5.9 x 5.1 x 2 cm. Gift of Richard T. Arndt, Class of 1949, in memory of Lois Wersba Roth (2001-306)",
+    "published_date":"2025-10-16 14:10:55.306110",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

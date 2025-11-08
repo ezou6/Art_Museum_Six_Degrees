@@ -1,0 +1,60 @@
+{
+    "makerid":20538,
+    "published_date":"2022-03-28 16:10:00.767023",
+    "type":"maker",
+    "displayname":"Henry P. Moore",
+    "makertype":"Individual",
+    "alphasort":"Moore, Henry P.",
+    "lastname":"Moore",
+    "firstname":"Henry",
+    "nametitle":null,
+    "middlename":"P.",
+    "suffix":null,
+    "displaybio":"American, 1835–1911",
+    "begindate":1835,
+    "enddate":1911,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Henry P. Moore",
+            "alphasort":"Moore, Henry P.",
+            "lastname":"Moore",
+            "firstname":"Henry",
+            "nametitle":null,
+            "middlename":"P.",
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"NYPL PIC",
+            "id":"293169"
+        },
+        {
+            "source":"ULAN",
+            "id":"500097535"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"610c4a1cb793d200179ac7da"
+            },
+            "caption_file":[],
+            "title":"Conservation of Henry Moore's \"Oval with Points\"",
+            "source_project":"Other",
+            "speaker_type":"Director",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_ehtafzan",
+            "description":"Director James Steward discusses the conservation of Henry Moore's \"Oval With Points\"",
+            "displaydate":"July 30, 2021",
+            "sort_date":"2021-07-30",
+            "video_type":"Artwork"
+        }
+    ],
+    "essay":[]
+}

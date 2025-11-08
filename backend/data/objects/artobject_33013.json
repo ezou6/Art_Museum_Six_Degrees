@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":33013,
+    "objectnumber":"y1986-114",
+    "sortnumber":"1986  114y",
+    "displaytitle":"Tablet with cuneiform inscription",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":-2112,
+    "dateend":-2004,
+    "datecomputed":-2058,
+    "daterange":"15000-2000 B.C.",
+    "displaydate":"ca. 2112–2004  BCE",
+    "medium":"Terracotta",
+    "dimensions":"2.5 x 2.7 x 1.5 cm (1 x 1 1/16 x 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dorothy Burr Thompson and Homer A. Thompson",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1986-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tablet with cuneiform inscription",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum in 1986 from Dorothy Burr Thompson and Homer A. Thompson",
+            "remarks":"Batch edit for provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":37634,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52",
+            "citation":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52, p. 48",
+            "date":1987,
+            "id":550,
+            "uri":"https://www.jstor.org/stable/3774580"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Iraq, Dhi Qar Province, Ur",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Iraq",
+            "region":null,
+            "state":"Dhi Qar Province",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Ur",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_30.938_45.852.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126562,
+            "term":"tablets",
+            "aatid":300028879,
+            "termtype":"Classification"
+        },
+        {
+            "id":2037430,
+            "term":"Sumerian",
+            "aatid":300019726,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037449,
+            "term":"Third Dynasty of Ur",
+            "aatid":300019910,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055252,
+            "term":"terracottas",
+            "aatid":300047296,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2118712,
+            "term":"cuneiform",
+            "aatid":300028711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2123841,
+            "term":"receipts",
+            "aatid":300027573,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2126562,
+            "classification":"tablets"
+        },
+        {
+            "id":2055252,
+            "classification":"terracottas"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15164,
+            "culture":"Sumerian",
+            "alphasort":"Sumerian",
+            "begindate":-3500,
+            "enddate":-2000,
+            "displayculture":"Sumerian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037430,
+            "culture":"Sumerian"
+        }
+    ],
+    "periods":[
+        {
+            "id":15166,
+            "period":"Third Dynasty of Ur",
+            "alphasort":"Third Dynasty of Ur",
+            "begindate":-2112,
+            "enddate":-2000,
+            "displayperiod":"Third Dynasty of Ur, 2112 - 2000 BCE",
+            "displaydate":"2112 - 2000 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037449,
+            "period":"Third Dynasty of Ur"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.54"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004676"
+    ],
+    "displaymaker":null,
+    "displayculture":"Sumerian",
+    "displayperiod":"Third Dynasty of Ur, 2112 - 2000 BCE",
+    "caption":"Sumerian, Third Dynasty of Ur (2112 - 2000 BCE), Iraq, ca. 2112–2004  BCE, Tablet with cuneiform inscription. Terracotta; 2.5 x 2.7 x 1.5 cm. Gift of Dorothy Burr Thompson and Homer A. Thompson (y1986-114)",
+    "captionhtml":"Sumerian, Third Dynasty of Ur (2112 - 2000 BCE), Iraq, ca. 2112–2004  BCE, <i>Tablet with cuneiform inscription</i>. Terracotta; 2.5 x 2.7 x 1.5 cm. Gift of Dorothy Burr Thompson and Homer A. Thompson (y1986-114)",
+    "published_date":"2025-10-16 13:33:15.087851",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

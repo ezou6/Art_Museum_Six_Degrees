@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":38670,
+    "objectnumber":"1999-189",
+    "sortnumber":"1999  189",
+    "displaytitle":"Study After Nature [Étude d'après nature]",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1870,
+    "dateend":1880,
+    "datecomputed":1875,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1875",
+    "medium":"Albumen print",
+    "dimensions":"17.6 x 13.3 cm. (6 15/16 x 5 1/4 in.)\r\nmount: 24.2 x 18.9 cm (9 1/2 x 7 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Charles Isaacs",
+    "markings":null,
+    "inscribed":"Printed on mount recto, lower left corner: A. GIRAUDON\r\nPrinted on mount recto, lower center: ÉTUDE D'APRÈS NATURE\r\nPrinted on mount recto, lower right corner: PARIS / Dèposè\r\nInscribed in pencil in unknown hand, on mount recto lower left corner below image: 114",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1999-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Study After Nature [Étude d'après nature]",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4856,
+            "displayname":"Auguste Giraudon",
+            "displaydate":"active France, 1870s",
+            "datebegin":1870,
+            "dateend":1879,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Giraudon, active France, 1870s",
+            "displayorder":1
+        },
+        {
+            "id":4856,
+            "displayname":"Auguste Giraudon",
+            "displaydate":"active France, 1870s",
+            "datebegin":1870,
+            "dateend":1879,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Auguste Giraudon, active France, 1870s",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tTo complete a painted canvas with figures, artists often worked from rough hand-drawn sketches made from live models. They soon discovered that photography could produce a brilliant likeness in a fraction of the time. Photographic aides-mémoires, or memory aids, were in high demand in French\n\t\n\tartistic circles, indicating the thorough interdependency of photography and painting in the late nineteenth century. By the 1870s, French publishers such as Giraudon and Calavas commissioned photographs of models, both clothed and nude, to aid in the creation of future painted canvases.\n</p>",
+            "remarks":"EUR2_02-05_WLA-Day 1 Cataloguing (group chat for 1999-189, 2006-88) "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Galerie Baudoin Lebonaris, France, after 1975]; purchased by Charles Isaacs, Malvern, PA, 1998; given to the Princeton University Art Museum, 1999.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":84747,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11338",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101.",
+            "citation":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101., p. 81",
+            "date":2000,
+            "id":3036,
+            "uri":"https://www.jstor.org/stable/3774806"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.90"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11338"
+    ],
+    "displaymaker":"Auguste Giraudon, active France, 1870s | Published by Auguste Giraudon, active France, 1870s",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Giraudon's Artist (active France, 1870s), Published by Auguste Giraudon (active France, 1870s), Study After Nature [Étude d'après nature], ca. 1875. Albumen print; 17.6 x 13.3 cm. Gift of Charles Isaacs (1999-189)",
+    "captionhtml":"Auguste Giraudon's Artist (active France, 1870s), Published by Auguste Giraudon (active France, 1870s), <i>Study After Nature [Étude d'après nature]</i>, ca. 1875. Albumen print; 17.6 x 13.3 cm. Gift of Charles Isaacs (1999-189)",
+    "published_date":"2025-10-16 14:03:44.061316",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

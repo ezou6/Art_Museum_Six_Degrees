@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":65541,
+    "objectnumber":"2012-36",
+    "sortnumber":"2012   36",
+    "displaytitle":"Athens, from Tatoi",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1873,
+    "dateend":2012,
+    "datecomputed":1942,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"after 1873",
+    "medium":"Albumen print",
+    "dimensions":"image: 8.1 x 7.6 cm. (3 3/16 x 3 in.)\r\nsheet: 8.9 x 17.6 cm. (3 1/2 x 6 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, bequest of John W. H. Simpson, Class of 1966, in memory of Wellington Hope Simpson, Class of 1931",
+    "markings":"Studio stamp in red ink, verso overall: [summarized] Alois Beer, Photographer, Klagenfurt / row of 16 emblems with various locations and dates printed underneath",
+    "inscribed":"Printed in red ink on mount, right: [sideways] ATHEN / N. 3722 AUS TATOI",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Athens, from Tatoi",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":17340,
+            "displayname":"Alois Beer",
+            "displaydate":"Austrian, 1840–1916",
+            "datebegin":1840,
+            "dateend":1916,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alois Beer, Austrian, 1840–1916",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91532,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17335",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":91533,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17336",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 124",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Greece, Athens",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Greece",
+            "region":null,
+            "state":null,
+            "city":"Athens",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/264371/athens.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2086025,
+            "term":"palaces",
+            "aatid":300005734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2066731,
+            "term":"benches",
+            "aatid":300038494,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053981,
+            "term":"stereographs",
+            "aatid":300127197,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053981,
+            "classification":"stereographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17335"
+    ],
+    "displaymaker":"Alois Beer, Austrian, 1840–1916",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alois Beer (Austrian, 1840–1916), Athens, from Tatoi, after 1873. Albumen print; 8.1 x 7.6 cm (image), 8.9 x 17.6 cm (sheet). Museum purchase, bequest of John W. H. Simpson, Class of 1966, in memory of Wellington Hope Simpson, Class of 1931 (2012-36)",
+    "captionhtml":"Alois Beer (Austrian, 1840–1916), <i>Athens, from Tatoi</i>, after 1873. Albumen print; 8.1 x 7.6 cm (image), 8.9 x 17.6 cm (sheet). Museum purchase, bequest of John W. H. Simpson, Class of 1966, in memory of Wellington Hope Simpson, Class of 1931 (2012-36)",
+    "published_date":"2025-10-16 16:26:05.013766",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

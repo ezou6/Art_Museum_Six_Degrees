@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":32150,
+    "objectnumber":"y1975-30",
+    "sortnumber":"1975   30y",
+    "displaytitle":"Portrait of a Man",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1778,
+    "dateend":1823,
+    "datecomputed":1800,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Oil on wood panel",
+    "dimensions":"15 x 12 cm (5 7/8 x 4 3/4 in.)\r\nframe: 31.5 x 26.3 x 5.3 cm (12 3/8 x 10 3/8 x 2 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. William Suhr",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a Man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3126,
+            "displayname":"Pierre-Paul Prud'hon",
+            "displaydate":"French, 1758–1823",
+            "datebegin":1758,
+            "dateend":1823,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Pierre-Paul Prud'hon, French, 1758–1823",
+            "displayorder":2
+        },
+        {
+            "id":3126,
+            "displayname":"Pierre-Paul Prud'hon",
+            "displaydate":"French, 1758–1823",
+            "datebegin":1758,
+            "dateend":1823,
+            "prefix":"Circle of",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Circle of Pierre-Paul Prud'hon, French, 1758–1823",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mr. and Mrs. William Suhr, New York (until 1975; gift to Princeton University Art Museum).",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":124223,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47146",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31.",
+            "citation":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31., p. 23",
+            "date":1976,
+            "id":3366,
+            "uri":"https://www.jstor.org/stable/3774452"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.30"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":184096,
+            "name":"x-COMPLETE-image_descriptions_DF"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":152533,
+            "name":"web_frenchpaintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47146"
+    ],
+    "displaymaker":"Circle of Pierre-Paul Prud'hon, French, 1758–1823 | formerly attributed to Pierre-Paul Prud'hon, French, 1758–1823",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Circle of Pierre-Paul Prud'hon (French, 1758–1823), formerly attributed to Pierre-Paul Prud'hon (French, 1758–1823), Portrait of a Man. Oil on wood panel; 15 x 12 cm, 31.5 × 26.3 × 5.3 cm (frame). Gift of Mr. and Mrs. William Suhr (y1975-30)",
+    "captionhtml":"Circle of Pierre-Paul Prud'hon (French, 1758–1823), formerly attributed to Pierre-Paul Prud'hon (French, 1758–1823), <i>Portrait of a Man</i>. Oil on wood panel; 15 x 12 cm, 31.5 × 26.3 × 5.3 cm (frame). Gift of Mr. and Mrs. William Suhr (y1975-30)",
+    "published_date":"2025-10-16 13:28:26.756870",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":52958,
+    "objectnumber":"2007-21",
+    "sortnumber":"2007   21",
+    "displaytitle":"Barcelona Day",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2005,
+    "dateend":2005,
+    "datecomputed":2005,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2005",
+    "medium":"Color aquatint\r\n",
+    "dimensions":"image: 39.1 × 54.6 cm (15 3/8 × 21 1/2 in.)\r\nsheet: 68.6 × 80 cm (27 × 31 1/2 in.)\r\nframe: 79 × 104.4 × 4 cm (31 1/8 × 41 1/8 × 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Sean Scully",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Barcelona Day",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3546,
+            "displayname":"Sean Scully",
+            "displaydate":"born 1945, Dublin, Ireland; active New York, NY and Bavaria, Germany",
+            "datebegin":1945,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sean Scully, born 1945, Dublin, Ireland; active New York, NY and Bavaria, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":16796,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-21",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 105, illustrated",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098346,
+            "term":"rectangles",
+            "aatid":300055636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.58"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.01"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.05"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"54.61"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"79.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"104.40"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2007-21"
+    ],
+    "displaymaker":"Sean Scully, born 1945, Dublin, Ireland; active New York, NY and Bavaria, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sean Scully (born 1945, Dublin, Ireland; active New York, NY and Bavaria, Germany), Barcelona Day, 2005. Color aquatint\r\n; 39.1 × 54.6 cm (image), 68.6 × 80 cm (sheet), 79 × 104.4 × 4 cm (frame). Museum purchase, Felton Gibbons Fund (2007-21)",
+    "captionhtml":"Sean Scully (born 1945, Dublin, Ireland; active New York, NY and Bavaria, Germany), <i>Barcelona Day</i>, 2005. Color aquatint\r\n; 39.1 × 54.6 cm (image), 68.6 × 80 cm (sheet), 79 × 104.4 × 4 cm (frame). Museum purchase, Felton Gibbons Fund (2007-21)",
+    "published_date":"2025-10-16 15:16:34.793381",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":3552,
+    "objectnumber":"x1940-84",
+    "sortnumber":"1940   84x",
+    "displaytitle":"Tree and Rock",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1823,
+    "dateend":1823,
+    "datecomputed":1823,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1823",
+    "medium":"Pen and black ink and graphite",
+    "dimensions":"22.8 x 34.2 cm. (9 x 13 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"in black ink, lower right: May 25th 1823",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tree and Rock",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6590,
+            "displayname":"Thomas Cole",
+            "displaydate":"1801–1848; born Lancashire, England; died Catskill, NY",
+            "datebegin":1801,
+            "dateend":1848,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Cole, 1801–1848; born Lancashire, England; died Catskill, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs. Florence Cole Vincent (the artist's granddaughter); purchased by the donor at Cole's Catskill studi",
+            "remarks":"published in Bib 4724"
+        }
+    ],
+    "media":[
+        {
+            "id":6070,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1940-84",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":107326,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31641",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":16421,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1940_84_aa",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 302, checklist no. 146 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976).",
+            "citation":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976)., p. 8, no. 7 (illus.)",
+            "date":1976,
+            "id":5635,
+            "uri":"http://www.worldcat.org/oclc/2681117"
+        },
+        {
+            "boilertext":"Louis Hawes, \"A Sketchbook by Thomas Cole\", <em>Record of the Art Museum, Princeton University </em>15, no. 1 (1956): p. 2<font face=\"Times\">-</font>23.",
+            "citation":"Louis Hawes, \"A Sketchbook by Thomas Cole\", <em>Record of the Art Museum, Princeton University </em>15, no. 1 (1956): p. 2<font face=\"Times\">-</font>23., p. 2",
+            "date":1956,
+            "id":7806,
+            "uri":"https://www.jstor.org/stable/3774300"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":2314,
+            "citation":"American Drawings In The Art Museum, Princeton University (October 3, 1976 - November 28, 1976)\r\n",
+            "isvirtual":true,
+            "begindate":"1976-10-03",
+            "enddate":"1976-11-28",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/2314"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1940_84_aa"
+    ],
+    "displaymaker":"Thomas Cole, 1801–1848; born Lancashire, England; died Catskill, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Cole (1801–1848; born Lancashire, England; died Catskill, NY), Tree and Rock, 1823. Pen and black ink and graphite; 22.8 x 34.2 cm. Gift of Frank Jewett Mather Jr. (x1940-84)",
+    "captionhtml":"Thomas Cole (1801–1848; born Lancashire, England; died Catskill, NY), <i>Tree and Rock</i>, 1823. Pen and black ink and graphite; 22.8 x 34.2 cm. Gift of Frank Jewett Mather Jr. (x1940-84)",
+    "published_date":"2025-10-16 10:25:03.684141",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

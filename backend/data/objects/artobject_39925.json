@@ -1,0 +1,206 @@
+{
+    "type":"artobject",
+    "objectid":39925,
+    "objectnumber":"2000-61",
+    "sortnumber":"2000   61",
+    "displaytitle":"Body of  a serpent",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Sculpture",
+    "datebegin":170,
+    "dateend":229,
+    "datecomputed":200,
+    "daterange":"A.D. 1-500",
+    "displaydate":"late 2nd–early 3rd century CE",
+    "medium":"Fine-grained dark gray marble with white specks",
+    "dimensions":"h. 14.7 cm., w. 5.7 cm., d. 4.9 cm. (5 13/16 x 2 1/4 x 1 15/16 in.)\r\nw. (at center) 5.7 (2 1/4 in.); d. (at center) 4.9 cm. (1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Committee for the Excavation of Antioch to Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Body of  a serpent",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated by the Princeton-led team at Antioch-on-the-Orontes, present-day Antakya, Turkey, 1931-1939; with the Museum since 1939",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":6614,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-61_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":643,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-61_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 90",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        },
+        {
+            "boilertext":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001).",
+            "citation":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001)., cat. no. 95",
+            "date":2001,
+            "id":2140,
+            "uri":"http://www.worldcat.org/oclc/47868668"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Turkey",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":"sector 22-K",
+            "river":null,
+            "excavation":"Antioch-on-the-Orontes",
+            "geoname":"http://www.geonames.org/maps/google_36.207_36.157.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158075,
+            "term":"serpents",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2000-61_SL"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Turkey, late 2nd–early 3rd century CE, Body of  a serpent. Fine-grained dark gray marble with white specks; 14.7 x 5.7 x 4.9 cm. Gift of the Committee for the Excavation of Antioch to Princeton University (2000-61)",
+    "captionhtml":"Roman, Turkey, late 2nd–early 3rd century CE, <i>Body of  a serpent</i>. Fine-grained dark gray marble with white specks; 14.7 x 5.7 x 4.9 cm. Gift of the Committee for the Excavation of Antioch to Princeton University (2000-61)",
+    "published_date":"2025-10-16 14:08:17.042811",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

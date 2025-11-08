@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":30512,
+    "objectnumber":"y1968-116",
+    "sortnumber":"1968  116y",
+    "displaytitle":"The Seven Sisters",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1963,
+    "dateend":1963,
+    "datecomputed":1963,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1963",
+    "medium":"Oil on canvas",
+    "dimensions":"126.5 x 101.5 cm (49 13/16 x 39 15/16 in.)\r\nframe: 129 x 103 x 4 cm (50 13/16 x 40 9/16 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Miss Sylvia Marlowe",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, bottom right: L. 63",
+    "catalograisonne":null,
+    "creditlinerepro":"Art © Leonid Berman / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Seven Sisters",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":357,
+            "displayname":"Leonid Berman",
+            "displaydate":"American, 1896–1976",
+            "datebegin":1896,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Leonid Berman, American, 1896–1976",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123983,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46927",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105., p. 94",
+            "date":1968,
+            "id":6009,
+            "uri":"https://www.jstor.org/stable/3774498"
+        },
+        {
+            "boilertext":"<EM>The artist and the sea: a group of paintings related to the sea, conchology, and marine archaeology : lent by museums and private collections</EM>, (Miami, FL?: Miami Art Center, 1969). ",
+            "citation":"<EM>The artist and the sea: a group of paintings related to the sea, conchology, and marine archaeology : lent by museums and private collections</EM>, (Miami, FL?: Miami Art Center, 1969). , p. 4; no. 2",
+            "date":1969,
+            "id":7736,
+            "uri":"http://www.worldcat.org/oclc/864695569"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: England, White Cliffs of Dover",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"White Cliffs of Dover",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/wikipedia_51.14_1.37.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120275,
+            "term":"coastlines",
+            "aatid":300008734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"129.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"103.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"126.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46927"
+    ],
+    "displaymaker":"Leonid Berman, American, 1896–1976",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Leonid Berman (American, 1896–1976), The Seven Sisters, 1963. Oil on canvas; 126.5 x 101.5 cm, 129 × 103 × 4 cm (frame). Gift of Miss Sylvia Marlowe (y1968-116)",
+    "captionhtml":"Leonid Berman (American, 1896–1976), <i>The Seven Sisters</i>, 1963. Oil on canvas; 126.5 x 101.5 cm, 129 × 103 × 4 cm (frame). Gift of Miss Sylvia Marlowe (y1968-116)",
+    "published_date":"2025-10-16 13:20:39.270091",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

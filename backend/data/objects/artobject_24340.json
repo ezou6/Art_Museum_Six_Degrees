@@ -1,0 +1,302 @@
+{
+    "type":"artobject",
+    "objectid":24340,
+    "objectnumber":"y1952-65",
+    "sortnumber":"1952   65y",
+    "displaytitle":"Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1700,
+    "dateend":1799,
+    "datecomputed":1750,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"18th century",
+    "medium":"Hanging scroll; black ink and pale colors on paper",
+    "dimensions":"Painting: 87.5 x 24 cm. (34 7/16 x 9 7/16 in.)\r\nMount: 191 x 37.2 cm. (75 3/16 x 14 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2034,
+            "displayname":"Chou Shao Pei",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chou Shao Pei",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66355,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-65",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":13089,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-65_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":61849,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08228",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39., p. 38",
+            "date":1953,
+            "id":869,
+            "uri":"https://www.jstor.org/stable/3774393"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"191.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"87.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-65"
+    ],
+    "displaymaker":"Chou Shao Pei",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Chou Shao Pei, Landscape, 18th century. Hanging scroll; black ink and pale colors on paper; 87.5 x 24 cm (Painting), 191 x 37.2 cm (mount). Museum Purchase (y1952-65)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Chou Shao Pei, <i>Landscape</i>, 18th century. Hanging scroll; black ink and pale colors on paper; 87.5 x 24 cm (Painting), 191 x 37.2 cm (mount). Museum Purchase (y1952-65)",
+    "published_date":"2025-10-16 12:57:47.906860",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

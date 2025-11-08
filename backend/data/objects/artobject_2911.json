@@ -1,0 +1,168 @@
+{
+    "type":"artobject",
+    "objectid":2911,
+    "objectnumber":"x1937-60",
+    "sortnumber":"1937   60x",
+    "displaytitle":"Louis XIV",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1776,
+    "dateend":1844,
+    "datecomputed":1810,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 21.4 x 15.2 cm (8 7/16 x 6 in.)\r\nsheet: 27.3 x 18.4 cm (10 3/4 x 7 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"underneath: mignard pinx - alex tardieu Sc.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Louis XIV",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2706,
+            "displayname":"Pierre Alexandre Tardieu",
+            "displaydate":"French, 1756 - 1844",
+            "datebegin":1756,
+            "dateend":1844,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pierre Alexandre Tardieu, French, 1756 - 1844",
+            "displayorder":1
+        },
+        {
+            "id":3752,
+            "displayname":"Pierre Mignard",
+            "displaydate":"French, 1612–1695",
+            "datebegin":1612,
+            "dateend":1695,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Pierre Mignard, French, 1612–1695",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":97152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22739",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22739"
+    ],
+    "displaymaker":"Pierre Alexandre Tardieu, French, 1756 - 1844 | after Pierre Mignard, French, 1612–1695",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pierre Alexandre Tardieu (French, 1756 - 1844), after Pierre Mignard (French, 1612–1695), Louis XIV. Engraving; 21.4 x 15.2 cm (plate), 27.3 x 18.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-60)",
+    "captionhtml":"Pierre Alexandre Tardieu (French, 1756 - 1844), after Pierre Mignard (French, 1612–1695), <i>Louis XIV</i>. Engraving; 21.4 x 15.2 cm (plate), 27.3 x 18.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-60)",
+    "published_date":"2025-10-23 16:42:17.796461",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

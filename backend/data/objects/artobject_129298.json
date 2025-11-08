@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":129298,
+    "objectnumber":"2010-102.18 a",
+    "sortnumber":"2010  102    18a",
+    "displaytitle":"Stirling Castle",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1903,
+    "dateend":1903,
+    "datecomputed":1903,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1903",
+    "medium":"Photogravure",
+    "dimensions":"plate: 15 × 21.7 cm (5 7/8 × 8 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frederick Quellmalz, Class of 1934",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stirling Castle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":112,
+            "displayname":"James Craig Annan",
+            "displaydate":"Scottish, 1864–1946",
+            "datebegin":1864,
+            "dateend":1946,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James Craig Annan, Scottish, 1864–1946",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90761,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16507",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 99",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997).",
+            "citation":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997)., p. 360 (illus.)",
+            "date":1997,
+            "id":6765,
+            "uri":"http://www.worldcat.org/oclc/38005333"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Scotland, ",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Scotland",
+            "region":null,
+            "state":"",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2638360/scotland.html",
+            "location":{
+                "lat":"56",
+                "lon":"-4"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2080185,
+            "term":"castles",
+            "aatid":300006891,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119357,
+            "term":"villages",
+            "aatid":300008372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172874,
+            "term":"cliffs",
+            "aatid":300008749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031595,
+            "term":"Scottish",
+            "aatid":300111212,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031595,
+            "culture":"Scottish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16507"
+    ],
+    "displaymaker":"James Craig Annan, Scottish, 1864–1946",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James Craig Annan (Scottish, 1864–1946), Stirling Castle, 1903. Photogravure; 15 × 21.7 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.18 a)",
+    "captionhtml":"James Craig Annan (Scottish, 1864–1946), <i>Stirling Castle</i>, 1903. Photogravure; 15 × 21.7 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.18 a)",
+    "published_date":"2025-10-16 18:35:57.077426",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

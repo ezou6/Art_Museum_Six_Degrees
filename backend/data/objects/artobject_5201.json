@@ -1,0 +1,177 @@
+{
+    "type":"artobject",
+    "objectid":5201,
+    "objectnumber":"x1944-522",
+    "sortnumber":"1944  522x",
+    "displaytitle":"Illustrated Page of Prose",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1936,
+    "dateend":1944,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 12.5 x 10 cm. (4 15/16 x 3 15/16 in.)\r\nsheet: 21.4 x 18.7 cm. (8 7/16 x 7 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"In graphite, lower left: Plate No. 1 3/3",
+    "signed":"Signed in graphite, lower right: –Nalbandian–",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Illustrated Page of Prose",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3948,
+            "displayname":"Karnig Nalbandian",
+            "displaydate":"American, 1916–1989",
+            "datebegin":1916,
+            "dateend":1989,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Karnig Nalbandian, American, 1916–1989",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104696,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29114",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2118536,
+            "term":"illustrations",
+            "aatid":300015578,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122392,
+            "term":"prose poems",
+            "aatid":300252910,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29114"
+    ],
+    "displaymaker":"Karnig Nalbandian, American, 1916–1989",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Karnig Nalbandian (American, 1916–1989), Illustrated Page of Prose. Etching; 12.5 x 10 cm (plate), 21.4 x 18.7 cm (sheet). Mather Collection (x1944-522)",
+    "captionhtml":"Karnig Nalbandian (American, 1916–1989), <i>Illustrated Page of Prose</i>. Etching; 12.5 x 10 cm (plate), 21.4 x 18.7 cm (sheet). Mather Collection (x1944-522)",
+    "published_date":"2025-10-16 10:36:19.564962",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

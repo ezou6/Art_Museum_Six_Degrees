@@ -1,0 +1,293 @@
+{
+    "type":"artobject",
+    "objectid":29650,
+    "objectnumber":"y1965-267.1-.2",
+    "sortnumber":"1965  267y    1   2",
+    "displaytitle":"Landscapes in the Style of Old Masters",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1713,
+    "dateend":1713,
+    "datecomputed":1713,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1713",
+    "medium":"Album (.1) of 9 leaves (paintings); ink and color on paper; album (.2) of 3 leaves (colophons); ink on paper",
+    "dimensions":"Album (Volume 1): 31.2 x 21.2 x 2.3 cm. (12 5/16 x 8 3/8 x 7/8 in.)\r\nAlbum (Volume 2): 30.9 x 20.9 x 2.5 cm. (12 3/16 x 8 1/4 x 1 in.)\r\nbox: 33.7 x 23.7 x 6.2 cm",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong",
+    "markings":null,
+    "inscribed":"dated 1713",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscapes in the Style of Old Masters",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3601,
+            "displayname":"Shen Zongjing 沈宗敬",
+            "displaydate":"1669–1735",
+            "datebegin":1669,
+            "dateend":1735,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shen Zongjing 沈宗敬, 1669–1735",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":58572,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03648",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":58575,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03637",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":58584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03638",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 20",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122099,
+            "term":"colophons",
+            "aatid":300028710,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2122099,
+            "classification":"colophons"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03638"
+    ],
+    "displaymaker":"Shen Zongjing 沈宗敬, 1669–1735",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Shen Zongjing 沈宗敬 (1669–1735), Landscapes in the Style of Old Masters, 1713. Album (.1) of 9 leaves (paintings); ink and color on paper; album (.2) of 3 leaves (colophons); ink on paper; 31.2 x 21.2 x 2.3 cm (Volume 1 ), 30.9 x 20.9 x 2.5 cm (Volume 2). Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong (y1965-267.1-.2)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Shen Zongjing 沈宗敬 (1669–1735), <i>Landscapes in the Style of Old Masters</i>, 1713. Album (.1) of 9 leaves (paintings); ink and color on paper; album (.2) of 3 leaves (colophons); ink on paper; 31.2 x 21.2 x 2.3 cm (Volume 1 ), 30.9 x 20.9 x 2.5 cm (Volume 2). Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong (y1965-267.1-.2)",
+    "published_date":"2025-10-16 13:16:02.121522",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

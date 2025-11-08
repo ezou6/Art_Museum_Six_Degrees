@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":34810,
+    "objectnumber":"y77",
+    "sortnumber":"77     y",
+    "displaytitle":"Vase in the form of a monkey",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-600,
+    "dateend":-570,
+    "datecomputed":-585,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"early 6th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"10.6 x 4.6 x 4.4 cm (4 3/16 x 1 13/16 x 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, 1924",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vase in the form of a monkey",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by the Museum from E. Ruegg, Lausanne, in 1924",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34074,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002029",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Etruria (central Italy)",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":"Etruria (central Italy)",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2133996,
+            "term":"monkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036474,
+            "term":"Archaic (Greek)",
+            "aatid":300020086,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036566,
+            "term":"Corinthian (pottery style)",
+            "aatid":300020133,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036773,
+            "term":"Italic (ancient Italian)",
+            "aatid":300020502,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13590,
+            "culture":"Etrusco-Corinthian",
+            "alphasort":"Etrusco-Corinthian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Etrusco-Corinthian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036566,
+            "culture":"Corinthian (pottery style)"
+        },
+        {
+            "id":2036773,
+            "culture":"Italic (ancient Italian)"
+        }
+    ],
+    "periods":[
+        {
+            "id":13625,
+            "period":"Archaic Period",
+            "alphasort":"Archaic Period",
+            "begindate":-600,
+            "enddate":-480,
+            "displayperiod":"Archaic Period, ca. 600–480 BCE",
+            "displaydate":"ca. 600–480 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036474,
+            "period":"Archaic (Greek)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.59"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.41"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277929,
+            "name":"EW-Artwalk_Figuration_CaseC"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002029"
+    ],
+    "displaymaker":null,
+    "displayculture":"Etrusco-Corinthian",
+    "displayperiod":"Archaic Period, ca. 600–480 BCE",
+    "caption":"Italo-Corinthian, Archaic Period (ca. 600–480 BCE), Etruria (central Italy), Italy, early 6th century BCE, Vase in the form of a monkey. Ceramic; 10.6 x 4.6 x 4.4 cm. Museum purchase, 1924 (y77)",
+    "captionhtml":"Italo-Corinthian, Archaic Period (ca. 600–480 BCE), Etruria (central Italy), Italy, early 6th century BCE, <i>Vase in the form of a monkey</i>. Ceramic; 10.6 x 4.6 x 4.4 cm. Museum purchase, 1924 (y77)",
+    "published_date":"2025-10-16 13:42:46.469035",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

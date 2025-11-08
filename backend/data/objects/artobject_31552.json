@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":31552,
+    "objectnumber":"2016-1403",
+    "sortnumber":"2016 1403",
+    "displaytitle":"Tripod bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":500,
+    "dateend":500,
+    "datecomputed":500,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"ca. 500 CE",
+    "medium":"Thin orange ceramic",
+    "dimensions":"h. 7.2 cm., diam. 17.3 cm. (2 13/16 x 6 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tripod bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ; bequest to the Princeton University Art Museum, 2016.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":262346,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20925",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262347,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20927",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262348,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20928",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262349,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20931",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":262350,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20941",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: North America, Mexico, Puebla, Cholula",
+            "code":"Place excavated",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Puebla",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Cholula",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3530757/cholula.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039116,
+            "term":"Tlamimilolpa",
+            "aatid":300017018,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2039146,
+            "term":"Teotihuacán",
+            "aatid":300017031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035669,
+            "term":"Middle Classic",
+            "aatid":300016985,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13848,
+            "culture":"Teotihuacán",
+            "alphasort":"Teotihuacán",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Teotihuacán style",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039146,
+            "culture":"Teotihuacán"
+        }
+    ],
+    "periods":[
+        {
+            "id":24015,
+            "period":"Middle Classic Period",
+            "alphasort":"Classic Period, Middle",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Middle Classic Period (Teotihuacan III)",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2039116,
+            "period":"Tlamimilolpa"
+        },
+        {
+            "id":2035669,
+            "period":"Middle Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"17.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":226022,
+            "name":"VisibleStorage_GHC-D_Mesoamerica2"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250421_20925"
+    ],
+    "displaymaker":null,
+    "displayculture":"Teotihuacán style",
+    "displayperiod":"Middle Classic Period (Teotihuacan III)",
+    "caption":"Teotihuacán style, Middle Classic Period (Teotihuacan III), ca. 500 CE, Puebla, Mexico, Mesoamerica, Tripod bowl. Thin orange ceramic; 7.2 x 17.3 cm. Bequest of Gillett G. Griffin (2016-1403)",
+    "captionhtml":"Teotihuacán style, Middle Classic Period (Teotihuacan III), ca. 500 CE, Puebla, Mexico, Mesoamerica, <i>Tripod bowl</i>. Thin orange ceramic; 7.2 x 17.3 cm. Bequest of Gillett G. Griffin (2016-1403)",
+    "published_date":"2025-10-31 02:05:10.362580",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

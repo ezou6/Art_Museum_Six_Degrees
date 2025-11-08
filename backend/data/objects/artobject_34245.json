@@ -1,0 +1,281 @@
+{
+    "type":"artobject",
+    "objectid":34245,
+    "objectnumber":"y201",
+    "sortnumber":"201     y",
+    "displaytitle":"Astarte",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":-650,
+    "dateend":-450,
+    "datecomputed":-550,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 6th century BCE",
+    "medium":"Terracotta",
+    "dimensions":"15.0 x 6.8 x 4.8 cm (5 7/8 x 2 11/16 x 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Howard Crosby Butler",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Astarte",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Discovered in Sardis; given to the Museum by Howard Crosby Butler before 1922",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":32715,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42154",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Florence Bennett, \"A statuette in the Princeton Museum\", <EM>American journal of archaeology</EM> 16, no. 4 (Oct.-Dec., 1912): p. 480-489.",
+            "citation":"Florence Bennett, \"A statuette in the Princeton Museum\", <EM>American journal of archaeology</EM> 16, no. 4 (Oct.-Dec., 1912): p. 480-489., p. 480-489",
+            "date":1912,
+            "id":751,
+            "uri":"https://www.jstor.org/stable/497421"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Asia, Syria, Ammân",
+            "code":"Place excavated",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":"Ammân",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":"Slope of the Acropolis",
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_32.583_36.683.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Asia, Syria",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037342,
+            "term":"Syrian",
+            "aatid":300020046,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055252,
+            "term":"terracottas",
+            "aatid":300047296,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055438,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131200,
+            "term":"caps (headgear)",
+            "aatid":300046094,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036474,
+            "term":"Archaic (Greek)",
+            "aatid":300020086,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055252,
+            "classification":"terracottas"
+        },
+        {
+            "id":2055438,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15304,
+            "culture":"Syrian",
+            "alphasort":"Syrian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Syrian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037342,
+            "culture":"Syrian"
+        }
+    ],
+    "periods":[
+        {
+            "id":13625,
+            "period":"Archaic Period",
+            "alphasort":"Archaic Period",
+            "begindate":-600,
+            "enddate":-480,
+            "displayperiod":"Archaic Period, ca. 600–480 BCE",
+            "displaydate":"ca. 600–480 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036474,
+            "period":"Archaic (Greek)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42154"
+    ],
+    "displaymaker":null,
+    "displayculture":"Syrian",
+    "displayperiod":"Archaic Period, ca. 600–480 BCE",
+    "caption":"Syrian, Archaic Period (ca. 600–480 BCE), Ammân, Syria, ca. 6th century BCE, Astarte. Terracotta; 15 x 6.8 x 4.8 cm. Gift of Howard Crosby Butler (y201)",
+    "captionhtml":"Syrian, Archaic Period (ca. 600–480 BCE), Ammân, Syria, ca. 6th century BCE, <i>Astarte</i>. Terracotta; 15 x 6.8 x 4.8 cm. Gift of Howard Crosby Butler (y201)",
+    "published_date":"2025-10-16 13:39:49.330599",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

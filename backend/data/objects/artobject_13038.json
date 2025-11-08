@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":13038,
+    "objectnumber":"x1975-113",
+    "sortnumber":"1975  113x",
+    "displaytitle":"Eleanor and Barbara, Chicago",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1953,
+    "dateend":1953,
+    "datecomputed":1953,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1953",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 19.4 x 24.4 cm. (7 5/8 x 9 5/8 in.)\r\nsheet: 20.4 x 25.3 cm. (8 1/16 x 9 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the National Endowment for the Arts, a federal agency, with an anonymous matching gift",
+    "markings":"Vertical crop marks scribed into the print, left and right",
+    "inscribed":"Numbered and signed in graphite, verso: 314 Harry Callahan\r\n\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© The Estate of Harry Callahan, Courtesy Pace Gallery",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Eleanor and Barbara, Chicago",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6242,
+            "displayname":"Harry Callahan",
+            "displaydate":"1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "datebegin":1912,
+            "dateend":1999,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<SPAN lang=EN>\r\n<P dir=ltr align=left>The photographer Harry Callahan influenced a generation of photographers through his teaching at the Institute of Design in Chicago. While the photography department had been known principally for formal experimentation, Callahan’s work shows an equal interest in the emotional and interpersonal realm of the everyday. This image of his wife and collaborator, Eleanor, and their daughter, Barbara, smiling in front of the Chicago Natural History Museum (now known as the Field Museum) might resemble a typical family snapshot if not for the distant point of view and the imposing geometry of the nearly empty plaza.</P></SPAN>",
+            "remarks":"Photography and Belonging rotation"
+        }
+    ],
+    "media":[
+        {
+            "id":252335,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_103050",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31.",
+            "citation":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31., p. 27",
+            "date":1976,
+            "id":3366,
+            "uri":"https://www.jstor.org/stable/3774452"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Illinois, Chicago, Field Museum of Natural History",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Illinois",
+            "city":"Chicago",
+            "county":null,
+            "subregion":null,
+            "locale":"Field Museum of Natural History",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6956716/field-museum-of-natural-history.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112753,
+            "term":"stairs",
+            "aatid":300003228,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2079935,
+            "term":"museums",
+            "aatid":300005768,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088195,
+            "term":"daughters",
+            "aatid":300154348,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088218,
+            "term":"mothers",
+            "aatid":300025932,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":128063,
+            "name":"web_2018_migrations_photo"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_103050"
+    ],
+    "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), Eleanor and Barbara, Chicago, 1953. Gelatin silver print; 19.4 x 24.4 cm (image), 20.4 x 25.3 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with an anonymous matching gift (x1975-113)",
+    "captionhtml":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), <i>Eleanor and Barbara, Chicago</i>, 1953. Gelatin silver print; 19.4 x 24.4 cm (image), 20.4 x 25.3 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with an anonymous matching gift (x1975-113)",
+    "published_date":"2025-10-16 11:45:51.489321",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

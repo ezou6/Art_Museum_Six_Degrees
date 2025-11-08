@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":18041,
+    "objectnumber":"x1991-360",
+    "sortnumber":"1991  360x",
+    "displaytitle":"William LaRue, Point Lobos State Park, California",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1960,
+    "dateend":1960,
+    "datecomputed":1960,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"August 1960",
+    "medium":"Gelatin silver print",
+    "dimensions":"15.8 x 19.6 cm. (6 1/4 x 7 11/16 in.)\r\nmount: 18.3 x 23.5 cm. (7 3/16 x 9 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Ruth Bernhard",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"60-241",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"William LaRue, Point Lobos State Park, California",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"William LaRue (Point Lobos, California)",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Princeton University Art Museum by Ruth Bernhard (1905–2006).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":89772,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV15807",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 62",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, California, Point Lobos State Natural Reserve",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":null,
+            "county":"Monterey County",
+            "subregion":null,
+            "locale":"Point Lobos State Natural Reserve",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5383972/point-lobos-state-natural-reserve.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166391,
+            "term":"sand",
+            "aatid":300014341,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120272,
+            "term":"beaches",
+            "aatid":300008816,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.30"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV15807"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), William LaRue, Point Lobos State Park, California, August 1960. Gelatin silver print; 15.8 x 19.6 cm. Gift of Ruth Bernhard (x1991-360)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>William LaRue, Point Lobos State Park, California</i>, August 1960. Gelatin silver print; 15.8 x 19.6 cm. Gift of Ruth Bernhard (x1991-360)",
+    "published_date":"2025-10-16 12:20:41.548215",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,155 @@
+{
+    "type":"artobject",
+    "objectid":19668,
+    "objectnumber":"y1930-432",
+    "sortnumber":"1930  432y",
+    "displaytitle":null,
+    "department":"Asian Art",
+    "classification":"Ceramic",
+    "datebegin":0,
+    "dateend":1930,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 12.8 cm., diam. 11.5 cm. (5 1/16 x 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":null,
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":55584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV022688",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"11.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV022688"
+    ],
+    "displaymaker":null,
+    "displayculture":"Japanese",
+    "displayperiod":null,
+    "caption":"Japanese. Ceramic; 12.8 x 11.5 cm. (y1930-432)",
+    "captionhtml":"Japanese. Ceramic; 12.8 x 11.5 cm. (y1930-432)",
+    "published_date":"2025-10-23 16:59:31.780024",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":40079,
+    "objectnumber":"2001-97",
+    "sortnumber":"2001   97",
+    "displaytitle":"Una silla para todos (A Chair for Everyone)",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1998,
+    "dateend":1998,
+    "datecomputed":1998,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1998",
+    "medium":"Watercolor",
+    "dimensions":"sight: 74.5 x 109 cm (29 5/16 x 42 15/16 in.)\r\nframe: 91.7 × 128.3 × 5.1 cm (36 1/8 × 50 1/2 × 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"lower center: “Una silla para todos” | De una experiencia colectiva | 1998",
+    "signed":"Signed and dated in brown chalk, lower right: Francisco de la Cal | Fernando [illegible, possibly Rodriguez] | 1998",
+    "catalograisonne":null,
+    "creditlinerepro":"© Fernando Rodríguez",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":665,
+            "displayname":"Fernando Rodríguez",
+            "displaydate":"Cuban, born 1970",
+            "datebegin":1970,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Fernando Rodríguez, Cuban, born 1970",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123653,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46641",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 108",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Cuba",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Cuba",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3562981/republic-of-cuba.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038473,
+            "term":"Cuban",
+            "aatid":300107948,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038473,
+            "culture":"Cuban"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"91.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"128.30"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"109.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"74.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46641"
+    ],
+    "displaymaker":"Fernando Rodríguez, Cuban, born 1970",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Fernando Rodríguez (Cuban, born 1970), Una silla para todos (A Chair for Everyone), 1998. Watercolor; 74.5 x 109 cm (sight), 91.7 × 128.3 × 5.1 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-97)",
+    "captionhtml":"Fernando Rodríguez (Cuban, born 1970), <i>Una silla para todos (A Chair for Everyone)</i>, 1998. Watercolor; 74.5 x 109 cm (sight), 91.7 × 128.3 × 5.1 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-97)",
+    "published_date":"2025-10-16 14:08:58.364771",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

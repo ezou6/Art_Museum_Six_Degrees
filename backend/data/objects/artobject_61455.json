@@ -1,0 +1,284 @@
+{
+    "type":"artobject",
+    "objectid":61455,
+    "objectnumber":"PU 7725",
+    "sortnumber":"U      7725P",
+    "displaytitle":"Owl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1875,
+    "dateend":1885,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1880",
+    "medium":"Ceramic with polychrome slip",
+    "dimensions":"19 × 15.6 × 18.3 cm (7 1/2 × 6 1/8 × 7 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Owl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Zuni Pueblo, New Mexico. Rev. Sheldon Jackson (1834-1909) by 1882; given to E. M. Museum (Princeton Museum of Natural History), 1882.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":59276,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04527",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":59277,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04526",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":59278,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04479",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, New Mexico, She-we-na (Zuni) Pueblo, Colorado Plateau",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Colorado Plateau",
+            "state":"New Mexico",
+            "city":"She-we-na (Zuni) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5499004/zuni-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158036,
+            "term":"owls",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159270,
+            "term":"grotesques",
+            "aatid":300010211,
+            "termtype":"Subject"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040549,
+            "term":"Zuñi",
+            "aatid":300017764,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2055947,
+            "term":"polychrome",
+            "aatid":300252261,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2055437,
+            "classification":"figurines"
+        }
+    ],
+    "cultures":[
+        {
+            "id":23171,
+            "culture":"She-we-na (Zuni)",
+            "alphasort":"She-we-na (Zuni)",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"She-we-na (Zuni)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040549,
+            "culture":"Zuñi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"18.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":161147,
+            "name":"web_WoPSR_2019_NativeAmerican"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV04479"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"She-we-na (Zuni)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, She-we-na (Zuni), ca. 1880, She-we-na (Zuni) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, Owl. Ceramic with polychrome slip; 19 × 15.6 × 18.3 cm. Department of Geosciences, Princeton University (PU 7725)",
+    "captionhtml":"Artist unidentified, She-we-na (Zuni), ca. 1880, She-we-na (Zuni) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, <i>Owl</i>. Ceramic with polychrome slip; 19 × 15.6 × 18.3 cm. Department of Geosciences, Princeton University (PU 7725)",
+    "published_date":"2025-10-30 02:07:35.907294",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

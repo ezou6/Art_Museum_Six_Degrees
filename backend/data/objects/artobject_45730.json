@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":45730,
+    "objectnumber":"2007-7",
+    "sortnumber":"2007    7",
+    "displaytitle":"Heart (Shinshō)",
+    "department":"Asian Art",
+    "classification":"Textiles",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Flower arranging basket; susudake, madake, and hobichuku bamboos and rattan",
+    "dimensions":"h. 26.7 cm., w. 36.8 cm., d. 24.1 cm. (10 1/2 x 14 1/2 x 9 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Lloyd E. Cotsen, Class of 1950",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Tanioka Shigeo",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Heart (Shinshō)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":983,
+            "displayname":"Tanioka Shigeo",
+            "displaydate":"born 1949",
+            "datebegin":1949,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Tanioka Shigeo, born 1949",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font color=\"#7030a0\"><span lang=\"EN\">–2007\tLloyd E. Cotsen (Los Angeles, CA), by gift to the Princeton University Art Museum, 2007.\n</span></font><p align=\"LEFT\" dir=\"LTR\"></p>\n\n\n\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":18178,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-7",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, pp. 114–115 (illus.)",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2199310,
+            "term":"Heisei",
+            "aatid":null,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072459,
+            "term":"baskets",
+            "aatid":300194498,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045687,
+            "term":"rattan",
+            "aatid":300011865,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151271,
+            "classification":"weaving"
+        },
+        {
+            "id":2072459,
+            "classification":"baskets"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12594,
+            "period":"Heisei era",
+            "alphasort":"Heisei era",
+            "begindate":1989,
+            "enddate":2019,
+            "displayperiod":"Heisei era, 1989–2019",
+            "displaydate":"1989–2019"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2199310,
+            "period":"Heisei"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"24.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2007-7"
+    ],
+    "displaymaker":"Tanioka Shigeo, born 1949",
+    "displayculture":"Japanese",
+    "displayperiod":"Heisei era, 1989–2019",
+    "caption":"Japanese, Heisei era (1989–2019), Tanioka Shigeo (born 1949), Heart (Shinshō), 2001. Flower arranging basket; susudake, madake, and hobichuku bamboos and rattan; 26.7 x 36.8 x 24.1 cm. Gift of Lloyd E. Cotsen, Class of 1950 (2007-7)",
+    "captionhtml":"Japanese, Heisei era (1989–2019), Tanioka Shigeo (born 1949), <i>Heart (Shinshō)</i>, 2001. Flower arranging basket; susudake, madake, and hobichuku bamboos and rattan; 26.7 x 36.8 x 24.1 cm. Gift of Lloyd E. Cotsen, Class of 1950 (2007-7)",
+    "published_date":"2025-10-16 14:32:37.030996",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

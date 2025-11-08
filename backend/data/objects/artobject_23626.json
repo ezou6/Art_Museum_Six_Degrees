@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":23626,
+    "objectnumber":"y1948-14",
+    "sortnumber":"1948   14y",
+    "displaytitle":"Zhenmushou 鎮墓獸 (tomb-guardian animal)",
+    "department":"Asian Art",
+    "classification":"Ceramic",
+    "datebegin":265,
+    "dateend":317,
+    "datecomputed":291,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Earthenware with pigment",
+    "dimensions":"h. 31 cm x w. 33 cm x d. 12 cm. (12 3/16 x 13 x 4 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Zhenmushou 鎮墓獸 (tomb-guardian animal)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Alice Boney (1901–1988), New York ]; [Yamanaka, New York]; [Parke-Bernet Galleries, New York, Miller et al. Sale, April 7, 1948, lot 176]; purchased by the Princeton University Art Museum, 1948.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":55935,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV023753",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":231953,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2021_64475",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":231954,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2021_64462",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i>, vol. 7, no. 2 (1948): p. 11.",
+            "citation":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i>, vol. 7, no. 2 (1948): p. 11., p. 11",
+            "date":1948,
+            "id":886,
+            "uri":"https://www.jstor.org/stable/3774382"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2147421,
+            "term":"beasts",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095937,
+            "term":"funerary art",
+            "aatid":300056488,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033516,
+            "term":"Western Jin",
+            "aatid":300018399,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171684,
+            "term":"tomb figures",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168423,
+            "term":"pigment",
+            "aatid":300013109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2171684,
+            "classification":"tomb figures"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2095937,
+            "classification":"funerary art"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12514,
+            "period":"Western Jin dynasty",
+            "alphasort":"Western Jin dynasty",
+            "begindate":265,
+            "enddate":317,
+            "displayperiod":"Western Jin dynasty, 265–317 CE",
+            "displaydate":"265–317 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033516,
+            "period":"Western Jin"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"12.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        },
+        {
+            "packageid":181967,
+            "name":"web_2020_Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2021_64462"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Western Jin dynasty, 265–317 CE",
+    "caption":"Chinese, Western Jin dynasty (265–317 CE), Zhenmushou 鎮墓獸 (tomb-guardian animal). Earthenware with pigment; 31 x 33 x 12 cm. Museum purchase (y1948-14)",
+    "captionhtml":"Chinese, Western Jin dynasty (265–317 CE), <i>Zhenmushou 鎮墓獸 (tomb-guardian animal)</i>. Earthenware with pigment; 31 x 33 x 12 cm. Museum purchase (y1948-14)",
+    "published_date":"2025-10-23 17:05:39.787543",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

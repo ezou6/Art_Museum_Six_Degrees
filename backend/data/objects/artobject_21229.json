@@ -1,0 +1,192 @@
+{
+    "type":"artobject",
+    "objectid":21229,
+    "objectnumber":"y1937-77",
+    "sortnumber":"1937   77y",
+    "displaytitle":"Plate",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1627,
+    "dateend":1850,
+    "datecomputed":1738,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Tin enamel ware",
+    "dimensions":"3.2 × diam. 22.6 cm (1 1/4 × 8 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":"Mark on base: LPK",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4439,
+            "displayname":"Porceleyne Lampetkian",
+            "displaydate":"Dutch, established 1627",
+            "datebegin":1627,
+            "dateend":0,
+            "prefix":"Manufactory:",
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Manufactory: Porceleyne Lampetkian, Dutch, established 1627",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137013,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59342",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Delft",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Delft",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2085614,
+            "term":"summer houses (seasonal dwellings)",
+            "aatid":300005529,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171690,
+            "term":"blue-and-white",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"22.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264565,
+            "name":"VisibleStorage_DenseDisplay_G2_EuroDecArts"
+        },
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59342"
+    ],
+    "displaymaker":"Manufactory: Porceleyne Lampetkian, Dutch, established 1627",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Manufactory: Porceleyne Lampetkian (Dutch, established 1627), Plate. Tin enamel ware; 3.2 × 22.6 cm. Trumbull-Prime Collection (y1937-77)",
+    "captionhtml":"Manufactory: Porceleyne Lampetkian (Dutch, established 1627), <i>Plate</i>. Tin enamel ware; 3.2 × 22.6 cm. Trumbull-Prime Collection (y1937-77)",
+    "published_date":"2025-10-16 12:39:16.159958",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

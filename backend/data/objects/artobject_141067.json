@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":141067,
+    "objectnumber":"2022-300",
+    "sortnumber":"2022  300",
+    "displaytitle":"Memorial Portrait of Arashi Koroku IV",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1826,
+    "dateend":1826,
+    "datecomputed":1826,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1826 (Bunsei 9), 11th month, 16th day",
+    "medium":"Color woodblock print (ōban tate-e format): ink and color on paper",
+    "dimensions":"40 × 26 cm (15 3/4 × 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Sebastian Izzard",
+    "markings":"Seal: Fujinoyama",
+    "inscribed":null,
+    "signed":"Signed: Shunkōsai Hokushū ga",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted Download - Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Memorial Portrait of Arashi Koroku IV",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16579,
+            "displayname":"Shunkōsai Hokushū 春好齋北洲",
+            "displaydate":"active 1810–1832, Osaka, Japan",
+            "datebegin":1810,
+            "dateend":1832,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shunkōsai Hokushū 春好齋北洲, active 1810–1832, Osaka, Japan",
+            "displayorder":3
+        },
+        {
+            "id":21511,
+            "displayname":"Honsei (Shōhonya Seishichi 正本屋清七)",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Honsei (Shōhonya Seishichi 正本屋清七)",
+            "displayorder":6
+        },
+        {
+            "id":22861,
+            "displayname":"Horiko Kasuke",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Blockcutter:",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Blockcutter: Horiko Kasuke",
+            "displayorder":4
+        },
+        {
+            "id":22862,
+            "displayname":"Suriko Hanji",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Suriko Hanji",
+            "displayorder":5
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collection of [Sebastian Izzard], New York, until 2022; gifted to the Princeton University Art Museum, 2022.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":248034,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231205_10002",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":248035,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231205_10003",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.03"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231205_10002"
+    ],
+    "displaymaker":"Shunkōsai Hokushū 春好齋北洲, active 1810–1832, Osaka, Japan | Blockcutter: Horiko Kasuke | Printed by Suriko Hanji | Published by Honsei (Shōhonya Seishichi 正本屋清七)",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Shunkōsai Hokushū 春好齋北洲 (active 1810–1832, Osaka, Japan), Blockcutter: Horiko Kasuke, Printed by Suriko Hanji, Published by Honsei (Shōhonya Seishichi 正本屋清七), Memorial Portrait of Arashi Koroku IV, 1826 (Bunsei 9), 11th month, 16th day. Color woodblock print (ōban tate-e format): ink and color on paper; 40 × 26 cm. Gift of Sebastian Izzard (2022-300)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Shunkōsai Hokushū 春好齋北洲 (active 1810–1832, Osaka, Japan), Blockcutter: Horiko Kasuke, Printed by Suriko Hanji, Published by Honsei (Shōhonya Seishichi 正本屋清七), <i>Memorial Portrait of Arashi Koroku IV</i>, 1826 (Bunsei 9), 11th month, 16th day. Color woodblock print (ōban tate-e format): ink and color on paper; 40 × 26 cm. Gift of Sebastian Izzard (2022-300)",
+    "published_date":"2025-10-16 19:06:24.068395",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

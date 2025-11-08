@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":139686,
+    "objectnumber":"PU 7649",
+    "sortnumber":"U      7649P",
+    "displaytitle":"Bowl",
+    "department":"Departmental Collections",
+    "classification":"Ceramics",
+    "datebegin":1882,
+    "dateend":1882,
+    "datecomputed":1882,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1882",
+    "medium":"Ceramic with white slip and red and brown slip-paint",
+    "dimensions":"h. 12.5 × diam. 28 cm (4 15/16 × 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Rev. Sheldon Jackson, 1882; given to E. M. Museum (Princeton Museum of Natural History).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":263626,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/NewMus_JE092925_0545",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[],
+    "cultures":[
+        {
+            "id":18122,
+            "culture":"Pueblo",
+            "alphasort":"Pueblo",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Pueblo",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"28.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        },
+        {
+            "packageid":264614,
+            "name":"DenseDisplay_DepartmentalCollections_at_20250205"
+        },
+        {
+            "packageid":225736,
+            "name":"VisibleStorage_GHC-H_Southwest1"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/NewMus_JE092925_0545"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Pueblo",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Pueblo, Bowl, before 1882. Ceramic with white slip and red and brown slip-paint; 12.5 × 28 cm. Department of Geosciences, Princeton University (PU 7649)",
+    "captionhtml":"Artist unidentified, Pueblo, <i>Bowl</i>, before 1882. Ceramic with white slip and red and brown slip-paint; 12.5 × 28 cm. Department of Geosciences, Princeton University (PU 7649)",
+    "published_date":"2025-10-24 02:02:53.342926",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

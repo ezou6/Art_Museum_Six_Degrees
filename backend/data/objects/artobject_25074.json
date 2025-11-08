@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":25074,
+    "objectnumber":"y1954-75",
+    "sortnumber":"1954   75y",
+    "displaytitle":"Amazon",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1897,
+    "dateend":1897,
+    "datecomputed":1897,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1897, cast early 20th century",
+    "medium":"Bronze",
+    "dimensions":"64.5 × 39.9 × 17.5 cm (25 3/8 × 15 11/16 × 6 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Hugh Trumbull Adams, Class of 1935",
+    "markings":"Stamp: München",
+    "inscribed":"Inscribed by founder, back of base: \"Guss C. Leyrer, Fondeur\".\r\n",
+    "signed":"Signed, right of base: Franz von Stuck",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Amazon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2608,
+            "displayname":"Franz von Stuck",
+            "displaydate":"German, 1863–1928",
+            "datebegin":1863,
+            "dateend":1928,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Franz von Stuck, German, 1863–1928",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":13133,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1954-74-75_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":140056,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62180",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140057,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62181",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140058,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62182",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 17",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130075,
+            "term":"helmets",
+            "aatid":300036794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158100,
+            "term":"warriors",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050143,
+            "term":"swords",
+            "aatid":300037048,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"17.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV62181"
+    ],
+    "displaymaker":"Franz von Stuck, German, 1863–1928",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Franz von Stuck (German, 1863–1928), Amazon, 1897, cast early 20th century. Bronze; 64.5 × 39.9 × 17.5 cm. Gift of Hugh Trumbull Adams, Class of 1935 (y1954-75)",
+    "captionhtml":"Franz von Stuck (German, 1863–1928), <i>Amazon</i>, 1897, cast early 20th century. Bronze; 64.5 × 39.9 × 17.5 cm. Gift of Hugh Trumbull Adams, Class of 1935 (y1954-75)",
+    "published_date":"2025-10-16 13:01:10.934775",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,59 @@
+{
+    "makerid":4500,
+    "published_date":"2022-03-28 16:06:08.447153",
+    "type":"maker",
+    "displayname":"Gustave Le Gray",
+    "makertype":"Individual",
+    "alphasort":"Le Gray Gustave",
+    "lastname":"Le Gray",
+    "firstname":"Gustave",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1820–1882; born Villiers-le-Bel, France; died Cairo, Egypt; active Paris and Cairo",
+    "begindate":1820,
+    "enddate":1882,
+    "nationality":"French",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Gustave Le Gray",
+            "alphasort":"Le Gray Gustave",
+            "lastname":"Le Gray",
+            "firstname":"Gustave",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500000537"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/120733584"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"605a0ff9edf682001701fb08"
+            },
+            "caption_file":[],
+            "file_uri":"https://mediacentral.princeton.edu/id/1_nzi3h689",
+            "title":"Curator's Voice: Brig on the Water",
+            "speaker_type":"Curator",
+            "description":"Katherine Bussard discusses Gustave Le Gray's \"Brig on the Water\"",
+            "displaydate":"October 8, 2021",
+            "sort_date":"2021-10-08",
+            "video_type":"Curator's Voice, Collections"
+        }
+    ],
+    "essay":[]
+}

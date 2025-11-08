@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":50923,
+    "objectnumber":"2016-1204",
+    "sortnumber":"2016 1204",
+    "displaytitle":"Vessel",
+    "department":"African and Oceanic Art",
+    "classification":"Ceramic",
+    "datebegin":1900,
+    "dateend":1975,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"20th century, before 1975",
+    "medium":"Terracotta and cane",
+    "dimensions":"20 × diam. 17.9 cm (7 7/8 × 7 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Perry E. H. Smith, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vessel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15627,
+            "displayname":"Mangbetu",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Mangbetu artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by&nbsp;Perry E.H. Smith&nbsp;in Zaire (present-day Democratic Republic of the Congo) between 1971 and circa 1975",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":19810,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-102",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 128",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042851,
+            "term":"Mangbetu",
+            "aatid":300016426,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159966,
+            "term":"zigzags",
+            "aatid":300165028,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156714,
+            "term":"incising",
+            "aatid":300053847,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156809,
+            "term":"firing (technique)",
+            "aatid":300053887,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045686,
+            "term":"cane (plant material)",
+            "aatid":300011864,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042851,
+            "culture":"Mangbetu"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"17.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-102"
+    ],
+    "displaymaker":"Mangbetu artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mangbetu artist, Democratic Republic of the Congo, Central Africa, Vessel, 20th century, before 1975. Terracotta and cane; 20 × 17.9 cm. Gift of Perry E. H. Smith, Class of 1957 (2016-1204)",
+    "captionhtml":"Mangbetu artist, Democratic Republic of the Congo, Central Africa, <i>Vessel</i>, 20th century, before 1975. Terracotta and cane; 20 × 17.9 cm. Gift of Perry E. H. Smith, Class of 1957 (2016-1204)",
+    "published_date":"2025-10-16 15:12:46.316997",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

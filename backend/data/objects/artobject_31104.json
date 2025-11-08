@@ -1,0 +1,294 @@
+{
+    "type":"artobject",
+    "objectid":31104,
+    "objectnumber":"y1968-536",
+    "sortnumber":"1968  536y",
+    "displaytitle":"Natural Bridge, Virginia",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1800,
+    "dateend":1899,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"19th century?",
+    "medium":"Oil on steel",
+    "dimensions":"51 x 60.9 cm (20 1/16 x 24 in.)\r\nframe: 62.5 × 73.5 × 5 cm (24 5/8 × 28 15/16 × 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Margaret Mather Turner",
+    "markings":null,
+    "inscribed":"Titled, lower left: Natural Bridge, Virginia.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Natural Bridge, Virginia",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Unidentified",
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Unidentified American artist",
+            "displayorder":1
+        },
+        {
+            "id":19423,
+            "displayname":"Jacob Caleb Ward",
+            "displaydate":"American, 1809 - 1891",
+            "datebegin":1809,
+            "dateend":1891,
+            "prefix":"possibly after painting by",
+            "suffix":", engraved by William James Bennett, British, 1787-1844",
+            "role":"Artist",
+            "displaymaker":"possibly after painting by Jacob Caleb Ward, engraved by William James Bennett, British, 1787-1844, American, 1809 - 1891",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Little is definitively known about this appealing view of Natural Bridge, a geological formation of Cedar Creek in Virginia’s aptly named Rockbridge County. Renowned since the mid-eighteenth century as one of America’s principal natural wonders, the site was surveyed by George Washington and once owned by Thomas Jefferson. The painting was donated to Princeton by the daughter of Frank Jewett Mather, a former professor and museum director who believed the work may originally have formed part of a decorative scheme on a nineteenth-century steamship.&nbsp; ",
+            "remarks":"Wyman House Installation"
+        }
+    ],
+    "media":[
+        {
+            "id":123326,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46317",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":148444,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV67104",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Virginia, Natural Bridge",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Virginia",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Natural Bridge",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_37.628_-79.545.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188602,
+            "term":"natural bridges",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119862,
+            "term":"streams",
+            "aatid":300008699,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058601,
+            "term":"green (color)",
+            "aatid":300128438,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2091959,
+            "term":"hunters",
+            "aatid":300025619,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2161828,
+            "term":"steel",
+            "aatid":300133751,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"62.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46317"
+    ],
+    "displaymaker":"Unidentified American artist | possibly after painting by Jacob Caleb Ward , engraved by William James Bennett, British, 1787-1844, American, 1809 - 1891",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unidentified American artist, possibly after painting by Jacob Caleb Ward, engraved by William James Bennett, British, 1787-1844 (American, 1809 - 1891), Natural Bridge, Virginia, 19th century?. Oil on steel; 51 x 60.9 cm, 62.5 × 73.5 × 5 cm (frame). Gift of Margaret Mather Turner (y1968-536)",
+    "captionhtml":"Unidentified American artist, possibly after painting by Jacob Caleb Ward, engraved by William James Bennett, British, 1787-1844 (American, 1809 - 1891), <i>Natural Bridge, Virginia</i>, 19th century?. Oil on steel; 51 x 60.9 cm, 62.5 × 73.5 × 5 cm (frame). Gift of Margaret Mather Turner (y1968-536)",
+    "published_date":"2025-10-16 13:22:38.039677",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

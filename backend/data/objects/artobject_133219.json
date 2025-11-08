@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":133219,
+    "objectnumber":"2016-1260",
+    "sortnumber":"2016 1260",
+    "displaytitle":"Fertility figurine",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-2400,
+    "dateend":-2250,
+    "datecomputed":-2325,
+    "daterange":"15000-2000 B.C.",
+    "displaydate":"2400–2250 BCE",
+    "medium":"Ceramic",
+    "dimensions":"10 × 3.1 × 1.8 cm (3 15/16 × 1 3/16 × 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fertility figurine",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tBy 1981, Gillett G. Griffin (1928-2016), Princeton, NJ [1]; 2016, bequeathed to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] According to Rose Art Gallery, Ancient American Art: An Aesthetic View (Waltham, MA: Brandeis University, 1981), fig. 99.\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":212505,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv011623_b",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<em>Ancient American art: An Aesthetic View</em> (Waltham, MA:&nbsp;Rose Art Museum, Brandeis University, 1981)",
+            "citation":"<em>Ancient American art: An Aesthetic View</em> (Waltham, MA:&nbsp;Rose Art Museum, Brandeis University, 1981), fig. 99 (illus.)",
+            "date":1981,
+            "id":2675,
+            "uri":"http://www.worldcat.org/oclc/7835984"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Ecuador, Guayas",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Intermediate area",
+            "country":"Ecuador",
+            "region":null,
+            "state":"Guayas",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3657505/provincia-del-guayas.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035935,
+            "term":"Valdivia",
+            "aatid":300017397,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088188,
+            "term":"offspring",
+            "aatid":300154345,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13927,
+            "culture":"Valdivia",
+            "alphasort":"Valdivia",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Valdivia (Phase 4)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035935,
+            "culture":"Valdivia"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.08"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.76"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":128615,
+            "name":"CRS_ART103_2018_02_15"
+        },
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        },
+        {
+            "packageid":129393,
+            "name":"CRS_ART103_2018_week2"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv011623_b"
+    ],
+    "displaymaker":null,
+    "displayculture":"Valdivia (Phase 4)",
+    "displayperiod":null,
+    "caption":"Valdivia (Phase 4), 2400–2250 BCE, Guayas, Ecuador, Intermediate area, Fertility figurine. Ceramic; 10 × 3.1 × 1.8 cm. Bequest of Gillett G. Griffin (2016-1260)",
+    "captionhtml":"Valdivia (Phase 4), 2400–2250 BCE, Guayas, Ecuador, Intermediate area, <i>Fertility figurine</i>. Ceramic; 10 × 3.1 × 1.8 cm. Bequest of Gillett G. Griffin (2016-1260)",
+    "published_date":"2025-10-16 18:40:50.470035",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,180 @@
+{
+    "type":"artobject",
+    "objectid":10404,
+    "objectnumber":"x1962-51",
+    "sortnumber":"1962   51x",
+    "displaytitle":"Portrait of a Young Man",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1580,
+    "dateend":1609,
+    "datecomputed":1594,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Red and white chalk",
+    "dimensions":"40.9 x 27.6 cm. (16 1/8 x 10 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Miss Margaret Mower for the Elsa Durand Mower Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a Young Man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6303,
+            "displayname":"Annibale Carracci",
+            "displaydate":"1560–1609; born Bologna, Italy; died Rome, Italy",
+            "datebegin":1560,
+            "dateend":1609,
+            "prefix":"After",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"After Annibale Carracci, 1560–1609; born Bologna, Italy; died Rome, Italy",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":15325,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1962-51",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977).",
+            "citation":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977)., Vol. 1: pp. 58-59, no. 156 (illustrated in Vol. 2 under the same catalog number)",
+            "date":1977,
+            "id":263,
+            "uri":"http://www.worldcat.org/oclc/2136968"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 18",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1962-51"
+    ],
+    "displaymaker":"After Annibale Carracci, 1560–1609; born Bologna, Italy; died Rome, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After Annibale Carracci (1560–1609; born Bologna, Italy; died Rome, Italy), Portrait of a Young Man. Red and white chalk; 40.9 x 27.6 cm. Gift of Miss Margaret Mower for the Elsa Durand Mower Collection (x1962-51)",
+    "captionhtml":"After Annibale Carracci (1560–1609; born Bologna, Italy; died Rome, Italy), <i>Portrait of a Young Man</i>. Red and white chalk; 40.9 x 27.6 cm. Gift of Miss Margaret Mower for the Elsa Durand Mower Collection (x1962-51)",
+    "published_date":"2025-10-16 11:21:40.722043",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

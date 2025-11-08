@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":28485,
+    "objectnumber":"y1960-4",
+    "sortnumber":"1960    4y",
+    "displaytitle":"Head of Christ",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1200,
+    "dateend":1299,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"13th century",
+    "medium":"Polychromed wood",
+    "dimensions":"39 x 24.5 x 21 cm (15 3/8 x 9 5/8 x 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, John Maclean Magie, Class of 1892, and Gertrude Magie Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Head of Christ",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"(Casa de Arte Linares, Madrid); 1960 museum purchase.",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":139921,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62027",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139922,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62028",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 25",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Spain",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Spain",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40_-4.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031673,
+            "term":"Spanish",
+            "aatid":300111215,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2131867,
+            "term":"crowns (headdresses)",
+            "aatid":300046020,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13832,
+            "culture":"Spanish",
+            "alphasort":"Spanish",
+            "begindate":-600,
+            "enddate":0,
+            "displayculture":"Spanish",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031673,
+            "culture":"Spanish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"21.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":92274,
+            "name":"web_ImagesofChrist"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV62027"
+    ],
+    "displaymaker":null,
+    "displayculture":"Spanish",
+    "displayperiod":null,
+    "caption":"Spanish, Head of Christ, 13th century. Polychromed wood; 39 × 24.5 × 21 cm. Museum purchase, John Maclean Magie, Class of 1892, and Gertrude Magie Fund (y1960-4)",
+    "captionhtml":"Spanish, <i>Head of Christ</i>, 13th century. Polychromed wood; 39 × 24.5 × 21 cm. Museum purchase, John Maclean Magie, Class of 1892, and Gertrude Magie Fund (y1960-4)",
+    "published_date":"2025-10-16 13:08:11.273907",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

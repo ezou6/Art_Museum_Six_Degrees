@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":37692,
+    "objectnumber":"x1988-81",
+    "sortnumber":"1988   81x",
+    "displaytitle":"Hogarth Painting the Comic Muse",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1758,
+    "dateend":1764,
+    "datecomputed":1761,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1758–64",
+    "medium":"Etching and engraving",
+    "dimensions":"plate: 40.3 x 35 cm (15 7/8 x 13 3/4 in.)\r\nsheet: 65.5 x 49 cm (25 13/16 x 19 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. William H. Walker II",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1988-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hogarth Painting the Comic Muse",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5257,
+            "displayname":"William Hogarth",
+            "displaydate":"1697–1764; born and died London, England",
+            "datebegin":1697,
+            "dateend":1764,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Hogarth, 1697–1764; born and died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Hogarth first published this engraving in 1758 as a graphic version of his self-portrait, painted the previous year and now in the National Portrait Gallery, London. Famous for his contemporary social satires, Hogarth ironically depicts himself here in the guise of a history painter at his easel, studiously limning out a classical composition of the comic muse Thalia holding her mask, with a copy of his own engraving <EM>The Analysis of Beauty</EM> folded into a portfolio at the artist's feet. In 1764, Hogarth corrected and republished his engraved self-portrait as the frontispiece for an edition of his collected prints.",
+            "remarks":"Kienbusch rotation 2013"
+        }
+    ],
+    "media":[
+        {
+            "id":112858,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV35911",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1988,\" <EM>Record of the Art Museum, Princeton University </EM>48, no. 1 (1989): p. 35-59.",
+            "citation":"\"Acquisitions of the Art Museum 1988,\" <EM>Record of the Art Museum, Princeton University </EM>48, no. 1 (1989): p. 35-59., p. 47",
+            "date":1989,
+            "id":3105,
+            "uri":"https://www.jstor.org/stable/3774727"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055785,
+            "term":"self-portraits",
+            "aatid":300124534,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2122416,
+            "term":"satires",
+            "aatid":300251297,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV35911"
+    ],
+    "displaymaker":"William Hogarth, 1697–1764; born and died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Hogarth (1697–1764; born and died London, England), Hogarth Painting the Comic Muse, 1758–64. Etching and engraving; 40.3 x 35 cm (plate), 65.5 x 49 cm (sheet). Gift of Mrs. William H. Walker II (x1988-81)",
+    "captionhtml":"William Hogarth (1697–1764; born and died London, England), <i>Hogarth Painting the Comic Muse</i>, 1758–64. Etching and engraving; 40.3 x 35 cm (plate), 65.5 x 49 cm (sheet). Gift of Mrs. William H. Walker II (x1988-81)",
+    "published_date":"2025-10-16 13:59:54.488973",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

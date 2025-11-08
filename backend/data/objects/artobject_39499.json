@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":39499,
+    "objectnumber":"2000-272",
+    "sortnumber":"2000  272",
+    "displaytitle":"untitled (landscape)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1853,
+    "dateend":1863,
+    "datecomputed":1858,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1858",
+    "medium":"Albumen print",
+    "dimensions":"image: 30.5 x 37.7 cm (12 x 14 13/16 in.)\r\nsheet: 31.7 x 38.5 cm (12 1/2 x 15 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Surdna Fund",
+    "markings":null,
+    "inscribed":"None",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"untitled (landscape)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":652,
+            "displayname":"J & R Mudd",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"attributed to J & R Mudd",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84306,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10941",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 81",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10941"
+    ],
+    "displaymaker":"attributed to J & R Mudd",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Attributed to J & R Mudd, untitled (landscape), ca. 1858. Albumen print; 30.5 x 37.7 cm (image), 31.7 x 38.5 cm (sheet). Museum purchase, Surdna Fund (2000-272)",
+    "captionhtml":"Attributed to J & R Mudd, <i>untitled (landscape)</i>, ca. 1858. Albumen print; 30.5 x 37.7 cm (image), 31.7 x 38.5 cm (sheet). Museum purchase, Surdna Fund (2000-272)",
+    "published_date":"2025-10-16 14:06:50.547712",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

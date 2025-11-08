@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":15717,
+    "objectnumber":"x1984-209",
+    "sortnumber":"1984  209x",
+    "displaytitle":"Lion Sculpture, Arsenal, Venice",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1860,
+    "dateend":1870,
+    "datecomputed":1865,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1865",
+    "medium":"Albumen print",
+    "dimensions":"35.3 x 27.3 cm (13 7/8 x 10 3/4 in.)\r\nmount: 43.9 x 30.9 cm. (17 5/16 x 12 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Mr. and Mrs. Max Adler",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1984-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lion Sculpture, Ducal Palace, Venice",
+            "titletype":"Primary Title",
+            "displayorder":2
+        },
+        {
+            "title":"Lion Sculpture, Arsenal, Venice",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3079,
+            "displayname":"Carlo Ponti",
+            "displaydate":"Italian, 1823–1893",
+            "datebegin":1823,
+            "dateend":1893,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Carlo Ponti, Italian, 1823–1893",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<SPAN lang=EN>\r\n<P dir=ltr align=left>At the Piazza San Marco, Ponti had a shop where he sold photographic views of Venice in souvenir books called <I>Ricordi di Venezia</I>. His photos reveal his eye for composition and architectural detail—as is evident in this example, taken at the Venetian Arsenal, once the greatest shipyard in the world. The marble lion shown is one of two flanking the Arsenal’s Porta Magna, or main gate. Both lions hail from ancient Greece and were looted in the seventeenth century. The male figure in worker’s clothes standing at the base of the statue adds a hint of social realism to the image. Ponti probably intended for this photograph to be viewed using one of his optical instruments—such as the megalethoscope—that made two-dimensional images&nbsp;appear three-dimensional. </P></SPAN>",
+            "remarks":"K2 Rotation November 2017"
+        }
+    ],
+    "media":[
+        {
+            "id":85579,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12125",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52.",
+            "citation":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52., p. 39",
+            "date":1985,
+            "id":3134,
+            "uri":"https://www.jstor.org/stable/3774658"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2112470,
+            "term":"archways",
+            "aatid":300002771,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127397,
+            "term":"lions",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086025,
+            "term":"palaces",
+            "aatid":300005734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.90"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":126364,
+            "name":"web_2017_K2_Venice_install_December"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":226795,
+            "name":"2023_MUS334_04_04"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12125"
+    ],
+    "displaymaker":"Carlo Ponti, Italian, 1823–1893",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Carlo Ponti (Italian, 1823–1893), Lion Sculpture, Arsenal, Venice, ca. 1865. Albumen print; 35.3 x 27.3 cm. Museum purchase, gift of Mr. and Mrs. Max Adler (x1984-209)",
+    "captionhtml":"Carlo Ponti (Italian, 1823–1893), <i>Lion Sculpture, Arsenal, Venice</i>, ca. 1865. Albumen print; 35.3 x 27.3 cm. Museum purchase, gift of Mr. and Mrs. Max Adler (x1984-209)",
+    "published_date":"2025-10-16 12:05:15.847254",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

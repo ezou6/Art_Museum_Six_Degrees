@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":32498,
+    "objectnumber":"y1982-108",
+    "sortnumber":"1982  108y",
+    "displaytitle":"Dawn",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1930,
+    "dateend":1930,
+    "datecomputed":1930,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1930",
+    "medium":"Oil on canvas",
+    "dimensions":"141 x 60 cm (55 1/2 x 23 5/8 in.)\r\nframe: 152.8 x 73.5 x 3 cm (60 3/16 x 28 15/16 x 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Victoria Barr",
+    "markings":null,
+    "inscribed":"Verso on frame, top center: CHARLES PRENDERGAST/...1940...",
+    "signed":"Signed and dated in pink, lower right: A. Bauchant / 1930",
+    "catalograisonne":null,
+    "creditlinerepro":"© Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dawn",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1012,
+            "displayname":"Charles Prendergast",
+            "displaydate":"American, 1863–1948",
+            "datebegin":1863,
+            "dateend":1948,
+            "prefix":"Framemaker:",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Framemaker: Charles Prendergast, American, 1863–1948",
+            "displayorder":2
+        },
+        {
+            "id":276,
+            "displayname":"André Bauchant",
+            "displaydate":"French, 1873–1958",
+            "datebegin":1873,
+            "dateend":1958,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"André Bauchant, French, 1873–1958",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Galerie Jeanne Bucher-Myrbor; ca. 1933-34 purchase by Mrs. Stanley Resor (through Alfred Barr); c. 1942 gift to Victoria Barr; 1982 gift to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":123988,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46932",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 50",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158112,
+            "term":"morning",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"152.80"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"141.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":152533,
+            "name":"web_frenchpaintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46932"
+    ],
+    "displaymaker":"André Bauchant, French, 1873–1958 | Framemaker: Charles Prendergast, American, 1863–1948",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"André Bauchant (French, 1873–1958), Framemaker: Charles Prendergast (American, 1863–1948), Dawn, 1930. Oil on canvas; 141 x 60 cm, 152.8 × 73.5 × 3 cm (frame). Gift of Victoria Barr (y1982-108)",
+    "captionhtml":"André Bauchant (French, 1873–1958), Framemaker: Charles Prendergast (American, 1863–1948), <i>Dawn</i>, 1930. Oil on canvas; 141 x 60 cm, 152.8 × 73.5 × 3 cm (frame). Gift of Victoria Barr (y1982-108)",
+    "published_date":"2025-10-16 13:30:21.888438",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

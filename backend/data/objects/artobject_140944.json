@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":140944,
+    "objectnumber":"2022-292",
+    "sortnumber":"2022  292",
+    "displaytitle":"Cabinet vase",
+    "department":"American Art",
+    "classification":"Glass",
+    "datebegin":1900,
+    "dateend":1929,
+    "datecomputed":1914,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century",
+    "medium":"Favrile glass",
+    "dimensions":"h. 10.2 × diam. 10.2 cm (4 × 4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. and Mrs. Leon E. Rosenberg in honor of Vivian B. and Harold T. Shapiro, Graduate School Class of 1964",
+    "markings":null,
+    "inscribed":"Markings: etched on underside: L.C.T. o8775",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Cabinet vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2774,
+            "displayname":"Louis Comfort Tiffany",
+            "displaydate":"1848–1933; born and died New York, NY",
+            "datebegin":1848,
+            "dateend":1933,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Louis Comfort Tiffany, 1848–1933; born and died New York, NY",
+            "displayorder":1
+        },
+        {
+            "id":2777,
+            "displayname":"Tiffany Studios",
+            "displaydate":"active 1892–1930, New York, NY",
+            "datebegin":1892,
+            "dateend":1930,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Tiffany Studios, active 1892–1930, New York, NY",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[James D. Julia Auctions, Fairfield, Maine, June 16, 2017, lot 1426]; Diane Drobnis (Mrs. Leon E.) Rosenberg; given to the Princeton University Art Museum, December 2022.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":246860,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8370",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":246861,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8367",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":246862,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8364",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":246908,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8366",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":246909,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8365",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York, Queens",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":"Queens",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156903,
+            "term":"glassworking",
+            "aatid":300053929,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2156903,
+            "classification":"glassworking"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.15"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"10.15"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_8364"
+    ],
+    "displaymaker":"Louis Comfort Tiffany, 1848–1933; born and died New York, NY | Tiffany Studios, active 1892–1930, New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Louis Comfort Tiffany (1848–1933; born and died New York, NY), Tiffany Studios (active 1892–1930, New York, NY), Cabinet vase, early 20th century. Favrile glass; 10.2 × 10.2 cm. Gift of Dr. and Mrs. Leon E. Rosenberg in honor of Vivian B. and Harold T. Shapiro, Graduate School Class of 1964 (2022-292)",
+    "captionhtml":"Louis Comfort Tiffany (1848–1933; born and died New York, NY), Tiffany Studios (active 1892–1930, New York, NY), <i>Cabinet vase</i>, early 20th century. Favrile glass; 10.2 × 10.2 cm. Gift of Dr. and Mrs. Leon E. Rosenberg in honor of Vivian B. and Harold T. Shapiro, Graduate School Class of 1964 (2022-292)",
+    "published_date":"2025-10-16 19:05:27.545557",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,197 @@
+{
+    "type":"artobject",
+    "objectid":15231,
+    "objectnumber":"x1983-154.15",
+    "sortnumber":"1983  154x   15",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1957,
+    "dateend":1957,
+    "datecomputed":1957,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1957",
+    "medium":"Photoengraving",
+    "dimensions":"image: 8.9 x 19.9 cm. (3 1/2 x 7 13/16 in.)\r\nsheet: 15.2 x 23.8 cm. (6 x 9 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Saul Reinfeld",
+    "markings":null,
+    "inscribed":"Typed below bottom image, lower right: 15",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2658,
+            "displayname":"Charles Swedlund",
+            "displaydate":"born 1935, Chicago, IL; active Chicago",
+            "datebegin":1935,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles Swedlund, born 1935, Chicago, IL; active Chicago",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":251577,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102389",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Illinois, Chicago",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Illinois",
+            "city":"Chicago",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4887398/chicago.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054204,
+            "term":"photoengravings",
+            "aatid":300154358,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154868,
+            "term":"photoengraving",
+            "aatid":300053297,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054204,
+            "classification":"photoengravings"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102389"
+    ],
+    "displaymaker":"Charles Swedlund, born 1935, Chicago, IL; active Chicago",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles Swedlund (born 1935, Chicago, IL; active Chicago), Untitled, 1957. Photoengraving; 8.9 x 19.9 cm (image), 15.2 x 23.8 cm (sheet). Gift of Mrs. Saul Reinfeld (x1983-154.15)",
+    "captionhtml":"Charles Swedlund (born 1935, Chicago, IL; active Chicago), <i>Untitled</i>, 1957. Photoengraving; 8.9 x 19.9 cm (image), 15.2 x 23.8 cm (sheet). Gift of Mrs. Saul Reinfeld (x1983-154.15)",
+    "published_date":"2025-10-16 11:59:58.405713",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

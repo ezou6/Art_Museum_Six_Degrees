@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":40791,
+    "objectnumber":"1996-199.9",
+    "sortnumber":"1996  199     9",
+    "displaytitle":"Oregon",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1967,
+    "dateend":1967,
+    "datecomputed":1967,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1967",
+    "medium":"Gelatin silver print",
+    "dimensions":"12.5 x 16 cm (4 15/16 x 6 5/16 in.)\r\nmount: 33.1 x 25.4 cm. (13 1/16 x 10 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Artist, titled and date printed on mount recto lower left corner.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Warren Krupsaw",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1996-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oregon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1086,
+            "displayname":"Warren Krupsaw",
+            "displaydate":"American, born 1942",
+            "datebegin":1942,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Warren Krupsaw, American, born 1942",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90170,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16142",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Rhode Island, Providence",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Rhode Island",
+            "city":"Providence",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5224151/providence.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: North America, United States, Oregon",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Oregon",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5744337/oregon.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2171378,
+            "term":"roads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120580,
+            "term":"forests",
+            "aatid":300008863,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.10"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16142"
+    ],
+    "displaymaker":"Warren Krupsaw, American, born 1942",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Warren Krupsaw (American, born 1942), Oregon, 1967. Gelatin silver print; 12.5 x 16 cm. Museum purchase, anonymous gift (1996-199.9)",
+    "captionhtml":"Warren Krupsaw (American, born 1942), <i>Oregon</i>, 1967. Gelatin silver print; 12.5 x 16 cm. Museum purchase, anonymous gift (1996-199.9)",
+    "published_date":"2025-10-16 14:11:38.781243",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

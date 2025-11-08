@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":18349,
+    "objectnumber":"x1992-53",
+    "sortnumber":"1992   53x",
+    "displaytitle":"Cheetal or Spotted Deer",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1860,
+    "dateend":1870,
+    "datecomputed":1865,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1860–70",
+    "medium":"Albumen print",
+    "dimensions":"10.4 x 17.1 cm. (4 1/8 x 6 3/4 in.)\r\nmount: 27.8 x 37.2 cm. (10 15/16 x 14 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Inscribed in pencil in unknown hand, center of mount below image: Cheetal, or Spotted Deer",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cheetal or Spotted Deer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84511,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11102",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":84512,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11103",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 51",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2643743/london.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158074,
+            "term":"deer",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2153946,
+            "classification":"albumen process"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13593,
+            "culture":"British",
+            "alphasort":"British",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"British photographer",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11103"
+    ],
+    "displaymaker":null,
+    "displayculture":"British photographer",
+    "displayperiod":null,
+    "caption":"British photographer, Cheetal or Spotted Deer, ca. 1860–70. Albumen print; 10.4 x 17.1 cm. Museum purchase, anonymous gift (x1992-53)",
+    "captionhtml":"British photographer, <i>Cheetal or Spotted Deer</i>, ca. 1860–70. Albumen print; 10.4 x 17.1 cm. Museum purchase, anonymous gift (x1992-53)",
+    "published_date":"2025-10-16 12:22:26.220356",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,219 @@
+{
+    "type":"artobject",
+    "objectid":8672,
+    "objectnumber":"1997-453",
+    "sortnumber":"1997  453",
+    "displaytitle":"View of Mount Everest from Khambajong",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1902,
+    "dateend":1908,
+    "datecomputed":1905,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1902–08",
+    "medium":"Carbon print",
+    "dimensions":"image: 23.4 x 28.7 cm (9 3/16 x 11 5/16 in.)\r\nsheet: 34.1 x 45.8 cm (13 7/16 x 18 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Kenneth C. Jacobson, Class of 1970",
+    "markings":null,
+    "inscribed":"Printed on backing board:  MOUNT EVEREST FROM KHAMBAJONG. / This view is one taken with a telephoto lens from a distance of ninety-one miles.  Everest stands / up well, and even at this distance looks a veritable giant.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1997-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"View of Mount Everest from Khambajong",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1717,
+            "displayname":"John Claude White",
+            "displaydate":"English, 1853 - 1918",
+            "datebegin":1853,
+            "dateend":1918,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Claude White, English, 1853 - 1918",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":86432,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12765",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":86434,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12766",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208.",
+            "citation":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208., p. 187",
+            "date":1998,
+            "id":3048,
+            "uri":"https://www.jstor.org/stable/3774775"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Tibet",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Tibet",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1279685/tibet-autonomous-region.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2027495,
+            "term":"Tibet",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2027965,
+            "term":"Himalayan",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172711,
+            "term":"hills",
+            "aatid":300008777,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12766"
+    ],
+    "displaymaker":"John Claude White, English, 1853 - 1918",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Claude White (English, 1853 - 1918), View of Mount Everest from Khambajong, ca. 1902–08. Carbon print; 23.4 x 28.7 cm (image), 34.1 x 45.8 cm (sheet). Gift of Kenneth C. Jacobson, Class of 1970 (1997-453)",
+    "captionhtml":"John Claude White (English, 1853 - 1918), <i>View of Mount Everest from Khambajong</i>, ca. 1902–08. Carbon print; 23.4 x 28.7 cm (image), 34.1 x 45.8 cm (sheet). Gift of Kenneth C. Jacobson, Class of 1970 (1997-453)",
+    "published_date":"2025-10-16 11:10:45.762577",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

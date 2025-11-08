@@ -1,0 +1,287 @@
+{
+    "type":"artobject",
+    "objectid":43430,
+    "objectnumber":"2004-479",
+    "sortnumber":"2004  479",
+    "displaytitle":"Acropolis",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1906,
+    "dateend":1910,
+    "datecomputed":1908,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1906–10",
+    "medium":"Oil on canvas",
+    "dimensions":"22.8 x 30.7 cm (9 x 12 1/16 in.)\r\nframe: 34 × 41.4 × 4.5 cm (13 3/8 × 16 5/16 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Remak Ramsay, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower right: C. Hoffbauer",
+    "catalograisonne":null,
+    "creditlinerepro":"© Charles Hoffbauer",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Acropolis",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1222,
+            "displayname":"Charles Hoffbauer",
+            "displaydate":"French, 1875–1957",
+            "datebegin":1875,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles Hoffbauer, French, 1875–1957",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Young Fine Arts Gallery, [?North Berwick, Maine?],Saturday, September 20, 1997, Fine Paintings, Watercolors, Drawings and Prints, lot 169, as \"The Parthenon\" est. $500-750, sold $425; Remak Ramsay, Class of 1958; 2004 gift to Princeton University Art Museum.",
+            "remarks":"Taken from artnet.com: printout in file. / not vetted"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Charles Hoffbauer’s father was Theodor Hoffbauer, an architect known for panoramic reconstructions of ancient cities and of Paris in earlier times. The son studied with Gustave Moreau, traveled to Italy in 1902, and was in Greece and Egypt between 1906 and 1910. This sketch captures the forms of mountain and temple in the spirit of his father, but bathed in jewel-colored light recalling the Symbolist style of his master, Moreau. ",
+            "remarks":"Wyman House Installation"
+        }
+    ],
+    "media":[
+        {
+            "id":123345,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46337",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":22051,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-479_BAC",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 94",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_46_2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: Europe, Greece, Athens, Acropolis of Athens",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Greece",
+            "region":null,
+            "state":null,
+            "city":"Athens",
+            "county":null,
+            "subregion":null,
+            "locale":"Acropolis of Athens",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_37.972_23.726.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2184945,
+            "term":"acropolises",
+            "aatid":300000700,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.97"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.43"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":152533,
+            "name":"web_frenchpaintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46337"
+    ],
+    "displaymaker":"Charles Hoffbauer, French, 1875–1957",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles Hoffbauer (French, 1875–1957), Acropolis, ca. 1906–10. Oil on canvas; 22.8 x 30.7 cm, 34 × 41.4 × 4.5 cm (frame). Gift of Remak Ramsay, Class of 1958 (2004-479)",
+    "captionhtml":"Charles Hoffbauer (French, 1875–1957), <i>Acropolis</i>, ca. 1906–10. Oil on canvas; 22.8 x 30.7 cm, 34 × 41.4 × 4.5 cm (frame). Gift of Remak Ramsay, Class of 1958 (2004-479)",
+    "published_date":"2025-10-16 14:23:30.966994",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

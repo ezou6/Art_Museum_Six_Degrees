@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":55500,
+    "objectnumber":"2008-57",
+    "sortnumber":"2008   57",
+    "displaytitle":"Ad Reinhardt",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1958,
+    "dateend":1968,
+    "datecomputed":1963,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1963",
+    "medium":"Gelatin silver print",
+    "dimensions":"35 × 27.5 cm (13 3/4 × 10 13/16 in.)\r\nmount: 49.4 x 37.7 cm. (19 7/16 x 14 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift\r\n",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Marvin Lazarus",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ad Reinhardt",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14443,
+            "displayname":"Marvin Lazarus",
+            "displaydate":"American, 1918–1982",
+            "datebegin":1918,
+            "dateend":1982,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Marvin Lazarus, American, 1918–1982",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":20603,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-57",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., pp. 90–91",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5125771/manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171359,
+            "term":"cities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051503,
+            "term":"silhouettes",
+            "aatid":300015423,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.40"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-57"
+    ],
+    "displaymaker":"Marvin Lazarus, American, 1918–1982",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Marvin Lazarus (American, 1918–1982), Ad Reinhardt, ca. 1963. Gelatin silver print; 35 × 27.5 cm. Museum purchase, anonymous gift\r\n (2008-57)",
+    "captionhtml":"Marvin Lazarus (American, 1918–1982), <i>Ad Reinhardt</i>, ca. 1963. Gelatin silver print; 35 × 27.5 cm. Museum purchase, anonymous gift\r\n (2008-57)",
+    "published_date":"2025-10-16 15:24:51.992867",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

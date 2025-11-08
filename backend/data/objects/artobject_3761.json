@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":3761,
+    "objectnumber":"x1942-101",
+    "sortnumber":"1942  101x",
+    "displaytitle":"Landscape",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1624,
+    "dateend":1942,
+    "datecomputed":1783,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Recto: Pen and brown ink over graphite\r\nVerso: Graphite",
+    "dimensions":"16.7 × 22.4 cm (6 9/16 × 8 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":"Stamp in black, lower right: M [in a square] [Lugt 1853a]",
+    "inscribed":"in graphite, verso upper center: Gainsborough",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":6038,
+            "displayname":"Thomas Gainsborough",
+            "displaydate":"1727–1788; born Sudbury, United Kingdom; died London, United Kingdom",
+            "datebegin":1727,
+            "dateend":1788,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Thomas Gainsborough, 1727–1788; born Sudbury, United Kingdom; died London, United Kingdom",
+            "displayorder":3
+        },
+        {
+            "id":6087,
+            "displayname":"Claude Lorrain",
+            "displaydate":"French, 1604–1682",
+            "datebegin":1604,
+            "dateend":1682,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Claude Lorrain, French, 1604–1682",
+            "displayorder":2
+        },
+        {
+            "id":13586,
+            "displayname":"French",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"French",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Walter Savage Landor (1775-1864). acirdubg to inscription on verso</p><p>Frank Jewett Mather, Jr.;</p><p><br></p>",
+            "remarks":"As per Giada Damen, IMLS Drawings 2018-2020"
+        }
+    ],
+    "media":[
+        {
+            "id":8073,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1942-101_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":111065,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34248",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John T. Hayes, <em>The drawings of Thomas Gainsborough</em>, (New Haven, CT: Published for the Paul Mellon Centre for Studies in British Art (London) by Yale University Press, 1970).",
+            "citation":"John T. Hayes, <em>The drawings of Thomas Gainsborough</em>, (New Haven, CT: Published for the Paul Mellon Centre for Studies in British Art (London) by Yale University Press, 1970)., Vol. 1, p. 325",
+            "date":1971,
+            "id":5697,
+            "uri":"http://www.worldcat.org/oclc/5195125"
+        },
+        {
+            "boilertext":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 1, no. 2 (1942): p. 11.",
+            "citation":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 1, no. 2 (1942): p. 11., p. 11",
+            "date":1942,
+            "id":5301,
+            "uri":"https://www.jstor.org/stable/3774140"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34248"
+    ],
+    "displaymaker":"French | after Claude Lorrain, French, 1604–1682 | formerly attributed to Thomas Gainsborough, 1727–1788; born Sudbury, United Kingdom; died London, United Kingdom",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"French, after Claude Lorrain (French, 1604–1682), formerly attributed to Thomas Gainsborough (1727–1788; born Sudbury, United Kingdom; died London, United Kingdom), Landscape. Recto: Pen and brown ink over graphite\r\nVerso: Graphite; 16.7 × 22.4 cm. Gift of Frank Jewett Mather Jr. (x1942-101)",
+    "captionhtml":"French, after Claude Lorrain (French, 1604–1682), formerly attributed to Thomas Gainsborough (1727–1788; born Sudbury, United Kingdom; died London, United Kingdom), Landscape. Recto: Pen and brown ink over graphite\r\nVerso: Graphite; 16.7 × 22.4 cm. Gift of Frank Jewett Mather Jr. (x1942-101)",
+    "published_date":"2025-10-16 10:26:42.134108",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

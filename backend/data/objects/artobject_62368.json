@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":62368,
+    "objectnumber":"2022-244",
+    "sortnumber":"2022  244",
+    "displaytitle":"Phoenix Pictorial Stone of Mount Baozhai (Baozhaishan feng huang hua xiang 鮑宅山鳳凰畫象),",
+    "department":"Asian Art",
+    "classification":"Rubbings",
+    "datebegin":1870,
+    "dateend":1930,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"80–75 BCE (stone); late 19th-early 20th century (rubbing)",
+    "medium":"Sheet: ink on paper",
+    "dimensions":"image: 50.3 × 97.8 cm (19 13/16 × 38 1/2 in.)\r\nsheet: 59 × 106.2 cm (23 1/4 × 41 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton",
+    "markings":"Written on verso: H / Chavannes / No, 165-6 / 6275 13",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Phoenix Pictorial Stone of Mount Baozhai (Baozhaishan feng huang hua xiang 鮑宅山鳳凰畫象),",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22860,
+            "displayname":"Yuanfeng reign",
+            "displaydate":"80–75 BCE",
+            "datebegin":-80,
+            "dateend":-75,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Yuanfeng reign, 80–75 BCE",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Margaret Trowbridge Setton (d. 1987), Princeton, NJ, 1980–1987; inherited by Harold S. Henry, Fall City, WA, 1987–2022; on loan to the Princeton University Art Museum, 1980–2022; gifted to the Princeton University Art Museum by Harold S. Henry, 2022.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":248077,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10027",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":248078,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10028",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China, Shandong 山東 province",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":"Shandong 山東 province",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033394,
+            "term":"Han (Chinese)",
+            "aatid":300018385,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2054786,
+            "term":"rubbings",
+            "aatid":300103035,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054786,
+            "classification":"rubbings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12607,
+            "period":"Western Han dynasty",
+            "alphasort":"Western Han",
+            "begindate":-206,
+            "enddate":9,
+            "displayperiod":"Western Han dynasty, 206 BCE–9 CE",
+            "displaydate":"206 BCE–9 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033394,
+            "period":"Han (Chinese)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"106.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"97.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10027"
+    ],
+    "displaymaker":"Yuanfeng reign, 80–75 BCE",
+    "displayculture":"Chinese",
+    "displayperiod":"Western Han dynasty, 206 BCE–9 CE",
+    "caption":"Chinese, Western Han dynasty (206 BCE–9 CE), Yuanfeng reign (80–75 BCE), Phoenix Pictorial Stone of Mount Baozhai (Baozhaishan feng huang hua xiang 鮑宅山鳳凰畫象),, 80–75 BCE (stone); late 19th-early 20th century (rubbing). Sheet: ink on paper; 50.3 × 97.8 cm (image), 59 × 106.2 cm (sheet). Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton (2022-244)",
+    "captionhtml":"Chinese, Western Han dynasty (206 BCE–9 CE), Yuanfeng reign (80–75 BCE), <i>Phoenix Pictorial Stone of Mount Baozhai (Baozhaishan feng huang hua xiang 鮑宅山鳳凰畫象),</i>, 80–75 BCE (stone); late 19th-early 20th century (rubbing). Sheet: ink on paper; 50.3 × 97.8 cm (image), 59 × 106.2 cm (sheet). Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton (2022-244)",
+    "published_date":"2025-10-16 16:09:38.552306",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

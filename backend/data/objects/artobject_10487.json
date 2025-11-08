@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":10487,
+    "objectnumber":"1997-49",
+    "sortnumber":"1997   49",
+    "displaytitle":"Saint George",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1616,
+    "dateend":1657,
+    "datecomputed":1636,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"57.8 x 43.4 cm (22 3/4 x 17 1/16 in.)\r\nframe: 75 x 61 x 6 cm (29 1/2 x 24 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Julia Ganz in memory of Paul and Eula Ganz",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1997-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint George",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6765,
+            "displayname":"Cesare Dandini",
+            "displaydate":"Italian, 1596–1657",
+            "datebegin":1596,
+            "dateend":1657,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cesare Dandini, Italian, 1596–1657",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Julia Ganz (until 1997; gift to Princeton University Art Museum).",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":198,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1997-49",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208.",
+            "citation":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208., p. 164; p. 167 (illus.)",
+            "date":1998,
+            "id":3048,
+            "uri":"https://www.jstor.org/stable/3774775"
+        },
+        {
+            "boilertext":"Jill Guthrie, ed., <em>In celebration: works of art from the Collections of Princeton Alumni and Friends of The Art Museum, Princeton University,&nbsp;</em>(Princeton, NJ: Princeton University Art Museum, 1997).",
+            "citation":"Jill Guthrie, ed., <em>In celebration: works of art from the Collections of Princeton Alumni and Friends of The Art Museum, Princeton University,&nbsp;</em>(Princeton, NJ: Princeton University Art Museum, 1997)., p. 156; cat. no. 152 (illus.)",
+            "date":1997,
+            "id":852,
+            "uri":"http://www.worldcat.org/oclc/231714876"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1282,
+            "citation":"In Celebration: Works of Art from the Collections of Princeton Alumni and Friends of the Art Museum (Saturday, February 22, 1997 - Sunday, June 08, 1997)",
+            "isvirtual":true,
+            "begindate":"1997-02-22",
+            "enddate":"1997-06-08",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1282"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050048,
+            "term":"spears (weapons)",
+            "aatid":300037038,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2095964,
+            "classification":"religious art"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1997-49"
+    ],
+    "displaymaker":"Cesare Dandini, Italian, 1596–1657",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cesare Dandini (Italian, 1596–1657), Saint George. Oil on canvas; 57.8 x 43.4 cm, 75 × 61 × 6 cm (frame). Gift of Julia Ganz in memory of Paul and Eula Ganz (1997-49)",
+    "captionhtml":"Cesare Dandini (Italian, 1596–1657), <i>Saint George</i>. Oil on canvas; 57.8 x 43.4 cm, 75 × 61 × 6 cm (frame). Gift of Julia Ganz in memory of Paul and Eula Ganz (1997-49)",
+    "published_date":"2025-10-30 02:00:19.535214",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

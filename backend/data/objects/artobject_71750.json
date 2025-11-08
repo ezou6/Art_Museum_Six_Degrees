@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":71750,
+    "objectnumber":"x1980-795",
+    "sortnumber":"1980  795x",
+    "displaytitle":"Lands End, San Francisco",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1947,
+    "dateend":1947,
+    "datecomputed":1947,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"October 23, 1947",
+    "medium":"Gelatin silver print",
+    "dimensions":"9.4 × 11.4 cm (3 11/16 × 4 1/2 in.)\r\nmount: 18.3 × 21.4 cm (7 3/16 × 8 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"Handwritten in graphite, lower left: 18",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 47-180-5",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lands End, San Francisco",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":183904,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA07364",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, California, San Francisco, Lands End",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"San Francisco",
+            "county":"San Francisco County",
+            "subregion":null,
+            "locale":"Lands End",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5364999/lands-end.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119813,
+            "term":"oceans",
+            "aatid":300008687,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120275,
+            "term":"coastlines",
+            "aatid":300008734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051548,
+            "term":"distant views",
+            "aatid":300124834,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171730,
+            "term":"waves (natural events)",
+            "aatid":null,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.30"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA07364"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Lands End, San Francisco, October 23, 1947. Gelatin silver print; 9.4 × 11.4 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-795)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Lands End, San Francisco</i>, October 23, 1947. Gelatin silver print; 9.4 × 11.4 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-795)",
+    "published_date":"2025-10-16 16:56:08.499060",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

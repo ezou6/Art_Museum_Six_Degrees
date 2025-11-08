@@ -1,0 +1,294 @@
+{
+    "type":"artobject",
+    "objectid":55948,
+    "objectnumber":"2008-1089",
+    "sortnumber":"2008 1089",
+    "displaytitle":"Autumn Evening",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1983,
+    "dateend":1983,
+    "datecomputed":1983,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1983",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 96 x 59.7 cm. (37 13/16 x 23 1/2 in.)\r\nMount: 190 x 67.5 cm. (74 13/16 x 26 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jerome Silbergeld and Michelle DeKlyen",
+    "markings":"Characters and one seal in ink on label adhered to edge of rolled scroll",
+    "inscribed":"Artist's inscription: 秋暮一九八三年畫龍泉寫生稿 巴人華生\r\nAutumn Evening, 1983.  Painted from a sketch done at Longquan.  Huasheng of Sichuan.",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":"© Li Huasheng",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Autumn Evening",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1441,
+            "displayname":"Li Huasheng 李華生",
+            "displaydate":"1944–2018; born Yibin, China; died Chengdu, China",
+            "datebegin":1944,
+            "dateend":2018,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Li Huasheng 李華生, 1944–2018; born Yibin, China; died Chengdu, China",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\"><p>–2008\tJerome Silbergeld and Michelle DeKlyen (Princeton, NJ), by gift to the Princeton University Art Museum, 2008.</p></span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":20244,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1089",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photo"
+        },
+        {
+            "id":62152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08443",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 107 (illus.)",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098550,
+            "term":"autumn",
+            "aatid":300133093,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158114,
+            "term":"evening",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"190.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"67.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"96.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1089"
+    ],
+    "displaymaker":"Li Huasheng 李華生, 1944–2018; born Yibin, China; died Chengdu, China",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Li Huasheng 李華生 (1944–2018; born Yibin, China; died Chengdu, China), Autumn Evening, 1983. Hanging scroll; ink and color on paper; 96 x 59.7 cm (Painting), 190 x 67.5 cm (mount). Gift of Jerome Silbergeld and Michelle DeKlyen (2008-1089)",
+    "captionhtml":"Chinese, Modern period (1912–present), Li Huasheng 李華生 (1944–2018; born Yibin, China; died Chengdu, China), <i>Autumn Evening</i>, 1983. Hanging scroll; ink and color on paper; 96 x 59.7 cm (Painting), 190 x 67.5 cm (mount). Gift of Jerome Silbergeld and Michelle DeKlyen (2008-1089)",
+    "published_date":"2025-10-16 15:26:24.180337",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

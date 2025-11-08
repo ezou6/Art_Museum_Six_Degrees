@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":24303,
+    "objectnumber":"y1952-7",
+    "sortnumber":"1952    7y",
+    "displaytitle":"Cheekpiece in the form of a winged mouflon",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Metal",
+    "datebegin":-800,
+    "dateend":-650,
+    "datecomputed":-725,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"14.5 x 10.3 cm (5 11/16 x 4 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cheekpiece in the form of a winged mouflon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by J. Lionberger Davis",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":1169,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-7",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39., p. 38",
+            "date":1953,
+            "id":869,
+            "uri":"https://www.jstor.org/stable/3774393"
+        },
+        {
+            "boilertext":"Jane C. Waldbaum, \"Luristan bronzes\", <EM>Record of the Art Museum, Princeton University </EM>32, no. 2 (1973): 8-15.",
+            "citation":"Jane C. Waldbaum, \"Luristan bronzes\", <EM>Record of the Art Museum, Princeton University </EM>32, no. 2 (1973): 8-15., p. 10 (illus.); back cover (illus.)",
+            "date":1973,
+            "id":6633,
+            "uri":"https://www.jstor.org/stable/3774543"
+        },
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 26",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Asia, Iran, likely Luristan",
+            "code":"Place excavated",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Iran",
+            "region":"likely Luristan",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_33.5_48.667.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Asia, Iran",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Iran",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2115711,
+            "term":"cheekpieces",
+            "aatid":300036851,
+            "termtype":"Classification"
+        },
+        {
+            "id":2132263,
+            "term":"wings (costume accessories)",
+            "aatid":300259387,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199235,
+            "term":"Late Iron Age",
+            "aatid":300106745,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199256,
+            "term":"Iranian",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103923,
+            "term":"sheep",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2030039,
+            "term":"Bronze",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        },
+        {
+            "id":2115711,
+            "classification":"cheekpieces"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13445,
+            "culture":"Iranian",
+            "alphasort":"Iranian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Iranian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199256,
+            "culture":"Iranian"
+        }
+    ],
+    "periods":[
+        {
+            "id":23915,
+            "period":"Luristan Late Iron Age",
+            "alphasort":"Luristan Late Iron Age",
+            "begindate":-1000,
+            "enddate":-650,
+            "displayperiod":"Luristan Late Iron Age, likely period II–III, ca. 800–650 BCE, ca. 1000–650 BCE",
+            "displaydate":"ca. 1000–650 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2199235,
+            "period":"Late Iron Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1952-7"
+    ],
+    "displaymaker":null,
+    "displayculture":"Iranian",
+    "displayperiod":"Luristan Late Iron Age, likely period II–III, ca. 800–650 BCE, ca. 1000–650 BCE",
+    "caption":"Iranian, Luristan Late Iron Age, likely period II–III, ca. 800–650 BCE (ca. 1000–650 BCE), likely Luristan, Iran, Cheekpiece in the form of a winged mouflon. Bronze; 14.5 x 10.3 cm. Gift of J. Lionberger Davis, Class of 1900 (y1952-7)",
+    "captionhtml":"Iranian, Luristan Late Iron Age, likely period II–III, ca. 800–650 BCE (ca. 1000–650 BCE), likely Luristan, Iran, <i>Cheekpiece in the form of a winged mouflon</i>. Bronze; 14.5 x 10.3 cm. Gift of J. Lionberger Davis, Class of 1900 (y1952-7)",
+    "published_date":"2025-10-16 12:57:36.165948",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

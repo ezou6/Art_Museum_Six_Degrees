@@ -1,0 +1,289 @@
+{
+    "type":"artobject",
+    "objectid":35052,
+    "objectnumber":"1998-931",
+    "sortnumber":"1998  931",
+    "displaytitle":"Abode by a Mountain Stream",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1673,
+    "dateend":1673,
+    "datecomputed":1673,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1673",
+    "medium":"Folding fan mounted as album leaf; ink on gold-flecked paper",
+    "dimensions":"Painting: 20.2 x 55 cm. (7 15/16 x 21 5/8 in.)\r\nLeaf: 66.5 x 62.7 cm. (26 3/16 x 24 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":"Artist's seal: \"Banqian\" 半前, square relief\r\n\r\nCollectors' seals (3)",
+    "inscribed":"Artist's inscription: \"Guichou chun ri Gong Xian\" 癸丑春日龔賢",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"photo: Masatsugu Nokubo",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Abode by a Mountain Stream",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4395,
+            "displayname":"Gong Xian 龔賢",
+            "displaydate":"1619–1689; born Kunshan, China; active and died Nanjing, China",
+            "datebegin":1619,
+            "dateend":1689,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gong Xian 龔賢, 1619–1689; born Kunshan, China; active and died Nanjing, China",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;John B. Elliott (Princeton, NJ), by bequest to the Princeton University Art Museum, 1998. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":53547,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-931",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"University of Tokyo imaging project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 78",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2130432,
+            "term":"fans (costume accessories)",
+            "aatid":300258857,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085105,
+            "term":"dwellings",
+            "aatid":300005425,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119862,
+            "term":"streams",
+            "aatid":300008699,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162191,
+            "term":"gold",
+            "aatid":300011021,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2130432,
+            "classification":"fans (costume accessories)"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"late Ming dynasty to early Qing dynasty, 1644–1912, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        },
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"66.50"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-931"
+    ],
+    "displaymaker":"Gong Xian 龔賢, 1619–1689; born Kunshan, China; active and died Nanjing, China",
+    "displayculture":"Chinese",
+    "displayperiod":"late Ming dynasty to early Qing dynasty, 1644–1912, 1368–1644",
+    "caption":"Chinese, late Ming dynasty to early Qing dynasty, 1644–1912 (1368–1644), Gong Xian 龔賢 (1619–1689; born Kunshan, China; active and died Nanjing, China), Abode by a Mountain Stream, 1673. Folding fan mounted as album leaf; ink on gold-flecked paper; 20.2 x 55 cm (Painting), 66.5 x 62.7 cm (Leaf). Bequest of John B. Elliott, Class of 1951 (1998-931)",
+    "captionhtml":"Chinese, late Ming dynasty to early Qing dynasty, 1644–1912 (1368–1644), Gong Xian 龔賢 (1619–1689; born Kunshan, China; active and died Nanjing, China), <i>Abode by a Mountain Stream</i>, 1673. Folding fan mounted as album leaf; ink on gold-flecked paper; 20.2 x 55 cm (Painting), 66.5 x 62.7 cm (Leaf). Bequest of John B. Elliott, Class of 1951 (1998-931)",
+    "published_date":"2025-10-16 13:44:00.971756",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

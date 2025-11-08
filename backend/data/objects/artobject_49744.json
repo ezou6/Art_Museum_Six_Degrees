@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":49744,
+    "objectnumber":"2006-368",
+    "sortnumber":"2006  368",
+    "displaytitle":"Northern Guernica",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1986,
+    "dateend":1986,
+    "datecomputed":1986,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1986",
+    "medium":"Color sugar-lift aquatint and etching",
+    "dimensions":"plate: 83.7 x 63.0 cm. (32 15/16 x 24 13/16 in.)\r\nsheet: 107.4 x 80.0 cm. (42 5/16 x 31 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":"Printer's stamp, verso lower left: © PRINTED AT PELAVIN EDITIONS\r\n\r\nWorkshop number inscribed in graphite, verso lower left: FT 011",
+    "inscribed":"Numbered in graphite below plate, lower left: 48//75\r\n\r\nTitled in graphite below plate, center: Northern Guernica\r\n\r\nSigned and dated in graphite below plate, lower right: F. Torres//86",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Northern Guernica",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12812,
+            "displayname":"Francesco Torres",
+            "displaydate":"Spanish, born 1948",
+            "datebegin":1948,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francesco Torres, Spanish, born 1948",
+            "displayorder":1
+        },
+        {
+            "id":14246,
+            "displayname":"Rutgers Archives for Printmaking Studios",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Rutgers Archives for Printmaking Studios",
+            "displayorder":3
+        },
+        {
+            "id":14383,
+            "displayname":"Pelavin Editions",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Pelavin Editions",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":143036,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63854",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 112",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031673,
+            "term":"Spanish",
+            "aatid":300111215,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154994,
+            "term":"sugar-lift",
+            "aatid":300190346,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031673,
+            "culture":"Spanish"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"83.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"107.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63854"
+    ],
+    "displaymaker":"Francesco Torres, Spanish, born 1948 | Printed by Pelavin Editions | Published by Rutgers Archives for Printmaking Studios",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francesco Torres (Spanish, born 1948), Printed by Pelavin Editions, Published by Rutgers Archives for Printmaking Studios, Northern Guernica, 1986. Color sugar-lift aquatint and etching; 83.7 x 63 cm (plate), 107.4 x 80 cm (sheet). Gift of James Kraft, Class of 1957 (2006-368)",
+    "captionhtml":"Francesco Torres (Spanish, born 1948), Printed by Pelavin Editions, Published by Rutgers Archives for Printmaking Studios, <i>Northern Guernica</i>, 1986. Color sugar-lift aquatint and etching; 83.7 x 63 cm (plate), 107.4 x 80 cm (sheet). Gift of James Kraft, Class of 1957 (2006-368)",
+    "published_date":"2025-10-16 15:08:06.706852",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

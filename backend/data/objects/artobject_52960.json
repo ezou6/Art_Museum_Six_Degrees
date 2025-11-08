@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":52960,
+    "objectnumber":"2007-38 a-b",
+    "sortnumber":"2007   38 a    b",
+    "displaytitle":"Woman in Red Jacket",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1958,
+    "dateend":1958,
+    "datecomputed":1958,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1958",
+    "medium":"Plaster, burlap, wood, wire, and paint",
+    "dimensions":"177.8 x 76.2 x 48.3 cm. (70 x 30 x 19 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the George and Helen Segal Foundation",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"©1958, George Segal",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Woman in Red Jacket",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3555,
+            "displayname":"George Segal",
+            "displaydate":"1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick",
+            "datebegin":1924,
+            "dateend":2000,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Segal, 1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":113698,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-37A-B_a",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":117587,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-38A-B_c",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Kelly Baum, et. al., <EM>New Jersey as non-site</EM>, (Princeton, NJ: Princeton University Art Museum, 2013).",
+            "citation":"Kelly Baum, et. al., <EM>New Jersey as non-site</EM>, (Princeton, NJ: Princeton University Art Museum, 2013)., p. 114 (illus.)",
+            "date":2013,
+            "id":1817,
+            "uri":"http://www.worldcat.org/oclc/841495463"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 98",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2127945,
+            "term":"jackets",
+            "aatid":300046167,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162647,
+            "term":"wire",
+            "aatid":300011063,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044659,
+            "term":"burlap",
+            "aatid":300014076,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167445,
+            "term":"plaster",
+            "aatid":300014922,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"177.79"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.19"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"48.25"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196700,
+            "name":"MoCo-Pop art"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2007-37A-B_a"
+    ],
+    "displaymaker":"George Segal, 1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Segal (1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick), Woman in Red Jacket, 1958. Plaster, burlap, wood, wire, and paint; 177.8 x 76.2 x 48.3 cm. Gift of the George and Helen Segal Foundation (2007-38 a-b)",
+    "captionhtml":"George Segal (1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick), <i>Woman in Red Jacket</i>, 1958. Plaster, burlap, wood, wire, and paint; 177.8 x 76.2 x 48.3 cm. Gift of the George and Helen Segal Foundation (2007-38 a-b)",
+    "published_date":"2025-10-16 15:16:35.595010",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

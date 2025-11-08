@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":40193,
+    "objectnumber":"2001-98",
+    "sortnumber":"2001   98",
+    "displaytitle":"La modelo (The Female Model)",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1939,
+    "dateend":1939,
+    "datecomputed":1939,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1939",
+    "medium":"Oil on composition board",
+    "dimensions":"33 x 25 cm (13 x 9 13/16 in.)\r\nframe: 43.2 × 35.5 × 2.8 cm (17 × 14 × 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in oil, lower right: C. Orozco Romero.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Carlos Orozco Romero",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":858,
+            "displayname":"Carlos Orozco Romero",
+            "displaydate":"1898–1984; born Guadalajara, Mexico; died Mexico City; active Madrid, Paris, and Mexico City",
+            "datebegin":1898,
+            "dateend":1984,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Carlos Orozco Romero, 1898–1984; born Guadalajara, Mexico; died Mexico City; active Madrid, Paris, and Mexico City",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Auctioned, Sotheby's, New York, May 18, 1994, sale 6590, lot 340 (bought in). Sold, Christie's, New York, Nov. 27, 1996, sale 8518, lot 163. Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123699,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46661",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123700,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46662",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 102",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3530597/mexico-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094411,
+            "term":"models (people)",
+            "aatid":300025848,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2047944,
+            "term":"compressed wood",
+            "aatid":300012841,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.20"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46661"
+    ],
+    "displaymaker":"Carlos Orozco Romero, 1898–1984; born Guadalajara, Mexico; died Mexico City; active Madrid, Paris, and Mexico City",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Carlos Orozco Romero (1898–1984; born Guadalajara, Mexico; died Mexico City; active Madrid, Paris, and Mexico City), La modelo (The Female Model), 1939. Oil on composition board; 33 x 25 cm, 43.2 × 35.5 × 2.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-98)",
+    "captionhtml":"Carlos Orozco Romero (1898–1984; born Guadalajara, Mexico; died Mexico City; active Madrid, Paris, and Mexico City), <i>La modelo (The Female Model)</i>, 1939. Oil on composition board; 33 x 25 cm, 43.2 × 35.5 × 2.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-98)",
+    "published_date":"2025-10-16 14:09:23.034284",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

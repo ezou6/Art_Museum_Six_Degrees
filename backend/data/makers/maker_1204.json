@@ -1,0 +1,65 @@
+{
+    "makerid":1204,
+    "published_date":"2022-06-09 08:44:16.000022",
+    "type":"maker",
+    "displayname":"Abelardo Morell",
+    "makertype":"Individual",
+    "alphasort":"Morell Abelardo",
+    "lastname":"Morell",
+    "firstname":"Abelardo",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"born 1948, Havana, Cuba; active Boston, MA",
+    "begindate":1948,
+    "enddate":2100,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Abelardo Morell",
+            "alphasort":"Morell Abelardo",
+            "lastname":"Morell",
+            "firstname":"Abelardo",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"NYPL PIC",
+            "id":"2856"
+        },
+        {
+            "source":"ULAN",
+            "id":"500332821"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/71621967"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"6244a806e69dd40018d89c43"
+            },
+            "caption_file":[],
+            "file_uri":"https://mediacentral.princeton.edu/media/Celebrating%2050%20years%20of%20Photography/1_suf02liw",
+            "displaydate":"10/28/2021",
+            "title":"Lecture: Celebrating 50 Years of Photography",
+            "speaker_type":"Curator",
+            "description":"Fifty years ago, David H. McAlpin, Class of 1920 and friend to Alfred Stieglitz, Georgia O’Keeffe, and Ansel Adams, made a landmark gift of photographs to the Museum. Join our Peter C. Bunnell Curator of Photography, Katherine A. Bussard, for a discussion about the legacy of this foundational gift as well as the future of photography at Princeton.",
+            "video_type":"Lecture",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ],
+    "essay":[]
+}

@@ -1,0 +1,72 @@
+{
+    "makerid":6242,
+    "published_date":"2025-08-08 02:02:14.086455",
+    "type":"maker",
+    "displayname":"Harry Callahan",
+    "makertype":"Individual",
+    "alphasort":"Callahan, Harry",
+    "lastname":"Callahan",
+    "firstname":"Harry",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1912–1999; born Detroit, MI; died Atlanta, GA",
+    "begindate":1912,
+    "enddate":1999,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Alternate",
+            "displayname":"Harry Morey Callahan",
+            "alphasort":null,
+            "lastname":"Callahan",
+            "firstname":"Harry",
+            "nametitle":null,
+            "middlename":"Morey",
+            "suffix":null,
+            "culturegroup":null
+        },
+        {
+            "nametype":"Primary Name",
+            "displayname":"Harry Callahan",
+            "alphasort":"Callahan, Harry",
+            "lastname":"Callahan",
+            "firstname":"Harry",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500000873"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/2550158"
+        },
+        {
+            "source":"NYPL PIC",
+            "id":"1827"
+        }
+    ],
+    "audio":[],
+    "video":[],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"668da641d5441e3e2214cb37"
+            },
+            "title":"A Generous Legacy: Transformative Gifts Continue to Shape Princeton's Collections",
+            "body":"",
+            "essay_uri":"https://artmuseum.princeton.edu/story/generous-legacy-transformative-gifts-continue-shape-princeton%E2%80%99s-collections",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ]
+}

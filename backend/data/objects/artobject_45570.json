@@ -1,0 +1,182 @@
+{
+    "type":"artobject",
+    "objectid":45570,
+    "objectnumber":"PP518",
+    "sortnumber":"P       518P",
+    "displaytitle":"The World",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964",
+    "medium":"Bronze",
+    "dimensions":"diam. 137.2 cm (54 in.)\r\nbase: diam. 30.3 cm (8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Harry Bertoia / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The World",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":375,
+            "displayname":"Harry Bertoia",
+            "displaydate":"American, born Italy, 1915–1978",
+            "datebegin":1915,
+            "dateend":1978,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Harry Bertoia, American, born Italy, 1915–1978",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"This globe-shaped sculpture by Harry Bertoia was created out of densely arranged tubes, each with a branch-like ending, welded to a central core. The artist is most famous for his modern furniture and sound-sculptures, but this work, from his \"bush\" series, reflects his deep love of nature.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":74553,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP518",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098423,
+            "term":"spheres",
+            "aatid":300055639,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"base",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"20.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"137.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        },
+        {
+            "packageid":269977,
+            "name":"Web_CA_2025_PublicArt"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP518"
+    ],
+    "displaymaker":"Harry Bertoia, American, born Italy, 1915–1978",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Harry Bertoia (American, born Italy, 1915–1978), The World, 1964. Bronze; 137.2 cm, 20.3 cm (base). Princeton University (PP518)",
+    "captionhtml":"Harry Bertoia (American, born Italy, 1915–1978), <i>The World</i>, 1964. Bronze; 137.2 cm, 20.3 cm (base). Princeton University (PP518)",
+    "published_date":"2025-10-16 14:31:41.391473",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Social Sciences and Engineering Neighborhood",
+            "lat":"40.3485",
+            "lon":"-74.6547"
+        }
+    ],
+    "extended_content":true
+}

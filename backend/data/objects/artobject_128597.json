@@ -1,0 +1,271 @@
+{
+    "type":"artobject",
+    "objectid":128597,
+    "objectnumber":"2016-550 a-b",
+    "sortnumber":"2016  550 a    b",
+    "displaytitle":"Altar vessel",
+    "department":"African and Oceanic Art",
+    "classification":"Ceramic",
+    "datebegin":1900,
+    "dateend":1975,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"20th century",
+    "medium":"Terracotta",
+    "dimensions":"50.8 × 38.1 cm (20 × 15 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Michael Rips, Class of 1976",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Altar vessel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15597,
+            "displayname":"Lobi",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Lobi artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">\n<p align=\"LEFT\" dir=\"LTR\">\n\tUnrecorded private collection, North Africa; purchased by private collection, United States; purchased by Michael Rips, New York, NY; donated to the Princeton University Art Museum, Princeton, NJ, 2016.\n</p>\n</span>",
+            "remarks":"Updated by Perrin Lathrop, 4/24/25."
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<span lang=\"EN\"><p align=\"LEFT\" dir=\"LTR\">Pots with a surface of bristling spiked points have long been attributed to the Lobi people of Burkina Faso, but recent scholarship has determined that they are more likely to be made by Gouin or Tusyan potters from the region. Made of clay fired at a low temperature on an open flame, this bulbous vessel shows evidence of use. The purpose for this specific vessel is unknown, but the decorative surface may relate to powerful anti-theft talismans. </p></span>",
+            "remarks":"Holding Culture: Containers in African Art"
+        }
+    ],
+    "media":[
+        {
+            "id":207045,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_44867",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 128",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Burkina Faso",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Burkina Faso",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2361809/burkina-faso.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Africa, Côte d’Ivoire",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Côte d’Ivoire",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2287781/republic-of-cote-d-ivoire.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2113430,
+            "term":"altars",
+            "aatid":300003725,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098415,
+            "term":"pyramids (geometric figures)",
+            "aatid":300163119,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042338,
+            "term":"Lobi",
+            "aatid":300015860,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072404,
+            "term":"containers",
+            "aatid":300197197,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156809,
+            "term":"firing (technique)",
+            "aatid":300053887,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072404,
+            "classification":"containers"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042338,
+            "culture":"Lobi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.79"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.09"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":142974,
+            "name":"web_african_holding_culture"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_44867"
+    ],
+    "displaymaker":"Lobi artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lobi artist, Burkina Faso, Western Africa, Altar vessel, 20th century. Terracotta; 50.8 × 38.1 cm. Gift of Michael Rips, Class of 1976 (2016-550 a-b)",
+    "captionhtml":"Lobi artist, Burkina Faso, Western Africa, <i>Altar vessel</i>, 20th century. Terracotta; 50.8 × 38.1 cm. Gift of Michael Rips, Class of 1976 (2016-550 a-b)",
+    "published_date":"2025-10-16 18:32:08.784202",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

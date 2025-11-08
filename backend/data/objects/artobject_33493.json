@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":33493,
+    "objectnumber":"y1991-84",
+    "sortnumber":"1991   84y",
+    "displaytitle":"Rod puppet: female figure (Maani or Merekun)",
+    "department":"African and Oceanic Art",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood, metal, upholstery studs, and paint",
+    "dimensions":"h. 40.9 cm., w. 11.5 cm., d. 10.8 cm. (16 1/8 x 4 9/16 x 4 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Rod puppet: female figure (Maani or Merekun)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14517,
+            "displayname":"Bamana",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Bamana artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mr. and Mrs.&nbsp;H. Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1991",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":42843,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV007978",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":14208,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-84_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 71",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Mali",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Mali",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2453866/republic-of-mali.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130730,
+            "term":"nose rings",
+            "aatid":300046005,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049655,
+            "term":"woodwork",
+            "aatid":300015348,
+            "termtype":"Classification"
+        },
+        {
+            "id":2192781,
+            "term":"puppets (recreational artifacts)",
+            "aatid":300138750,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134990,
+            "term":"entertainment events",
+            "aatid":300069451,
+            "termtype":"Subject"
+        },
+        {
+            "id":2042394,
+            "term":"Bamana",
+            "aatid":300015848,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2114848,
+            "term":"upholstery",
+            "aatid":300204905,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2192781,
+            "classification":"puppets (recreational artifacts)"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2049655,
+            "classification":"woodwork"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042394,
+            "culture":"Bamana"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.54"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"10.76"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV007978"
+    ],
+    "displaymaker":"Bamana artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bamana artist, Mali, Western Africa, Rod puppet: female figure (Maani or Merekun), 20th century. Wood, metal, upholstery studs, and paint; 40.9 x 11.5 x 10.8 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1991-84)",
+    "captionhtml":"Bamana artist, Mali, Western Africa, <i>Rod puppet: female figure (Maani or Merekun)</i>, 20th century. Wood, metal, upholstery studs, and paint; 40.9 x 11.5 x 10.8 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1991-84)",
+    "published_date":"2025-10-16 13:36:08.443539",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

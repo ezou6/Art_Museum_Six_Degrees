@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":21110,
+    "objectnumber":"y1937-285",
+    "sortnumber":"1937  285y",
+    "displaytitle":"Plaque: Amazon",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ivories",
+    "datebegin":1385,
+    "dateend":1395,
+    "datecomputed":1390,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 1390",
+    "medium":"Bone",
+    "dimensions":"6.5 × 2.8 × 1.8 cm (2 9/16 × 1 1/8 × 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plaque: Amazon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13905,
+            "displayname":"Embriachi Workshop",
+            "displaydate":"Italian, 14th–15th century",
+            "datebegin":1300,
+            "dateend":1499,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Embriachi Workshop, Italian, 14th–15th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Possibly E. Ruegg, Lausanne; possibly purchased in 1924 by Frank Jewett Mather Jr.; 1937 gift to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":14593,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1937-285",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>Richard Randall, <EM>The golden age of ivory: Gothic carvings in North American collections</EM>, (New York: Hudson Hills Press, 1993).</SPAN>",
+            "citation":"<SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>Richard Randall, <EM>The golden age of ivory: Gothic carvings in North American collections</EM>, (New York: Hudson Hills Press, 1993).</SPAN>, p. 151; cat. no. 244 (illus.)",
+            "date":1993,
+            "id":3701,
+            "uri":"http://www.worldcat.org/oclc/27975085"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Venice or Florence",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Venice or Florence",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048643,
+            "term":"plaques",
+            "aatid":300010262,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Subject"
+        },
+        {
+            "id":2129929,
+            "term":"shields (armor)",
+            "aatid":300036869,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048643,
+            "classification":"plaques"
+        },
+        {
+            "id":2055271,
+            "classification":"sculptures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1937-285"
+    ],
+    "displaymaker":"Embriachi Workshop, Italian, 14th–15th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Embriachi Workshop (Italian, 14th–15th century), Plaque: Amazon, ca. 1390. Bone; 6.5 × 2.8 × 1.8 cm. Gift of Frank Jewett Mather Jr. (y1937-285)",
+    "captionhtml":"Embriachi Workshop (Italian, 14th–15th century), <i>Plaque: Amazon</i>, ca. 1390. Bone; 6.5 × 2.8 × 1.8 cm. Gift of Frank Jewett Mather Jr. (y1937-285)",
+    "published_date":"2025-10-29 02:02:07.614771",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

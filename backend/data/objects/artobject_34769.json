@@ -1,0 +1,208 @@
+{
+    "type":"artobject",
+    "objectid":34769,
+    "objectnumber":"y786",
+    "sortnumber":"786     y",
+    "displaytitle":"Askos",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-600,
+    "dateend":-501,
+    "datecomputed":-550,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"6th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"14.8 x 24.5 x 11.0 cm (5 13/16 x 9 5/8 x 4 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Askos",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":32430,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42711",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, South Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":"South Italy",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.833_12.833.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153717,
+            "term":"cross-hatching",
+            "aatid":300101925,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072858,
+            "term":"askoi",
+            "aatid":300198863,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036579,
+            "term":"South Italian",
+            "aatid":300020172,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2072858,
+            "classification":"askoi"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15159,
+            "culture":"South Italian",
+            "alphasort":"South Italian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"South Italian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        },
+        {
+            "id":2036579,
+            "culture":"South Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"11.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42711"
+    ],
+    "displaymaker":null,
+    "displayculture":"South Italian",
+    "displayperiod":null,
+    "caption":"South Italian, South Italy, 6th century BCE, Askos. Ceramic; 14.8 x 24.5 x 11 cm. Trumbull-Prime Fund (y786)",
+    "captionhtml":"South Italian, South Italy, 6th century BCE, <i>Askos</i>. Ceramic; 14.8 x 24.5 x 11 cm. Trumbull-Prime Fund (y786)",
+    "published_date":"2025-10-16 13:42:34.692871",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

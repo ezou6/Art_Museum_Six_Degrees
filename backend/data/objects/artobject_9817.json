@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":9817,
+    "objectnumber":"x1957-138",
+    "sortnumber":"1957  138x",
+    "displaytitle":"Santiago de Compostela",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1932,
+    "dateend":1932,
+    "datecomputed":1932,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1932",
+    "medium":"Graphite",
+    "dimensions":"44.5 x 28.2 cm (17 1/2 x 11 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"in graphite, lower left: Santiago de Compostela",
+    "signed":"Signed and dated in graphite, lower right: John Taylor Arms, Oct. 12, 1932",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Santiago de Compostela",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":138,
+            "displayname":"John Taylor Arms",
+            "displaydate":"1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "datebegin":1887,
+            "dateend":1953,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Robert M. Light",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":107273,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31603",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":107274,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31604",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 294, checklist no. 11",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Spain, Santiago de Compostela",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Spain",
+            "region":null,
+            "state":null,
+            "city":"Santiago de Compostela",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3109642/santiago-de-compostela.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084715,
+            "term":"cathedrals",
+            "aatid":300007501,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2107255,
+            "term":"spires",
+            "aatid":300002360,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":206378,
+            "name":"x-COMPLETE-image_descriptions_SP"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31604"
+    ],
+    "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Santiago de Compostela, 1932. Graphite; 44.5 x 28.2 cm. Museum purchase, Laura P. Hall Memorial Fund (x1957-138)",
+    "captionhtml":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), <i>Santiago de Compostela</i>, 1932. Graphite; 44.5 x 28.2 cm. Museum purchase, Laura P. Hall Memorial Fund (x1957-138)",
+    "published_date":"2025-10-16 11:17:55.747405",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

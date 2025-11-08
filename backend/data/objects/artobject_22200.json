@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":22200,
+    "objectnumber":"y1943-48",
+    "sortnumber":"1943   48y",
+    "displaytitle":"Gem: Mule",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Gems",
+    "datebegin":224,
+    "dateend":631,
+    "datecomputed":428,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Gray agate",
+    "dimensions":"1.1 x 0.7 cm (7/16 x 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Gem: Mule",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Unknown provenance; with the Museum by at least 1943",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":23145,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43023",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":24223,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43624",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2037562,
+            "term":"Sassanian",
+            "aatid":300019970,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049393,
+            "term":"gems",
+            "aatid":300011172,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158054,
+            "term":"mammals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162996,
+            "term":"agate",
+            "aatid":300011135,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048931,
+            "classification":"ornament"
+        },
+        {
+            "id":2049393,
+            "classification":"gems"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13941,
+            "culture":"Mid–eastern",
+            "alphasort":"Mid–eastern",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mid–eastern",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":18573,
+            "period":"Sassanian",
+            "alphasort":"Sassanian",
+            "begindate":224,
+            "enddate":631,
+            "displayperiod":"Sassanian",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037562,
+            "period":"Sassanian"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"1.05"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"0.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43023"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mid–eastern",
+    "displayperiod":"Sassanian",
+    "caption":"Mid–eastern, Sassanian, Gem: Mule. Gray agate; 1.1 x 0.7 cm. Museum Collection (y1943-48)",
+    "captionhtml":"Mid–eastern, Sassanian, <i>Gem: Mule</i>. Gray agate; 1.1 x 0.7 cm. Museum Collection (y1943-48)",
+    "published_date":"2025-10-31 02:03:54.548282",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

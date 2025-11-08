@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":32518,
+    "objectnumber":"y237",
+    "sortnumber":"237     y",
+    "displaytitle":"Unguentarium",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":1,
+    "dateend":199,
+    "datecomputed":100,
+    "daterange":"A.D. 1-500",
+    "displaydate":"1st–2nd century CE",
+    "medium":"Transparent light yellow glass",
+    "dimensions":"h. 9 cm, diam. rim 1.9 cm, diam. base 1.5 cm (3 9/16 x 3/4 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W.L. Bogert, Class of 1912",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Unguentarium",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"In-folded, flaring rim; long cylindrical neck, constricted at its base; tear-shaped body with four large, oval indentations; flat bottom. At the center of the bottom is an annular pontil mark, 1 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74512,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y237",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 338 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: Syria",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_38.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2171812,
+            "term":"unguentaria",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072893,
+            "term":"bottles",
+            "aatid":300045627,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072893,
+            "classification":"bottles"
+        },
+        {
+            "id":2171812,
+            "classification":"unguentaria"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"1.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"1.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y237"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman Imperial Period (ca. 30 BCE–476 CE), Eastern Mediterranean, 1st–2nd century CE, Unguentarium. Transparent light yellow glass; 9 x 1.9 x 1.5 cm. Gift of W.L. Bogert, Class of 1912 (y237)",
+    "captionhtml":"Roman Imperial Period (ca. 30 BCE–476 CE), Eastern Mediterranean, 1st–2nd century CE, <i>Unguentarium</i>. Transparent light yellow glass; 9 x 1.9 x 1.5 cm. Gift of W.L. Bogert, Class of 1912 (y237)",
+    "published_date":"2025-10-16 13:30:28.923170",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

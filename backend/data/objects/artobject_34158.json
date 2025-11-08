@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":34158,
+    "objectnumber":"y1994-83",
+    "sortnumber":"1994   83y",
+    "displaytitle":"Mask (hemba)",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1975,
+    "dateend":1994,
+    "datecomputed":1984,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"late 20th century",
+    "medium":"Wood, paint, and metal",
+    "dimensions":"h. 28.5 cm., diam. 20.5 cm. (11 1/4 x 8 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1994-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask (hemba)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15607,
+            "displayname":"Suku",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Suku artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mr. and Mrs.&nbsp;H. Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1994",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43017,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008413",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":3806,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1994-83_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79.",
+            "citation":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79., pp. 78–79 (illus.)",
+            "date":1995,
+            "id":569,
+            "uri":"https://www.jstor.org/stable/3774717"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo, Bandundu Province",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":"Bandundu Province",
+            "city":null,
+            "county":"Kwenge Sector",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8446409/kwenge.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2198857,
+            "term":"helmet masks",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134778,
+            "term":"initiations",
+            "aatid":300069180,
+            "termtype":"Subject"
+        },
+        {
+            "id":2042712,
+            "term":"Suku",
+            "aatid":300016270,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185122,
+            "term":"antelopes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2198857,
+            "classification":"helmet masks"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042712,
+            "culture":"Suku"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"20.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008413"
+    ],
+    "displaymaker":"Suku artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, Mask (hemba), late 20th century. Wood, paint, and metal; 28.5 x 20.5 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1994-83)",
+    "captionhtml":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, <i>Mask (hemba)</i>, late 20th century. Wood, paint, and metal; 28.5 x 20.5 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1994-83)",
+    "published_date":"2025-10-16 13:39:27.382757",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

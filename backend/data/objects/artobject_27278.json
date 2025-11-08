@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":27278,
+    "objectnumber":"y1955-3231",
+    "sortnumber":"1955 3231y",
+    "displaytitle":"Spouted vase",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1000,
+    "dateend":-801,
+    "datecomputed":-900,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"10th–9th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"21.5 x 27.5 cm, diam. 16.5 cm (8 7/16 x 10 13/16 x 6 1/2 in.)\r\ndiam. rim 9.3 cm (3 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1955-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Spouted vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from Parke-Bernet Galleries in 1955.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":7270,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3231_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P><EM>Judaica including gold, silver, pewter and brass ritual objects, important books, manuscripts, marriage contracts and megilloth, paintings, embroideries, medieval and renaissance art, persian and other Near Eastern pottery: from the collection of S. Zalman Yovely, New York (formerly of Florence, Italy)</EM>, (New York: Parke-Bernet Galleries?, 1955). </P>",
+            "citation":"<P><EM>Judaica including gold, silver, pewter and brass ritual objects, important books, manuscripts, marriage contracts and megilloth, paintings, embroideries, medieval and renaissance art, persian and other Near Eastern pottery: from the collection of S. Zalman Yovely, New York (formerly of Florence, Italy)</EM>, (New York: Parke-Bernet Galleries?, 1955). </P>, cat. no. 214",
+            "date":1955,
+            "id":2513,
+            "uri":"http://www.worldcat.org/oclc/647021854"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Iran",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Iran",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_32_53.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037513,
+            "term":"Iranian",
+            "aatid":300019933,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037608,
+            "term":"Sialk",
+            "aatid":300107800,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2117201,
+            "term":"spouts",
+            "aatid":300197224,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13445,
+            "culture":"Iranian",
+            "alphasort":"Iranian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Iranian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037513,
+            "culture":"Iranian"
+        }
+    ],
+    "periods":[
+        {
+            "id":14509,
+            "period":"Sialk",
+            "alphasort":"Sialk",
+            "begindate":-6000,
+            "enddate":-3000,
+            "displayperiod":"Sialk VI, 6000 - 3000 BCE",
+            "displaydate":"6000 - 3000 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037608,
+            "period":"Sialk"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"16.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3231_SL"
+    ],
+    "displaymaker":null,
+    "displayculture":"Iranian",
+    "displayperiod":"Sialk VI, 6000 - 3000 BCE",
+    "caption":"Iranian, Sialk VI (6000 - 3000 BCE), Iran, 10th–9th century BCE, Spouted vase. Ceramic; 21.5 x 27.5 x 16.5 cm. Museum purchase (y1955-3231)",
+    "captionhtml":"Iranian, Sialk VI (6000 - 3000 BCE), Iran, 10th–9th century BCE, <i>Spouted vase</i>. Ceramic; 21.5 x 27.5 x 16.5 cm. Museum purchase (y1955-3231)",
+    "published_date":"2025-10-16 13:03:24.708241",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

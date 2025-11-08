@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":16828,
+    "objectnumber":"x1987-80.3",
+    "sortnumber":"1987   80x    3",
+    "displaytitle":"New York City",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964, printed 1973",
+    "medium":"Gelatin silver print",
+    "dimensions":"16.8 x 25.5 cm (6 5/8 x 10 1/16 in.)\r\nmount: 39.7 x 50.1 cm. (15 5/8 x 19 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Michael Parish, Class of 1965",
+    "markings":null,
+    "inscribed":"Signed and editioned in graphite, below image left to right: a//c / Lee Friedlander",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Lee Friedlander, courtesy Fraenkel Gallery, San Francisco",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1987-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"New York City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6001,
+            "displayname":"Lee Friedlander",
+            "displaydate":"born 1934, Aderdeen, WA; active New York, NY",
+            "datebegin":1934,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Lee Friedlander, born 1934, Aderdeen, WA; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":89178,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV15239",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54.",
+            "citation":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54., p. 40",
+            "date":1988,
+            "id":542,
+            "uri":"https://www.jstor.org/stable/3774608"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1558,
+            "citation":"Two Views: Atget & Friedlander (December 15, 2012–March 10, 2013)",
+            "isvirtual":true,
+            "begindate":"2012-12-15",
+            "enddate":"2013-03-10",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1558"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156302,
+            "term":"dry mounting",
+            "aatid":300053567,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.80"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.70"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV15239"
+    ],
+    "displaymaker":"Lee Friedlander, born 1934, Aderdeen, WA; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lee Friedlander (born 1934, Aderdeen, WA; active New York, NY), New York City, 1964, printed 1973. Gelatin silver print; 16.8 x 25.5 cm. Gift of J. Michael Parish, Class of 1965 (x1987-80.3)",
+    "captionhtml":"Lee Friedlander (born 1934, Aderdeen, WA; active New York, NY), <i>New York City</i>, 1964, printed 1973. Gelatin silver print; 16.8 x 25.5 cm. Gift of J. Michael Parish, Class of 1965 (x1987-80.3)",
+    "published_date":"2025-10-16 12:13:04.570334",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

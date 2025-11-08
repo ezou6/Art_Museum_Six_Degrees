@@ -1,0 +1,219 @@
+{
+    "type":"artobject",
+    "objectid":19053,
+    "objectnumber":"x1994-76",
+    "sortnumber":"1994   76x",
+    "displaytitle":"Apple Trees",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1860,
+    "dateend":1930,
+    "datecomputed":1895,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Watercolor over graphite",
+    "dimensions":"17.5 x 23.0 cm. (6 7/8 x 9 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Miss Harriet Dyer Adams",
+    "markings":"Stamp, on verso: The Collection of | Harriet Dyer Adams",
+    "inscribed":"in graphite, lower right: 2015\r\nin graphite, on verso lower center: By Charles Herbert Moore",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1994-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Apple Trees",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3841,
+            "displayname":"Charles Herbert Moore",
+            "displaydate":"1840–1930; born Hartfield, England; died New York, NY",
+            "datebegin":1840,
+            "dateend":1930,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles Herbert Moore, 1840–1930; born Hartfield, England; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Stamped on verso: THE COLLECTION OF | HARRIET DYER ADAMS</p><p>Donor's label on old frame backing with titled: Hedgerow</p>",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":16376,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1994_76_aa",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":2804,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1994-76_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79.",
+            "citation":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79., p. 54",
+            "date":1995,
+            "id":569,
+            "uri":"https://www.jstor.org/stable/3774717"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 336, checklist no. 789 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171782,
+            "term":"apple trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1994_76_aa"
+    ],
+    "displaymaker":"Charles Herbert Moore, 1840–1930; born Hartfield, England; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles Herbert Moore (1840–1930; born Hartfield, England; died New York, NY), Apple Trees. Watercolor over graphite; 17.5 x 23 cm. Gift of Miss Harriet Dyer Adams (x1994-76)",
+    "captionhtml":"Charles Herbert Moore (1840–1930; born Hartfield, England; died New York, NY), <i>Apple Trees</i>. Watercolor over graphite; 17.5 x 23 cm. Gift of Miss Harriet Dyer Adams (x1994-76)",
+    "published_date":"2025-10-16 12:26:11.908268",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

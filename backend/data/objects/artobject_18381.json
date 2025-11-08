@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":18381,
+    "objectnumber":"x1993-114",
+    "sortnumber":"1993  114x",
+    "displaytitle":"Fisherman",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1952,
+    "dateend":1993,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"Color lithograph",
+    "dimensions":"sight: 69 x 80 cm (27 3/16 x 31 1/2 in.)\r\nframe: 93 × 104 × 3 cm (36 5/8 × 40 15/16 × 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, lower left: AP",
+    "signed":"Signed in graphite, lower right: Rafael Coronel",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Rafael Coronel",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fisherman",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6655,
+            "displayname":"Rafael Coronel",
+            "displaydate":"Mexican, 1932–2019",
+            "datebegin":1932,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Rafael Coronel, Mexican, 1932–2019",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL, by 1993; gift to the Princeton University Art Museum, 1993.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123642,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46630",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 62 (illus.), p. 64",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2091924,
+            "term":"fishermen (people)",
+            "aatid":300025608,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054605,
+            "term":"color lithographs",
+            "aatid":300041383,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155026,
+            "term":"lithographic engraving (printing process)",
+            "aatid":300254782,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054605,
+            "classification":"color lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"93.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"104.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46630"
+    ],
+    "displaymaker":"Rafael Coronel, Mexican, 1932–2019",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Rafael Coronel (Mexican, 1932–2019), Fisherman. Color lithograph; 69 x 80 cm (sight), 93 × 104 × 3 cm (frame). Gift of David L. Meginnity, Class of 1958 (x1993-114)",
+    "captionhtml":"Rafael Coronel (Mexican, 1932–2019), <i>Fisherman</i>. Color lithograph; 69 x 80 cm (sight), 93 × 104 × 3 cm (frame). Gift of David L. Meginnity, Class of 1958 (x1993-114)",
+    "published_date":"2025-10-16 12:22:37.893986",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

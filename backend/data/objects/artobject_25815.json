@@ -1,0 +1,257 @@
+{
+    "type":"artobject",
+    "objectid":25815,
+    "objectnumber":"2005-100",
+    "sortnumber":"2005  100",
+    "displaytitle":"View of Collioure",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1904,
+    "dateend":1905,
+    "datecomputed":1904,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1904–05",
+    "medium":"Watercolor over graphite",
+    "dimensions":"17.4 x 25.1 cm (6 7/8 x 9 7/8 in.)\r\nmount: 22.5 x 29.3 cm (8 7/8 x 11 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Edward T. Cone, Class of 1939, Professor of Music 1946-1985",
+    "markings":null,
+    "inscribed":"in black ink, old mount below drawing at lower left: Colliore (Pys. [illegible])",
+    "signed":"Signed in black ink at lower right: Henri Matisse",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"View of Collioure",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3645,
+            "displayname":"Henri Matisse",
+            "displaydate":"1869–1954; born Le Cateau-Cambrésis, France; died Nice, France",
+            "datebegin":1869,
+            "dateend":1954,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Henri Matisse, 1869–1954; born Le Cateau-Cambrésis, France; died Nice, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Edward T. Cone;</p><p>Bequeathed to Princeton University Art Musuem</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":14467,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2005-100",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Diana Tuite, <EM>Methods for modernism: American art, 1876-1925</EM>, (Brunswick, ME: Bowdoin College Museum of Art, 2010).",
+            "citation":"Diana Tuite, <EM>Methods for modernism: American art, 1876-1925</EM>, (Brunswick, ME: Bowdoin College Museum of Art, 2010).",
+            "date":2010,
+            "id":5913,
+            "uri":"http://www.worldcat.org/oclc/779872226"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 55; p. 57 (illus.)",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Collioure",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Collioure",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.525_3.082.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2085105,
+            "term":"dwellings",
+            "aatid":300005425,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119887,
+            "term":"bays (bodies of water)",
+            "aatid":300132316,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172711,
+            "term":"hills",
+            "aatid":300008777,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":194459,
+            "name":"PUAM_Watercolors & Pastels"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":32109,
+            "name":"Web_W/P_2014_ManettoMatisse"
+        },
+        {
+            "packageid":30983,
+            "name":"web_2014_wopsr_manet"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2005-100"
+    ],
+    "displaymaker":"Henri Matisse, 1869–1954; born Le Cateau-Cambrésis, France; died Nice, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Henri Matisse (1869–1954; born Le Cateau-Cambrésis, France; died Nice, France), View of Collioure, ca. 1904–05. Watercolor over graphite; 17.4 x 25.1 cm. Bequest of Edward T. Cone, Class of 1939, Professor of Music 1946-1985 (2005-100)",
+    "captionhtml":"Henri Matisse (1869–1954; born Le Cateau-Cambrésis, France; died Nice, France), <i>View of Collioure</i>, ca. 1904–05. Watercolor over graphite; 17.4 x 25.1 cm. Bequest of Edward T. Cone, Class of 1939, Professor of Music 1946-1985 (2005-100)",
+    "published_date":"2025-10-16 13:02:16.408058",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

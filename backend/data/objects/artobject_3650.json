@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":3650,
+    "objectnumber":"x1941-159",
+    "sortnumber":"1941  159x",
+    "displaytitle":"Watson and the Shark",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1699,
+    "dateend":1799,
+    "datecomputed":1749,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Pen and black ink and grey wash",
+    "dimensions":"48.8 x 60.0 cm. (19 3/16 x 23 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Watson and the Shark",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6641,
+            "displayname":"John Singleton Copley",
+            "displaydate":"1738–1815; born Boston, MA; died London, England",
+            "datebegin":1738,
+            "dateend":1815,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after John Singleton Copley, 1738–1815; born Boston, MA; died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Leon Walker, Lexington, Mass.; his sale, Parke-Bernet, New York, May 24, 1940, no. 11",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":78864,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":8069,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1941-159_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 303, checklist no. 155",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2139036,
+            "term":"oars",
+            "aatid":300213077,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199133,
+            "term":"sharks",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119819,
+            "term":"seas",
+            "aatid":300008694,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102367,
+            "term":"ships",
+            "aatid":300082981,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103554,
+            "term":"pulling boats",
+            "aatid":300232958,
+            "termtype":"Subject"
+        },
+        {
+            "id":2043984,
+            "term":"cardboard",
+            "aatid":300014224,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09676"
+    ],
+    "displaymaker":"after John Singleton Copley, 1738–1815; born Boston, MA; died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After John Singleton Copley (1738–1815, born Boston, MA; died London, England), Watson and the Shark. Pen and black ink and grey wash; 48.8 x 60 cm. Museum purchase (x1941-159)",
+    "captionhtml":"After John Singleton Copley (1738–1815, born Boston, MA; died London, England), <i>Watson and the Shark</i>. Pen and black ink and grey wash; 48.8 x 60 cm. Museum purchase (x1941-159)",
+    "published_date":"2025-10-23 16:43:14.536409",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

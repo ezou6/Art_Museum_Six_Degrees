@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":33063,
+    "objectnumber":"y1986-106",
+    "sortnumber":"1986  106y",
+    "displaytitle":"The Autumn Colors",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1972,
+    "dateend":1972,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1972",
+    "medium":"Panel; ink and color on paper",
+    "dimensions":"Painting: 52.4 x 45.8 cm. (20 5/8 x 18 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James C. and Lucy L. Lo in honor of Mrs. Edward L. Elliott",
+    "markings":"artist's seal",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Zhang Daqian",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1986-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Autumn Colors",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6417,
+            "displayname":"Zhang Daqian 張大千",
+            "displaydate":"1899–1983",
+            "datebegin":1899,
+            "dateend":1983,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Zhang Daqian 張大千, 1899–1983",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":14318,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-106_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":58817,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03822",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52",
+            "citation":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52, p. 42",
+            "date":1987,
+            "id":550,
+            "uri":"https://www.jstor.org/stable/3774580"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098550,
+            "term":"autumn",
+            "aatid":300133093,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053027,
+            "term":"panel paintings",
+            "aatid":300033656,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053027,
+            "classification":"panel paintings"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"52.40"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03822"
+    ],
+    "displaymaker":"Zhang Daqian 張大千, 1899–1983",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Zhang Daqian 張大千 (1899–1983), The Autumn Colors, 1972. Panel; ink and color on paper; 52.4 x 45.8 cm (Painting). Gift of James C. and Lucy L. Lo in honor of Mrs. Edward L. Elliott (y1986-106)",
+    "captionhtml":"Chinese, Modern period (1912–present), Zhang Daqian 張大千 (1899–1983), <i>The Autumn Colors</i>, 1972. Panel; ink and color on paper; 52.4 x 45.8 cm (Painting). Gift of James C. and Lucy L. Lo in honor of Mrs. Edward L. Elliott (y1986-106)",
+    "published_date":"2025-10-16 13:33:33.157595",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

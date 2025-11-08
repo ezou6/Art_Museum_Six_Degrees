@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":45885,
+    "objectnumber":"x1934-1151",
+    "sortnumber":"1934 1151x",
+    "displaytitle":"Maria de Medicies",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1591,
+    "dateend":1636,
+    "datecomputed":1614,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 17.5 x 11.6 cm. (6 7/8 x 4 9/16 in.)\r\nsheet: 18.7 x 12 cm. (7 3/8 x 4 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Maria de Medicies",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6582,
+            "displayname":"T. Cockson",
+            "displaydate":"British, ac. 1591 - 1636",
+            "datebegin":0,
+            "dateend":1636,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"T. Cockson, British, ac. 1591 - 1636",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102019,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26770",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26770"
+    ],
+    "displaymaker":"T. Cockson, British, ac. 1591 - 1636",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"T. Cockson (British, ac. 1591 - 1636), Maria de Medicies. Engraving; 17.5 x 11.6 cm (plate), 18.7 x 12 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1151)",
+    "captionhtml":"T. Cockson (British, ac. 1591 - 1636), <i>Maria de Medicies</i>. Engraving; 17.5 x 11.6 cm (plate), 18.7 x 12 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1151)",
+    "published_date":"2025-10-23 17:16:06.751871",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,173 @@
+{
+    "type":"artobject",
+    "objectid":40488,
+    "objectnumber":"2001-184",
+    "sortnumber":"2001  184",
+    "displaytitle":"Vase",
+    "department":"European Painting and Sculpture ",
+    "classification":"Glass",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Glass",
+    "dimensions":"38.2 x diam. 10.8 cm (15 1/16 x 4 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Merrill H. Gibbs, Jr., Class of 1954, by exchange",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":740,
+            "displayname":"Lötz Witwe",
+            "displaydate":"Bohemian glass factory, 1836–1947",
+            "datebegin":1836,
+            "dateend":1947,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Lötz Witwe, Bohemian glass factory, 1836–1947",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Merrill H. Gibbs, Jr.; 2001 bequest to Princeton University Art Museum.\n",
+            "remarks":"Published in 2002 Record as a bequest, not exchange."
+        }
+    ],
+    "media":[
+        {
+            "id":140647,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62661",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140648,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62662",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 106",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049409,
+            "term":"glassware",
+            "aatid":300010898,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031576,
+            "term":"Austrian",
+            "aatid":300111153,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049409,
+            "classification":"glassware"
+        },
+        {
+            "id":2073529,
+            "classification":"vases"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031576,
+            "culture":"Austrian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"10.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV62661"
+    ],
+    "displaymaker":"Lötz Witwe, Bohemian glass factory, 1836–1947",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lötz Witwe (Bohemian glass factory, 1836–1947), Vase, ca. 1900. Glass; 38.2 × 10.8 cm. Bequest of Merrill H. Gibbs, Jr., Class of 1954, by exchange (2001-184)",
+    "captionhtml":"Lötz Witwe (Bohemian glass factory, 1836–1947), <i>Vase</i>, ca. 1900. Glass; 38.2 × 10.8 cm. Bequest of Merrill H. Gibbs, Jr., Class of 1954, by exchange (2001-184)",
+    "published_date":"2025-10-16 14:10:25.338867",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

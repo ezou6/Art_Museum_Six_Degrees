@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":3049,
+    "objectnumber":"x1938-158",
+    "sortnumber":"1938  158x",
+    "displaytitle":"\"Hierosme Francque\"",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1620,
+    "dateend":1650,
+    "datecomputed":1635,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving, first state",
+    "dimensions":"plate: 31.3 x 21.9 cm (12 5/16 x 8 5/8 in.)\r\nsheet: 36.8 x 27.3 cm (14 1/2 x 10 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":null,
+    "markings":null,
+    "inscribed":"title: Hierosme Francque Peintre du Roy - Francque Pin - Morin Scul.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1938-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"\"Hierosme Francque\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3873,
+            "displayname":"Jean Morin",
+            "displaydate":"French, 1600–1650",
+            "datebegin":1600,
+            "dateend":1650,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Morin, French, 1600–1650",
+            "displayorder":1
+        },
+        {
+            "id":12848,
+            "displayname":"Francque",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Francque",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":98738,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24077",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.90"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24077"
+    ],
+    "displaymaker":"Jean Morin, French, 1600–1650 | after Francque",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Morin (French, 1600–1650), after Francque, \"Hierosme Francque\". Engraving, first state; 31.3 x 21.9 cm (plate), 36.8 x 27.3 cm (sheet). (x1938-158)",
+    "captionhtml":"Jean Morin (French, 1600–1650), after Francque, <i>\"Hierosme Francque\"</i>. Engraving, first state; 31.3 x 21.9 cm (plate), 36.8 x 27.3 cm (sheet). (x1938-158)",
+    "published_date":"2025-10-23 16:42:34.735066",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

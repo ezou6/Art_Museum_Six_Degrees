@@ -1,0 +1,285 @@
+{
+    "type":"artobject",
+    "objectid":32697,
+    "objectnumber":"y1986-107",
+    "sortnumber":"1986  107y",
+    "displaytitle":"Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1916,
+    "dateend":1963,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 114.7 x 31.3 cm. (45 3/16 x 12 5/16 in.)\r\nMount: 179 x 42.3 cm. (70 1/2 x 16 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James C. and Lucy L. Lo",
+    "markings":"3 seals: oval yang seal at beginning of inscription; 2 small square seals at end of inscription, below signature: top = yang, bottom = yin.\r\n\r\nCharacters and one seal in ink on label adhered to edge of rolled scroll",
+    "inscribed":"14-line inscription",
+    "signed":"signed: Pu Ru",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Pu Ru",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1986-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4101,
+            "displayname":"Pu Ru 溥儒\r\n",
+            "displaydate":"1896–1963",
+            "datebegin":1896,
+            "dateend":1963,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pu Ru 溥儒\r\n, 1896–1963",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66591,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-107",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":14317,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-107_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":61718,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08377",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52",
+            "citation":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52, p. 42",
+            "date":1987,
+            "id":550,
+            "uri":"https://www.jstor.org/stable/3774580"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171671,
+            "term":"pine trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2172874,
+            "term":"cliffs",
+            "aatid":300008749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"179.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.30"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"114.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-107"
+    ],
+    "displaymaker":"Pu Ru 溥儒\r\n, 1896–1963",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Pu Ru 溥儒\r\n (1896–1963), Landscape, undated. Hanging scroll; ink and color on paper; 114.7 x 31.3 cm (Painting), 179 x 42.3 cm (mount). Gift of James C. and Lucy L. Lo (y1986-107)",
+    "captionhtml":"Chinese, Modern period (1912–present), Pu Ru 溥儒\r\n (1896–1963), <i>Landscape</i>, undated. Hanging scroll; ink and color on paper; 114.7 x 31.3 cm (Painting), 179 x 42.3 cm (mount). Gift of James C. and Lucy L. Lo (y1986-107)",
+    "published_date":"2025-10-16 13:31:30.246506",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

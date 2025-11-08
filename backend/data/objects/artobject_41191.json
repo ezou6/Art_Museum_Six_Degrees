@@ -1,0 +1,224 @@
+{
+    "type":"artobject",
+    "objectid":41191,
+    "objectnumber":"2003-48",
+    "sortnumber":"2003   48",
+    "displaytitle":"Atlantic City",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1905,
+    "dateend":1915,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1910",
+    "medium":"Gelatin silver print",
+    "dimensions":"7.1 × 12.3 cm (2 13/16 × 4 13/16 in.)\r\nframe (estimated): 33.7 × 41.3 × 3.2 cm (13 1/4 × 16 1/4 × 1 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Donald Lokuta",
+    "markings":null,
+    "inscribed":"Inscribed in ink, verso bottom center: ATLANTIC CITY - 1910",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Atlantic City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22882,
+            "displayname":"Photographer unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Photographer unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Photography can be as descriptive as it can be deceptive. At first glance, this print appears to show five men seated at a table while playing cards. When viewed more carefully, it becomes clear that each of the men is the same; the sitter’s image was duplicated by a series of mirrors, providing a playful example of optical illusion in photography.",
+            "remarks":"Franz HOP rotation March 2019"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist. Acquired by Donald Lokuta; gven to the Princeton University Art Museum, 2003.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":84607,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11198",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 118",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Jersey, Atlantic City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Atlantic City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/4500546/atlantic-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13972,
+            "culture":"American",
+            "alphasort":"American",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"American",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.10"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.65"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.27"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.17"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11198"
+    ],
+    "displaymaker":"Photographer unidentified",
+    "displayculture":"American",
+    "displayperiod":null,
+    "caption":"Photographer unidentified, American, Atlantic City, ca. 1910. Gelatin silver print; 7.1 × 12.3 cm, 33.7 × 41.3 × 3.2 cm (frame, estimated). Gift of Donald Lokuta (2003-48)",
+    "captionhtml":"Photographer unidentified, American, <i>Atlantic City</i>, ca. 1910. Gelatin silver print; 7.1 × 12.3 cm, 33.7 × 41.3 × 3.2 cm (frame, estimated). Gift of Donald Lokuta (2003-48)",
+    "published_date":"2025-10-16 14:13:26.699465",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

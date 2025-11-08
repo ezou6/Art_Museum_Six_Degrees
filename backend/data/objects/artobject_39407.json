@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":39407,
+    "objectnumber":"2000-135 a-b",
+    "sortnumber":"2000  135 a    b",
+    "displaytitle":"Teil",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1983,
+    "dateend":1983,
+    "datecomputed":1983,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1983",
+    "medium":"Chromogenic prints",
+    "dimensions":"image (each): 22.8 x 34.3 cm. (9 x 13 1/2 in.)\r\nsheet: 27.9 x 35.5 cm (11 x 14 in.)\r\nmat: 43.2 x 91.4 cm. (17 x 36 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Peter Norton",
+    "markings":null,
+    "inscribed":"Each numbered in ink,lower left: 2/25\r\n",
+    "signed":"Each signed in ink, lower right: Susanne Kaspar",
+    "catalograisonne":null,
+    "creditlinerepro":"© Susanne Kaspar",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Teil",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1545,
+            "displayname":"Susanne Kaspar",
+            "displaydate":"American, born Germany, 1943",
+            "datebegin":1943,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Susanne Kaspar, American, born Germany, 1943",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76242,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09258",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":76243,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09257",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":76244,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09256",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 80",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.90"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.17"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"91.43"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09256"
+    ],
+    "displaymaker":"Susanne Kaspar, American, born Germany, 1943",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Susanne Kaspar (American, born Germany, 1943), Teil, 1983. Chromogenic prints; 22.8 x 34.3 cm, 22.8 x 34.3 cm (image, each), 27.9 x 35.5 cm (sheet), 43.2 x 91.4 cm (mat). Gift of Peter Norton (2000-135 a-b)",
+    "captionhtml":"Susanne Kaspar (American, born Germany, 1943), <i>Teil</i>, 1983. Chromogenic prints; 22.8 x 34.3 cm, 22.8 x 34.3 cm (image, each), 27.9 x 35.5 cm (sheet), 43.2 x 91.4 cm (mat). Gift of Peter Norton (2000-135 a-b)",
+    "published_date":"2025-10-16 14:06:36.835517",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,168 @@
+{
+    "type":"artobject",
+    "objectid":49222,
+    "objectnumber":"x1937-6.67",
+    "sortnumber":"1937    6x   67",
+    "displaytitle":"Oriental Head",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1630,
+    "dateend":1664,
+    "datecomputed":1647,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 15.7 x 13.4 cm (6 3/16 x 5 1/4 in.)\r\nsheet: 16.4 x 13.8 cm (6 7/16 x 5 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed in plate, u.l.: Rembrandt geretuck 1635",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oriental Head",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":259,
+            "displayname":"Pierre François Basan",
+            "displaydate":"French, 1723 - 1797",
+            "datebegin":1723,
+            "dateend":1797,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pierre François Basan, French, 1723 - 1797",
+            "displayorder":1
+        },
+        {
+            "id":1550,
+            "displayname":"Rembrandt van Rijn",
+            "displaydate":"1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "datebegin":1606,
+            "dateend":1669,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":97465,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23050",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23050"
+    ],
+    "displaymaker":"Pierre François Basan, French, 1723 - 1797 | after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pierre François Basan (French, 1723 - 1797), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), Oriental Head. Etching; 15.7 x 13.4 cm (plate), 16.4 x 13.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-6.67)",
+    "captionhtml":"Pierre François Basan (French, 1723 - 1797), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), <i>Oriental Head</i>. Etching; 15.7 x 13.4 cm (plate), 16.4 x 13.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-6.67)",
+    "published_date":"2025-10-23 17:24:12.199139",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

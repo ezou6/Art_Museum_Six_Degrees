@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":36265,
+    "objectnumber":"1998-591",
+    "sortnumber":"1998  591",
+    "displaytitle":"Shield",
+    "department":"African and Oceanic Art",
+    "classification":"Weapons and Armor",
+    "datebegin":1875,
+    "dateend":1998,
+    "datecomputed":1936,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"late 19th-20th century",
+    "medium":"Cane, wood, copper, paint, and feather",
+    "dimensions":"l. 142.5 cm., w. 39.6 cm., d. 8.0 cm. (56 1/8 x 15 9/16 x 3 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Shield",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16424,
+            "displayname":"Sakalava",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Sakalava artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1986; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43817,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009269",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 68",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 81",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Madagascar",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Eastern Africa",
+            "country":"Madagascar",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1062947/republic-of-madagascar.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129929,
+            "term":"shields (armor)",
+            "aatid":300036869,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041804,
+            "term":"Sakalava",
+            "aatid":300016585,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155430,
+            "term":"basketmaking",
+            "aatid":300053590,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045686,
+            "term":"cane (plant material)",
+            "aatid":300011864,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162034,
+            "term":"copper",
+            "aatid":300011020,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045460,
+            "term":"feather",
+            "aatid":300011809,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2129929,
+            "classification":"shields (armor)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2041804,
+            "culture":"Sakalava"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"142.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009269"
+    ],
+    "displaymaker":"Sakalava artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sakalava artist, Madagascar, Eastern Africa, Shield, late 19th-20th century. Cane, wood, copper, paint, and feather; 142.5 x 39.6 x 8 cm. Bequest of John B. Elliott, Class of 1951 (1998-591)",
+    "captionhtml":"Sakalava artist, Madagascar, Eastern Africa, <i>Shield</i>, late 19th-20th century. Cane, wood, copper, paint, and feather; 142.5 x 39.6 x 8 cm. Bequest of John B. Elliott, Class of 1951 (1998-591)",
+    "published_date":"2025-10-16 13:52:12.305950",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

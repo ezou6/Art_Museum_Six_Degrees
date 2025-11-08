@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":125637,
+    "objectnumber":"x1982-344.34",
+    "sortnumber":"1982  344x   34",
+    "displaytitle":"Sculptured Gateway, Karnac",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1856,
+    "dateend":1857,
+    "datecomputed":1856,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1856–57",
+    "medium":"Albumen print",
+    "dimensions":"sheet (approx.): 43.8 × 33 cm (17 1/4 × 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Robert O. Dougan Collection, gift of Warner Communications, Inc.",
+    "markings":"Signed in negative, lower left corner: Frith\r\n\r\n",
+    "inscribed":"Printed on mount, below image center: SCULPTURED GATEWAY, &c, / Karnac [sic].",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sculptured Gateway, Karnac",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6005,
+            "displayname":"Francis Frith",
+            "displaydate":"English, 1822–1898",
+            "datebegin":1822,
+            "dateend":1898,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francis Frith, English, 1822–1898",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":88125,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV14232",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England, London",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2643743/london.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: Africa, Egypt, Karnak Temple Complex",
+            "code":"Place depicted",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Karnak Temple Complex",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8259935/karnak-temple-complex.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2111931,
+            "term":"gateways",
+            "aatid":300069189,
+            "termtype":"Subject"
+        },
+        {
+            "id":2080601,
+            "term":"pylons",
+            "aatid":300005091,
+            "termtype":"Subject"
+        },
+        {
+            "id":2118718,
+            "term":"hieroglyphics",
+            "aatid":300028721,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083397,
+            "term":"historic monuments",
+            "aatid":300007031,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087836,
+            "term":"ruins",
+            "aatid":300008057,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        },
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183067,
+            "name":"Photography-RobertO.DouganCollection"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV14232"
+    ],
+    "displaymaker":"Francis Frith, English, 1822–1898",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francis Frith (English, 1822–1898), Sculptured Gateway, Karnac, 1856–57. Albumen print; 43.8 × 33 cm (sheet, approx.). Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-344.34)",
+    "captionhtml":"Francis Frith (English, 1822–1898), <i>Sculptured Gateway, Karnac</i>, 1856–57. Albumen print; 43.8 × 33 cm (sheet, approx.). Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-344.34)",
+    "published_date":"2025-10-16 18:24:56.851182",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

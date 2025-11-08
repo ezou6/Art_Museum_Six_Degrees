@@ -1,0 +1,186 @@
+{
+    "type":"artobject",
+    "objectid":26817,
+    "objectnumber":"y1959-214",
+    "sortnumber":"1959  214y",
+    "displaytitle":"Flask with monkey",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1400,
+    "dateend":1499,
+    "datecomputed":1450,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"15th century CE",
+    "medium":"Ceramic",
+    "dimensions":"h. 22.3 cm., w. 18.9 cm., d. 12.5 cm. (8 3/4 x 7 7/16 x 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":"Written in ink on label adhered to bottom: Bought at auction in New York. Sold as Peruvian.",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask with monkey",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":49561,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015916",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035961,
+            "term":"Pre-Columbian Andean styles and periods",
+            "aatid":300017257,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2035961,
+            "period":"Pre-Columbian Andean styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"12.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015916"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"15th century CE, Peru, Andes, Flask with monkey. Ceramic; 22.3 x 18.9 x 12.5 cm. Trumbull-Prime Collection (y1959-214)",
+    "captionhtml":"15th century CE, Peru, Andes, <i>Flask with monkey</i>. Ceramic; 22.3 x 18.9 x 12.5 cm. Trumbull-Prime Collection (y1959-214)",
+    "published_date":"2025-10-16 13:02:43.943494",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

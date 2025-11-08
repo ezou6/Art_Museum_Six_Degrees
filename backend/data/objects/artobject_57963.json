@@ -1,0 +1,283 @@
+{
+    "type":"artobject",
+    "objectid":57963,
+    "objectnumber":"2010-2",
+    "sortnumber":"2010    2",
+    "displaytitle":"Fotoescultura portrait of a man",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1935,
+    "dateend":1945,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1940",
+    "medium":"Gelatin silver print with applied color and wood frame",
+    "dimensions":"30.5 × 21.6 × 6.3 cm (12 × 8 1/2 × 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, David L. Meginnity, Class of 1958, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fotoescultura portrait of a man",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by Princeton University Art Museum",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":106290,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2010-2",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":96960,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22620",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":96961,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22621",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":96962,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22622",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 97",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"23",
+                "lon":"-102"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095918,
+            "term":"folk art",
+            "aatid":300056487,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2095918,
+            "classification":"folk art"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13993,
+            "culture":"Mexican",
+            "alphasort":"Mexican",
+            "begindate":-600,
+            "enddate":0,
+            "displayculture":"Mexican artist",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.47"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.58"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.34"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":234201,
+            "name":"PUAM_Light and Color"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2010-2"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mexican artist",
+    "displayperiod":null,
+    "caption":"Mexican artist, Fotoescultura portrait of a man, ca. 1940. Gelatin silver print with applied color and wood frame; 30.5 × 21.6 × 6.3 cm. Museum purchase, David L. Meginnity, Class of 1958, Fund (2010-2)",
+    "captionhtml":"Mexican artist, <i>Fotoescultura portrait of a man</i>, ca. 1940. Gelatin silver print with applied color and wood frame; 30.5 × 21.6 × 6.3 cm. Museum purchase, David L. Meginnity, Class of 1958, Fund (2010-2)",
+    "published_date":"2025-10-16 15:43:44.423949",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

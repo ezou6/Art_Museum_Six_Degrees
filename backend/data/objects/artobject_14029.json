@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":14029,
+    "objectnumber":"x1978-45",
+    "sortnumber":"1978   45x",
+    "displaytitle":"Chicago 29, 1957",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1957,
+    "dateend":1957,
+    "datecomputed":1957,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1957",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 26.8 x 34 cm. (10 9/16 x 13 3/8 in.)\r\nsheet: 28 x 35.4 cm. (11 x 13 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Robert Menschel",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Aaron Siskind/Virginia Museum of Fine Arts",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1978-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Chicago 29, 1957",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2419,
+            "displayname":"Aaron Siskind",
+            "displaydate":"1903–1991; born New York, NY; died Providence, RI; active New York, Chicago, and Providence",
+            "datebegin":1903,
+            "dateend":1991,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Aaron Siskind, 1903–1991; born New York, NY; died Providence, RI; active New York, Chicago, and Providence",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist. Acquired by Robert Menschel, New York, NY, after 1956; given to the Princeton University Art Museum, 1978.\n",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Siskind engaged with the characteristics of Abstract Expressionist painting—such as expressive gesture and the integration of elements of chance—through black-and-white photography. Using close-up views and unexpected cropping, his photographs defamiliarize their subject matter, transforming elements of the three-dimensional world—including the textures and surfaces of urban environments and natural landscapes—into striking abstract compositions.",
+            "remarks":"MOD_09-12_WLA – Day 1 Cataloguing (group chat for x1987-50, x1978-43, x1978-61, x1978-45)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Siskind engaged with the characteristics of Abstract Expressionist painting—such as expressive gesture and the integration of elements of chance—through black-and-white photography. Using close-up views and unexpected cropping, his photographs defamiliarize their subject matter, transforming elements of the three-dimensional world—including the textures and surfaces of urban environments and natural landscapes—into striking abstract compositions.",
+            "remarks":"MOD-STR_09-12_WLA – Day 1 Cataloguing (group chat for (x1978-43, x1987-49, x1978-45, x1984-125)"
+        }
+    ],
+    "media":[
+        {
+            "id":248930,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102540",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1978,\" <EM>Record of the Art Museum, Princeton University </EM>38, no. 1 (1979): p. 14-<SPAN style=\"FONT-WEIGHT: normal\"><FONT color=#222222 face=Georgia><FONT color=#000000 face=Arial>38</FONT></FONT></SPAN>.",
+            "citation":"\"Acquisitions of the Art Museum 1978,\" <EM>Record of the Art Museum, Princeton University </EM>38, no. 1 (1979): p. 14-<SPAN style=\"FONT-WEIGHT: normal\"><FONT color=#222222 face=Georgia><FONT color=#000000 face=Arial>38</FONT></FONT></SPAN>., p. 28",
+            "date":1979,
+            "id":1861,
+            "uri":"https://www.jstor.org/stable/3774571"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167759,
+            "term":"Paint",
+            "aatid":300147678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":197910,
+            "name":"MoCo_AbEx_Siskind"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        },
+        {
+            "packageid":219380,
+            "name":"Gallery_10-12(Pavilion3)-ModernContemporary"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102540"
+    ],
+    "displaymaker":"Aaron Siskind, 1903–1991; born New York, NY; died Providence, RI; active New York, Chicago, and Providence",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Aaron Siskind (1903–1991; born New York, NY; died Providence, RI; active New York, Chicago, and Providence), Chicago 29, 1957, 1957. Gelatin silver print; 26.8 x 34 cm (image), 28 x 35.4 cm (sheet). Gift of Robert Menschel (x1978-45)",
+    "captionhtml":"Aaron Siskind (1903–1991; born New York, NY; died Providence, RI; active New York, Chicago, and Providence), <i>Chicago 29, 1957</i>, 1957. Gelatin silver print; 26.8 x 34 cm (image), 28 x 35.4 cm (sheet). Gift of Robert Menschel (x1978-45)",
+    "published_date":"2025-10-31 02:00:49.773933",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

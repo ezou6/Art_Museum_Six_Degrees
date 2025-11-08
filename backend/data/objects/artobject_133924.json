@@ -1,0 +1,279 @@
+{
+    "type":"artobject",
+    "objectid":133924,
+    "objectnumber":"2020-383",
+    "sortnumber":"2020  383",
+    "displaytitle":"Four Rocks",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1773,
+    "dateend":1773,
+    "datecomputed":1773,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1773",
+    "medium":"Hanging scroll; ink and light color on paper",
+    "dimensions":"Painting: 39 × 74 cm (15 3/8 × 29 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift from the Gitter-Yelen Collection and Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Four Rocks",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21019,
+            "displayname":"Yosa Buson 与謝蕪村",
+            "displaydate":"1716–1783; born Kema, Osaka, Japan; died Kyoto Japan",
+            "datebegin":1716,
+            "dateend":1783,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Yosa Buson 与謝蕪村, 1716–1783; born Kema, Osaka, Japan; died Kyoto Japan",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font color=\"#7030a0\"><span lang=\"EN\">1973–2020\tGitter-Yelen Collection (New Orleans, LA), by gift and sold to the Princeton University art Museum, 2020. </span></font><font color=\"#7030a0\">\n</font><font color=\"#7030a0\">\n</font><font color=\"#7030a0\">\n</font><font color=\"#7030a0\">\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":220360,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1955309",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":220361,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1955312",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":3427,
+            "citation":"Buson and Taiga (May 1–August 30, 1998)",
+            "isvirtual":true,
+            "begindate":"1998-05-01",
+            "enddate":"1998-08-30",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3427"
+        },
+        {
+            "exhibitionid":3428,
+            "citation":"Zenga and Nanga: Paintings by Japanese Monks and Scholars (November 20, 1976–January 8, 1979)",
+            "isvirtual":true,
+            "begindate":"1976-11-20",
+            "enddate":"1979-01-08",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3428"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2029977,
+            "term":"Hanging scroll",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168158,
+            "term":"colorant",
+            "aatid":300013026,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2029977,
+            "classification":"hanging scroll"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1955309"
+    ],
+    "displaymaker":"Yosa Buson 与謝蕪村, 1716–1783; born Kema, Osaka, Japan; died Kyoto Japan",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Yosa Buson 与謝蕪村 (1716–1783; born Kema, Osaka, Japan; died Kyoto Japan), Four Rocks, 1773. Hanging scroll; ink and light color on paper; 39 × 74 cm (Painting). Gift from the Gitter-Yelen Collection and Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund (2020-383)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Yosa Buson 与謝蕪村 (1716–1783; born Kema, Osaka, Japan; died Kyoto Japan), <i>Four Rocks</i>, 1773. Hanging scroll; ink and light color on paper; 39 × 74 cm (Painting). Gift from the Gitter-Yelen Collection and Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund (2020-383)",
+    "published_date":"2025-10-29 02:07:06.493821",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

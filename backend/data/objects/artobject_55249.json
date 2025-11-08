@@ -1,0 +1,257 @@
+{
+    "type":"artobject",
+    "objectid":55249,
+    "objectnumber":"2007-153",
+    "sortnumber":"2007  153",
+    "displaytitle":"Black on white olla",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1930,
+    "dateend":1940,
+    "datecomputed":1935,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1930–40",
+    "medium":"Ceramic with cream, black, and orange slip",
+    "dimensions":"h. 19.6 cm., diam. 23.3 cm. (7 11/16 x 9 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed: bow tie",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Black on white olla",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":239941,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3259",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239942,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3258",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 119",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Haak'u (Acoma) Pueblo, Colorado Plateau",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Colorado Plateau",
+            "state":"New Mexico",
+            "city":"Haak'u (Acoma) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5454217/acoma-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040518,
+            "term":"Acoma",
+            "aatid":300017749,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073397,
+            "term":"ollas",
+            "aatid":300199780,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159879,
+            "term":"checker pattern",
+            "aatid":300010111,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073397,
+            "classification":"ollas"
+        }
+    ],
+    "cultures":[
+        {
+            "id":23169,
+            "culture":"Haak’u (Acoma)",
+            "alphasort":"Haak’u (Acoma)",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haak’u (Acoma)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040518,
+            "culture":"Acoma"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"23.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3258"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Haak’u (Acoma)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Haak’u (Acoma), ca. 1930–40, Haak'u (Acoma) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, Black on white olla. Ceramic with cream, black, and orange slip; 19.6 x 23.3 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2007-153)",
+    "captionhtml":"Artist unidentified, Haak’u (Acoma), ca. 1930–40, Haak'u (Acoma) Pueblo, New Mexico, Colorado Plateau, United States, American southwest, <i>Black on white olla</i>. Ceramic with cream, black, and orange slip; 19.6 x 23.3 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2007-153)",
+    "published_date":"2025-10-16 15:24:20.148456",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

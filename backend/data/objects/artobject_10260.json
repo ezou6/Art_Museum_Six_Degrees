@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":10260,
+    "objectnumber":"x1960-92",
+    "sortnumber":"1960   92x",
+    "displaytitle":"Night",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1931,
+    "dateend":1960,
+    "datecomputed":1946,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"Lithograph",
+    "dimensions":"image: 30 x 48 cm. (11 13/16 x 18 7/8 in.)\r\nsheet: 56.7 x 76.7 cm. (22 5/16 x 30 3/16 in.)\r\nmat: 76.2 x 101.6 cm. (30 x 40 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Hugh Trumbull Adams, Class of 1935",
+    "markings":null,
+    "inscribed":"In graphite, bottom left: Epreuve d'artiste / 7/17",
+    "signed":"Titled and signed in graphite, lower right:  La Nuit / Manessier",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Night",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4775,
+            "displayname":"Alfred Manessier",
+            "displaydate":"French, 1911–1993",
+            "datebegin":1911,
+            "dateend":1993,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alfred Manessier, French, 1911–1993",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76295,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09308",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":76296,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09309",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 26",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054605,
+            "term":"color lithographs",
+            "aatid":300041383,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054605,
+            "classification":"color lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.19"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09309"
+    ],
+    "displaymaker":"Alfred Manessier, French, 1911–1993",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alfred Manessier (French, 1911–1993), Night. Lithograph; 30 x 48 cm (image), 56.7 x 76.7 cm (sheet), 76.2 x 101.6 cm (mat). Gift of Hugh Trumbull Adams, Class of 1935 (x1960-92)",
+    "captionhtml":"Alfred Manessier (French, 1911–1993), <i>Night</i>. Lithograph; 30 x 48 cm (image), 56.7 x 76.7 cm (sheet), 76.2 x 101.6 cm (mat). Gift of Hugh Trumbull Adams, Class of 1935 (x1960-92)",
+    "published_date":"2025-10-16 11:20:49.545860",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

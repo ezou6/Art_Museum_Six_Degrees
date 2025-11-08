@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":90531,
+    "objectnumber":"2013-75",
+    "sortnumber":"2013   75",
+    "displaytitle":"Iao Valley, Maui",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1971,
+    "dateend":1971,
+    "datecomputed":1971,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1971, printed 2013",
+    "medium":"Inkjet print",
+    "dimensions":"image: 20.3 x 30.5 cm. (8 x 12 in.)\r\nsheet: 33 x 48.3 cm. (13 x 19 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Robert von Sternberg",
+    "markings":null,
+    "inscribed":"Signed, dated, and titled in graphite, verso lower edge: Robert von Sternberg / printed 2013 / Iao Valley, Maui, Hawaii 1971\r\n",
+    "signed":"\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":"© 2013 Robert von Sternberg",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Iao Valley, Maui",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18233,
+            "displayname":"Robert von Sternberg",
+            "displaydate":"American, born 1939",
+            "datebegin":1939,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert von Sternberg, American, born 1939",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":191901,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_7560",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 59",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Hawaii, Maui",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Hawaii",
+            "city":"Maui",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5856476/-iao-valley.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096423,
+            "term":"travel",
+            "aatid":300080094,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188610,
+            "term":"inkjet prints",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2099252,
+            "term":"tourism",
+            "aatid":300132466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101471,
+            "term":"buses",
+            "aatid":300212677,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2141273,
+            "term":"cameras",
+            "aatid":300022636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2188610,
+            "classification":"inkjet prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.30"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":83862,
+            "name":"web_loadtest2016-8"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_7560"
+    ],
+    "displaymaker":"Robert von Sternberg, American, born 1939",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert von Sternberg (American, born 1939), Iao Valley, Maui, 1971, printed 2013. Inkjet print; 20.3 x 30.5 cm (image), 33 x 48.3 cm (sheet). Gift of Robert von Sternberg (2013-75)",
+    "captionhtml":"Robert von Sternberg (American, born 1939), <i>Iao Valley, Maui</i>, 1971, printed 2013. Inkjet print; 20.3 x 30.5 cm (image), 33 x 48.3 cm (sheet). Gift of Robert von Sternberg (2013-75)",
+    "published_date":"2025-10-16 17:17:15.985580",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

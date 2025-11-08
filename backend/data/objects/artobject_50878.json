@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":50878,
+    "objectnumber":"2011-68",
+    "sortnumber":"2011   68",
+    "displaytitle":"Mbwoolo charm figure (yiteke)",
+    "department":"African and Oceanic Art",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1975,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"20th century, before 1975",
+    "medium":"Wood, tukula, kaolin, and raffia",
+    "dimensions":"24.5 cm x 9.5 cm x 10.5 cm (9 5/8 x 3 3/4 x 4 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Perry E. H. Smith, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2011-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mbwoolo charm figure (yiteke)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13990,
+            "displayname":"Yaka",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Yaka artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by&nbsp;Perry E.H. Smith&nbsp;in Zaire (present-day Democratic Republic of the Congo) between 1971 and circa 1975; Princeton University Art Museum, 2011",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":19822,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-26",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo, Bandundu Province",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":"Bandundu Province",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2317396/bandundu-province.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049655,
+            "term":"woodwork",
+            "aatid":300015348,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042720,
+            "term":"Yaka",
+            "aatid":300016276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135524,
+            "term":"rituals (events)",
+            "aatid":300065284,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199113,
+            "term":"tukula",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160373,
+            "term":"kaolin",
+            "aatid":300010445,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055416,
+            "classification":"statues"
+        },
+        {
+            "id":2049655,
+            "classification":"woodwork"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042720,
+            "culture":"Yaka"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"10.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-26"
+    ],
+    "displaymaker":"Yaka artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yaka artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, Mbwoolo charm figure (yiteke), 20th century, before 1975. Wood, tukula, kaolin, and raffia; 24.5 x 9.5 x 10.5 cm. Gift of Perry E. H. Smith, Class of 1957 (2011-68)",
+    "captionhtml":"Yaka artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, <i>Mbwoolo charm figure (yiteke)</i>, 20th century, before 1975. Wood, tukula, kaolin, and raffia; 24.5 x 9.5 x 10.5 cm. Gift of Perry E. H. Smith, Class of 1957 (2011-68)",
+    "published_date":"2025-10-16 15:12:29.005693",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

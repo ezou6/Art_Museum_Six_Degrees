@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":35031,
+    "objectnumber":"y957",
+    "sortnumber":"957     y",
+    "displaytitle":"Cup",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1740,
+    "dateend":1750,
+    "datecomputed":1745,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"ca. 1745–50",
+    "medium":"Porcelain",
+    "dimensions":"h. 3.6 cm, diam. 5.7 cm (1 7/16 x 2 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":"On bottom of cup, in underglaze blue: Manufactor's mark. [See accession card for reproduction];\r\nOn bottom, in red: 957;",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cup",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15646,
+            "displayname":"Meissen Porcelain Manufactory",
+            "displaydate":"German, active 1710–present",
+            "datebegin":1710,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Meissen Porcelain Manufactory, German, active 1710–present",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":21936,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0160",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21937,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0161",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21938,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0162",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21939,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0234",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21940,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0235",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Meissen, Saxony",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":"Saxony",
+            "state":null,
+            "city":"Meissen",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_51.162_13.474.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2160764,
+            "classification":"porcelain"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"5.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv0234"
+    ],
+    "displaymaker":"Meissen Porcelain Manufactory, German, active 1710–present",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Meissen Porcelain Manufactory (German, active 1710–present), Cup, ca. 1745–50. Porcelain; 3.6 x 5.7 cm. Trumbull-Prime Collection (y957)",
+    "captionhtml":"Meissen Porcelain Manufactory (German, active 1710–present), <i>Cup</i>, ca. 1745–50. Porcelain; 3.6 x 5.7 cm. Trumbull-Prime Collection (y957)",
+    "published_date":"2025-10-16 13:43:54.470259",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

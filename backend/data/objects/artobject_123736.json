@@ -1,0 +1,216 @@
+{
+    "type":"artobject",
+    "objectid":123736,
+    "objectnumber":"2015-6792",
+    "sortnumber":"2015 6792",
+    "displaytitle":"Calligraphy from the \"Stele for Zhang Qian\"",
+    "department":"Asian Art",
+    "classification":"Calligraphy",
+    "datebegin":1917,
+    "dateend":1962,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Calligraphy: 131.8 × 31.1 cm (51 7/8 × 12 1/4 in.)\r\nMount: 197.5 × 45 cm (77 3/4 × 17 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Chin Howe in memory of her husband, King L. Howe",
+    "markings":null,
+    "inscribed":"Inscribed: \"For the gentleman Liumen 柳門 (unidentified), I await your esteemed corrections\"; signed Pu'an 樸庵\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2015-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Calligraphy from the \"Stele for Zhang Qian\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":19338,
+            "displayname":"Chen Pu'an 陳樸庵",
+            "displaydate":"Chinese, 1897–1962",
+            "datebegin":1897,
+            "dateend":1962,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chen Pu'an 陳樸庵, Chinese, 1897–1962",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>&nbsp;–&nbsp;&nbsp;Chen Pu’an, 1897-1962 (China), by gift to Liumen 柳門 (unidentified, China)<br>&nbsp;–2015&nbsp;Mrs. Chin Howe (Lewisville, TX), by gift to the Princeton University Art Museum, 2015.</p><p><br></p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":204670,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_40386",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125., p. 110",
+            "date":2016,
+            "id":9661,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"197.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"131.80"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_40386"
+    ],
+    "displaymaker":"Chen Pu'an 陳樸庵, Chinese, 1897–1962",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Chen Pu'an 陳樸庵 (Chinese, 1897–1962), Calligraphy from the \"Stele for Zhang Qian\". Hanging scroll; ink on paper; 131.8 × 31.1 cm (Calligraphy). Gift of Mrs. Chin Howe in memory of her husband, King L. Howe (2015-6792)",
+    "captionhtml":"Chen Pu'an 陳樸庵 (Chinese, 1897–1962), <i>Calligraphy from the \"Stele for Zhang Qian\"</i>. Hanging scroll; ink on paper; 131.8 × 31.1 cm (Calligraphy). Gift of Mrs. Chin Howe in memory of her husband, King L. Howe (2015-6792)",
+    "published_date":"2025-10-16 18:22:22.334895",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

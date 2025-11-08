@@ -1,0 +1,290 @@
+{
+    "type":"artobject",
+    "objectid":8628,
+    "objectnumber":"x1949-255",
+    "sortnumber":"1949  255x",
+    "displaytitle":"Ariadne",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1835,
+    "dateend":1835,
+    "datecomputed":1835,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1835",
+    "medium":"Engraving",
+    "dimensions":"image: 36 x 45.3 cm. (14 3/16 x 17 13/16 in.)\r\nplate: 45 x 53.5 cm. (17 11/16 x 21 1/16 in.)\r\nsheet: 58.5 x 71.8 cm. (23 1/16 x 28 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":"Inscribed in plate, lower left: Painted by J. Vanderlyn \r\nInscribed in plate, lower center: ARIADNE. / Published by A.B. Durand, New York, Hodgson, Boys, & Graves, London, & Rittner & Coupil a Paris 1835. / Entered according to act of Congress in the year 1835 by A.B. Durand in the Clerk’s Office of the District Court of the Southern District of New York.\r\nInscribed in plate, lower right: Eng. By A.B. Durand / Printed by A. King \r\n",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ariadne",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2927,
+            "displayname":"John Vanderlyn",
+            "displaydate":"American, 1775–1852",
+            "datebegin":1775,
+            "dateend":1852,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after John Vanderlyn, American, 1775–1852",
+            "displayorder":2
+        },
+        {
+            "id":5711,
+            "displayname":"Asher B. Durand",
+            "displaydate":"1796–1886; born Jefferson, NJ; died Maplewood, NJ",
+            "datebegin":1796,
+            "dateend":1886,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Asher B. Durand, 1796–1886; born Jefferson, NJ; died Maplewood, NJ",
+            "displayorder":1
+        },
+        {
+            "id":19653,
+            "displayname":"Albert B. King",
+            "displaydate":"American, active 19th century",
+            "datebegin":1800,
+            "dateend":1899,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Albert B. King, American, active 19th century",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":80579,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09901",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 1 (1950).",
+            "citation":"\"Recent accessions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 1 (1950)., p. 22",
+            "date":1950,
+            "id":3306,
+            "uri":"https://www.jstor.org/stable/3774210"
+        },
+        {
+            "boilertext":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22.",
+            "citation":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22., p. 22",
+            "date":1950,
+            "id":7847,
+            "uri":"https://www.jstor.org/stable/3774210"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171348,
+            "term":"Greek mythology",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154917,
+            "term":"engraving (printing process)",
+            "aatid":300053225,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"58.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09901"
+    ],
+    "displaymaker":"Asher B. Durand, 1796–1886; born Jefferson, NJ; died Maplewood, NJ | after John Vanderlyn, American, 1775–1852 | Printed by Albert B. King, American, active 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Asher Brown Durand (1796–1886; born Jefferson, NJ; died Maplewood, NJ), after John Vanderlyn (American, 1775–1852), Printed by Albert B. King (American, active 19th century), Ariadne, 1835. Engraving; 36 x 45.3 cm (image), 45 x 53.5 cm (plate), 58.5 x 71.8 cm (sheet). Mather Collection (x1949-255)",
+    "captionhtml":"Asher Brown Durand (1796–1886; born Jefferson, NJ; died Maplewood, NJ), after John Vanderlyn (American, 1775–1852), Printed by Albert B. King (American, active 19th century), <i>Ariadne</i>, 1835. Engraving; 36 x 45.3 cm (image), 45 x 53.5 cm (plate), 58.5 x 71.8 cm (sheet). Mather Collection (x1949-255)",
+    "published_date":"2025-10-16 11:10:22.428052",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,257 @@
+{
+    "type":"artobject",
+    "objectid":62042,
+    "objectnumber":"y1978-44 d",
+    "sortnumber":"1978   44yd",
+    "displaytitle":"Landscapes (Shanshui huace 山水畫冊)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1575,
+    "dateend":1575,
+    "datecomputed":1575,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1575",
+    "medium":"Album leaf, ink and light colors on paper",
+    "dimensions":"Painting: 24.9 x 30.1 cm. (9 13/16 x 11 7/8 in.)\r\nLeaf: 59.1 x 37.2 cm. (23 1/4 x 14 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Wen C. Fong, Class of 1951and Graduate School Class of 1958, and Constance Tang Fong",
+    "markings":null,
+    "inscribed":"dated 1575",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1978-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":1771,
+            "displayname":"Wen Jia 文嘉",
+            "displaydate":"1501–1583",
+            "datebegin":1501,
+            "dateend":1583,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wen Jia 文嘉, 1501–1583",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"In his painting and writing, Qian Du consistently invoked painters of the Wu School, based in the city of Suzhou during the fifteenth through seventeenth centuries. Qian most admired the paintings of Wen Zhengming and his descendants, such as his son Wen Jia. Unlike Orthodox painters, Wu School artists used subtle brushwork to avoid overpowering the image as a whole. Describing a Wen Jia painting he owned, Qian said, “his brush and ink are the epitome of concise elegance.” Qian shared with the Wens an emphasis on refined hues and patterning alongside an attention to brushwork and was one of only a few Qing dynasty artists to emulate these aspects of the Wu School.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":93985,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1978-44D",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":60379,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV05828",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164275,
+            "term":"boulder",
+            "aatid":300011671,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171671,
+            "term":"pine trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120463,
+            "term":"vines",
+            "aatid":300132406,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.90"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.10"
+        },
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.10"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1978-44D"
+    ],
+    "displaymaker":"Wen Jia 文嘉, 1501–1583",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Wen Jia 文嘉 (1501–1583), Landscapes (Shanshui huace 山水畫冊), 1575. Album leaf, ink and light colors on paper; 24.7 x 30 cm (g-29.3), 24.9 x 30.1 cm (Painting), 59.1 x 37.2 cm (Leaf). Gift of Wen C. Fong, Class of 1951and Graduate School Class of 1958, and Constance Tang Fong (y1978-44 d)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Wen Jia 文嘉 (1501–1583), <i>Landscapes (Shanshui huace 山水畫冊)</i>, 1575. Album leaf, ink and light colors on paper; 24.7 x 30 cm (g-29.3), 24.9 x 30.1 cm (Painting), 59.1 x 37.2 cm (Leaf). Gift of Wen C. Fong, Class of 1951and Graduate School Class of 1958, and Constance Tang Fong (y1978-44 d)",
+    "published_date":"2025-10-16 16:02:52.878138",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

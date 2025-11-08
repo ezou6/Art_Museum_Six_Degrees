@@ -1,0 +1,166 @@
+{
+    "type":"artobject",
+    "objectid":2913,
+    "objectnumber":"x1937-63",
+    "sortnumber":"1937   63x",
+    "displaytitle":"Richelieu",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1610,
+    "dateend":1667,
+    "datecomputed":1638,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 33.2 x 22.1 cm (13 1/16 x 8 11/16 in.)\r\nsheet: 34.2 x 23 cm (13 7/16 x 9 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"M Lasne delineauin fecit et ex cum pri",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Richelieu",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4469,
+            "displayname":"Michel Lasne",
+            "displaydate":"French, 1590–1667",
+            "datebegin":1590,
+            "dateend":1667,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Michel Lasne, French, 1590–1667",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\"><span lang=\"EN\">Alfred Gabriel Hubert [1831-1908, Lugt 130]; sale of his collection, Paris, May 25-29, 1909, lot 928; Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>\n </span>",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":98329,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23677",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":183537,
+            "name":"x-COMPLETE-image_testing_ML"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23677"
+    ],
+    "displaymaker":"Michel Lasne, French, 1590–1667",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Michel Lasne (French, 1590–1667), Richelieu. Engraving; 33.2 x 22.1 cm (plate), 34.2 x 23 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-63)",
+    "captionhtml":"Michel Lasne (French, 1590–1667), <i>Richelieu</i>. Engraving; 33.2 x 22.1 cm (plate), 34.2 x 23 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-63)",
+    "published_date":"2025-10-23 16:42:18.543699",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":1320,
+    "objectnumber":"2016-1010",
+    "sortnumber":"2016 1010",
+    "displaytitle":"Seated figure holding bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":600,
+    "dateend":900,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"600–900",
+    "medium":"Tanware with chapopote",
+    "dimensions":"13.7 × 9.5 × 6.2 cm (5 3/8 × 3 3/4 × 2 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"G632",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Seated figure holding bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Walter Leipen; purchased on January 20, 1970, by Gillett G. Griffin (1928-2016), Princeton, NJ [1];  bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated notebook entry.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":206178,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42144",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":206179,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42151",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987)",
+            "citation":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987), no. 41, 52 (illus.)",
+            "date":1987,
+            "id":2599,
+            "uri":"http://www.worldcat.org/oclc/18006583"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Gulf Coast",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Gulf Coast",
+            "state":"Veracruz",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514780/estado-de-veracruz-llave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039152,
+            "term":"Classic Veracruz",
+            "aatid":300017056,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035671,
+            "term":"Late Classic",
+            "aatid":300016986,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055438,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188638,
+            "term":"tan ware",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055438,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13849,
+            "culture":"Classic Veracruz",
+            "alphasort":"Classic Veracruz",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Classic Veracruz (El Faisán)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039152,
+            "culture":"Classic Veracruz"
+        }
+    ],
+    "periods":[
+        {
+            "id":12494,
+            "period":"Classic Period",
+            "alphasort":"Classic Period",
+            "begindate":200,
+            "enddate":900,
+            "displayperiod":"Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035671,
+            "period":"Late Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.65"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        },
+        {
+            "packageid":277929,
+            "name":"EW-Artwalk_Figuration_CaseC"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42144"
+    ],
+    "displaymaker":null,
+    "displayculture":"Classic Veracruz (El Faisán)",
+    "displayperiod":"Classic Period",
+    "caption":"Classic Veracruz (El Faisán), Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, Seated figure holding bowl. Tanware with chapopote; 13.7 × 9.5 × 6.2 cm. Bequest of Gillett G. Griffin (2016-1010)",
+    "captionhtml":"Classic Veracruz (El Faisán), Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, <i>Seated figure holding bowl</i>. Tanware with chapopote; 13.7 × 9.5 × 6.2 cm. Bequest of Gillett G. Griffin (2016-1010)",
+    "published_date":"2025-10-31 02:00:27.605267",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

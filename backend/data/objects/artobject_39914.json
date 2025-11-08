@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":39914,
+    "objectnumber":"2000-118.1-.28",
+    "sortnumber":"2000  118     1  28",
+    "displaytitle":"Arm and hand fragments",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Sculpture",
+    "datebegin":1,
+    "dateend":49,
+    "datecomputed":25,
+    "daterange":"A.D. 1-500",
+    "displaydate":"first half of 1st century CE",
+    "medium":"Fine- to large-grained white marble",
+    "dimensions":"longest piece:  l. 11.4 cm. (4 1/2 in.) \r\nshortest piece:  l. 4.0 cm. (1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Committee for the Excavation of Antioch to Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Arm and hand fragments",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"HelveticaNeue\" size=\"5\"><font face=\"HelveticaNeue\" size=\"5\">\n<p>\n\tExcavated by the Princeton-led team at Antioch-on-the-Orontes, present-day Antakya, Turkey, 1931-1939; with the Museum since 1939.</p>\n</font></font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":164012,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV78315",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":6528,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-118-1-28_SL",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":632,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-118-1-28_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001).",
+            "citation":"J. Michael Padgett, ed., <em>Roman sculpture in The Art Museum, Princeton University, </em>(Princeton, NJ:&nbsp;Art Museum, Princeton University, &nbsp;2001)., cat. no. 92",
+            "date":2001,
+            "id":2140,
+            "uri":"http://www.worldcat.org/oclc/47868668"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 90",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Turkey, Antakya",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":"Antakya",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Antioch-on-the-Orontes",
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Turkey",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158095,
+            "term":"arms",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"11.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV78315"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), Antakya, Turkey, first half of 1st century CE, Arm and hand fragments. Fine- to large-grained white marble; 11.4 cm (longest piece:), 4 cm (shortest piece). Gift of the Committee for the Excavation of Antioch to Princeton University (2000-118.1-.28)",
+    "captionhtml":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), Antakya, Turkey, first half of 1st century CE, <i>Arm and hand fragments</i>. Fine- to large-grained white marble; 11.4 cm (longest piece:), 4 cm (shortest piece). Gift of the Committee for the Excavation of Antioch to Princeton University (2000-118.1-.28)",
+    "published_date":"2025-10-23 17:14:01.864626",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

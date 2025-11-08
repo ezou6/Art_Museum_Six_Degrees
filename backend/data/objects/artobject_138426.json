@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":138426,
+    "objectnumber":"2021-181",
+    "sortnumber":"2021  181",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2021,
+    "dateend":2021,
+    "datecomputed":2021,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2021",
+    "medium":"Lithograph, woodcut, and hand-painted chine collé with embossment",
+    "dimensions":"116.8 × 78.7 cm (46 × 31 in.)\r\nframe: 130 × 86.8 × 5.1 cm (51 3/16 × 34 3/16 × 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the PECO Foundation",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated in graphite lower right: Chakaia Booker, 2021",
+    "catalograisonne":null,
+    "creditlinerepro":"© Chakaia Booker / image courtesy EFA Robert Blackburn Printmaking Workshop",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2021-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":22258,
+            "displayname":"Chakaia Booker",
+            "displaydate":"born 1953, Newark, NJ; active New York, NY and Allentown, PA",
+            "datebegin":1953,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chakaia Booker, born 1953, Newark, NJ; active New York, NY and Allentown, PA",
+            "displayorder":1
+        },
+        {
+            "id":22259,
+            "displayname":"EFA Robert Blackburn Printmaking Workshop",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by Justin Sanz and published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Printed by Justin Sanz and published by EFA Robert Blackburn Printmaking Workshop",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"EFA Robert Blackburn Print Studios, 2021",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":243156,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_4405",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2166886,
+            "term":"mixed media",
+            "aatid":300163347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054645,
+            "term":"relief prints",
+            "aatid":300041391,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155102,
+            "term":"wood engraving (process)",
+            "aatid":300053303,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156248,
+            "term":"chine collé",
+            "aatid":300256021,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156689,
+            "term":"embossing",
+            "aatid":300053826,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054645,
+            "classification":"relief prints"
+        },
+        {
+            "id":2166886,
+            "classification":"mixed media"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"116.83"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.73"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"130.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"86.80"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216464,
+            "name":"image_descriptions_newacquisitions_2021"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_4405"
+    ],
+    "displaymaker":"Chakaia Booker, born 1953, Newark, NJ; active New York, NY and Allentown, PA | Printed by Justin Sanz and published by EFA Robert Blackburn Printmaking Workshop",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Chakaia Booker (born 1953, Newark, NJ; active New York, NY and Allentown, PA), Printed by Justin Sanz and published by EFA Robert Blackburn Printmaking Workshop, Untitled, 2021. Lithograph, woodcut, and hand-painted chine collé with embossment; 116.8 × 78.7 cm, 130 × 86.8 × 5.1 cm (frame). Museum purchase, gift of the PECO Foundation (2021-181)",
+    "captionhtml":"Chakaia Booker (born 1953, Newark, NJ; active New York, NY and Allentown, PA), Printed by Justin Sanz and published by EFA Robert Blackburn Printmaking Workshop, <i>Untitled</i>, 2021. Lithograph, woodcut, and hand-painted chine collé with embossment; 116.8 × 78.7 cm, 130 × 86.8 × 5.1 cm (frame). Museum purchase, gift of the PECO Foundation (2021-181)",
+    "published_date":"2025-10-16 18:58:31.914047",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

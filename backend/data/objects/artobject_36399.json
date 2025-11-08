@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":36399,
+    "objectnumber":"1998-233",
+    "sortnumber":"1998  233",
+    "displaytitle":"Untitled [Orange/Black]",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1972,
+    "dateend":1972,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1972",
+    "medium":"Two-color lithograph on Rives BFK",
+    "dimensions":"image: 54.6 × 35.9 cm (21 1/2 × 14 1/8 in.)\r\nsheet: 87.3 × 68.6 cm (34 3/8 × 27 in.)\r\nframe: 102.2 × 76.8 × 3.8 cm (40 1/4 × 30 1/4 × 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Janet & Jonathan Geldzahler and Annette Geldzahler Banton & Jonathan Banton",
+    "markings":null,
+    "inscribed":"Signed in graphite, lower right: Kelly\r\nEditioned in graphite, lower left: AP",
+    "signed":null,
+    "catalograisonne":"Axsom 84",
+    "creditlinerepro":"© Estate of Ellsworth Kelly",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled [Orange/Black]",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4265,
+            "displayname":"Ellsworth Kelly",
+            "displaydate":"American, 1923–2015",
+            "datebegin":1923,
+            "dateend":2015,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ellsworth Kelly, American, 1923–2015",
+            "displayorder":1
+        },
+        {
+            "id":14026,
+            "displayname":"Brooke Alexander Editions",
+            "displaydate":null,
+            "datebegin":1968,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Brooke Alexander Editions",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76292,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09305",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 98",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098346,
+            "term":"rectangles",
+            "aatid":300055636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2056963,
+            "term":"orange",
+            "aatid":300126734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"87.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"68.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.90"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"102.23"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.83"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196697,
+            "name":"MoCo-Color-field"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09305"
+    ],
+    "displaymaker":"Ellsworth Kelly, American, 1923–2015 | Published by Brooke Alexander Editions",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ellsworth Kelly (American, 1923–2015), Published by Brooke Alexander Editions, Untitled [Orange/Black], 1972. Two-color lithograph on Rives BFK; 54.6 × 35.9 cm (image), 87.3 × 68.6 cm (sheet), 102.2 × 76.8 × 3.8 cm (frame). Gift of Janet & Jonathan Geldzahler and Annette Geldzahler Banton & Jonathan Banton (1998-233)",
+    "captionhtml":"Ellsworth Kelly (American, 1923–2015), Published by Brooke Alexander Editions, <i>Untitled [Orange/Black]</i>, 1972. Two-color lithograph on Rives BFK; 54.6 × 35.9 cm (image), 87.3 × 68.6 cm (sheet), 102.2 × 76.8 × 3.8 cm (frame). Gift of Janet & Jonathan Geldzahler and Annette Geldzahler Banton & Jonathan Banton (1998-233)",
+    "published_date":"2025-10-16 13:52:58.142920",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

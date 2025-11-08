@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":41056,
+    "objectnumber":"2002-180",
+    "sortnumber":"2002  180",
+    "displaytitle":"Chicago",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1950,
+    "dateend":1950,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1950",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 24.1 x 23.6 cm (9 1/2 x 9 5/16 in.)\r\nsheet: 35.9 x 27.7 cm (14 1/8 x 10 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Peter C. Bunnell Collection, gift of the artist",
+    "markings":"Blindstamped, lower left: PRINTED BY / YAS ISHIMOTO",
+    "inscribed":"Signed in graphite, lower right: Yas Ishimoto",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Ishimoto",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Chicago",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5418,
+            "displayname":"Yasuhiro Ishimoto 石元泰博",
+            "displaydate":"1921–2012; born San Francisco, CA; died Tokyo, Japan",
+            "datebegin":1921,
+            "dateend":2012,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Yasuhiro Ishimoto 石元泰博, 1921–2012; born San Francisco, CA; died Tokyo, Japan",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":88189,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV14296",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 133",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Illinois, Chicago",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Illinois",
+            "city":"Chicago",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4887398/chicago.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112753,
+            "term":"stairs",
+            "aatid":300003228,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185150,
+            "term":"child",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2185131,
+            "term":"Asian Artists Living and/or Working in the United States",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":13674,
+            "name":"Web_CollTheme_2014_AsiaDiaspora"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV14296"
+    ],
+    "displaymaker":"Yasuhiro Ishimoto 石元泰博, 1921–2012; born San Francisco, CA; died Tokyo, Japan",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yasuhiro Ishimoto 石元泰博 (1921–2012; born San Francisco, CA; died Tokyo, Japan), Chicago, 1950. Gelatin silver print; 24.1 x 23.6 cm (image), 35.9 x 27.7 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-180)",
+    "captionhtml":"Yasuhiro Ishimoto 石元泰博 (1921–2012; born San Francisco, CA; died Tokyo, Japan), <i>Chicago</i>, 1950. Gelatin silver print; 24.1 x 23.6 cm (image), 35.9 x 27.7 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-180)",
+    "published_date":"2025-10-16 14:12:49.978256",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

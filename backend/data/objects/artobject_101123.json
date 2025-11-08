@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":101123,
+    "objectnumber":"2014-10",
+    "sortnumber":"2014   10",
+    "displaytitle":"In for a Landing",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1970,
+    "dateend":1970,
+    "datecomputed":1970,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1970",
+    "medium":"Wood engraving",
+    "dimensions":"block: 12.6 × 20.2 cm (4 15/16 × 7 15/16 in.)\r\nsheet: 20.3 × 27.9 cm (8 × 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Chester A. Files Jr., Class of 1945",
+    "markings":null,
+    "inscribed":"Editioned, titled, signed and dated in graphite below block: Ed. 1//20 / In for a Landing– / Grace. A. Albee, N.A. / 1970\r\n\r\nIn graphite, lower left corner: Artist’s furnished print – Engraving on Polymethyl Methacrylate",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Grace Albee",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2014-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"In for a Landing",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":32,
+            "displayname":"Grace Arnold Albee",
+            "displaydate":"American, 1890–1985",
+            "datebegin":1890,
+            "dateend":1985,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Grace Arnold Albee, American, 1890–1985",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":140856,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00118",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77., p. 76",
+            "date":2016,
+            "id":5958,
+            "uri":"https://www.jstor.org/stable/26388766?seq=1#metadata_info_tab_contents"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087228,
+            "term":"floating docks",
+            "aatid":300120767,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054702,
+            "term":"wood engravings",
+            "aatid":300041402,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155102,
+            "term":"wood engraving (process)",
+            "aatid":300053303,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043924,
+            "term":"Japanese paper",
+            "aatid":300014143,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054702,
+            "classification":"wood engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.90"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.60"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00118"
+    ],
+    "displaymaker":"Grace Arnold Albee, American, 1890–1985",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Grace Arnold Albee (American, 1890–1985), In for a Landing, 1970. Wood engraving; 12.6 × 20.2 cm (block), 20.3 × 27.9 cm (sheet). Bequest of Chester A. Files Jr., Class of 1945 (2014-10)",
+    "captionhtml":"Grace Arnold Albee (American, 1890–1985), <i>In for a Landing</i>, 1970. Wood engraving; 12.6 × 20.2 cm (block), 20.3 × 27.9 cm (sheet). Bequest of Chester A. Files Jr., Class of 1945 (2014-10)",
+    "published_date":"2025-10-16 18:10:30.028289",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

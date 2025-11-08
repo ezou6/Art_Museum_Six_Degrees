@@ -1,0 +1,182 @@
+{
+    "type":"artobject",
+    "objectid":10032,
+    "objectnumber":"x1962-3",
+    "sortnumber":"1962    3x",
+    "displaytitle":"Portrait of Hendrik Bles",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1591,
+    "dateend":1633,
+    "datecomputed":1612,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 22 x 12.3 cm (8 11/16 x 4 13/16 in.)\r\nsheet: 32 x 19.2 cm (12 5/8 x 7 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"Inscribed in plate, lower right: Dom. Lampsonius\r\nInscribed in plate, lower left: Th. Galle excud.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Hendrik Bles",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6048,
+            "displayname":"Theodor Galle",
+            "displaydate":"Flemish, 1571–1633",
+            "datebegin":1571,
+            "dateend":1633,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Theodor Galle, Flemish, 1571–1633",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110003,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33531",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031640,
+            "term":"Flemish",
+            "aatid":300111184,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031640,
+            "culture":"Flemish"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33531"
+    ],
+    "displaymaker":"Theodor Galle, Flemish, 1571–1633",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Theodor Galle (Flemish, 1571–1633), Portrait of Hendrik Bles. Engraving; 22 x 12.3 cm (plate), 32 x 19.2 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1962-3)",
+    "captionhtml":"Theodor Galle (Flemish, 1571–1633), <i>Portrait of Hendrik Bles</i>. Engraving; 22 x 12.3 cm (plate), 32 x 19.2 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1962-3)",
+    "published_date":"2025-10-23 16:52:13.890145",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":88115,
+    "objectnumber":"2013-71",
+    "sortnumber":"2013   71",
+    "displaytitle":"Skirt",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1900,
+    "dateend":1929,
+    "datecomputed":1914,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century",
+    "medium":"Raffia and dye",
+    "dimensions":"69 × 68 cm (27 3/16 × 26 3/4 in.)\r\nmount: 80.6 × 80 × 2.5 cm (31 3/4 × 31 1/2 × 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Skirt",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15619,
+            "displayname":"Ngala",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Ngala artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by an&nbsp;unidentified Belgian family in the Belgian Congo (c. 1908-1960); Alain Guisson, Brussels, Belgium; [Patrick Mestadgh, Brussels, Belgium]; [Andres Moraga Textile Arts, Berkeley, CA];<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p> Princeton University Art Museum, 2013",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":235610,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1313",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 38",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        },
+        {
+            "boilertext":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022).",
+            "citation":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022)., cat. no. 166, p. 352",
+            "date":2022,
+            "id":9861,
+            "uri":"https://worldcat.org/en/title/1345518255"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2128278,
+            "term":"skirts",
+            "aatid":300209932,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2198836,
+            "term":"Ngala (Ngiri)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134760,
+            "term":"rites of passage",
+            "aatid":300247989,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171219,
+            "term":"resist",
+            "aatid":300015308,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2157617,
+            "term":"knotting",
+            "aatid":300053635,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2128278,
+            "classification":"skirts"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2198836,
+            "culture":"Ngala (Ngiri)"
+        },
+        {
+            "id":2041478,
+            "culture":"African"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"80.64"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"68.00"
+        },
+        {
+            "element":"mount",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.53"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1313"
+    ],
+    "displaymaker":"Ngala artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ngala artist, Democratic Republic of the Congo, Central Africa, Skirt, early 20th century. Raffia and dye; 69 × 68 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2013-71)",
+    "captionhtml":"Ngala artist, Democratic Republic of the Congo, Central Africa, <i>Skirt</i>, early 20th century. Raffia and dye; 69 × 68 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2013-71)",
+    "published_date":"2025-10-16 17:14:38.937378",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

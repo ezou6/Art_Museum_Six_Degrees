@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":48984,
+    "objectnumber":"x1937-319",
+    "sortnumber":"1937  319x",
+    "displaytitle":"John Milton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1741,
+    "dateend":1741,
+    "datecomputed":1741,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 37.7 x 24.5 cm. (14 13/16 x 9 5/8 in.)\r\nsheet: 46.3 x 30 cm. (18 1/4 x 11 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed, around circular composition: John Milton",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Milton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5303,
+            "displayname":"Jacobus Houbraken",
+            "displaydate":"Dutch, 1698–1780",
+            "datebegin":1698,
+            "dateend":1780,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jacobus Houbraken, Dutch, 1698–1780",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102850,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27582",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27582"
+    ],
+    "displaymaker":"Jacobus Houbraken, Dutch, 1698–1780",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jacobus Houbraken (Dutch, 1698–1780), John Milton. Engraving; 37.7 x 24.5 cm (plate), 46.3 x 30 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-319)",
+    "captionhtml":"Jacobus Houbraken (Dutch, 1698–1780), <i>John Milton</i>. Engraving; 37.7 x 24.5 cm (plate), 46.3 x 30 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-319)",
+    "published_date":"2025-10-23 17:23:35.019614",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

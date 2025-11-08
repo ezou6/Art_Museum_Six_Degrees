@@ -1,0 +1,212 @@
+{
+    "type":"artobject",
+    "objectid":10394,
+    "objectnumber":"x1962-44",
+    "sortnumber":"1962   44x",
+    "displaytitle":"Two Ducks - Stonington, Maine",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1941,
+    "dateend":1941,
+    "datecomputed":1941,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1941",
+    "medium":"Watercolor",
+    "dimensions":"59.3 x 46 cm. (23 3/8 x 18 1/8 in.)\r\nframe: 31 3/8 x 26 x 1 1/8 inches",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James H. Beal, Class of 1920, and Mrs. Beal",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite, lower center left: Kienbusch '41",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of William Kienbusch",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two Ducks - Stonington, Maine",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4284,
+            "displayname":"William Kienbusch",
+            "displaydate":"American, 1914–1980",
+            "datebegin":1914,
+            "dateend":1980,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Kienbusch, American, 1914–1980",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":197152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92572",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197153,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92570",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 323, checklist no. 534",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 18",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: United States, Maine, Stonington",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Maine",
+            "city":"Stonington",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/4979975/stonington.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171680,
+            "term":"ducks",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV92570"
+    ],
+    "displaymaker":"William Kienbusch, American, 1914–1980",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Kienbusch (American, 1914–1980), Two Ducks - Stonington, Maine, 1941. Watercolor; 59.3 x 46 cm. Gift of James H. Beal, Class of 1920, and Mrs. Beal (x1962-44)",
+    "captionhtml":"William Kienbusch (American, 1914–1980), <i>Two Ducks - Stonington, Maine</i>, 1941. Watercolor; 59.3 x 46 cm. Gift of James H. Beal, Class of 1920, and Mrs. Beal (x1962-44)",
+    "published_date":"2025-10-16 11:21:37.328090",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

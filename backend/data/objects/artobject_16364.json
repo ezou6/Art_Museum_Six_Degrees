@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":16364,
+    "objectnumber":"x1986-110",
+    "sortnumber":"1986  110x",
+    "displaytitle":"Flora",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1541,
+    "dateend":1567,
+    "datecomputed":1554,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Engraving on laid paper",
+    "dimensions":"plate: 41.7 x 29 cm. (16 7/16 x 11 7/16 in.)\r\nsheet: 42.5 x 30.3 cm. (16 3/4 x 11 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":"Watermark: escutcheon with rampant animal (horse?)",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1986-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flora",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2944,
+            "displayname":"Enea Vico",
+            "displaydate":"Italian, Rome, 1523–1567",
+            "datebegin":1523,
+            "dateend":1567,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Enea Vico, Italian, Rome, 1523–1567",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12324,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1986-110_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":83536,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10239",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52",
+            "citation":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52, pp. 29–30 (illus.)",
+            "date":1987,
+            "id":550,
+            "uri":"https://www.jstor.org/stable/3774580"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"41.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10239"
+    ],
+    "displaymaker":"Enea Vico, Italian, Rome, 1523–1567",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Enea Vico (Italian, Rome, 1523–1567), Flora. Engraving on laid paper; 41.7 x 29 cm (plate), 42.5 x 30.3 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1986-110)",
+    "captionhtml":"Enea Vico (Italian, Rome, 1523–1567), <i>Flora</i>. Engraving on laid paper; 41.7 x 29 cm (plate), 42.5 x 30.3 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1986-110)",
+    "published_date":"2025-10-16 12:09:24.455641",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

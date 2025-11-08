@@ -1,0 +1,194 @@
+{
+    "type":"artobject",
+    "objectid":48687,
+    "objectnumber":"x1937-349 b",
+    "sortnumber":"1937  349xb",
+    "displaytitle":"Walton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1836,
+    "dateend":1836,
+    "datecomputed":1836,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1836",
+    "medium":"Engraving",
+    "dimensions":"image: 12. x 9.8 cm\r\nplate: 30.7 x 24.8 cm\r\nsheet: 33.4 x 24.8 cm",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Walton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5306,
+            "displayname":"Housman",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Housman",
+            "displayorder":2
+        },
+        {
+            "id":5368,
+            "displayname":"William Humphrys",
+            "displaydate":"British, 1794–1865",
+            "datebegin":1794,
+            "dateend":1865,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Humphrys, British, 1794–1865",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118468,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40930",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055667,
+            "term":"half figures",
+            "aatid":300047469,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40930"
+    ],
+    "displaymaker":"William Humphrys, British, 1794–1865 | after Housman",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Humphrys (British, 1794–1865), after Housman, Walton, 1836. Engraving; 21.1 x 27.8 cm. Bequest of Junius S. Morgan, Class of 1888 (x1937-349 b)",
+    "captionhtml":"William Humphrys (British, 1794–1865), after Housman, <i>Walton</i>, 1836. Engraving; 21.1 x 27.8 cm. Bequest of Junius S. Morgan, Class of 1888 (x1937-349 b)",
+    "published_date":"2025-10-16 15:01:39.484401",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

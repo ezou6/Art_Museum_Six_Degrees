@@ -1,0 +1,287 @@
+{
+    "type":"artobject",
+    "objectid":22891,
+    "objectnumber":"y1946-201",
+    "sortnumber":"1946  201y",
+    "displaytitle":"Two Ladies Playing Go",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":0,
+    "dateend":1946,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 105.5 x 43.5 cm. (41 9/16 x 17 1/8 in.)\r\nMount: 199 x 64.1 cm. (78 3/8 x 25 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906",
+    "markings":null,
+    "inscribed":null,
+    "signed":"unsigned",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two Ladies Playing Go",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":61045,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07931",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62105,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08333",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62106,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08332",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62107,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08331",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":1579,
+            "citation":"The Carl Otto von Kienbusch, Jr. Memorial Collection (Princeton University Art Museum, June 1956)",
+            "isvirtual":true,
+            "begindate":"1956-06",
+            "enddate":"1956-06",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1579"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119841,
+            "term":"ponds",
+            "aatid":300008688,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171680,
+            "term":"ducks",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171771,
+            "term":"waterlilies",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2147021,
+            "term":"board games",
+            "aatid":300222746,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"199.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"64.10"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"105.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV08333"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":null,
+    "caption":"Chinese, Anonymous, Two Ladies Playing Go, undated. Hanging scroll; colors on silk; 105.5 x 43.5 cm (Painting), 199 x 64.1 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-201)",
+    "captionhtml":"Chinese, Anonymous, <i>Two Ladies Playing Go</i>, undated. Hanging scroll; colors on silk; 105.5 x 43.5 cm (Painting), 199 x 64.1 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-201)",
+    "published_date":"2025-10-16 12:49:39.728213",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,297 @@
+{
+    "type":"artobject",
+    "objectid":31995,
+    "objectnumber":"1996-213",
+    "sortnumber":"1996  213",
+    "displaytitle":"The Village of Yase (Yase no sato 八瀬之里), from the series “Famous Views of Kyoto” (Kyōto meisho no uchi 京都名所之内)",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1829,
+    "dateend":1839,
+    "datecomputed":1834,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"ca. 1834 [Tenpō 5]",
+    "medium":"Woodblock print (ōban yoko-e format); ink and color on paper",
+    "dimensions":"21.5 x 33.5 cm. (8 7/16 x 13 3/16 in.)\r\nmat: 36.1 x 49.9 cm. (14 3/16 x 19 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Anne van Biema",
+    "markings":null,
+    "inscribed":"Hiroshige ga 広重画",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1996-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Village of Yase (Yase no sato 八瀬之里), from the series “Famous Views of Kyoto” (Kyōto meisho no uchi 京都名所之内)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":94,
+            "displayname":"Utagawa Hiroshige 歌川 広重",
+            "displaydate":"1797–1858; born and died Tokyo, Japan",
+            "datebegin":1797,
+            "dateend":1858,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Utagawa Hiroshige 歌川 広重, 1797–1858; born and died Tokyo, Japan",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1996&nbsp;Anne van Biema collection (New York, NY), by gift to the Princeton University Art Museum, 1996.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":3936,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1996-213",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":null
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115.",
+            "citation":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115., p. 102",
+            "date":1997,
+            "id":3051,
+            "uri":"https://www.jstor.org/stable/3774760"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051508,
+            "term":"views",
+            "aatid":300015424,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054328,
+            "term":"oban",
+            "aatid":300041290,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054726,
+            "term":"woodblock prints",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119357,
+            "term":"villages",
+            "aatid":300008372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043820,
+            "term":"paper",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2054328,
+            "term":"oban",
+            "aatid":300041290,
+            "termtype":"Materials"
+        },
+        {
+            "id":2055845,
+            "term":"color",
+            "aatid":300056130,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054726,
+            "classification":"woodblock prints"
+        },
+        {
+            "id":2054328,
+            "classification":"oban"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.10"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":198999,
+            "name":"PUAM_Expressing Culture_Mulitcultural"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204035,
+            "name":"Teaching Kit Reproductions 8 1/2 x 11"
+        },
+        {
+            "packageid":193153,
+            "name":"PUAM_Expressing Culture_Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1996-213"
+    ],
+    "displaymaker":"Utagawa Hiroshige 歌川 広重, 1797–1858; born and died Tokyo, Japan",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Utagawa Hiroshige 歌川 広重 (1797–1858; born and died Tokyo, Japan), The Village of Yase (Yase no sato 八瀬之里), from the series “Famous Views of Kyoto” (Kyōto meisho no uchi 京都名所之内), ca. 1834 [Tenpō 5]. Woodblock print (ōban yoko-e format); ink and color on paper; 21.5 x 33.5 cm, 36.1 x 49.9 cm (mat). Gift of Anne van Biema (1996-213)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Utagawa Hiroshige 歌川 広重 (1797–1858; born and died Tokyo, Japan), <i>The Village of Yase (Yase no sato 八瀬之里), from the series “Famous Views of Kyoto” (Kyōto meisho no uchi 京都名所之内)</i>, ca. 1834 [Tenpō 5]. Woodblock print (ōban yoko-e format); ink and color on paper; 21.5 x 33.5 cm, 36.1 x 49.9 cm (mat). Gift of Anne van Biema (1996-213)",
+    "published_date":"2025-10-22 02:01:58.764269",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

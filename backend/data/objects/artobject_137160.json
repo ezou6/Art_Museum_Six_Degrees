@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":137160,
+    "objectnumber":"2020-6",
+    "sortnumber":"2020    6",
+    "displaytitle":"The Origin of Painting",
+    "department":"European Painting and Sculpture ",
+    "classification":"Glass",
+    "datebegin":1880,
+    "dateend":1889,
+    "datecomputed":1884,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"late 1880s",
+    "medium":"Cameo glass",
+    "dimensions":"h. 23 cm (9 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":"Inscribed on bottom: The Origin of Painting",
+    "signed":"Signed: Geo Woodall",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Origin of Painting",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21865,
+            "displayname":"George Woodall",
+            "displaydate":"British, 1850–1925",
+            "datebegin":1850,
+            "dateend":1925,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Woodall, British, 1850–1925",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"These two objects provide fascinating glimpses, real and imagined, into the artistic process. On the underside of the ancient Greek cup an artist’s sketch survives, unfinished but preserved due to the ceramic firing process. In broad strokes, the painter has undertaken a preliminary outline of a person, likely an Amazon, a female warrior from Greek myth, who here rides on horseback. The artist worked when the vessel was leather hard, drawing with a piece of charcoal, traces of which are preserved. The groundline and contours of both figures were then partially rendered with relief lines of liquid clay; only the head was fully executed, giving us a clear sense of the painter’s process, from the early stages through to completion. Woodall’s cameo glass vessel, created many centuries later, features a scene from myt recounting the origins of painting, which has survived in Pliny the Elder’s Natural History. In this story, a young woman from Corinth created the first painted image when she traced the silhouette contour of her lover’s face, illuminated by torchlight on the wall, in order to preserve his image after he was gone.\n",
+            "remarks":"MED2_22_CLA.pdf – Day One Cataloguing (group chat for y1987-70, 2020-6)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Woodall Family Collection; Bonhams London, 20 November 2019; museum purchase.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":239566,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_2747",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239567,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_2744",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239568,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_2741",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239569,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_2740",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055259,
+            "term":"cameos",
+            "aatid":300047261,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122311,
+            "term":"myths",
+            "aatid":300201023,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2055259,
+            "classification":"cameos"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_2740"
+    ],
+    "displaymaker":"George Woodall, British, 1850–1925",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Woodall (British, 1850–1925), The Origin of Painting, late 1880s. Cameo glass; 23 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-6)",
+    "captionhtml":"George Woodall (British, 1850–1925), <i>The Origin of Painting</i>, late 1880s. Cameo glass; 23 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-6)",
+    "published_date":"2025-10-16 18:53:50.519448",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

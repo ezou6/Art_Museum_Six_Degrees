@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":35222,
+    "objectnumber":"1998-3",
+    "sortnumber":"1998    3",
+    "displaytitle":"Lukas Cravo",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1997,
+    "dateend":1997,
+    "datecomputed":1997,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1997",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 40.2 x 39.9 cm (15 13/16 x 15 11/16 in.)\r\nsheet: 57.2 x 46.9 cm (22 1/2 x 18 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"in pencil, lower left corner of image:  1997  3/25\r\nin pencil, verso lower left:  LUKAS CRAVO  1997  3/25\r\nin pencil, verso lower left corner:  (c) 244 [in unknown hand]",
+    "signed":"Signed in graphite, lower right corner of image:  [illegible]",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Mario Cravo Neto",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lukas Cravo",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3985,
+            "displayname":"Mario Cravo Neto",
+            "displaydate":"Brazilian, 1947–2009",
+            "datebegin":1947,
+            "dateend":2009,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Mario Cravo Neto, Brazilian, 1947–2009",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>The Witkin Gallery, New York, NY;</p><p>Purchased by the Princeton University Art Museum</p><p><br></p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":84319,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10954",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 105",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Brazil",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":null,
+            "country":"Brazil",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3469034/federative-republic-of-brazil.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038525,
+            "term":"Brazilian",
+            "aatid":300107967,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038525,
+            "culture":"Brazilian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.90"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10954"
+    ],
+    "displaymaker":"Mario Cravo Neto, Brazilian, 1947–2009",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mario Cravo Neto (Brazilian, 1947–2009), Lukas Cravo, 1997. Gelatin silver print; 40.2 x 39.9 cm (image), 57.2 x 46.9 cm (sheet). Museum purchase, anonymous gift (1998-3)",
+    "captionhtml":"Mario Cravo Neto (Brazilian, 1947–2009), <i>Lukas Cravo</i>, 1997. Gelatin silver print; 40.2 x 39.9 cm (image), 57.2 x 46.9 cm (sheet). Museum purchase, anonymous gift (1998-3)",
+    "published_date":"2025-10-16 13:44:53.621885",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

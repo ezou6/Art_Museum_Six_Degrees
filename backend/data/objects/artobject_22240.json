@@ -1,0 +1,172 @@
+{
+    "type":"artobject",
+    "objectid":22240,
+    "objectnumber":"y1943-49",
+    "sortnumber":"1943   49y",
+    "displaytitle":"Scarab",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Gems",
+    "datebegin":-700,
+    "dateend":500,
+    "datecomputed":-100,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Amethyst glass",
+    "dimensions":"0.8 x 0.5 cm (5/16 x 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Scarab",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Unknown provenance; with the Museum by at least 1943",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":23146,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43025",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":24207,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43633",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049393,
+            "term":"gems",
+            "aatid":300011172,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055411,
+            "term":"scarabs",
+            "aatid":300230813,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055411,
+            "classification":"scarabs"
+        },
+        {
+            "id":2049393,
+            "classification":"gems"
+        },
+        {
+            "id":2161148,
+            "classification":"glass"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"0.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"0.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43025"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Scarab. Amethyst glass; 0.8 x 0.5 cm. Museum Collection (y1943-49)",
+    "captionhtml":"Roman, <i>Scarab</i>. Amethyst glass; 0.8 x 0.5 cm. Museum Collection (y1943-49)",
+    "published_date":"2025-10-31 02:03:59.133257",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

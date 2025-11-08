@@ -1,0 +1,233 @@
+{
+    "type":"artobject",
+    "objectid":85617,
+    "objectnumber":"2012-108",
+    "sortnumber":"2012  108",
+    "displaytitle":"Taos Man",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1969,
+    "dateend":1969,
+    "datecomputed":1969,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1969",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 54 x 39.4 cm. (21 1/4 x 15 1/2 in.)\r\nsheet: 60.5 x 48.9 cm. (23 13/16 x 19 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alfred L. Bush",
+    "markings":"Stamp with address, verso",
+    "inscribed":"Titled in graphite, verso lower left\r\n",
+    "signed":"Signed in graphite, verso lower right\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Douglas Kent Hall",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Taos Man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12695,
+            "displayname":"Douglas Kent Hall",
+            "displaydate":"American, 1938–2008",
+            "datebegin":1938,
+            "dateend":2008,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Douglas Kent Hall, American, 1938–2008",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":111010,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34193",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 125",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New Mexico, Taos",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":"American Southwest",
+            "country":"United States",
+            "region":null,
+            "state":"New Mexico",
+            "city":"Taos",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5493811/taos.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040533,
+            "term":"Taos",
+            "aatid":300017759,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        },
+        {
+            "id":2040533,
+            "culture":"Taos"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.90"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34193"
+    ],
+    "displaymaker":"Douglas Kent Hall, American, 1938–2008",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Douglas Kent Hall (American, 1938–2008), Taos Man, 1969. Gelatin silver print; 54 x 39.4 cm (image), 60.5 x 48.9 cm (sheet). Gift of Alfred L. Bush (2012-108)",
+    "captionhtml":"Douglas Kent Hall (American, 1938–2008), <i>Taos Man</i>, 1969. Gelatin silver print; 54 x 39.4 cm (image), 60.5 x 48.9 cm (sheet). Gift of Alfred L. Bush (2012-108)",
+    "published_date":"2025-10-16 17:05:22.091202",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

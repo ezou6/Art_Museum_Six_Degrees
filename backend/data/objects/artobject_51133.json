@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":51133,
+    "objectnumber":"2006-445",
+    "sortnumber":"2006  445",
+    "displaytitle":"Xochimilco, Distrito Federal, México (Xochimilco, Federal District, Mexico)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1915,
+    "dateend":1925,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1920",
+    "medium":"Gelatin silver print postcard",
+    "dimensions":"8.3 x 13.3 cm. (3 1/4 x 5 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Forrest D. Colburn",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Xochimilco, D.F.",
+            "titletype":"Published",
+            "displayorder":4
+        }
+    ],
+    "makers":[
+        {
+            "id":12991,
+            "displayname":"Hugo Brehme",
+            "displaydate":"1882–1954; born Eisenach, Germany; died Mexico City, Mexico; active Mexico",
+            "datebegin":1882,
+            "dateend":1954,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hugo Brehme, 1882–1954; born Eisenach, Germany; died Mexico City, Mexico; active Mexico",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Forrest D. Colburn, New York, NY, by 2006; gift to Princeton University Art Museum, 2006.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":66420,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09089",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":106289,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2006-445",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Eduardo Cadava and Gabriela Nouzeilles, <EM>The Itinerant Languages of Photography </EM>(Princeton, NJ: Princeton University Art Museum; New Haven: Yale University Press, 2013).",
+            "citation":"Eduardo Cadava and Gabriela Nouzeilles, <EM>The Itinerant Languages of Photography </EM>(Princeton, NJ: Princeton University Art Museum; New Haven: Yale University Press, 2013)., plate 23",
+            "date":2013,
+            "id":2043,
+            "uri":"http://www.worldcat.org/oclc/844731591"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 61",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, Mexico, Xochimilco, Mexico City",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Xochimilco, Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8379481/xochimilco.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2006-445"
+    ],
+    "displaymaker":"Hugo Brehme, 1882–1954; born Eisenach, Germany; died Mexico City, Mexico; active Mexico",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hugo Brehme (1882–1954; born Eisenach, Germany; died Mexico City, Mexico; active Mexico), Xochimilco, Distrito Federal, México (Xochimilco, Federal District, Mexico), ca. 1920. Gelatin silver print postcard; 8.3 x 13.3 cm. Gift of Forrest D. Colburn (2006-445)",
+    "captionhtml":"Hugo Brehme (1882–1954; born Eisenach, Germany; died Mexico City, Mexico; active Mexico), <i>Xochimilco, Distrito Federal, México (Xochimilco, Federal District, Mexico)</i>, ca. 1920. Gelatin silver print postcard; 8.3 x 13.3 cm. Gift of Forrest D. Colburn (2006-445)",
+    "published_date":"2025-10-16 15:13:30.227752",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

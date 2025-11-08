@@ -1,0 +1,193 @@
+{
+    "type":"artobject",
+    "objectid":3967,
+    "objectnumber":"x1942-214",
+    "sortnumber":"1942  214x",
+    "displaytitle":"Lake Scene",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1855,
+    "dateend":1906,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Engraving, India proof",
+    "dimensions":"image: 5.7 x 10 cm. (2 1/4 x 3 15/16 in.)\r\nsheet: 24.5 x 21 cm. (9 5/8 x 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite, lower right: A.V.S. Anthony",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lake Scene",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":119,
+            "displayname":"A.V.S. Anthony",
+            "displaydate":"American, 1835–1906",
+            "datebegin":1835,
+            "dateend":1906,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"A.V.S. Anthony, American, 1835–1906",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105436,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29858",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105437,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29859",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29859"
+    ],
+    "displaymaker":"A.V.S. Anthony, American, 1835–1906",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"A.V.S. Anthony (American, 1835–1906), Lake Scene. Engraving, India proof; 5.7 x 10 cm (image), 24.5 x 21 cm (sheet). Mather Collection (x1942-214)",
+    "captionhtml":"A.V.S. Anthony (American, 1835–1906), <i>Lake Scene</i>. Engraving, India proof; 5.7 x 10 cm (image), 24.5 x 21 cm (sheet). Mather Collection (x1942-214)",
+    "published_date":"2025-10-16 10:27:35.176098",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

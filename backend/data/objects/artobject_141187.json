@@ -1,0 +1,202 @@
+{
+    "type":"artobject",
+    "objectid":141187,
+    "objectnumber":"2023-64",
+    "sortnumber":"2023   64",
+    "displaytitle":"Self-Portrait",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1819,
+    "dateend":1829,
+    "datecomputed":1824,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"ca. 1824–26",
+    "medium":"Oil on canvas",
+    "dimensions":"88.5 × 73 cm (34 13/16 × 28 3/4 in.)\r\nframe: 101.6 × 86 × 7.6 cm (40 × 33 7/8 × 3 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Carl Otto von Kienbusch, Jr. Memorial Collection Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2023-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Self-Portrait",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22865,
+            "displayname":"Charlotte Bonaparte",
+            "displaydate":"1802–1839; born Mortefontaine, France; died Sarzana, Italy; active Brussels, New Jersey, and Rome)",
+            "datebegin":1802,
+            "dateend":1839,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charlotte Bonaparte, 1802–1839; born Mortefontaine, France; died Sarzana, Italy; active Brussels, New Jersey, and Rome)",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Charlotte Bonaparte (1802-1839); by descent to her sister, Zénaïde Bonaparte (1801-1854) and Charles Lucien Bonaparte (1803-1857), and thence by descent until 2021; Orsini Arte e Libri (Milan), 2021; Robilant + Voena, 2022; 2023 purchase by Princeton University Art Museum.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tCharlotte Bonaparte portrayed herself in a simple green dress, holding a pen while balancing an architectural capriccio and portfolio of drawings on her lap. The second child of Napoleon’s brother Joseph, Charlotte studied drawing and painting with Jacques-Louis David in Brussels before joining her father at his estate in Bordentown, New Jersey, where he had fled after Napoleon’s abdication in 1815. While in America, Charlotte continued to draw and paint, and exhibited at the Pennsylvania Academy of the Fine Arts. She likely painted this self-portrait upon her return to Europe in 1824, where she would have seen ancient architectural ruins similar to those in her capriccio.\n</p>",
+            "remarks":"EUR1_02-05_WLA-Day 1 Cataloguing "
+        }
+    ],
+    "media":[
+        {
+            "id":251908,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_11963",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":251953,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_11966",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"88.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"86.04"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.61"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_11966"
+    ],
+    "displaymaker":"Charlotte Bonaparte, 1802–1839; born Mortefontaine, France; died Sarzana, Italy; active Brussels, New Jersey, and Rome)",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charlotte Bonaparte (1802–1839; born Mortefontaine, France; died Sarzana, Italy; active Brussels, New Jersey, and Rome)), Self-Portrait, ca. 1824–26. Oil on canvas; 88.5 × 73 cm, 101.6 × 86 × 7.6 cm (frame). Museum purchase, Carl Otto von Kienbusch, Jr. Memorial Collection Fund (2023-64)",
+    "captionhtml":"Charlotte Bonaparte (1802–1839; born Mortefontaine, France; died Sarzana, Italy; active Brussels, New Jersey, and Rome)), <i>Self-Portrait</i>, ca. 1824–26. Oil on canvas; 88.5 × 73 cm, 101.6 × 86 × 7.6 cm (frame). Museum purchase, Carl Otto von Kienbusch, Jr. Memorial Collection Fund (2023-64)",
+    "published_date":"2025-10-16 19:07:29.773191",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

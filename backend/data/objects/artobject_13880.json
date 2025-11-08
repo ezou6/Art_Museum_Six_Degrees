@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":13880,
+    "objectnumber":"x1977-152",
+    "sortnumber":"1977  152x",
+    "displaytitle":"Abraham Lincoln",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1799,
+    "dateend":1899,
+    "datecomputed":1849,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Carte de visite",
+    "dimensions":"8.3 x 5.3 cm. (3 1/4 x 2 1/16 in.)\r\nmount: 8.4 x 5.3 cm. (3 5/16 x 2 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Henry Russell Hitchcock",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Abraham Lincoln",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":564,
+            "displayname":"Brady Studio",
+            "displaydate":"American, active 19th century",
+            "datebegin":1800,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Brady Studio, American, active 19th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91653,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":91654,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17677",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 39",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053777,
+            "term":"cartes-de-visite",
+            "aatid":300127141,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        },
+        {
+            "id":2053777,
+            "classification":"cartes-de-visite"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.40"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":152536,
+            "name":"web_CivilWar"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17676"
+    ],
+    "displaymaker":"Brady Studio, American, active 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Brady Studio (American, active 19th century), Abraham Lincoln. Carte de visite; 8.3 x 5.3 cm. Gift of Henry Russell Hitchcock (x1977-152)",
+    "captionhtml":"Brady Studio (American, active 19th century), <i>Abraham Lincoln</i>. Carte de visite; 8.3 x 5.3 cm. Gift of Henry Russell Hitchcock (x1977-152)",
+    "published_date":"2025-10-23 16:57:02.039756",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

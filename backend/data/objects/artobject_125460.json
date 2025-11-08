@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":125460,
+    "objectnumber":"2016-45",
+    "sortnumber":"2016   45",
+    "displaytitle":"Winter Sky",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":2002,
+    "dateend":2002,
+    "datecomputed":2002,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2002",
+    "medium":"Oil on canvas",
+    "dimensions":"320 × 274.3 cm (126 × 108 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist and Locks Gallery",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Pat Steir",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Winter Sky",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2546,
+            "displayname":"Pat Steir",
+            "displaydate":"born 1938, Newark, NJ; active New York, NY",
+            "datebegin":1938,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pat Steir, born 1938, Newark, NJ; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Pat Steirs, New York, New York, and Locks Gallery, New York, New York, gift; to Princeton University Art Museum, 2016.\n",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Steir created <em>Winter Sky</em> through an unrestrained aesthetic rooted in Chinese traditions of the eighth and ninth centuries, in which the modulation of ink washes was used to create vast landscapes. Chance is central to Steir’s practice; she pours, splashes, throws, and drips paint onto vertically hung unstretched canvases. Her compositions incorporate her practiced study of gravity and the interactive chemistry of the paint layers. Monumental in scale, the space‑forming <em>Winter Sky</em> engulfs its viewers, encouraging them to physically engage with the infinite universe while contemplating its ephemerality.",
+            "remarks":"MM rotation August 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":192919,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2016-24_VEN",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":null
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 139 (illus.)",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098560,
+            "term":"winter",
+            "aatid":300133101,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159364,
+            "term":"stars",
+            "aatid":300009811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"320.03"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"274.31"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":170452,
+            "name":"web_2019_MM_Fall_LandscapesMind"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2016-24_VEN"
+    ],
+    "displaymaker":"Pat Steir, born 1938, Newark, NJ; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pat Steir (born 1938, Newark, NJ; active New York, NY), Winter Sky, 2002. Oil on canvas; 320 × 274.3 cm. Gift of the artist and Locks Gallery (2016-45)",
+    "captionhtml":"Pat Steir (born 1938, Newark, NJ; active New York, NY), <i>Winter Sky</i>, 2002. Oil on canvas; 320 × 274.3 cm. Gift of the artist and Locks Gallery (2016-45)",
+    "published_date":"2025-10-16 18:24:03.899871",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

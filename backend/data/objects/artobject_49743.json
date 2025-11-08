@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":49743,
+    "objectnumber":"2006-367",
+    "sortnumber":"2006  367",
+    "displaytitle":"Celeste",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1980,
+    "dateend":1980,
+    "datecomputed":1980,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1980",
+    "medium":"Color soft-ground etching on Arches off-white wove paper",
+    "dimensions":"plate: 35.4 x 30 cm. (13 15/16 x 11 13/16 in.)\r\nsheet: 77.7 x 57 cm. (30 9/16 x 22 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":"Workshop blindstamp lower left",
+    "inscribed":"Titled in graphite, lower left: Celeste\r\nNumbered in graphite, bottom center: 28//35\r\nSigned and dated in graphite, lower right: Betty Tompkins © 1980",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Celeste",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12811,
+            "displayname":"Betty Tompkins",
+            "displaydate":"American, born 1945",
+            "datebegin":1945,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Betty Tompkins, American, born 1945",
+            "displayorder":1
+        },
+        {
+            "id":14295,
+            "displayname":"Orion Editions",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed and published by Orion Editions",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":143035,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63853",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 112",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2118677,
+            "term":"words",
+            "aatid":300250895,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103922,
+            "term":"cows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2155003,
+            "term":"soft-ground etching",
+            "aatid":300053251,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043871,
+            "term":"Arches (TM) paper",
+            "aatid":300183989,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"77.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63853"
+    ],
+    "displaymaker":"Betty Tompkins, American, born 1945 | Printed and published by Orion Editions",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Betty Tompkins (American, born 1945), Printed and published by Orion Editions, Celeste, 1980. Color soft-ground etching on Arches off-white wove paper; 35.4 x 30 cm (plate), 77.7 x 57 cm (sheet). Gift of James Kraft, Class of 1957 (2006-367)",
+    "captionhtml":"Betty Tompkins (American, born 1945), Printed and published by Orion Editions, <i>Celeste</i>, 1980. Color soft-ground etching on Arches off-white wove paper; 35.4 x 30 cm (plate), 77.7 x 57 cm (sheet). Gift of James Kraft, Class of 1957 (2006-367)",
+    "published_date":"2025-10-16 15:08:06.357681",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

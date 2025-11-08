@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":21091,
+    "objectnumber":"y1937-272",
+    "sortnumber":"1937  272y",
+    "displaytitle":"Model for an angel",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1690,
+    "dateend":1700,
+    "datecomputed":1695,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"ca. 1695",
+    "medium":"Terracotta",
+    "dimensions":"27 × 15.5 × 13.5 cm (10 5/8 × 6 1/8 × 5 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Model for an angel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3667,
+            "displayname":"Giuseppe Mazzuoli",
+            "displaydate":"Italian, 1644–1725",
+            "datebegin":1644,
+            "dateend":1725,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Giuseppe Mazzuoli, Italian, 1644–1725",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The Italian word bozzetto is derived from the verb abbozzare, to sketch, and this example can be considered a three-dimensional sketch in clay. Baroque sculptors used clay to work out problems of structure and composition, an approach Mazzuoli learned in Rome. This bozzetto was a preparatory design for one of the two angels he was commissioned to create for the altarpiece of the church of S. Donato in Siena. Raw and spontaneous, it fixes the master’s fi rst ideas for the fi gure and captures his gestures in the act of creation. Mazzuoli created a series of increasingly refined and fi nished bozzetti, and other models from the commission are preserved, helping us follow the design process. This exacting procedure was necessary when the fi nal product was to be executed in an expensive, technically demanding medium such as marble or bronze.",
+            "remarks":"y1937-272 reformatted.pdf"
+        }
+    ],
+    "media":[
+        {
+            "id":14366,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1937-272",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<i>Princeton University Art Museum: Handbook of the Collection</i> (New Haven, CT: Yale University Press, 2007)",
+            "citation":"<i>Princeton University Art Museum: Handbook of the Collection</i> (New Haven, CT: Yale University Press, 2007), 193 (illus.)",
+            "date":2007,
+            "id":474,
+            "uri":"http://www.worldcat.org/oclc/191864564"
+        },
+        {
+            "boilertext":"Betsy Rosasco, \"The teaching of art and the museum tradition: Joseph Henry to Allan Marquand,\"&nbsp; in \"An art museum for Princeton: the early years\", special issue, <EM>Record of the Art Museum, Princeton University</EM> 55, no. 1/2 (1996): p. 7-52.",
+            "citation":"Betsy Rosasco, \"The teaching of art and the museum tradition: Joseph Henry to Allan Marquand,\"&nbsp; in \"An art museum for Princeton: the early years\", special issue, <EM>Record of the Art Museum, Princeton University</EM> 55, no. 1/2 (1996): p. 7-52., fig. 21",
+            "date":1996,
+            "id":3052,
+            "uri":"https://www.jstor.org/stable/3774779"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171831,
+            "term":"angels",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122387,
+            "term":"prayer",
+            "aatid":300026452,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151022,
+            "term":"kneeling",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        },
+        {
+            "packageid":181507,
+            "name":"CRS_2020_ART326_04_01"
+        },
+        {
+            "packageid":210104,
+            "name":"2022_ART548_02_23"
+        },
+        {
+            "packageid":181958,
+            "name":"web_2020_K1-3"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1937-272"
+    ],
+    "displaymaker":"Giuseppe Mazzuoli, Italian, 1644–1725",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Giuseppe Mazzuoli (Italian, 1644–1725), Model for an angel, ca. 1695. Terracotta; 27 × 15.5 × 13.5 cm. Museum purchase (y1937-272)",
+    "captionhtml":"Giuseppe Mazzuoli (Italian, 1644–1725), <i>Model for an angel</i>, ca. 1695. Terracotta; 27 × 15.5 × 13.5 cm. Museum purchase (y1937-272)",
+    "published_date":"2025-10-17 08:25:00.226203",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

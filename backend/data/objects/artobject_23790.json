@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":23790,
+    "objectnumber":"y1949-86",
+    "sortnumber":"1949   86y",
+    "displaytitle":"Landscape, in Ming style",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":0,
+    "dateend":1949,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink on silk",
+    "dimensions":"Painting: 69.5 x 39.5 cm. (27 3/8 x 15 9/16 in.)\r\nMount: 222 x 54 cm. (87 3/8 x 21 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Seven characters in ink on label adhered to edge of rolled scroll; Seven characters in ink on label adhered to silk bag ",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape, in Ming style",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2352,
+            "displayname":"Sheng Wu",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":", copy of",
+            "role":"Artist",
+            "displaymaker":"Sheng Wu, copy of",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1949 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":61864,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08246",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":64197,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-86",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119959,
+            "term":"waterfalls",
+            "aatid":300008736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172874,
+            "term":"cliffs",
+            "aatid":300008749,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"222.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"54.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-86"
+    ],
+    "displaymaker":"Sheng Wu, copy of",
+    "displayculture":"Chinese",
+    "displayperiod":null,
+    "caption":"Chinese, Sheng Wu, copy of, Landscape, in Ming style, undated. Hanging scroll; ink on silk; 69.5 x 39.5 cm (Painting), 222 x 54 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-86)",
+    "captionhtml":"Chinese, Sheng Wu, copy of, <i>Landscape, in Ming style</i>, undated. Hanging scroll; ink on silk; 69.5 x 39.5 cm (Painting), 222 x 54 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-86)",
+    "published_date":"2025-10-23 17:05:45.085248",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

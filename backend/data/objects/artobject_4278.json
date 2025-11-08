@@ -1,0 +1,199 @@
+{
+    "type":"artobject",
+    "objectid":4278,
+    "objectnumber":"x1943-101.1",
+    "sortnumber":"1943  101x    1",
+    "displaytitle":"Inscriptions in graphite by Gertrude Hall Brownell and Ralph Martin",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1875,
+    "dateend":1876,
+    "datecomputed":1876,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1875 – 1876",
+    "medium":"Pen and ink",
+    "dimensions":"sheet: 12.4 × 20.1 cm (4 7/8 × 7 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"in ink, center: To Frank Jewett Mather | with kindest regards of | Gertrude Hall Brownell | who received this sketch book | from Ralph Martin | son of Homer Dodge Martin | May 25, 1942\r\nin ink, on laid-in handwritten calling card verso: This, My Dear Mrs. Brownell | will, I believe, prove to be interesting and informative | to you. Anyhow I hope so | RM.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Inscriptions in graphite by Gertrude Hall Brownell and Ralph Martin",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4835,
+            "displayname":"Homer Dodge Martin",
+            "displaydate":"1836–1897; born Albany, NY; died St. Paul, MN",
+            "datebegin":1836,
+            "dateend":1897,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Homer Dodge Martin, 1836–1897; born Albany, NY; died St. Paul, MN",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ralph Martin; Gertrude Hall Brownell (the artist's son); Gertrude Hall Brownell (Mrs. W.C. Brownell); Frank Jewett Mather, Jr.",
+            "remarks":"Published in Bib 4724"
+        }
+    ],
+    "media":[
+        {
+            "id":115406,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV37873",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976).",
+            "citation":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976)., Appendix pp. 133-134",
+            "date":1976,
+            "id":5635,
+            "uri":"http://www.worldcat.org/oclc/2681117"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 334, checklist no. [unnumbered between 755 and 756]",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122698,
+            "term":"letters (correspondence)",
+            "aatid":300026879,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125468,
+            "term":"sketchbooks",
+            "aatid":300027354,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125468,
+            "classification":"sketchbooks"
+        },
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV37873"
+    ],
+    "displaymaker":"Homer Dodge Martin, 1836–1897; born Albany, NY; died St. Paul, MN",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Homer Dodge Martin (1836–1897; born Albany, NY; died St. Paul, MN), Inscriptions in graphite by Gertrude Hall Brownell and Ralph Martin, 1875 – 1876. Pen and ink; 12.4 × 20.1 cm (sheet). Gift of Frank Jewett Mather Jr. (x1943-101.1)",
+    "captionhtml":"Homer Dodge Martin (1836–1897; born Albany, NY; died St. Paul, MN), <i>Inscriptions in graphite by Gertrude Hall Brownell and Ralph Martin</i>, 1875 – 1876. Pen and ink; 12.4 × 20.1 cm (sheet). Gift of Frank Jewett Mather Jr. (x1943-101.1)",
+    "published_date":"2025-10-16 10:30:09.695316",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

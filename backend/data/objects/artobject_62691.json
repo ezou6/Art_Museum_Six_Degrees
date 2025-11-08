@@ -1,0 +1,209 @@
+{
+    "type":"artobject",
+    "objectid":62691,
+    "objectnumber":"ui.2011.94",
+    "sortnumber":"i      2011u   94",
+    "displaytitle":"Mortar",
+    "department":"Art of the Ancient Americas",
+    "classification":"Vessels",
+    "datebegin":1700,
+    "dateend":1882,
+    "datecomputed":1791,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"before 1882",
+    "medium":"Stone",
+    "dimensions":"8.5 × 14.5 × 13.3 cm (3 3/8 × 5 11/16 × 5 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mortar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to Princeton Theological Seminary, 1879-1882; Given to E. M. Museum (Princeton Museum of Natural History), 1882",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":61261,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV013386",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, probably Howkan",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"probably Howkan",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5553554/howkan-historical.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2116104,
+            "term":"blades",
+            "aatid":300024917,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040056,
+            "term":"Haida",
+            "aatid":300017606,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135632,
+            "term":"tools",
+            "aatid":300024841,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140584,
+            "term":"mortars (grinding tools)",
+            "aatid":300024724,
+            "termtype":"Classification"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2116104,
+            "classification":"blades"
+        },
+        {
+            "id":2135632,
+            "classification":"tools"
+        },
+        {
+            "id":2140584,
+            "classification":"mortars (grinding tools)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14106,
+            "culture":"Haida",
+            "alphasort":"Haida",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haida",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040056,
+            "culture":"Haida"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143782,
+            "name":"CRS_5HaidaTools [2]"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV013386"
+    ],
+    "displaymaker":null,
+    "displayculture":"Haida",
+    "displayperiod":null,
+    "caption":"Haida, before 1882, probably Howkan, Northwest Coast, Mortar. Stone; 8.5 × 14.5 × 13.3 cm. Museum Collection (ui.2011.94)",
+    "captionhtml":"Haida, before 1882, probably Howkan, Northwest Coast, <i>Mortar</i>. Stone; 8.5 × 14.5 × 13.3 cm. Museum Collection (ui.2011.94)",
+    "published_date":"2025-10-16 16:13:05.305459",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":10613,
+    "objectnumber":"x1965-78",
+    "sortnumber":"1965   78x",
+    "displaytitle":"Three Arches, Princeton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1909,
+    "dateend":1954,
+    "datecomputed":1932,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching, 90/300",
+    "dimensions":"plate: 22.2 x 19 cm (8 3/4 x 7 1/2 in.)\r\nsheet: 32 x 25.5 cm (12 5/8 x 10 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Artist (Don Swann)",
+    "markings":null,
+    "inscribed":"Signed in pencil, lower right below plate: Don Swann",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Three Arches, Princeton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2657,
+            "displayname":"Don Swann",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Don Swann",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104453,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28875",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28875"
+    ],
+    "displaymaker":"Don Swann",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Don Swann, Three Arches, Princeton. Etching, 90/300; 22.2 x 19 cm (plate), 32 x 25.5 cm (sheet). Gift of the Artist (Don Swann) (x1965-78)",
+    "captionhtml":"Don Swann, <i>Three Arches, Princeton</i>. Etching, 90/300; 22.2 x 19 cm (plate), 32 x 25.5 cm (sheet). Gift of the Artist (Don Swann) (x1965-78)",
+    "published_date":"2025-10-23 16:53:22.659469",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

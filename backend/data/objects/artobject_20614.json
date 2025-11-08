@@ -1,0 +1,275 @@
+{
+    "type":"artobject",
+    "objectid":20614,
+    "objectnumber":"y1936-708",
+    "sortnumber":"1936  708y",
+    "displaytitle":"Copper snuff bottle painted with European ladies holding flowers with a crook",
+    "department":"Asian Art",
+    "classification":"Snuff Bottles",
+    "datebegin":1736,
+    "dateend":1795,
+    "datecomputed":1766,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1736–1795",
+    "medium":"Copper with enamels",
+    "dimensions":"5.8 x 3.8 x 2.1 cm\r\nh. without stopper 5.0 cm. (1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Col. James A. Blair, Class of 1903",
+    "markings":"Qianlong four-character blue enamel mark and of the period",
+    "inscribed":"Imperial mark in blue on base",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1936-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Snuff bottle",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Colonel James A. Blair (d. 1934), by 1934; bequest to the Princeton University Art Museum, 1936.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":53444,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV021127",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":53445,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV021129",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":53446,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV021130",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Michael C. Hughes, <i>The Blair Bequest: Chinese Snuff Bottles from the Princeton University Art Museum</i> (Baltimore: The International Chinese Snuff Bottle Society, 2002)",
+            "citation":"Michael C. Hughes, <i>The Blair Bequest: Chinese Snuff Bottles from the Princeton University Art Museum</i> (Baltimore: The International Chinese Snuff Bottle Society, 2002), cat. 362, p. 263, illus.",
+            "date":2002,
+            "id":1398,
+            "uri":"http://www.worldcat.org/oclc/51575211"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1489,
+            "citation":"Encounters: Conflict, Dialogue, Discovery, Princeton University Art Museum (July 14– September 23, 2012)",
+            "isvirtual":true,
+            "begindate":"2012-07-14",
+            "enddate":"2012-09-23",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1489"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1816670/beijing.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033620,
+            "term":"Qianlong",
+            "aatid":300018486,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033657,
+            "term":"Peking",
+            "aatid":300245351,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2074595,
+            "term":"snuff bottles",
+            "aatid":300220809,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151516,
+            "term":"enameling",
+            "aatid":300053773,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162034,
+            "term":"copper",
+            "aatid":300011020,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167392,
+            "term":"enamel",
+            "aatid":300014910,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151516,
+            "classification":"enameling"
+        },
+        {
+            "id":2074595,
+            "classification":"snuff bottles"
+        },
+        {
+            "id":2033657,
+            "classification":"peking"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13958,
+            "period":"Qianlong reign period",
+            "alphasort":"Qianlong reign period",
+            "begindate":1736,
+            "enddate":1795,
+            "displayperiod":"Qing dynasty, Qianlong reign period, 1736–1795",
+            "displaydate":"1736–1795"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033620,
+            "period":"Qianlong"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264565,
+            "name":"VisibleStorage_DenseDisplay_G2_EuroDecArts"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV021127"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, Qianlong reign period, 1736–1795",
+    "caption":"Chinese, Qing dynasty, Qianlong reign period (1736–1795), Copper snuff bottle painted with European ladies holding flowers with a crook, 1736–1795. Copper with enamels; 5 cm. Bequest of Col. James A. Blair, Class of 1903 (y1936-708)",
+    "captionhtml":"Chinese, Qing dynasty, Qianlong reign period (1736–1795), Copper snuff bottle painted with European ladies holding flowers with a crook, 1736–1795. Copper with enamels; 5 cm. Bequest of Col. James A. Blair, Class of 1903 (y1936-708)",
+    "published_date":"2025-10-30 02:00:50.102627",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

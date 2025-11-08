@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":48137,
+    "objectnumber":"1995-411",
+    "sortnumber":"1995  411",
+    "displaytitle":"Man's wrapper (kente)",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Cotton and dye",
+    "dimensions":"h. 295.5 cm., w. 211.5 cm. (116 5/16 x 83 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Man's wrapper (kente)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15611,
+            "displayname":"Ewe",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Ewe artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Eric Robertson, New York, NY]; Mr. &amp; Mrs. H. Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1995",
+            "remarks":"Dec. 1995 list of gifts, donor file"
+        }
+    ],
+    "media":[
+        {
+            "id":45802,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010568",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-411_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 73",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Ghana",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Ghana",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2300660/republic-of-ghana.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188460,
+            "term":"prestige",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042139,
+            "term":"Ewe",
+            "aatid":300016018,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044686,
+            "term":"kente",
+            "aatid":300014085,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095240,
+            "term":"symbolism",
+            "aatid":300055865,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122399,
+            "term":"proverbs",
+            "aatid":300188783,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199115,
+            "term":"strip weaving",
+            "aatid":null,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044421,
+            "term":"cotton (textile)",
+            "aatid":300014067,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2151468,
+            "term":"sewing",
+            "aatid":300053658,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2044686,
+            "classification":"kente"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042139,
+            "culture":"Ewe"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"295.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"211.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010568"
+    ],
+    "displaymaker":"Ewe artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ewe artist, Ghana, Western Africa, Man's wrapper (kente), 20th century. Cotton and dye; 295.5 x 211.5 cm, 295.5 x 211.5 cm. Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-411)",
+    "captionhtml":"Ewe artist, Ghana, Western Africa, <i>Man's wrapper (kente)</i>, 20th century. Cotton and dye; 295.5 x 211.5 cm, 295.5 x 211.5 cm. Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-411)",
+    "published_date":"2025-10-16 14:56:31.649490",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

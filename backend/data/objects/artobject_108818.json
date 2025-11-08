@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":108818,
+    "objectnumber":"2019-382 a-b",
+    "sortnumber":"2019  382 a    b",
+    "displaytitle":"Two fragments from a carved screen",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Architectural Elements",
+    "datebegin":300,
+    "dateend":499,
+    "datecomputed":400,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th–5th century CE",
+    "medium":"White marble",
+    "dimensions":"A: 22.5 × 28.5 × 5.7 cm (8 7/8 × 11 1/4 × 2 1/4 in.)\r\nB: 12.5 × 16.2 × 5 cm (4 15/16 × 6 3/8 × 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Committee for the Excavation of Antioch to Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two fragments from a carved screen",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated by the Princeton-led team at Antioch-on-the-Orontes, present-day Antakya, Turkey, 1931-1939; with the Museum since 1939",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":159907,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV76265",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":159908,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV76266",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":160337,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV76621",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":160338,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV76622",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Turkey, Seleuceia",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Seleuceia",
+            "locus":"13-R south",
+            "river":null,
+            "excavation":"Antioch-on-the-Orontes",
+            "geoname":"http://www.geonames.org/maps/google_36.08_35.976.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2064803,
+            "term":"screens (furniture)",
+            "aatid":300037737,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2107406,
+            "term":"architectural elements",
+            "aatid":300000885,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2107406,
+            "classification":"architectural elements"
+        },
+        {
+            "id":2064803,
+            "classification":"screens (furniture)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":278709,
+            "name":"Web_Archive|Collection_Antioch_Objs"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV76621"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Turkey, 4th–5th century CE, Two fragments from a carved screen. White marble; 22.5 × 28.5 × 5.7 cm, 12.5 × 16.2 × 5 cm. Gift of the Committee for the Excavation of Antioch to Princeton University (2019-382 a-b)",
+    "captionhtml":"Roman, Turkey, 4th–5th century CE, <i>Two fragments from a carved screen</i>. White marble; 22.5 × 28.5 × 5.7 cm, 12.5 × 16.2 × 5 cm. Gift of the Committee for the Excavation of Antioch to Princeton University (2019-382 a-b)",
+    "published_date":"2025-10-30 02:07:53.159296",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

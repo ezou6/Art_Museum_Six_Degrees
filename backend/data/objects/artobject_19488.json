@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":19488,
+    "objectnumber":"y1930-295",
+    "sortnumber":"1930  295y",
+    "displaytitle":"Netsuke: Daruma",
+    "department":"Asian Art",
+    "classification":"Ornament",
+    "datebegin":1603,
+    "dateend":1868,
+    "datecomputed":1736,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Ivory",
+    "dimensions":"h. 2.4 cm., w. 3.2 cm., d. 2.5 cm. (15/16 x 1 1/4 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Morse Collection",
+    "markings":"In graphite on bottom: 92\r\nIn graphite on bottom: 275a \r\nIn graphite on bottom: 143/175",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Netsuke: Daruma",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"William Horace Morse (1840–1904), Japan, until d. 1904; by inheritance to his widow, Sarah V. Morse, and his children, Franklin B. Morse, Class of 1895, Virginia C. Morse, and William O. Morse, Class of 1902, 1904; given to the Princeton University Art Museum, 1905.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Didactics",
+            "textentryhtml":"Small figurines known as netsuke are believed to have come into use as functional accessories at the end of the sixteenth century. Most have holes drilled into them to allow for the threading of a cord. When it was fashionable to carry daily necessities in small containers and pouches suspended from a sash at the waist, netsuke acted as toggles to prevent the containers’ cords from slipping. They were also prized art objects, collected by the wealthy and valued for their fine craftsmanship.\r\n\r\nMany netsuke craftsmen were also carvers of dolls and highly skilled in realistic portrayals of the human form. Although carvers used printed books with illustrations of deities as references, many produced innovative work by giving their little creations comic gestures and poses. Some carvers were also inspired by paintings such as the ones hanging in this installation.",
+            "remarks":"Modified from December 2013 Asian Rotation chat to work at individual object-level for website feature \"In the Galleries\". Asian_HumorandWit_Dec2013_netsuke.pdf"
+        }
+    ],
+    "media":[
+        {
+            "id":54572,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV021865",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055017,
+            "term":"netsukes",
+            "aatid":300184865,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2166225,
+            "term":"ivory",
+            "aatid":300011857,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055017,
+            "classification":"netsukes"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.18"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264606,
+            "name":"DenseDispaly_Asian_at_20250205"
+        },
+        {
+            "packageid":264566,
+            "name":"VisibleStorage_DenseDisplay_G13_Asia_WorldInMini"
+        },
+        {
+            "packageid":3735,
+            "name":"Web_Japanese_2013_12"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV021865"
+    ],
+    "displaymaker":null,
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Netsuke: Daruma. Ivory; 2.4 x 3.2 x 2.5 cm. Morse Collection (y1930-295)",
+    "captionhtml":"Japanese, Edo period (1603–1868), <i>Netsuke: Daruma</i>. Ivory; 2.4 x 3.2 x 2.5 cm. Morse Collection (y1930-295)",
+    "published_date":"2025-10-23 16:59:26.589394",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":33577,
+    "objectnumber":"y1993-102",
+    "sortnumber":"1993  102y",
+    "displaytitle":"Carved spoon",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":800,
+    "dateend":1000,
+    "datecomputed":900,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"800–1000",
+    "medium":"Wood",
+    "dimensions":"15.9 × 4.5 × 1.2 cm, 15g (6 1/4 × 1 3/4 × 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Carved spoon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":3673,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1993-102_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":50637,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV017856",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 90",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, South coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"South coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036029,
+            "term":"Huari",
+            "aatid":300017283,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036036,
+            "term":"Middle horizon",
+            "aatid":300017300,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2135992,
+            "term":"spoons",
+            "aatid":300043149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2135992,
+            "classification":"spoons"
+        },
+        {
+            "id":2156347,
+            "classification":"carving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13511,
+            "culture":"Wari",
+            "alphasort":"Wari",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Wari",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036029,
+            "culture":"Huari"
+        }
+    ],
+    "periods":[
+        {
+            "id":13507,
+            "period":"Middle Horizon Period",
+            "alphasort":"Horizon, Middle",
+            "begindate":550,
+            "enddate":1000,
+            "displayperiod":"Middle Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036036,
+            "period":"Middle horizon"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"15.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Weight",
+            "units":"kilograms",
+            "dimension":"15.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV017856"
+    ],
+    "displaymaker":null,
+    "displayculture":"Wari",
+    "displayperiod":"Middle Horizon Period",
+    "caption":"Wari, Middle Horizon Period, 800–1000, South coast, Peru, Andes, Carved spoon. Wood; 15.9 × 4.5 × 1.2 cm, 15g. Anonymous gift (y1993-102)",
+    "captionhtml":"Wari, Middle Horizon Period, 800–1000, South coast, Peru, Andes, <i>Carved spoon</i>. Wood; 15.9 × 4.5 × 1.2 cm, 15g. Anonymous gift (y1993-102)",
+    "published_date":"2025-10-16 13:36:36.654222",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

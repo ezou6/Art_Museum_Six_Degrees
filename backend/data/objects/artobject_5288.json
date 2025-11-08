@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":5288,
+    "objectnumber":"x1947-208",
+    "sortnumber":"1947  208x",
+    "displaytitle":"Cleveland Tower",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1896,
+    "dateend":1947,
+    "datecomputed":1922,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Black chalk and gouache",
+    "dimensions":"60.7 x 45.5 cm (23 7/8 x 17 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Stuart Borchard in 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in blue paint, lower left: Jane Peterson",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cleveland Tower",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3004,
+            "displayname":"Jane Peterson",
+            "displaydate":"American, 1876–1965",
+            "datebegin":1876,
+            "dateend":1965,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jane Peterson, American, 1876–1965",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":16462,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1947_208_aa",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":108505,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV32301",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 340, checklist no. 855 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Princeton, Cleveland Tower, Princeton University",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Cleveland Tower, Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.341_-74.665.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078374,
+            "term":"towers (single built works)",
+            "aatid":300004847,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083069,
+            "term":"universities",
+            "aatid":300006617,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041362,
+            "term":"Collegiate Gothic",
+            "aatid":300260497,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1947_208_aa"
+    ],
+    "displaymaker":"Jane Peterson, American, 1876–1965",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jane Peterson (American, 1876–1965), Cleveland Tower. Black chalk and gouache; 60.7 x 45.5 cm. Gift of Mr. and Mrs. Stuart Borchard in 1935 (x1947-208)",
+    "captionhtml":"Jane Peterson (American, 1876–1965), <i>Cleveland Tower</i>. Black chalk and gouache; 60.7 x 45.5 cm. Gift of Mr. and Mrs. Stuart Borchard in 1935 (x1947-208)",
+    "published_date":"2025-10-16 10:37:16.170104",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

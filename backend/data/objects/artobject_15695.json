@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":15695,
+    "objectnumber":"x1984-2",
+    "sortnumber":"1984    2x",
+    "displaytitle":"A Stag at Sharkey's",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1917,
+    "dateend":1917,
+    "datecomputed":1917,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1917",
+    "medium":"Lithograph",
+    "dimensions":"image: 47.6 x 60.9 cm. (18 3/4 x 24 in.)\r\nsheet: 54.4 x 66.8 cm. (21 7/16 x 26 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Charles Gaylord, Class of 1934",
+    "markings":null,
+    "inscribed":"Signed on stone, bottom center: Geo. Bellows\r\n\r\nInscribed in graphite by the artist in lower margin, left and center: No. 1 / A Stag at Sharkey's",
+    "signed":null,
+    "catalograisonne":"Mason 46; Bellows 71",
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1984-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"A Stag at Sharkey's",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":335,
+            "displayname":"George Wesley Bellows",
+            "displaydate":"1882–1925; born Columbus, OH; died, New York, NY; active New York, NY",
+            "datebegin":1882,
+            "dateend":1925,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Wesley Bellows, 1882–1925; born Columbus, OH; died, New York, NY; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12286,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1984-2_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":78584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09398",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52.",
+            "citation":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52., p. 26, p. 28 (illus.)",
+            "date":1985,
+            "id":3134,
+            "uri":"https://www.jstor.org/stable/3774658"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084283,
+            "term":"arenas",
+            "aatid":300007268,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094579,
+            "term":"spectators",
+            "aatid":300189768,
+            "termtype":"Subject"
+        },
+        {
+            "id":2146932,
+            "term":"sports",
+            "aatid":300222725,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09398"
+    ],
+    "displaymaker":"George Wesley Bellows, 1882–1925; born Columbus, OH; died, New York, NY; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Wesley Bellows (1882–1925; born Columbus, OH; died, New York, NY; active New York, NY), A Stag at Sharkey's, 1917. Lithograph; 47.6 x 60.9 cm, 47.6 x 60.9 cm (image), 54.4 x 66.8 cm (sheet). Gift of Charles Gaylord, Class of 1934 (x1984-2)",
+    "captionhtml":"George Wesley Bellows (1882–1925; born Columbus, OH; died, New York, NY; active New York, NY), <i>A Stag at Sharkey's</i>, 1917. Lithograph; 47.6 x 60.9 cm, 47.6 x 60.9 cm (image), 54.4 x 66.8 cm (sheet). Gift of Charles Gaylord, Class of 1934 (x1984-2)",
+    "published_date":"2025-10-16 12:05:07.515625",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

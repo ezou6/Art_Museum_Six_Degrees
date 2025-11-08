@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":57116,
+    "objectnumber":"2009-105",
+    "sortnumber":"2009  105",
+    "displaytitle":"Jennifer (Couch)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2007,
+    "dateend":2007,
+    "datecomputed":2007,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2007",
+    "medium":"Inkjet print",
+    "dimensions":"image: 47.6 x 38.1 cm. (18 3/4 x 15 in.)\r\nsheet: 55.9 x 43.2 cm. (22 x 17 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist, Class of 2002, in honor of Emmet Gowin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 2007 Josephine Sittenfeld\r\n",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2009-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jennifer (Couch)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15096,
+            "displayname":"Josephine Sittenfeld",
+            "displaydate":"American, born 1980",
+            "datebegin":1980,
+            "dateend":1980,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Josephine Sittenfeld, American, born 1980",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":39981,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2009-105",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85., illustrated p. 82",
+            "date":2010,
+            "id":1248,
+            "uri":"https://www.jstor.org/stable/41757697"
+        },
+        {
+            "boilertext":null,
+            "citation":null,
+            "date":2008,
+            "id":3885,
+            "uri":"http://www.worldcat.org/oclc/238283687"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188610,
+            "term":"inkjet prints",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058168,
+            "term":"pale orange yellow",
+            "aatid":300128084,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2188610,
+            "classification":"inkjet prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"55.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2009-105"
+    ],
+    "displaymaker":"Josephine Sittenfeld, American, born 1980",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Josephine Sittenfeld (American, born 1980), Jennifer (Couch), 2007. Inkjet print; 47.6 x 38.1 cm (image), 55.9 x 43.2 cm (sheet). Gift of the artist, Class of 2002, in honor of Emmet Gowin (2009-105)",
+    "captionhtml":"Josephine Sittenfeld (American, born 1980), <i>Jennifer (Couch)</i>, 2007. Inkjet print; 47.6 x 38.1 cm (image), 55.9 x 43.2 cm (sheet). Gift of the artist, Class of 2002, in honor of Emmet Gowin (2009-105)",
+    "published_date":"2025-10-16 15:33:28.792736",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

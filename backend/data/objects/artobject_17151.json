@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":17151,
+    "objectnumber":"y1930-387",
+    "sortnumber":"1930  387y",
+    "displaytitle":"Beaker",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":300,
+    "dateend":499,
+    "datecomputed":400,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th–5th century CE",
+    "medium":"Transparent light blue glass",
+    "dimensions":"h. 11.6 cm, diam. rim 8.5 cm, diam. base 4.3 cm (4 9/16 x 3 3/8 x 1 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Howard Crosby Butler, Class of 1892",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Beaker",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Howard Crosby Butler",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Fire-polished, rounded rim, slightly flaring; almost cylindrical body, widening slightly toward the bottom; inherent pad foot. Thin coil of the same material wound around the body, 3.2 cm. below the rim. At the center of the bottom is a solid, circular pontil mark, 1.2 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        }
+    ],
+    "media":[
+        {
+            "id":74123,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1930-387",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 186 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Levant (Israel, Jordan, Lebanon, Syria, Palestine, Turkey, and adjacent areas)",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Levant (Israel, Jordan, Lebanon, Syria, Palestine, Turkey, and adjacent areas)",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34_36.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2076098,
+            "term":"beakers (drinking vessels)",
+            "aatid":300043198,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2076098,
+            "classification":"beakers (drinking vessels)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"8.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"4.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":264578,
+            "name":"VisibleStorage_DenseDisplay_G22_ABI_RomanGlass"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1930-387"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman Imperial Period (ca. 30 BCE–476 CE), 4th–5th century CE, Beaker. Transparent light blue glass; 11.6 x 8.5 x 4.3 cm. Gift of Howard Crosby Butler, Class of 1892 (y1930-387)",
+    "captionhtml":"Roman Imperial Period (ca. 30 BCE–476 CE), 4th–5th century CE, <i>Beaker</i>. Transparent light blue glass; 11.6 x 8.5 x 4.3 cm. Gift of Howard Crosby Butler, Class of 1892 (y1930-387)",
+    "published_date":"2025-10-18 02:01:03.621931",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

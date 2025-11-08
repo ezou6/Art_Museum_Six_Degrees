@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":4492,
+    "objectnumber":"x1943-322",
+    "sortnumber":"1943  322x",
+    "displaytitle":"St. Cecilia",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1774,
+    "dateend":1774,
+    "datecomputed":1774,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"publ. 1774",
+    "medium":"stipple",
+    "dimensions":"plate: 27 x 25.3 cm. (10 5/8 x 9 15/16 in.)\r\nsheet: 25.3 x 29.7 cm. (9 15/16 x 11 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Old collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Cecilia",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":254,
+            "displayname":"Francesco Bartolozzi",
+            "displaydate":"Italian, 1727–1815",
+            "datebegin":1725,
+            "dateend":1815,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francesco Bartolozzi, Italian, 1727–1815",
+            "displayorder":2
+        },
+        {
+            "id":6547,
+            "displayname":"Giovanni Battista Cipriani",
+            "displaydate":"1727–1785; born Florence, Italy; died London, England",
+            "datebegin":1727,
+            "dateend":1785,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Giovanni Battista Cipriani, 1727–1785; born Florence, Italy; died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104006,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28503",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28503"
+    ],
+    "displaymaker":"Giovanni Battista Cipriani, 1727–1785; born Florence, Italy; died London, England | Francesco Bartolozzi, Italian, 1727–1815",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Giovanni Battista Cipriani (1727–1785; born Florence, Italy; died London, England), Francesco Bartolozzi (Italian, 1727–1815), St. Cecilia, publ. 1774. Stipple; 27 x 25.3 cm (plate), 25.3 x 29.7 cm (sheet). Old collection (x1943-322)",
+    "captionhtml":"Giovanni Battista Cipriani (1727–1785; born Florence, Italy; died London, England), Francesco Bartolozzi (Italian, 1727–1815), <i>St. Cecilia</i>, publ. 1774. Stipple; 27 x 25.3 cm (plate), 25.3 x 29.7 cm (sheet). Old collection (x1943-322)",
+    "published_date":"2025-10-16 10:31:40.793837",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

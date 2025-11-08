@@ -1,0 +1,290 @@
+{
+    "type":"artobject",
+    "objectid":134355,
+    "objectnumber":"2018-88",
+    "sortnumber":"2018   88",
+    "displaytitle":"The Princeton Line",
+    "department":"Modern and Contemporary Art",
+    "classification":"Earthworks",
+    "datebegin":2018,
+    "dateend":2018,
+    "datecomputed":2018,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2018",
+    "medium":"Earth drawing",
+    "dimensions":"182.9 × 6522.7 × 2286 cm (72 × 2568 × 900 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Maya Lin Studio",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":20005,
+            "displayname":"Maya Lin",
+            "displaydate":"born 1959, Athens, OH; active New York and Colorado",
+            "datebegin":1959,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Maya Lin, born 1959, Athens, OH; active New York and Colorado",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Commissioned by Princeton University, 2018.",
+            "remarks":"as per contract with artist. AP."
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<em>The Princeton Line</em> is part of the artist’s series of Earth Drawings, expressive forms articulated by sculpting the landscape. Here, an undulating line of mounded earth winds its way down the gentle slope, creating spaces within its curving form that invite visitors to sit and gather. The title refers to the nearby train line that once crossed this site. As an artist, architect, and environmentalist, Lin aims to enhance visitors’ perception of their surroundings, to challenge our relationship to the natural world, and to create a dialogue between nature and human intervention, activity, and experience.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":221780,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Maya_Princeton_Line",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":null
+        },
+        {
+            "id":222636,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1304",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":222637,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1307",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":222638,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1317",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":222639,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1323",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 172",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Jersey, Princeton",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5102955/princeton-university.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place located: United States of America, New Jersey, Princeton, Princeton University",
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States of America",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5102955/princeton-university.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052859,
+            "term":"earthworks (sculpture)",
+            "aatid":300047857,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155753,
+            "term":"sculpture techniques",
+            "aatid":300053618,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2166436,
+            "term":"earth",
+            "aatid":300011734,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052859,
+            "classification":"earthworks (sculpture)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"182.92"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6522.71"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2285.99"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":197269,
+            "name":"web_highlights -revised 2021"
+        },
+        {
+            "packageid":210959,
+            "name":"Putnam_Collection"
+        },
+        {
+            "packageid":211813,
+            "name":"Campus_List02012022"
+        },
+        {
+            "packageid":206417,
+            "name":"image_descriptions_top250"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/Maya_Princeton_Line"
+    ],
+    "displaymaker":"Maya Lin, born 1959, Athens, OH; active New York and Colorado",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Maya Lin (born 1959, Athens, OH; active New York and Colorado), The Princeton Line, 2018. Earth drawing; 182.9 × 6522.7 × 2286 cm. The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum (2018-88)",
+    "captionhtml":"Maya Lin (born 1959, Athens, OH; active New York and Colorado), <i>The Princeton Line</i>, 2018. Earth drawing; 182.9 × 6522.7 × 2286 cm. The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum (2018-88)",
+    "published_date":"2025-10-16 18:43:30.718727",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":1,
+            "neighborhood":"Residential Colleges Neighborhood",
+            "lat":null,
+            "lon":null
+        },
+        {
+            "campuscollections":"false",
+            "campusart":1,
+            "neighborhood":"Residential Colleges Neighborhood",
+            "lat":"40.342974",
+            "lon":"-74.65938"
+        }
+    ],
+    "extended_content":true
+}

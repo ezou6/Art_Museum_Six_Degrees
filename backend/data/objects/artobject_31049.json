@@ -1,0 +1,287 @@
+{
+    "type":"artobject",
+    "objectid":31049,
+    "objectnumber":"y1968-546",
+    "sortnumber":"1968  546y",
+    "displaytitle":"Scholar in a Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1941,
+    "dateend":1941,
+    "datecomputed":1941,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1941",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 112.8 x 45.8 cm. (44 7/16 x 18 1/16 in.)\r\nMount: 217 x 59 cm. (85 7/16 x 23 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection",
+    "markings":"Six characters in graphite on edge of rolled scroll ",
+    "inscribed":"dated 1941",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Scholar in a Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4701,
+            "displayname":"Liu Zhenting",
+            "displaydate":"20th century",
+            "datebegin":1900,
+            "dateend":1999,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Liu Zhenting, 20th century",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":68002,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-546",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61789,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08305",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"The Carl Otto von Kienbusch, Jr., Memorial Collection,\" <em>Record of the Art Museum, Princeton University</em>, vol. 36, no. 2 (1977): p. 24-32.",
+            "citation":"\"The Carl Otto von Kienbusch, Jr., Memorial Collection,\" <em>Record of the Art Museum, Princeton University</em>, vol. 36, no. 2 (1977): p. 24-32., p. 26",
+            "date":1977,
+            "id":7732,
+            "uri":"https://www.jstor.org/stable/3774527"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085287,
+            "term":"huts",
+            "aatid":300004824,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120289,
+            "term":"lakeshores",
+            "aatid":300138919,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171671,
+            "term":"pine trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2094039,
+            "term":"scholars",
+            "aatid":300025579,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"217.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"112.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-546"
+    ],
+    "displaymaker":"Liu Zhenting, 20th century",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Liu Zhenting (20th century), Scholar in a Landscape, 1941. Hanging scroll; ink and color on paper; 112.8 x 45.8 cm (Painting), 217 x 59 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection (y1968-546)",
+    "captionhtml":"Chinese, Modern period (1912–present), Liu Zhenting (20th century), <i>Scholar in a Landscape</i>, 1941. Hanging scroll; ink and color on paper; 112.8 x 45.8 cm (Painting), 217 x 59 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection (y1968-546)",
+    "published_date":"2025-10-16 13:22:31.720047",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

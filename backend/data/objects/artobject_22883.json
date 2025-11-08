@@ -1,0 +1,271 @@
+{
+    "type":"artobject",
+    "objectid":22883,
+    "objectnumber":"y1946-200",
+    "sortnumber":"1946  200y",
+    "displaytitle":"Shrimps",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1883,
+    "dateend":1957,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 105.1 x 33.7 cm. (41 3/8 x 13 1/4 in.)\r\nMount: 180 x 52 cm. (70 7/8 x 20 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Shrimps",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6375,
+            "displayname":"Qi Baishi 齊白石",
+            "displaydate":"Chinese, 1863–1957",
+            "datebegin":1863,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":61044,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07929",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62512,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-200",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":1579,
+            "citation":"The Carl Otto von Kienbusch, Jr. Memorial Collection (Princeton University Art Museum, June 1956)",
+            "isvirtual":true,
+            "begindate":"1956-06",
+            "enddate":"1956-06",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1579"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134000,
+            "term":"shrimp",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"late Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        },
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"180.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"52.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"105.10"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-200"
+    ],
+    "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+    "displayculture":"Chinese",
+    "displayperiod":"late Qing dynasty, 1644–1912 | Modern period, 1912–present",
+    "caption":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), Shrimps, undated. Hanging scroll; ink on paper; 105.1 x 33.7 cm (Painting), 180 x 52 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-200)",
+    "captionhtml":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), <i>Shrimps</i>, undated. Hanging scroll; ink on paper; 105.1 x 33.7 cm (Painting), 180 x 52 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-200)",
+    "published_date":"2025-10-16 12:49:36.386829",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

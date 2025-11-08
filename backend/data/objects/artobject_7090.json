@@ -1,0 +1,164 @@
+{
+    "type":"artobject",
+    "objectid":7090,
+    "objectnumber":"x1948-1892",
+    "sortnumber":"1948 1892x",
+    "displaytitle":"Le Chemin",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1869,
+    "dateend":1918,
+    "datecomputed":1894,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"lithograph",
+    "dimensions":"image: 15.2 x 12.2 cm. (6 x 4 13/16 in.)\r\nsheet: 18.2 x 15.3 cm (7 3/16 x 6 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":"u.r.: AL; signed in pencil 18/35",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Le Chemin",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4547,
+            "displayname":"Auguste Lepère",
+            "displaydate":"French, 1849–1918",
+            "datebegin":1849,
+            "dateend":1918,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Lepère, French, 1849–1918",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted by the estate to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":98671,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24019",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15.",
+            "citation":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15., p. 15",
+            "date":1949,
+            "id":847,
+            "uri":"https://www.jstor.org/stable/3774270"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24019"
+    ],
+    "displaymaker":"Auguste Lepère, French, 1849–1918",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Lepère (French, 1849–1918), Le Chemin. Lithograph; 15.2 x 12.2 cm (image), 18.2 x 15.3 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1892)",
+    "captionhtml":"Auguste Lepère (French, 1849–1918), <i>Le Chemin</i>. Lithograph; 15.2 x 12.2 cm (image), 18.2 x 15.3 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1892)",
+    "published_date":"2025-10-23 16:49:44.095957",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

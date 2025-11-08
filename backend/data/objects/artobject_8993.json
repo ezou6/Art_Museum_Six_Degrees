@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":8993,
+    "objectnumber":"x1952-148",
+    "sortnumber":"1952  148x",
+    "displaytitle":"Forgotten Things",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1943,
+    "dateend":1943,
+    "datecomputed":1943,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1943",
+    "medium":"Wood engraving",
+    "dimensions":"block: 20.5 × 28.5 cm (8 1/16 × 11 1/4 in.)\r\nsheet: 27.9 x 38 cm (11 x 14 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of William M. Milliken",
+    "markings":null,
+    "inscribed":"Signed in block, lower right: Grace Albee\r\n\r\nEditioned, titled, and signed in graphite, below block: Ed. 200 / Forgotten Things / Grace Albee\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1952-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Forgotten Things",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":32,
+            "displayname":"Grace Arnold Albee",
+            "displaydate":"American, 1890–1985",
+            "datebegin":1890,
+            "dateend":1985,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Grace Arnold Albee, American, 1890–1985",
+            "displayorder":1
+        },
+        {
+            "id":19631,
+            "displayname":"Alfred W. Jones",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Alfred W. Jones",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105431,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29853",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 12, no. 1 (1953): p. 38-39., p. 39",
+            "date":1953,
+            "id":869,
+            "uri":"https://www.jstor.org/stable/3774393"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Pennsylvania",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Pennsylvania",
+            "city":null,
+            "county":"North Hampton County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5203809/northampton-county.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078449,
+            "term":"barns",
+            "aatid":300004900,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158044,
+            "term":"chickens",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2087836,
+            "term":"ruins",
+            "aatid":300008057,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101605,
+            "term":"buggies (carriages)",
+            "aatid":300212672,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054702,
+            "term":"wood engravings",
+            "aatid":300041402,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054702,
+            "classification":"wood engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.50"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29853"
+    ],
+    "displaymaker":"Grace Arnold Albee, American, 1890–1985 | Printed by Alfred W. Jones",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Grace Arnold Albee (American, 1890–1985), Printed by Alfred W. Jones, Forgotten Things, 1943. Wood engraving; 20.5 × 28.5 cm (block), 27.9 x 38 cm (sheet). Gift of William M. Milliken (x1952-148)",
+    "captionhtml":"Grace Arnold Albee (American, 1890–1985), Printed by Alfred W. Jones, <i>Forgotten Things</i>, 1943. Wood engraving; 20.5 × 28.5 cm (block), 27.9 x 38 cm (sheet). Gift of William M. Milliken (x1952-148)",
+    "published_date":"2025-10-16 11:13:03.197741",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

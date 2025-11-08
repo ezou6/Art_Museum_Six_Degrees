@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":9795,
+    "objectnumber":"x1957-12",
+    "sortnumber":"1957   12x",
+    "displaytitle":"Old Exe Bridge",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1920,
+    "dateend":1920,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1920",
+    "medium":"Etching",
+    "dimensions":"plate: 11.7 x 16.2 cm (4 5/8 x 6 3/8 in.)\r\nsheet: 16.4 x 24.1 cm (6 7/16 x 9 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John Taylor Arms, Class of 1909, and the Class of 1909",
+    "markings":null,
+    "inscribed":"In graphite, lower left below plate: 3/100\r\nIn graphite, lower left: 63",
+    "signed":"Signed and dated in graphite, lower right below plate: John Taylor Arms-1920",
+    "catalograisonne":"Fletcher 61; Bassham 63",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Old Exe Bridge",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":138,
+            "displayname":"John Taylor Arms",
+            "displaydate":"1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "datebegin":1887,
+            "dateend":1953,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "displayorder":1
+        },
+        {
+            "id":22179,
+            "displayname":"Frederick Thomas Reynolds",
+            "displaydate":"1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "datebegin":1882,
+            "dateend":1945,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105471,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29885",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, Devon, Exeter",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":"Devon",
+            "city":"Exeter",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120565,
+            "term":"townscapes (built environment)",
+            "aatid":300008923,
+            "termtype":"Subject"
+        },
+        {
+            "id":2107317,
+            "term":"towers (building divisions)",
+            "aatid":300003615,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29885"
+    ],
+    "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT | Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), Old Exe Bridge, 1920. Etching; 11.7 x 16.2 cm (plate), 16.4 x 24.1 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-12)",
+    "captionhtml":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), <i>Old Exe Bridge</i>, 1920. Etching; 11.7 x 16.2 cm (plate), 16.4 x 24.1 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-12)",
+    "published_date":"2025-10-16 11:17:46.330459",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

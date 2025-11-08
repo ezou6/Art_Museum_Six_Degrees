@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":34267,
+    "objectnumber":"y52 a-b",
+    "sortnumber":"52a    yb",
+    "displaytitle":"Madonna and Child",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1495,
+    "dateend":1505,
+    "datecomputed":1500,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"ca. 1500",
+    "medium":"Wood with polychromy and gilding",
+    "dimensions":"102 x 48 x 33 cm (40 3/16 x 18 7/8 x 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. P. C. Nye",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Madonna and Child",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":48405,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y52_back",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":48406,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y52_FRN",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":48407,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y52_LFT",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":48408,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y52_RGT",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<em>Program III: \"Images of Mary\"</em>, (Princeton, NJ: The Art Museum, Princeton University, 1975).",
+            "citation":"<em>Program III: \"Images of Mary\"</em>, (Princeton, NJ: The Art Museum, Princeton University, 1975)., no. 25; p. 53-55",
+            "date":1975,
+            "id":2468,
+            "uri":"http://www.worldcat.org/oclc/83624284"
+        },
+        {
+            "boilertext":"P. C. Nye, \"Two Italian Madonnas\", <EM>Art in America</EM> 5, (1916/1917).",
+            "citation":"P. C. Nye, \"Two Italian Madonnas\", <EM>Art in America</EM> 5, (1916/1917).",
+            "date":1916,
+            "id":3684,
+            "uri":"http://www.worldcat.org/oclc/1514286"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Italy, Friuli",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Friuli",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151306,
+            "term":"polychromy",
+            "aatid":300247962,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171368,
+            "term":"Mary",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048811,
+            "term":"devotional objects",
+            "aatid":300234144,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13456,
+            "culture":"Italian",
+            "alphasort":"Italian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Italian, Friuli",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"102.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y52_LFT"
+    ],
+    "displaymaker":null,
+    "displayculture":"Italian, Friuli",
+    "displayperiod":null,
+    "caption":"Italian, Friuli, Madonna and Child, ca. 1500. Wood with polychromy and gilding; 102 x 48 x 33 cm. Gift of Mrs. P. C. Nye (y52 a-b)",
+    "captionhtml":"Italian, Friuli, <i>Madonna and Child</i>, ca. 1500. Wood with polychromy and gilding; 102 x 48 x 33 cm. Gift of Mrs. P. C. Nye (y52 a-b)",
+    "published_date":"2025-10-16 13:39:55.714038",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

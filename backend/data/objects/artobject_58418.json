@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":58418,
+    "objectnumber":"2021-109 a-b",
+    "sortnumber":"2021  109 a    b",
+    "displaytitle":"Two vases",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1644,
+    "dateend":1912,
+    "datecomputed":1778,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Porcelain; famille noire",
+    "dimensions":"a: h. 31.4 cm., diam. 15.4 cm. (12 3/8 x 6 1/16 in.)\r\nb: h. 31.4 cm., diam. 15.9 cm. (12 3/8 x 6 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David Hunter McAlpin, Jr., Class of 1950",
+    "markings":null,
+    "inscribed":"Character on bottom of each",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2021-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two vases",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David Hunter McAlpin, Jr., Princeton University Class of 1950 (1928-2022); gift to the Princeton University Art Museum, 2021.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":55835,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV023253",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171665,
+            "term":"blossoms",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171697,
+            "term":"famille verde",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2171697,
+            "classification":"famille verde"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"possibly French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.40"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.40"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":236377,
+            "name":"EW-Artwalk_Materials&Surfaces"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277927,
+            "name":"EW-Artwalk_Materials&Surfaces_CaseA"
+        },
+        {
+            "packageid":216464,
+            "name":"image_descriptions_newacquisitions_2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV023253"
+    ],
+    "displaymaker":null,
+    "displayculture":"possibly French",
+    "displayperiod":null,
+    "caption":"Possibly French, Two vases. Porcelain; famille noire; 31.4 x 15.4 cm (a), 31.4 x 15.9 cm (b). Gift of David Hunter McAlpin, Jr., Class of 1950 (2021-109 a-b)",
+    "captionhtml":"Possibly French, <i>Two vases</i>. Porcelain; famille noire; 31.4 x 15.4 cm (a), 31.4 x 15.9 cm (b). Gift of David Hunter McAlpin, Jr., Class of 1950 (2021-109 a-b)",
+    "published_date":"2025-10-22 02:03:05.074535",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

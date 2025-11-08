@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":135277,
+    "objectnumber":"2019-16",
+    "sortnumber":"2019   16",
+    "displaytitle":"Trace",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1989,
+    "dateend":1989,
+    "datecomputed":1989,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1989",
+    "medium":"Lithograph",
+    "dimensions":"image: 8.9 × 11.4 cm (3 1/2 × 4 1/2 in.)\r\nsheet: 16.5 × 11.4 cm (6 1/2 × 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Robert Conway, Graduate School Class of 1982",
+    "markings":"Stamped in ink on verso: All Rights Reserved - June Wayne",
+    "inscribed":"Numbered and titled in graphite below image, at left: 32/B Trace\r\n\r\non verso in graphite: JW369-89 / 1989\r\n",
+    "signed":"Signed in graphite below image, at right: June Wayne",
+    "catalograisonne":"Conway 420",
+    "creditlinerepro":"Art © The June Wayne Collection/Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Trace",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14235,
+            "displayname":"Tamarind Institute",
+            "displaydate":"founded 1960",
+            "datebegin":1960,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Tamarind Institute, founded 1960",
+            "displayorder":2
+        },
+        {
+            "id":18448,
+            "displayname":"June Wayne",
+            "displaydate":"1918–2011; born Chicago, IL; died Los Angeles, CA",
+            "datebegin":1918,
+            "dateend":2011,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"June Wayne, 1918–2011; born Chicago, IL; died Los Angeles, CA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired from the artist by the donor, Robert Conway.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":222520,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_35705",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Robert P. Conway and Arthur C Danto, <em>June Wayne, the Art of Everything: a Catalogue Raisonné, 1936–2006</em> (New Brunswick, N.J.: Rutgers University Press, 2007).",
+            "citation":"Robert P. Conway and Arthur C Danto, <em>June Wayne, the Art of Everything: a Catalogue Raisonné, 1936–2006</em> (New Brunswick, N.J.: Rutgers University Press, 2007)., no. 420",
+            "date":2007,
+            "id":9343,
+            "uri":"http://www.worldcat.org/oclc/61361616"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Los Angeles",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Los Angeles",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5368361/los-angeles.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2045385,
+            "term":"hair",
+            "aatid":300011814,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.88"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.42"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.42"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":189897,
+            "name":"web_recacq_2020"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_35705"
+    ],
+    "displaymaker":"June Wayne, 1918–2011; born Chicago, IL; died Los Angeles, CA | Printed by Tamarind Institute, founded 1960",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"June Wayne (1918–2011; born Chicago, IL; died Los Angeles, CA), Printed by Tamarind Institute (founded 1960), Trace, 1989. Lithograph; 8.9 × 11.4 cm (image), 16.5 × 11.4 cm (sheet). Gift of Robert Conway, Graduate School Class of 1982 (2019-16)",
+    "captionhtml":"June Wayne (1918–2011; born Chicago, IL; died Los Angeles, CA), Printed by Tamarind Institute (founded 1960), <i>Trace</i>, 1989. Lithograph; 8.9 × 11.4 cm (image), 16.5 × 11.4 cm (sheet). Gift of Robert Conway, Graduate School Class of 1982 (2019-16)",
+    "published_date":"2025-10-16 18:46:14.265859",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,177 @@
+{
+    "type":"artobject",
+    "objectid":5335,
+    "objectnumber":"x1945-36",
+    "sortnumber":"1945   36x",
+    "displaytitle":"Gramercy Park",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1882,
+    "dateend":1942,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Drypoint",
+    "dimensions":"plate: 31.8 x 24.7 cm. (12 1/2 x 9 3/4 in.)\r\nsheet: 43 x 33 cm. (16 15/16 x 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gertrude Magie",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1945-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Gramercy Park",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4756,
+            "displayname":"Gertrude Magie",
+            "displaydate":"American, 1862–1942",
+            "datebegin":1862,
+            "dateend":1942,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gertrude Magie, American, 1862–1942",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105675,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30044",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054535,
+            "term":"drypoints",
+            "aatid":300041349,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2183995,
+            "term":"recreation areas",
+            "aatid":300000510,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054535,
+            "classification":"drypoints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30044"
+    ],
+    "displaymaker":"Gertrude Magie, American, 1862–1942",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gertrude Magie (American, 1862–1942), Gramercy Park. Drypoint; 31.8 x 24.7 cm (plate), 43 x 33 cm (sheet). Bequest of Gertrude Magie (x1945-36)",
+    "captionhtml":"Gertrude Magie (American, 1862–1942), <i>Gramercy Park</i>. Drypoint; 31.8 x 24.7 cm (plate), 43 x 33 cm (sheet). Bequest of Gertrude Magie (x1945-36)",
+    "published_date":"2025-10-16 10:37:41.072254",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

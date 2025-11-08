@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":48726,
+    "objectnumber":"x1937-38 bis",
+    "sortnumber":"1937   38xbis",
+    "displaytitle":"Paris, Le Quai St. B....",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":0,
+    "dateend":1937,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 18 x 23.7 cm. (7 1/16 x 9 5/16 in.)\r\nsheet: 28.8 x 40 cm (11 5/16 x 15 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed, with title",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Paris, Le Quai St. B....",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":144,
+            "displayname":"L. Artigue",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"L. Artigue",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":97800,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23156",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23156"
+    ],
+    "displaymaker":"L. Artigue",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"L. Artigue, Paris, Le Quai St. B.... Etching; 18 x 23.7 cm (plate), 28.8 x 40 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-38 bis)",
+    "captionhtml":"L. Artigue, <i>Paris, Le Quai St. B....</i>. Etching; 18 x 23.7 cm (plate), 28.8 x 40 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-38 bis)",
+    "published_date":"2025-10-23 17:22:58.416774",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

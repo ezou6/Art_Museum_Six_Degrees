@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":17716,
+    "objectnumber":"x1991-227",
+    "sortnumber":"1991  227x",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1940,
+    "dateend":1940,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1940",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 24.5 × 19.6 cm (9 5/8 × 7 11/16 in.)\r\nsheet: 25.2 × 19.7 cm (9 15/16 × 7 3/4 in.)\r\nmat: 50.8 × 40.6 cm (20 × 16 in.)",
+    "dimensionsproposed":"Proposed frame (white aluminum): 51.4 × 41.3 × 3.2 cm (20 1/4 × 16 1/4 × 1 1/4 in.)",
+    "creditline":"Gift of Daniel Berger",
+    "markings":null,
+    "inscribed":"Signed in pencil, verso top right corner: G.Lynes--; inscribed in pencil in unknown hand, verso, top left: Walter Roehmer...",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of George Platt Lynes",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4715,
+            "displayname":"George Platt Lynes",
+            "displaydate":"American, 1907–1955",
+            "datebegin":1907,
+            "dateend":1955,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Platt Lynes, American, 1907–1955",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":88428,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV14668",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 52",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2099007,
+            "term":"shadows",
+            "aatid":300056036,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.60"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.43"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.27"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.17"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.79"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.63"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV14668"
+    ],
+    "displaymaker":"George Platt Lynes, American, 1907–1955",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Platt Lynes (American, 1907–1955), Untitled, 1940. Gelatin silver print; 24.5 × 19.6 cm (image), 25.2 × 19.7 cm (sheet), 50.8 × 40.6 cm (mat). Gift of Daniel Berger (x1991-227)",
+    "captionhtml":"George Platt Lynes (American, 1907–1955), <i>Untitled</i>, 1940. Gelatin silver print; 24.5 × 19.6 cm (image), 25.2 × 19.7 cm (sheet), 50.8 × 40.6 cm (mat). Gift of Daniel Berger (x1991-227)",
+    "published_date":"2025-10-16 12:18:39.391174",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

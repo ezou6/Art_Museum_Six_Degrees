@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":21226,
+    "objectnumber":"2016-1258",
+    "sortnumber":"2016 1258",
+    "displaytitle":"Pectoral",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ornament",
+    "datebegin":900,
+    "dateend":1519,
+    "datecomputed":1210,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":null,
+    "medium":"Shell",
+    "dimensions":"h. 5.6 cm., w. 7.8 cm., d. 1.5 cm. (2 3/16 x 3 1/16 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pectoral",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ, by 1971 [1]; promised bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated slides.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":51512,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV018021",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero, Costa Grande, San Jeronimo",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Costa Grande",
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"San Jeronimo",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3986595/san-jeronimo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130762,
+            "term":"pectorals",
+            "aatid":300211902,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035674,
+            "term":"Postclassic",
+            "aatid":300016987,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035732,
+            "term":"Aztec",
+            "aatid":300017033,
+            "termtype":"Culture"
+        },
+        {
+            "id":2166253,
+            "term":"shell",
+            "aatid":300011829,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130762,
+            "classification":"pectorals"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2035732,
+            "culture":"Aztec"
+        }
+    ],
+    "periods":[
+        {
+            "id":12495,
+            "period":"Postclassic Period",
+            "alphasort":"Postclassic Period",
+            "begindate":1300,
+            "enddate":1521,
+            "displayperiod":"probably Postclassic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035674,
+            "period":"Postclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV018021"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"probably Postclassic Period",
+    "caption":"Probably Postclassic Period, Guerrero, Costa Grande, Mexico, Mesoamerica, Pectoral. Shell; 5.6 x 7.8 x 1.5 cm. Bequest of Gillett G. Griffin (2016-1258)",
+    "captionhtml":"Probably Postclassic Period, Guerrero, Costa Grande, Mexico, Mesoamerica, <i>Pectoral</i>. Shell; 5.6 x 7.8 x 1.5 cm. Bequest of Gillett G. Griffin (2016-1258)",
+    "published_date":"2025-11-01 02:01:02.751649",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

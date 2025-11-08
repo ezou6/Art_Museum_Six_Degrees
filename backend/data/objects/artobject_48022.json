@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":48022,
+    "objectnumber":"1995-405",
+    "sortnumber":"1995  405",
+    "displaytitle":"Headdress",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood, paint, metal, and plant fiber",
+    "dimensions":"h. 35.7 cm., w. 23.1 cm., d. 19.0 cm. (14 1/16 x 9 1/8 x 7 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Headdress",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15604,
+            "displayname":"Idoma",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Idoma artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[George Terasaki, New York, NY]; Mr. &amp; Mrs. H.&nbsp;Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1995",
+            "remarks":"Dec 1995 list of gifts, donor file"
+        }
+    ],
+    "media":[
+        {
+            "id":42882,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008199",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":131,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-405_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., pp. 73–74 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2131826,
+            "term":"headdresses",
+            "aatid":300046023,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042024,
+            "term":"Idoma",
+            "aatid":300016061,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135237,
+            "term":"masquerades",
+            "aatid":300254016,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045385,
+            "term":"hair",
+            "aatid":300011814,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043593,
+            "term":"plant fiber",
+            "aatid":300014031,
+            "termtype":"Materials"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2131826,
+            "classification":"headdresses"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042024,
+            "culture":"Idoma"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"19.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008199"
+    ],
+    "displaymaker":"Idoma artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Idoma artist, Nigeria, Western Africa, Headdress, 20th century. Wood, paint, metal, and plant fiber; 35.7 x 23.1 x 19 cm. Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-405)",
+    "captionhtml":"Idoma artist, Nigeria, Western Africa, <i>Headdress</i>, 20th century. Wood, paint, metal, and plant fiber; 35.7 x 23.1 x 19 cm. Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-405)",
+    "published_date":"2025-10-16 14:54:54.723987",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

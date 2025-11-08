@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":4165,
+    "objectnumber":"1995-116",
+    "sortnumber":"1995  116",
+    "displaytitle":"Jane Wolley née Coape",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1823,
+    "dateend":1878,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"75.8 x 92 cm (29 13/16 x 36 1/4 in.)\r\nframe: 90 × 107 × 6.8 cm (35 7/16 × 42 1/8 × 2 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Forbes Magazine Collection: Malcolm S. Forbes, Class of 1941, Malcolm S. Forbes, Jr., Class of 1970, and Christopher Forbes, Class of 1972",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jane Wolley née Coape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4933,
+            "displayname":"Sir Francis Grant",
+            "displaydate":"British, 1803–1878",
+            "datebegin":1803,
+            "dateend":1878,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sir Francis Grant, British, 1803–1878",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;The Forbes Magazine Collection; 1995 gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":21521,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv1002",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 36",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"92.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"107.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":214385,
+            "name":"web_Forbes"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv1002"
+    ],
+    "displaymaker":"Sir Francis Grant, British, 1803–1878",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sir Francis Grant (British, 1803–1878), Jane Wolley née Coape. Oil on canvas; 75.8 x 92 cm, 90 × 107 × 6.8 cm (frame). Gift of the Forbes Magazine Collection: Malcolm S. Forbes, Class of 1941, Malcolm S. Forbes, Jr., Class of 1970, and Christopher Forbes, Class of 1972 (1995-116)",
+    "captionhtml":"Sir Francis Grant (British, 1803–1878), <i>Jane Wolley née Coape</i>. Oil on canvas; 75.8 x 92 cm, 90 × 107 × 6.8 cm (frame). Gift of the Forbes Magazine Collection: Malcolm S. Forbes, Class of 1941, Malcolm S. Forbes, Jr., Class of 1970, and Christopher Forbes, Class of 1972 (1995-116)",
+    "published_date":"2025-10-16 10:29:26.021437",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

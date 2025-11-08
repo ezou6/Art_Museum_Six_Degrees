@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":11402,
+    "objectnumber":"x1969-367",
+    "sortnumber":"1969  367x",
+    "displaytitle":"\"Francois de la Mothe\"",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1643,
+    "dateend":1678,
+    "datecomputed":1660,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 27.2 x 19 cm (10 11/16 x 7 1/2 in.)\r\nsheet: 27.4 x 19.2 cm (10 13/16 x 7 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Thomas P. Baird, Class of 1945",
+    "markings":null,
+    "inscribed":"inscribed at l.l.:  Nantueil ad vivum; l.r.:delin. et sculpebat.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"\"Francois de la Mothe\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3951,
+            "displayname":"Robert Nanteuil",
+            "displaydate":"French, 1623–1678",
+            "datebegin":1623,
+            "dateend":1678,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert Nanteuil, French, 1623–1678",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":98474,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23802",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 27",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23802"
+    ],
+    "displaymaker":"Robert Nanteuil, French, 1623–1678",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert Nanteuil (French, 1623–1678), \"Francois de la Mothe\". Engraving; 27.2 x 19 cm (plate), 27.4 x 19.2 cm (sheet). Gift of Thomas P. Baird, Class of 1945 (x1969-367)",
+    "captionhtml":"Robert Nanteuil (French, 1623–1678), <i>\"Francois de la Mothe\"</i>. Engraving; 27.2 x 19 cm (plate), 27.4 x 19.2 cm (sheet). Gift of Thomas P. Baird, Class of 1945 (x1969-367)",
+    "published_date":"2025-10-23 16:55:49.413414",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

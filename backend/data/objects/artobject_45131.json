@@ -1,0 +1,207 @@
+{
+    "type":"artobject",
+    "objectid":45131,
+    "objectnumber":"PP442",
+    "sortnumber":"P       442P",
+    "displaytitle":"John Armstrong, Class of 1776 (didn't graduate)",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1795,
+    "dateend":1852,
+    "datecomputed":1824,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"23.6 x 19.8 cm (9 5/16 x 7 13/16 in.)\r\nframe: 35.6 x 31.8 x 5 cm (14 x 12 1/2 x 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Dean Mathey",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Armstrong, Class of 1776 (didn't graduate)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2927,
+            "displayname":"John Vanderlyn",
+            "displaydate":"American, 1775–1852",
+            "datebegin":1775,
+            "dateend":1852,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Vanderlyn, American, 1775–1852",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123480,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46471",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089054,
+            "term":"diplomats",
+            "aatid":300025462,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.60"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.80"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46471"
+    ],
+    "displaymaker":"John Vanderlyn, American, 1775–1852",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Vanderlyn (American, 1775–1852), John Armstrong, Class of 1776 (didn't graduate). Oil on canvas; 23.6 x 19.8 cm, 35.6 × 31.8 × 5 cm (frame). Princeton University, gift of Dean Mathey (PP442)",
+    "captionhtml":"John Vanderlyn (American, 1775–1852), <i>John Armstrong, Class of 1776 (didn't graduate)</i>. Oil on canvas; 23.6 x 19.8 cm, 35.6 × 31.8 × 5 cm (frame). Princeton University, gift of Dean Mathey (PP442)",
+    "published_date":"2025-10-16 14:27:46.903668",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":19212,
+    "objectnumber":"y1929-191",
+    "sortnumber":"1929  191y",
+    "displaytitle":"Round Aryballos: quatrefoil",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-625,
+    "dateend":-500,
+    "datecomputed":-562,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 575–550 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 7.5 cm, diam. 7.3 cm (2 15/16 x 2 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jessie P. Frothingham",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Round Aryballos: quatrefoil",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Very probably given by Miss Jessie Frothingham om 1929",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34521,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002309",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<em>Corpus vasorum antiquorum</em>, (Union Académique Internationale, 1923-).",
+            "citation":"<em>Corpus vasorum antiquorum</em>, (Union Académique Internationale, 1923-)., CVA, Denmark 2, Copenhagen 2, IIIC, pl. 87, #17-18, 20; CVA, Spain 1, Madrid 1, IIIC, pl. 3, #7; CVA, U.S.A. 1, Gallatin Collection 1, pl. 2, #3; CVA, U.S.A. 3, U. of Michigan 1, IIIC, pl. XI, 9a; CVA, U.S.A. 8, Fogg and Gallatin, IIIC, pl. V, 3-4.",
+            "date":1923,
+            "id":3012,
+            "uri":"http://www.worldcat.org/oclc/648150256"
+        },
+        {
+            "boilertext":"J. L. Benson, \"Corinthian vases in the Art Museum Collection\",<EM> Record of the Art Museum, Princeton University </EM>31, no. 2 (1972): p. 8-19.",
+            "citation":"J. L. Benson, \"Corinthian vases in the Art Museum Collection\",<EM> Record of the Art Museum, Princeton University </EM>31, no. 2 (1972): p. 8-19., fig. 12, p. 11 (illus.)",
+            "date":1972,
+            "id":4003,
+            "uri":"https://www.jstor.org/stable/3774415"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159263,
+            "term":"quatrefoils",
+            "aatid":300009784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159470,
+            "term":"rosettes",
+            "aatid":300009972,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036574,
+            "term":"Late Corinthian",
+            "aatid":300020142,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2074381,
+            "term":"aryballoi",
+            "aatid":300198885,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2074381,
+            "classification":"aryballoi"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        }
+    ],
+    "periods":[
+        {
+            "id":13930,
+            "period":"Corinthian",
+            "alphasort":"Corinthian",
+            "begindate":-700,
+            "enddate":-338,
+            "displayperiod":"Late Corinthian, 700–338 BCE",
+            "displaydate":"700–338 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036574,
+            "period":"Late Corinthian"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"7.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002309"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek",
+    "displayperiod":"Late Corinthian, 700–338 BCE",
+    "caption":"Greek, Late Corinthian (700–338 BCE), ca. 575–550 BCE, Round Aryballos: quatrefoil. Ceramic; 7.5 x 7.3 cm. Gift of Jessie P. Frothingham (y1929-191)",
+    "captionhtml":"Greek, Late Corinthian (700–338 BCE), ca. 575–550 BCE, <i>Round Aryballos: quatrefoil</i>. Ceramic; 7.5 x 7.3 cm. Gift of Jessie P. Frothingham (y1929-191)",
+    "published_date":"2025-10-16 12:26:58.155797",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

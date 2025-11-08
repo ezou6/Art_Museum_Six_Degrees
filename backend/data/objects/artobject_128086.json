@@ -1,0 +1,318 @@
+{
+    "type":"artobject",
+    "objectid":128086,
+    "objectnumber":"1998-88 v-z",
+    "sortnumber":"1998   88 v    z",
+    "displaytitle":"Letter",
+    "department":"Asian Art",
+    "classification":"Calligraphy",
+    "datebegin":1767,
+    "dateend":1807,
+    "datecomputed":1787,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Album leaves; ink on paper",
+    "dimensions":"Calligraphy (v): 24.8 × 11.8 cm (9 3/4 × 4 5/8 in.)\r\nCalligraphy (w): 24.8 × 11.9 cm (9 3/4 × 4 11/16 in.)\r\nCalligraphy (x): 24.7 × 11.5 cm (9 3/4 × 4 1/2 in.)\r\nCalligraphy (y): 24.7 × 11.6 cm (9 3/4 × 4 9/16 in.)\r\nCalligraphy (z): 24.7 × 11.5 cm (9 3/4 × 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Letter",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2332,
+            "displayname":"Feng Minchang 馮敏昌",
+            "displaydate":"1747–1807",
+            "datebegin":1747,
+            "dateend":1807,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Feng Minchang 馮敏昌, 1747–1807",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;John B. Elliott (Princeton, NJ), by bequest to the Princeton University Art Museum, 1998. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":197557,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV06040",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197558,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV06041",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197559,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV06042",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197560,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV06043",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197561,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV06044",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 84",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2122698,
+            "term":"letters (correspondence)",
+            "aatid":300026879,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2122698,
+            "classification":"letters (correspondence)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.50"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.60"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.50"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.80"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.90"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.80"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV06040"
+    ],
+    "displaymaker":"Feng Minchang 馮敏昌, 1747–1807",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Feng Minchang 馮敏昌 (1747–1807), Letter. Album leaves; ink on paper; 24.8 × 11.8 cm (Calligraphy, v), 24.8 × 11.9 cm (Calligraphy, w), 24.7 × 11.5 cm (Calligraphy, x), 24.7 × 11.6 cm (Calligraphy, y), 24.7 × 11.5 cm (Calligraphy, z). Bequest of John B. Elliott, Class of 1951 (1998-88 v-z)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Feng Minchang 馮敏昌 (1747–1807), <i>Letter</i>. Album leaves; ink on paper; 24.8 × 11.8 cm (Calligraphy, v), 24.8 × 11.9 cm (Calligraphy, w), 24.7 × 11.5 cm (Calligraphy, x), 24.7 × 11.6 cm (Calligraphy, y), 24.7 × 11.5 cm (Calligraphy, z). Bequest of John B. Elliott, Class of 1951 (1998-88 v-z)",
+    "published_date":"2025-10-16 18:29:14.202668",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

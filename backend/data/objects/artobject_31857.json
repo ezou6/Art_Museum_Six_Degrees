@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":31857,
+    "objectnumber":"y1973-34",
+    "sortnumber":"1973   34y",
+    "displaytitle":"Button",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ornament",
+    "datebegin":-1600,
+    "dateend":-1050,
+    "datecomputed":-1325,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 2.5 cm, diam. 3.0 cm (1 x 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of J. Penrose Harland, Class of 1913",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1973-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Button",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Museum in 1973 from J. Penrose Harland",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":33601,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42266",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47.",
+            "citation":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47., p. 46",
+            "date":1974,
+            "id":3613,
+            "uri":"https://www.jstor.org/stable/3774502"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Europe, Peloponnesus, Zygouries",
+            "code":"Place excavated",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":"Peloponnesus",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Zygouries",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_37.5_22.333.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2130887,
+            "term":"buttons (fasteners)",
+            "aatid":300209299,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036428,
+            "term":"Late Helladic",
+            "aatid":300020171,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130887,
+            "classification":"buttons (fasteners)"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        }
+    ],
+    "periods":[
+        {
+            "id":14354,
+            "period":"Helladic",
+            "alphasort":"Helladic",
+            "begindate":-3600,
+            "enddate":-1050,
+            "displayperiod":"Late Helladic III",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036428,
+            "period":"Late Helladic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"3.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42266"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek",
+    "displayperiod":"Late Helladic III",
+    "caption":"Greek, Late Helladic III, Peloponnesus, Button. Ceramic; 2.5 x 3 cm. Bequest of J. Penrose Harland, Class of 1913 (y1973-34)",
+    "captionhtml":"Greek, Late Helladic III, Peloponnesus, <i>Button</i>. Ceramic; 2.5 x 3 cm. Bequest of J. Penrose Harland, Class of 1913 (y1973-34)",
+    "published_date":"2025-10-16 13:27:01.463097",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

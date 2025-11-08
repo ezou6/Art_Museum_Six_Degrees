@@ -1,0 +1,275 @@
+{
+    "type":"artobject",
+    "objectid":32352,
+    "objectnumber":"y1983-27",
+    "sortnumber":"1983   27y",
+    "displaytitle":"George Washington",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1787,
+    "dateend":1822,
+    "datecomputed":1804,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"85 × 66.5 × 5.1 cm (33 7/16 × 26 3/16 × 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Mrs. Constance Earle, in memory of her husband, Marion Eppley, Class of 1906",
+    "markings":"\r\n",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"George Washington",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3069,
+            "displayname":"Charles Peale Polk",
+            "displaydate":"1767–1822; born Annapolis, MD; died Warsaw, VA",
+            "datebegin":1767,
+            "dateend":1822,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles Peale Polk, 1767–1822; born Annapolis, MD; died Warsaw, VA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[
+        {
+            "id":1755,
+            "displayname":"George Washington",
+            "displaydate":"1732–1799; born Westmoreland County, VA; died Mount Vernon, VA",
+            "datebegin":1732,
+            "dateend":1799,
+            "prefix":"Person depicted:",
+            "suffix":null,
+            "role":"Depicted",
+            "displaymaker":"Person depicted: George Washington, 1732–1799; born Westmoreland County, VA; died Mount Vernon, VA",
+            "displayorder":2
+        }
+    ],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Ferargil Galleries, New York (NY), by 1936 [1]]. Acquired by Marion Eppley (1883-1960) and his wife Ethelberta Pyne Russell (d. 1952); inherited by Eppley’s second wife, Constance Rivington Russell Earle (1899-1983) [2]; bequeathed to the Princeton University Art Museum, 1983.\n\n[1] In December 1936, Ferargil Galleries lent the painting to the “Exhibition of American Portraiture 1750-1850” at the RISD Museum. See also the labels of the Ferargil Galleries once pasted to the back of the painting.\n[2] Constance was also the sister of Eppley’s first wife, Ethelberta. After Eppley’s death, Constance married Walter Key Earle.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":3434,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1983-27",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42.",
+            "citation":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42., p. 21; p. 33 (illus.)",
+            "date":1984,
+            "id":1857,
+            "uri":"https://www.jstor.org/stable/3774671"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2132212,
+            "term":"epaulets",
+            "aatid":300224235,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087763,
+            "term":"tents",
+            "aatid":300005694,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088735,
+            "term":"soldiers",
+            "aatid":300185678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2183867,
+            "term":"military camps",
+            "aatid":300000476,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2130297,
+            "term":"military uniforms",
+            "aatid":300248030,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044653,
+            "term":"canvas",
+            "aatid":300014078,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"85.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.07"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1983-27"
+    ],
+    "displaymaker":"Charles Peale Polk, 1767–1822; born Annapolis, MD; died Warsaw, VA | Person depicted: George Washington, 1732–1799; born Westmoreland County, VA; died Mount Vernon, VA",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles Peale Polk (1767–1822; born Annapolis, MD; died Warsaw, VA), Person depicted: George Washington (1732–1799; born Westmoreland County, VA; died Mount Vernon, VA), George Washington. Oil on canvas; 85 × 66.5 × 5.1 cm, 95.3 x 77.5 cm. Bequest of Mrs. Constance Earle, in memory of her husband, Marion Eppley, Class of 1906 (y1983-27)",
+    "captionhtml":"Charles Peale Polk (1767–1822; born Annapolis, MD; died Warsaw, VA), Person depicted: George Washington (1732–1799; born Westmoreland County, VA; died Mount Vernon, VA), <i>George Washington</i>. Oil on canvas; 85 × 66.5 × 5.1 cm, 95.3 x 77.5 cm. Bequest of Mrs. Constance Earle, in memory of her husband, Marion Eppley, Class of 1906 (y1983-27)",
+    "published_date":"2025-10-30 02:05:43.902785",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

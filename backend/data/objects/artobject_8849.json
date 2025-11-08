@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":8849,
+    "objectnumber":"1997-13",
+    "sortnumber":"1997   13",
+    "displaytitle":"Egypt",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1853,
+    "dateend":1854,
+    "datecomputed":1854,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1853–54",
+    "medium":"Salted paper print",
+    "dimensions":"sheet: 22.2 x 29.4 cm. (8 3/4 x 11 9/16 in.)\r\nmount: 40 x 56.6 cm (15 3/4 x 22 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":"Signed in negative, lower right corner of image:  J. B. Greene",
+    "inscribed":"In graphite on mount, upper right corner:  MPC\r\nIn graphite on mount, lower right edge:  JJ 1046\r\nIn graphite on mount, lower right corner:  3",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1997-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Egypt",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2195,
+            "displayname":"John Beasley Greene",
+            "displaydate":"American, 1832–1856",
+            "datebegin":1832,
+            "dateend":1856,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Beasley Greene, American, 1832–1856",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Despite his early death at the age of twenty-four, Greene was the first Egyptologist and trained photographer to document the Middle East, where he undertook his inaugural expedition at the age of twenty-one. Between 1853 and 1854, Greene aimed to photograph notable landmarks and landscapes along the Nile River; the resulting images remain remarkable today for their vast areas of empty space that emphasize the scale of the monuments, as seen here.",
+            "remarks":"Franz HOP rotation March 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":84182,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10820",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208.",
+            "citation":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208., illustrated p. 179, p. 183",
+            "date":1998,
+            "id":3048,
+            "uri":"https://www.jstor.org/stable/3774775"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Africa, Egypt",
+            "code":"Place depicted",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/357994/arab-republic-of-egypt.html",
+            "location":{
+                "lat":"27",
+                "lon":"30"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084829,
+            "term":"temple",
+            "aatid":300007595,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119975,
+            "term":"desert",
+            "aatid":300008916,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087836,
+            "term":"ruins",
+            "aatid":300008057,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135197,
+            "term":"expeditions",
+            "aatid":300069799,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053600,
+            "term":"salted paper prints",
+            "aatid":300127149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055696,
+            "term":"landscape (representation)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053600,
+            "classification":"salted paper prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"56.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10820"
+    ],
+    "displaymaker":"John Beasley Greene, American, 1832–1856",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Beasley Greene (American, 1832–1856), Egypt, 1853–54. Salted paper print; 22.2 x 29.4 cm (sheet). Museum purchase, anonymous gift (1997-13)",
+    "captionhtml":"John Beasley Greene (American, 1832–1856), <i>Egypt</i>, 1853–54. Salted paper print; 22.2 x 29.4 cm (sheet). Museum purchase, anonymous gift (1997-13)",
+    "published_date":"2025-10-16 11:12:08.175459",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":48380,
+    "objectnumber":"x1937-234",
+    "sortnumber":"1937  234x",
+    "displaytitle":"Portrait of a man in a window",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1906,
+    "dateend":1946,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 15.9 x 12 cm. (6 1/4 x 4 3/4 in.)\r\nsheet: 34 x 23.7 cm. (13 3/8 x 9 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a man in a window",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1550,
+            "displayname":"Rembrandt van Rijn",
+            "displaydate":"1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "datebegin":1606,
+            "dateend":1669,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "displayorder":2
+        },
+        {
+            "id":6754,
+            "displayname":"Carel L. Dake",
+            "displaydate":"Dutch, 1886 - 1946",
+            "datebegin":1886,
+            "dateend":1946,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Carel L. Dake, Dutch, 1886 - 1946",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103399,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28118",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":103400,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28119",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.90"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28119"
+    ],
+    "displaymaker":"Carel L. Dake, Dutch, 1886 - 1946 | after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Carel L. Dake (Dutch, 1886 - 1946), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), Portrait of a man in a window. Etching; 15.9 x 12 cm (plate), 34 x 23.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-234)",
+    "captionhtml":"Carel L. Dake (Dutch, 1886 - 1946), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), <i>Portrait of a man in a window</i>. Etching; 15.9 x 12 cm (plate), 34 x 23.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-234)",
+    "published_date":"2025-10-23 17:22:25.426812",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

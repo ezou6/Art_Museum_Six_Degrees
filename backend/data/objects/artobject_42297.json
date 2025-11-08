@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":42297,
+    "objectnumber":"2004-20",
+    "sortnumber":"2004   20",
+    "displaytitle":"Standing figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":-500,
+    "dateend":-200,
+    "datecomputed":-350,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"500–200 BCE",
+    "medium":"Stone",
+    "dimensions":"h. 11.2 cm., w. 4.2 cm., d. 1.9 cm. (4 7/16 x 1 5/8 x 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Standing figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John Rhoads. Purchased by the Princeton University Art Museum, 2004.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":48432,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV013672",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 132",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3527213/estado-de-guerrero.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035643,
+            "term":"Preclassic",
+            "aatid":300016967,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035843,
+            "term":"Mezcala",
+            "aatid":300017193,
+            "termtype":"Culture"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13850,
+            "culture":"Mezcala",
+            "alphasort":"Mezcala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mezcala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035843,
+            "culture":"Mezcala"
+        }
+    ],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035643,
+            "period":"Preclassic"
+        },
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.85"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277929,
+            "name":"EW-Artwalk_Figuration_CaseC"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV013672"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mezcala",
+    "displayperiod":"Late Formative Period",
+    "caption":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, Standing figure. Stone; 11.2 x 4.2 x 1.9 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-20)",
+    "captionhtml":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, <i>Standing figure</i>. Stone; 11.2 x 4.2 x 1.9 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-20)",
+    "published_date":"2025-10-29 02:06:24.161187",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

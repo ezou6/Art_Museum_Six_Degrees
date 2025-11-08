@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":31118,
+    "objectnumber":"2016-1268",
+    "sortnumber":"2016 1268",
+    "displaytitle":"Mirror",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":-1000,
+    "dateend":-500,
+    "datecomputed":-750,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"1000–500 BCE",
+    "medium":"Ilmenite",
+    "dimensions":"h. 10.9 cm., w. 15.5 cm., d. 1.0 cm. (4 5/16 x 6 1/8 x 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mirror",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tBy September 1976, Gillett G. Griffin (1928-2016), Princeton, NJ [1]; promised bequest Gillett G. Griffin to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] According to dated slides (GG9000714-5) in the Griffin archive.\n</p>",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Didactics",
+            "textentryhtml":"One of the largest known concave iron-ore mirrors, this example has an almost spherical figure.  It is thought that many Gulf Coast monuments show figures wearing mirrors -- a statue from La Venta Tomb A depicts a seated woman with a small mirror at her chest -- and most known mirrors are perforated for suspension.  The concave iron-ore mirrors both reflect and invert images, lending them a mysterious power.  Mirrors are known as tools for shamanic divination in later Mesoamerican cultures, which may have been true for the Olmec as well.  Large concave iron-ore mirrors like this one may also have been used to start fires.\r\n\r\n(from The Olmec World, 1996)",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":46132,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV0011231",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Michael D. Coe et al., <I>The Olmec World: Ritual and Rulership</I> (Princeton, Princeton University Art Museum, 1996)",
+            "citation":"Michael D. Coe et al., <I>The Olmec World: Ritual and Rulership</I> (Princeton, Princeton University Art Museum, 1996), cat. no. 130, p. 233 (illus.); fig. 8, p. 53",
+            "date":1996,
+            "id":2564,
+            "uri":"http://www.worldcat.org/oclc/34103154"
+        },
+        {
+            "boilertext":"Susan Toby Evans, <EM>Ancient Mexico and Central America: Archaeology and Culture History, </EM>second edition (London and New York: Thames and Hudson, 2008).",
+            "citation":"Susan Toby Evans, <EM>Ancient Mexico and Central America: Archaeology and Culture History, </EM>second edition (London and New York: Thames and Hudson, 2008)., fig. 4.2 (illus.)",
+            "date":2008,
+            "id":2590,
+            "uri":"http://www.worldcat.org/oclc/181139906"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1682,
+            "citation":"The Olmec World: Ritual and Rulership (December 16, 1995 - June 9, 1996)",
+            "isvirtual":true,
+            "begindate":"1995-12-16",
+            "enddate":"1996-06-09",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1682"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Gulf Coast, Arroyo Pesquero",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Gulf Coast",
+            "state":"Veracruz",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Arroyo Pesquero",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514780/estado-de-veracruz-llave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072114,
+            "term":"mirrors",
+            "aatid":300037682,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035751,
+            "term":"Olmec",
+            "aatid":300017051,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072114,
+            "classification":"mirrors"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":12498,
+            "culture":"Olmec",
+            "alphasort":"Olmec",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Olmec",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035751,
+            "culture":"Olmec"
+        }
+    ],
+    "periods":[
+        {
+            "id":24010,
+            "period":"Middle Formative Period",
+            "alphasort":"Formative Period, Middle",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Middle Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV0011231"
+    ],
+    "displaymaker":null,
+    "displayculture":"Olmec",
+    "displayperiod":"Middle Formative Period",
+    "caption":"Olmec, Middle Formative Period, 1000–500 BCE, Veracruz, Gulf Coast, Mexico, Mesoamerica, Mirror. Ilmenite; 10.9 x 15.5 x 1 cm. Bequest of Gillett G. Griffin (2016-1268)",
+    "captionhtml":"Olmec, Middle Formative Period, 1000–500 BCE, Veracruz, Gulf Coast, Mexico, Mesoamerica, <i>Mirror</i>. Ilmenite; 10.9 x 15.5 x 1 cm. Bequest of Gillett G. Griffin (2016-1268)",
+    "published_date":"2025-10-29 02:04:40.675780",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

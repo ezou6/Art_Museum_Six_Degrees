@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":14798,
+    "objectnumber":"2004-252",
+    "sortnumber":"2004  252",
+    "displaytitle":"Corinthian capital",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Architectural Elements",
+    "datebegin":500,
+    "dateend":599,
+    "datecomputed":550,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"6th century",
+    "medium":"Gray marble",
+    "dimensions":"h. 26.8 x w. of abacus 25 x lower diam. 17.6 cm (10 9/16 x 9 13/16 x 6 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Sardis Excavation Society",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Corinthian capital",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated at Sardis between 1910 and 1914, with a final season in 1922; given to the Museum by the Sardis Excavation Committee",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":161180,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00914",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":161181,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00915",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":161182,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00916",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":161183,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00917",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":161184,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00918",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 128",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Turkey",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Sardis",
+            "geoname":"http://www.geonames.org/maps/google_38.489_28.04.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2113240,
+            "term":"architectural elements by building type",
+            "aatid":300078071,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159385,
+            "term":"acanthus",
+            "aatid":300164902,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2107858,
+            "term":"Corinthian order",
+            "aatid":300067417,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2108112,
+            "term":"capitals",
+            "aatid":300001662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163424,
+            "term":"marble",
+            "aatid":300011443,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2108112,
+            "classification":"capitals"
+        },
+        {
+            "id":2113240,
+            "classification":"architectural elements by building type"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2107858,
+            "period":"Corinthian order"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"17.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00914"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Turkey, 6th century, Corinthian capital. Gray marble; 26.8 × 25 × 17.6 cm. Gift of the Sardis Excavation Society (2004-252)",
+    "captionhtml":"Roman, Turkey, 6th century, <i>Corinthian capital</i>. Gray marble; 26.8 × 25 × 17.6 cm. Gift of the Sardis Excavation Society (2004-252)",
+    "published_date":"2025-10-16 11:57:12.523508",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

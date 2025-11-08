@@ -1,0 +1,181 @@
+{
+    "type":"artobject",
+    "objectid":2328,
+    "objectnumber":"2016-1233",
+    "sortnumber":"2016 1233",
+    "displaytitle":"Ucuyaya",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":-1400,
+    "dateend":-400,
+    "datecomputed":-900,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"1400–400 BCE",
+    "medium":"Strombus shell",
+    "dimensions":"h. 5.8 cm., w. 1.6 cm., d. 1.4 cm. (2 5/16 x 5/8 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ucuyaya",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tJuly, 1967, Gillett G. Griffin (1928-2016), Princeton, NJ, purchased from an unidentified source in Ecuador [1]; 2016, bequeathed to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] According to Griffin Notebook 1-2.\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":50352,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV017202",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Ecuador",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Intermediate area",
+            "country":"Ecuador",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3658394/republic-of-ecuador.html",
+            "location":{
+                "lat":"-1.25",
+                "lon":"-78.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2166253,
+            "term":"shell",
+            "aatid":300011829,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035933,
+            "term":"Pre-Columbian Ecuadorian periods",
+            "aatid":300017396,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2166253,
+            "term":"shell",
+            "aatid":300011829,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2166253,
+            "classification":"shell"
+        }
+    ],
+    "cultures":[
+        {
+            "id":16342,
+            "culture":"Narrio",
+            "alphasort":"Narrio",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Narrio",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2035933,
+            "period":"Pre-Columbian Ecuadorian periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"1.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV017202"
+    ],
+    "displaymaker":null,
+    "displayculture":"Narrio",
+    "displayperiod":null,
+    "caption":"Narrio, 1400–400 BCE, Ecuador, Intermediate area, Ucuyaya. Strombus shell; 5.8 x 1.6 x 1.4 cm. Bequest of Gillett G. Griffin (2016-1233)",
+    "captionhtml":"Narrio, 1400–400 BCE, Ecuador, Intermediate area, <i>Ucuyaya</i>. Strombus shell; 5.8 x 1.6 x 1.4 cm. Bequest of Gillett G. Griffin (2016-1233)",
+    "published_date":"2025-10-16 10:18:03.317887",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

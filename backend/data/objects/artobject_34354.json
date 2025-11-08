@@ -1,0 +1,177 @@
+{
+    "type":"artobject",
+    "objectid":34354,
+    "objectnumber":"y345",
+    "sortnumber":"345     y",
+    "displaytitle":"Trade Amphora",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-200,
+    "dateend":-101,
+    "datecomputed":-150,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"2nd century BCE",
+    "medium":"Ceramic",
+    "dimensions":"65.0 x 27.3 cm (25 9/16 x 10 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Trade Amphora",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Unknown provenance; possibly part of the Old Collection\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34279,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/IMG007811",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2036542,
+            "term":"Rhodian (Island Greek pottery style)",
+            "aatid":300020648,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2077991,
+            "term":"amphorae",
+            "aatid":300148696,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2077991,
+            "classification":"amphorae"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Rhodian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036542,
+            "period":"Rhodian (Island Greek pottery style)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"27.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182063,
+            "name":"web_2020_ancient_greek"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/IMG007811"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek, Rhodian",
+    "displayperiod":null,
+    "caption":"Greek, Rhodian, 2nd century BCE, Trade Amphora. Ceramic; 65 x 27.3 cm. Museum Collection (y345)",
+    "captionhtml":"Greek, Rhodian, 2nd century BCE, <i>Trade Amphora</i>. Ceramic; 65 x 27.3 cm. Museum Collection (y345)",
+    "published_date":"2025-11-01 02:01:39.350315",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

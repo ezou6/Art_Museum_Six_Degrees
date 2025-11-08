@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":36220,
+    "objectnumber":"1998-54 c",
+    "sortnumber":"1998   54 c",
+    "displaytitle":"Letter to a Relative",
+    "department":"Asian Art",
+    "classification":"Calligraphy",
+    "datebegin":1310,
+    "dateend":1322,
+    "datecomputed":1316,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"after 1310",
+    "medium":"Letter mounted on handscroll; ink on paper",
+    "dimensions":"Calligraphy: 29 x 49.2 cm. (11 7/16 x 19 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed \"Daosheng\"",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Letter to a Relative",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4387,
+            "displayname":"Guan Daosheng 管道昇",
+            "displaydate":"1262–1319",
+            "datebegin":1262,
+            "dateend":1319,
+            "prefix":null,
+            "suffix":", author",
+            "role":"Artist",
+            "displaymaker":"Guan Daosheng 管道昇, author, 1262–1319",
+            "displayorder":3
+        },
+        {
+            "id":6428,
+            "displayname":"Zhao Mengfu 趙孟頫",
+            "displaydate":"1254–1322",
+            "datebegin":1254,
+            "dateend":1322,
+            "prefix":null,
+            "suffix":", calligrapher",
+            "role":"Artist",
+            "displaymaker":"Zhao Mengfu 趙孟頫, calligrapher, 1254–1322",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;John B. Elliott (Princeton, NJ), by bequest to the Princeton University Art Museum, 1998. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":1733,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-54C",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 75",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033561,
+            "term":"Yüan",
+            "aatid":300018436,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2087885,
+            "term":"families",
+            "aatid":300055474,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122698,
+            "term":"letters (correspondence)",
+            "aatid":300026879,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2122698,
+            "classification":"letters (correspondence)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033561,
+            "period":"Yüan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.00"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-54C"
+    ],
+    "displaymaker":"Guan Daosheng 管道昇, author, 1262–1319 | Zhao Mengfu 趙孟頫, calligrapher, 1254–1322",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Guan Daosheng 管道昇, author (1262–1319), Zhao Mengfu 趙孟頫, calligrapher (1254–1322), Letter to a Relative, after 1310. Letter mounted on handscroll; ink on paper; 29 x 49.2 cm (Calligraphy). Bequest of John B. Elliott, Class of 1951 (1998-54 c)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Guan Daosheng 管道昇, author (1262–1319), Zhao Mengfu 趙孟頫, calligrapher (1254–1322), <i>Letter to a Relative</i>, after 1310. Letter mounted on handscroll; ink on paper; 29 x 49.2 cm (Calligraphy). Bequest of John B. Elliott, Class of 1951 (1998-54 c)",
+    "published_date":"2025-10-16 13:51:59.707847",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

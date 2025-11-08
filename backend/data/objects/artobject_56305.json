@@ -1,0 +1,198 @@
+{
+    "type":"artobject",
+    "objectid":56305,
+    "objectnumber":"PP635",
+    "sortnumber":"P       635P",
+    "displaytitle":"John Witherspoon (1723-1794)",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Cast bronze",
+    "dimensions":"304.8 x 158.8 x 121.9 cm. (120 x 62 1/2 x 48 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":"on front side of base: JOHN WITHERSPOON/ 1723 - 1794",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Alexander Stoddart",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Witherspoon (1723-1794)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14987,
+            "displayname":"Alexander Stoddart",
+            "displaydate":"Scottish, born 1959",
+            "datebegin":1959,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alexander Stoddart, Scottish, born 1959",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"John Witherspoon, Princeton University's sixth president, is memorialized in this twenty-first-century bronze, which has a twin in Witherspoon's native Scotland. Sculptor Alexander Stoddart, also a Scotsman, included everyday objects to symbolize his subject’s character: a Bible, lectern, and eagle represent, respectively, Witherspoon's contributions as renowned preacher, beloved teacher and president, and champion of American independence.",
+            "remarks":"Campus Art Online"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Alexander Stoddart",
+            "remarks":"Not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":74562,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP635_a",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":74563,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP635_b",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":85669,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP635",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031595,
+            "term":"Scottish",
+            "aatid":300111212,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031595,
+            "culture":"Scottish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"304.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"158.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"121.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP635_a"
+    ],
+    "displaymaker":"Alexander Stoddart, Scottish, born 1959",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alexander Stoddart (Scottish, born 1959), John Witherspoon (1723-1794), 2001. Cast bronze; 304.8 x 158.8 x 121.9 cm. Princeton University (PP635)",
+    "captionhtml":"Alexander Stoddart (Scottish, born 1959), <i>John Witherspoon (1723-1794)</i>, 2001. Cast bronze; 304.8 x 158.8 x 121.9 cm. Princeton University (PP635)",
+    "published_date":"2025-10-16 15:27:40.011906",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Main Campus Neighborhood",
+            "lat":"40.3486",
+            "lon":"-74.658"
+        }
+    ],
+    "extended_content":true
+}

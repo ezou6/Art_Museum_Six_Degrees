@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":141981,
+    "objectnumber":"2023-164",
+    "sortnumber":"2023  164",
+    "displaytitle":"Jar",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1885,
+    "dateend":1895,
+    "datecomputed":1890,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1890",
+    "medium":"White-slipped ceramic with red and black slip-paint",
+    "dimensions":"h. 10.6 × diam. 20.9 cm (4 3/16 × 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":"sticker on near bottom: Made By Nampeyo-Hopi\r\nin graphite on bottom: #C416713, $3250",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2023-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22275,
+            "displayname":"Num-pa-yu (Nampeyo of Hano)",
+            "displaydate":"Hopi-Tewa, 1859–1942; born and died Hano, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+            "datebegin":1859,
+            "dateend":1942,
+            "prefix":"Attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Attributed to Num-pa-yu (Nampeyo of Hano), Hopi-Tewa, 1859–1942; born and died Hano, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Date uncertain, Adobe Gallery, Santa Fe, NM, sold to Jim and Lucy Maddox, Chestertown, MD; August 8, 2023, donated to the Princeton University Art Museum\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":253384,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14846",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253385,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14851",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253386,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14853",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253387,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14857",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253388,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14861",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Arizona, Hano (Tewa Village), Hopi Reservation, First Mesa",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Hopi Reservation",
+            "state":"Arizona",
+            "city":"Hano (Tewa Village)",
+            "county":null,
+            "subregion":null,
+            "locale":"First Mesa",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040541,
+            "term":"Hopi",
+            "aatid":300017763,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040541,
+            "culture":"Hopi"
+        },
+        {
+            "id":2039520,
+            "culture":"Native American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"20.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX24_240626_14846"
+    ],
+    "displaymaker":"Attributed to Num-pa-yu (Nampeyo of Hano), Hopi-Tewa, 1859–1942; born and died Hano, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Attributed to Num-pa-yu (Nampeyo of Hano) (Hopi-Tewa, 1859–1942; born and died Hano, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ), ca. 1890, Hano (Tewa Village), Arizona, Hopi Reservation, United States, American southwest, Jar. White-slipped ceramic with red and black slip-paint; 10.6 × 20.9 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2023-164)",
+    "captionhtml":"Attributed to Num-pa-yu (Nampeyo of Hano) (Hopi-Tewa, 1859–1942; born and died Hano, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ), ca. 1890, Hano (Tewa Village), Arizona, Hopi Reservation, United States, American southwest, <i>Jar</i>. White-slipped ceramic with red and black slip-paint; 10.6 × 20.9 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2023-164)",
+    "published_date":"2025-10-24 02:03:14.111896",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

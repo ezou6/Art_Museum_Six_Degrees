@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":42423,
+    "objectnumber":"2003-245.4",
+    "sortnumber":"2003  245     4",
+    "displaytitle":"Corvus Monedula",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Ilfochrome print",
+    "dimensions":"image: 27.9 x 36 cm (11 x 14 3/16 in.)\r\nsheet: 30.5 x 40.6 cm (12 x 16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Inscribed in pen, verso lower left: 'Corvus Monedula'\r\nInscribed/signed in pen, verso lower right: 19/60//'01. // Calum Colvin",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Calum Colvin / Artists Rights Society (ARS), New York / The Design and Artists Copyright Society (DACS), London",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Corvus Monedula",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1575,
+            "displayname":"Calum Colvin",
+            "displaydate":"British, born 1961",
+            "datebegin":1961,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Calum Colvin, British, born 1961",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":6967,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2003-245-4",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 120, 128 (illus.)",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2003-245-4"
+    ],
+    "displaymaker":"Calum Colvin, British, born 1961",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Calum Colvin (British, born 1961), Corvus Monedula, 2001. Ilfochrome print; 27.9 x 36 cm (image), 30.5 x 40.6 cm (sheet). Museum purchase, anonymous gift (2003-245.4)",
+    "captionhtml":"Calum Colvin (British, born 1961), <i>Corvus Monedula</i>, 2001. Ilfochrome print; 27.9 x 36 cm (image), 30.5 x 40.6 cm (sheet). Museum purchase, anonymous gift (2003-245.4)",
+    "published_date":"2025-10-16 14:19:23.987615",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

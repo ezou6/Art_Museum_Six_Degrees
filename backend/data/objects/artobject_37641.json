@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":37641,
+    "objectnumber":"2016-1408",
+    "sortnumber":"2016 1408",
+    "displaytitle":"Tecomate embraced by a monkey",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-1000,
+    "dateend":0,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":"ca. 1000 BCE",
+    "medium":"Ceramic with burnished cream slip and traces of red pigment",
+    "dimensions":"h. 5.6 cm., w. 3.8 cm., d. 2.3 cm. (2 3/16 x 1 1/2 x 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tecomate embraced by a monkey",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ by Feburary 1971 [1]; bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated slides.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":46875,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV012690",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":46876,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV012688",
+            "isprimary":1,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987)",
+            "citation":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987), no. 18, 47",
+            "date":1987,
+            "id":2599,
+            "uri":"http://www.worldcat.org/oclc/18006583"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Gulf Coast",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Gulf Coast",
+            "state":"Veracruz",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514780/estado-de-veracruz-llave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035648,
+            "term":"Early Preclassic",
+            "aatid":300016970,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2133996,
+            "term":"monkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035751,
+            "term":"Olmec",
+            "aatid":300017051,
+            "termtype":"Culture"
+        },
+        {
+            "id":2152702,
+            "term":"burnishing (polishing)",
+            "aatid":300053869,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168423,
+            "term":"pigment",
+            "aatid":300013109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":12498,
+            "culture":"Olmec",
+            "alphasort":"Olmec",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Olmec style",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035751,
+            "culture":"Olmec"
+        }
+    ],
+    "periods":[
+        {
+            "id":24008,
+            "period":"Early Formative Period",
+            "alphasort":"Formative Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035648,
+            "period":"Early Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.82"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.29"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        },
+        {
+            "packageid":277929,
+            "name":"EW-Artwalk_Figuration_CaseC"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV012688"
+    ],
+    "displaymaker":null,
+    "displayculture":"Olmec style",
+    "displayperiod":"Early Formative Period",
+    "caption":"Olmec style, Early Formative Period, ca. 1000 BCE, Veracruz, Gulf Coast, Mexico, Mesoamerica, Tecomate embraced by a monkey. Ceramic with burnished cream slip and traces of red pigment; 5.6 x 3.8 x 2.3 cm. Bequest of Gillett G. Griffin (2016-1408)",
+    "captionhtml":"Olmec style, Early Formative Period, ca. 1000 BCE, Veracruz, Gulf Coast, Mexico, Mesoamerica, <i>Tecomate embraced by a monkey</i>. Ceramic with burnished cream slip and traces of red pigment; 5.6 x 3.8 x 2.3 cm. Bequest of Gillett G. Griffin (2016-1408)",
+    "published_date":"2025-10-29 02:06:02.046184",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

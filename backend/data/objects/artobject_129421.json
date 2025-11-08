@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":129421,
+    "objectnumber":"2010-102.39 a",
+    "sortnumber":"2010  102    39a",
+    "displaytitle":"Venice",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1907,
+    "dateend":1907,
+    "datecomputed":1907,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1907",
+    "medium":"Photogravure",
+    "dimensions":"plate: 16.5 × 19.9 cm (6 1/2 × 7 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frederick Quellmalz, Class of 1934",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Venice",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2537,
+            "displayname":"Edward Steichen",
+            "displaydate":"1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+            "datebegin":1879,
+            "dateend":1973,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edward Steichen, 1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90414,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16647",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 99",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997).",
+            "citation":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997)., p. 723 (illus.)",
+            "date":1997,
+            "id":6765,
+            "uri":"http://www.worldcat.org/oclc/38005333"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Venice",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Venice",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3164603/venice.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2080678,
+            "term":"canals",
+            "aatid":300006075,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2102498,
+            "term":"gondolas",
+            "aatid":300212742,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16647"
+    ],
+    "displaymaker":"Edward Steichen, 1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edward Steichen (1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY), Venice, 1907. Photogravure; 16.5 × 19.9 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.39 a)",
+    "captionhtml":"Edward Steichen (1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY), <i>Venice</i>, 1907. Photogravure; 16.5 × 19.9 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.39 a)",
+    "published_date":"2025-10-16 18:37:21.738738",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

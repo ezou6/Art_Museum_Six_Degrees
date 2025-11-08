@@ -1,0 +1,207 @@
+{
+    "type":"artobject",
+    "objectid":49092,
+    "objectnumber":"x1937-312 a-c",
+    "sortnumber":"1937  312xa    c",
+    "displaytitle":"Vignettes",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1625,
+    "dateend":1635,
+    "datecomputed":1630,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"ca. 1630",
+    "medium":"engraving; 1,5,7 of a series, mounted together",
+    "dimensions":"sheet trimmed to plate (a): 5.8 x 9.6 cm. (2 5/16 x 3 3/4 in.)\r\nsheet trimmed to plate (b): 5.8 x 9.7 cm. (2 5/16 x 3 13/16 in.)\r\nsheet trimmed to plate (c): 5.8 x 9.6 cm. (2 5/16 x 3 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed, top of No. 1: Visscher fecit",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vignettes",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1612,
+            "displayname":"Cornelis Visscher",
+            "displaydate":"Dutch, ca. 1629–1658",
+            "datebegin":1629,
+            "dateend":1658,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Cornelis Visscher, Dutch, ca. 1629–1658",
+            "displayorder":3
+        },
+        {
+            "id":22919,
+            "displayname":"Bartolomeus van Lochom",
+            "displaydate":"Dutch, 1607–1629",
+            "datebegin":1607,
+            "dateend":1629,
+            "prefix":"Engraver",
+            "suffix":null,
+            "role":"Engraver",
+            "displaymaker":"Engraver Bartolomeus van Lochom, Dutch, 1607–1629",
+            "displayorder":1
+        },
+        {
+            "id":22920,
+            "displayname":"Hans Janssen",
+            "displaydate":"1605–after 1631; born Amsterdam, Netherlands",
+            "datebegin":1605,
+            "dateend":0,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Hans Janssen, 1605–after 1631; born Amsterdam, Netherlands",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102776,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27508",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":102777,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27509",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":102778,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27510",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27508"
+    ],
+    "displaymaker":"Engraver Bartolomeus van Lochom, Dutch, 1607–1629 | after Hans Janssen, 1605–after 1631; born Amsterdam, Netherlands | Published by Cornelis Visscher, Dutch, ca. 1629–1658",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Engraver Bartolomeus van Lochom (Dutch, 1607–1629), after Hans Janssen (1605–after 1631; born Amsterdam, Netherlands), Published by Cornelis Visscher (Dutch, ca. 1629–1658), Vignettes, ca. 1630. Engraving; 1,5,7 of a series, mounted together; 5.8 x 9.6 cm (plate, a), 5.8 x 9.7 cm (plate, b), 5.8 x 9.6 cm (plate, c). Bequest of Junius S. Morgan, Class of 1888 (x1937-312 a-c)",
+    "captionhtml":"Engraver Bartolomeus van Lochom (Dutch, 1607–1629), after Hans Janssen (1605–after 1631; born Amsterdam, Netherlands), Published by Cornelis Visscher (Dutch, ca. 1629–1658), <i>Vignettes</i>, ca. 1630. Engraving; 1,5,7 of a series, mounted together; 5.8 x 9.6 cm (plate, a), 5.8 x 9.7 cm (plate, b), 5.8 x 9.6 cm (plate, c). Bequest of Junius S. Morgan, Class of 1888 (x1937-312 a-c)",
+    "published_date":"2025-10-16 15:05:01.995070",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

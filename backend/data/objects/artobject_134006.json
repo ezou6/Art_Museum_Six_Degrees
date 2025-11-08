@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":134006,
+    "objectnumber":"2017-275",
+    "sortnumber":"2017  275",
+    "displaytitle":"New York City",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1968,
+    "dateend":1968,
+    "datecomputed":1968,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1968",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 34 × 22.5 cm (13 3/8 × 8 7/8 in.)\r\nsheet: 35.8 × 27.8 cm (14 1/8 × 10 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated in ink, verso",
+    "catalograisonne":null,
+    "creditlinerepro":"© Joel Meyerowitz",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"New York City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Rockefeller Center (Man and Astronaut Suit)",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1329,
+            "displayname":"Joel Meyerowitz",
+            "displaydate":"born 1938, New York, NY; active New York",
+            "datebegin":1938,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joel Meyerowitz, born 1938, New York, NY; active New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist. Acquired by Matthew E. Trevenen; given to the Princeton University Art Museum, 2017.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":235526,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1043",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":235527,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1042",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Manhattan, New York",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5125771/manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188687,
+            "term":"astronauts",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1042"
+    ],
+    "displaymaker":"Joel Meyerowitz, born 1938, New York, NY; active New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joel Meyerowitz (born 1938, New York, NY; active New York), New York City, 1968. Gelatin silver print; 34 × 22.5 cm (image), 35.8 × 27.8 cm (sheet). Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001 (2017-275)",
+    "captionhtml":"Joel Meyerowitz (born 1938, New York, NY; active New York), <i>New York City</i>, 1968. Gelatin silver print; 34 × 22.5 cm (image), 35.8 × 27.8 cm (sheet). Gift of Matthew E. Trevenen, Class of 2003, and Hilary Matson Trevenen, Class of 2001 (2017-275)",
+    "published_date":"2025-10-16 18:41:50.559674",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":39980,
+    "objectnumber":"2001-27",
+    "sortnumber":"2001   27",
+    "displaytitle":"Kepler",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1999,
+    "dateend":1999,
+    "datecomputed":1999,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1999",
+    "medium":"One color etching on white paper",
+    "dimensions":"sheet: 151.1 × 121 cm (59 1/2 × 47 5/8 in.)\r\nframe: 162.5 × 132 × 5.5 cm (64 × 51 15/16 × 2 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of The Friends of The Art Museum in honor of Charles K. Steiner",
+    "markings":null,
+    "inscribed":"Signed and dated, lower right: R. Serra '99",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Richard Serra / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Kepler",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3566,
+            "displayname":"Richard Serra",
+            "displaydate":"1938–2024; born San Francisco, CA; died Orient, NY; active New York, NY",
+            "datebegin":1938,
+            "dateend":2024,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Richard Serra, 1938–2024; born San Francisco, CA; died Orient, NY; active New York, NY",
+            "displayorder":1
+        },
+        {
+            "id":12874,
+            "displayname":"Gemini G.E.L., Los Angeles",
+            "displaydate":null,
+            "datebegin":1966,
+            "dateend":0,
+            "prefix":"Printed at",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed at Gemini G.E.L., Los Angeles",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":122567,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV45769",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 117",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Los Angeles",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Los Angeles",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5368361/los-angeles.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155203,
+            "term":"splatter",
+            "aatid":300254788,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098325,
+            "term":"ovals",
+            "aatid":300055631,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"162.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"132.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"151.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"121.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV45769"
+    ],
+    "displaymaker":"Richard Serra, 1938–2024; born San Francisco, CA; died Orient, NY; active New York, NY | Printed at Gemini G.E.L., Los Angeles",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Richard Serra (1938–2024; born San Francisco, CA; died Orient, NY; active New York, NY), Printed at Gemini G.E.L., Los Angeles, Kepler, 1999. One color etching on white paper; 151.1 × 121 cm (sheet), 162.5 × 132 × 5.5 cm (frame). Museum purchase, gift of The Friends of The Art Museum in honor of Charles K. Steiner (2001-27)",
+    "captionhtml":"Richard Serra (1938–2024; born San Francisco, CA; died Orient, NY; active New York, NY), Printed at Gemini G.E.L., Los Angeles, <i>Kepler</i>, 1999. One color etching on white paper; 151.1 × 121 cm (sheet), 162.5 × 132 × 5.5 cm (frame). Museum purchase, gift of The Friends of The Art Museum in honor of Charles K. Steiner (2001-27)",
+    "published_date":"2025-10-16 14:08:29.821325",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

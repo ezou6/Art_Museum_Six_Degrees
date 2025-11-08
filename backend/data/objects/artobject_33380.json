@@ -1,0 +1,233 @@
+{
+    "type":"artobject",
+    "objectid":33380,
+    "objectnumber":"y1990-10",
+    "sortnumber":"1990   10y",
+    "displaytitle":"Black-figure lekythos: lions and cocks",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-625,
+    "dateend":-525,
+    "datecomputed":-575,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 575 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 18.2 cm, diam. 11.9 cm (7 3/16 x 4 11/16 in.)\r\ndiam. rim 4.9 cm",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Black-figure lekythos: lions and cocks",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4112,
+            "displayname":"Painter of Athens 533",
+            "displaydate":"Greek, Attic, active ca. 575-555 BCE",
+            "datebegin":-575,
+            "dateend":-555,
+            "prefix":"near the",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"near the Painter of Athens 533, Greek, Attic, active ca. 575-555 BCE",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from Edoardo Almagia, New York.",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":7920,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1990-10_1_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":7921,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1990-10_2_SL",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 58; p. 56 (illus.)",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2127397,
+            "term":"lions",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036550,
+            "term":"Attic",
+            "aatid":300020118,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036598,
+            "term":"Black-figure",
+            "aatid":300020195,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073303,
+            "term":"lekythoi",
+            "aatid":300198876,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073303,
+            "classification":"lekythoi"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13588,
+            "culture":"Greek, Attic",
+            "alphasort":"Attic",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Attic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036550,
+            "culture":"Attic"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036598,
+            "period":"Black-figure"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"11.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182063,
+            "name":"web_2020_ancient_greek"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1990-10_1_SL"
+    ],
+    "displaymaker":"near the Painter of Athens 533, Greek, Attic, active ca. 575-555 BCE",
+    "displayculture":"Greek, Attic",
+    "displayperiod":null,
+    "caption":"Greek, Attic, near the Painter of Athens 533 (Greek, Attic, active ca. 575-555 BCE), ca. 575 BCE, Black-figure lekythos: lions and cocks. Ceramic; 18.2 x 11.9 cm. Museum purchase, gift of John B. Elliott, Class of 1951 (y1990-10)",
+    "captionhtml":"Greek, Attic, near the Painter of Athens 533 (Greek, Attic, active ca. 575-555 BCE), ca. 575 BCE, <i>Black-figure lekythos: lions and cocks</i>. Ceramic; 18.2 x 11.9 cm. Museum purchase, gift of John B. Elliott, Class of 1951 (y1990-10)",
+    "published_date":"2025-10-16 13:35:27.038603",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

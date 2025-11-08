@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":55833,
+    "objectnumber":"2008-354",
+    "sortnumber":"2008  354",
+    "displaytitle":"Composite portrait of 120 women",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1870,
+    "dateend":1879,
+    "datecomputed":1874,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1870s",
+    "medium":"Albumen print",
+    "dimensions":"23.2 × 19.1 cm (9 1/8 × 7 1/2 in.)\r\nmount: 25.3 x 20.1 cm. (9 15/16 x 7 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":"Photographer's imprint on mount, below image from left to right: Spencer y Cia. | [Republic of Chile emblem] | Santiago | y Valparaiso.",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Composite portrait of 120 women",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14763,
+            "displayname":"Spencer and Company",
+            "displaydate":"Chilean, active late 19th century",
+            "datebegin":1875,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Spencer and Company, Chilean, active late 19th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by Princeton University Art Museum",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":20947,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-354",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 87",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1214,
+            "citation":"More than One: Photographs in Sequence (November 1, 2008–February 22, 2009)",
+            "isvirtual":true,
+            "begindate":"2008-11-01",
+            "enddate":"2009-02-22",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1214"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Chile, Santiago",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":null,
+            "country":"Chile",
+            "region":null,
+            "state":null,
+            "city":"Santiago",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3871336/santiago.html",
+            "location":{
+                "lat":"-33.45694",
+                "lon":"-70.64827"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038530,
+            "term":"Chilean",
+            "aatid":300107968,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051941,
+            "term":"photocollages",
+            "aatid":300181912,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053761,
+            "term":"cabinet photographs",
+            "aatid":300127131,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054071,
+            "term":"composite photographs",
+            "aatid":300134769,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053761,
+            "classification":"cabinet photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038530,
+            "culture":"Chilean"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.10"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-354"
+    ],
+    "displaymaker":"Spencer and Company, Chilean, active late 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Spencer and Company (Chilean, active late 19th century), Composite portrait of 120 women, ca. 1870s. Albumen print; 23.2 × 19.1 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-354)",
+    "captionhtml":"Spencer and Company (Chilean, active late 19th century), <i>Composite portrait of 120 women</i>, ca. 1870s. Albumen print; 23.2 × 19.1 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-354)",
+    "published_date":"2025-10-16 15:25:54.041276",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

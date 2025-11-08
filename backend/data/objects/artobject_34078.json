@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":34078,
+    "objectnumber":"y1994-60",
+    "sortnumber":"1994   60y",
+    "displaytitle":"Fragment of wall-painting with the head of a saint",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Paintings",
+    "datebegin":1000,
+    "dateend":1099,
+    "datecomputed":1050,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"11th century",
+    "medium":"Fresco on stucco",
+    "dimensions":"14.8 x 23.5 cm (5 13/16 x 9 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1994-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment of wall-painting with the head of a saint",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from Royal-Athena Galleries, N.Y, in 1994.",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":3783,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1994-60_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":15148,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1994-60",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79.",
+            "citation":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79., p. 40",
+            "date":1995,
+            "id":569,
+            "uri":"https://www.jstor.org/stable/3774717"
+        },
+        {
+            "boilertext":"<P><EM>Egyptian, Greek, Etruscan, Roman and western Asiatic antiquities and Islamic works of art: auction ... November 24, 1986</EM>, (New York: Sotheby's, 1986).</P>",
+            "citation":"<P><EM>Egyptian, Greek, Etruscan, Roman and western Asiatic antiquities and Islamic works of art: auction ... November 24, 1986</EM>, (New York: Sotheby's, 1986).</P>, cat. no. 233",
+            "date":1986,
+            "id":2074,
+            "uri":"http://www.worldcat.org/oclc/602660332"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031701,
+            "term":"Middle Byzantine",
+            "aatid":300020674,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2131867,
+            "term":"crowns (headdresses)",
+            "aatid":300046020,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188636,
+            "term":"halos (glories)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053136,
+            "term":"frescoes",
+            "aatid":300177433,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167544,
+            "term":"stucco",
+            "aatid":300014966,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2053136,
+            "classification":"frescoes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":13630,
+            "period":"Byzantine",
+            "alphasort":"Byzantine",
+            "begindate":641,
+            "enddate":1453,
+            "displayperiod":"Middle Byzantine",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2031701,
+            "period":"Middle Byzantine"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1994-60"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Middle Byzantine",
+    "caption":"Middle Byzantine, Eastern Mediterranean, 11th century, Fragment of wall-painting with the head of a saint. Fresco on stucco; 14.8 x 23.5 cm (maximum). Museum purchase (y1994-60)",
+    "captionhtml":"Middle Byzantine, Eastern Mediterranean, 11th century, <i>Fragment of wall-painting with the head of a saint</i>. Fresco on stucco; 14.8 x 23.5 cm (maximum). Museum purchase (y1994-60)",
+    "published_date":"2025-10-16 13:39:07.519773",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

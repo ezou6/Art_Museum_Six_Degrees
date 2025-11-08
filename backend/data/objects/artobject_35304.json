@@ -1,0 +1,202 @@
+{
+    "type":"artobject",
+    "objectid":35304,
+    "objectnumber":"2016-1271",
+    "sortnumber":"2016 1271",
+    "displaytitle":"Human figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":495,
+    "dateend":505,
+    "datecomputed":500,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"ca. 500 CE",
+    "medium":"Obsidian",
+    "dimensions":"h. 9.4 cm., w. 3.7 cm., d. 0.7 cm. (3 11/16 x 1 7/16 x 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Human figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tBy 1990, Gillett G. Griffin (1928-2016), Princeton, NJ [1]; 2016, bequeathed to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] Griffin lent to the Museum in 1990 (L.1990.51).\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":46134,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV0011295",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Central Mexico, Teotihuacan",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Central Mexico",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Teotihuacan",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8379475/teotihuacan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2039146,
+            "term":"Teotihuacán",
+            "aatid":300017031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035663,
+            "term":"Classic",
+            "aatid":300016983,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163364,
+            "term":"obsidian",
+            "aatid":300011254,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13848,
+            "culture":"Teotihuacán",
+            "alphasort":"Teotihuacán",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Teotihuacán",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039146,
+            "culture":"Teotihuacán"
+        }
+    ],
+    "periods":[
+        {
+            "id":12494,
+            "period":"Classic Period",
+            "alphasort":"Classic Period",
+            "begindate":200,
+            "enddate":900,
+            "displayperiod":"Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035663,
+            "period":"Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.65"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.68"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV0011295"
+    ],
+    "displaymaker":null,
+    "displayculture":"Teotihuacán",
+    "displayperiod":"Classic Period",
+    "caption":"Teotihuacán, Classic Period, ca. 500 CE, Central Mexico, Mexico, Mesoamerica, Human figure. Obsidian; 9.4 x 3.7 x 0.7 cm. Bequest of Gillett G. Griffin (2016-1271)",
+    "captionhtml":"Teotihuacán, Classic Period, ca. 500 CE, Central Mexico, Mexico, Mesoamerica, <i>Human figure</i>. Obsidian; 9.4 x 3.7 x 0.7 cm. Bequest of Gillett G. Griffin (2016-1271)",
+    "published_date":"2025-10-31 02:05:56.960923",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

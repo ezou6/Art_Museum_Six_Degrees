@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":42364,
+    "objectnumber":"2004-35",
+    "sortnumber":"2004   35",
+    "displaytitle":"Helmet mask",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood, metal, plant fiber, and organic material",
+    "dimensions":"h. 33.5 cm., w. 40.0 cm., d. 33.0 cm. (13 3/16 x 15 3/4 x 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Helmet mask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15640,
+            "displayname":"Temne",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Temne artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Sekou Traore, Monrovia, Liberia by 1986]; Private Collection, New York, NY; Alan Burke, Tucson, AZ until 2004; Princeton University Art Museum, 2004",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":2213,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-35",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 135 (illus.)",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Sierra Leone",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Sierra Leone",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2403846/republic-of-sierra-leone.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130075,
+            "term":"helmets",
+            "aatid":300036794,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049655,
+            "term":"woodwork",
+            "aatid":300015348,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042258,
+            "term":"Temne",
+            "aatid":300015956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2045481,
+            "term":"horn",
+            "aatid":300011826,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043593,
+            "term":"plant fiber",
+            "aatid":300014031,
+            "termtype":"Materials"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2164667,
+            "term":"organic material",
+            "aatid":300011792,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2130075,
+            "classification":"helmets"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2049655,
+            "classification":"woodwork"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042258,
+            "culture":"Temne"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-35"
+    ],
+    "displaymaker":"Temne artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Temne artist, Sierra Leone, Western Africa, Helmet mask, 20th century. Wood, metal, plant fiber, and organic material; 33.5 x 40 x 33 cm. Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961 (2004-35)",
+    "captionhtml":"Temne artist, Sierra Leone, Western Africa, <i>Helmet mask</i>, 20th century. Wood, metal, plant fiber, and organic material; 33.5 x 40 x 33 cm. Gift of Alan Burke, Class of 1958, in memory of his brother, Robert Burke, Class of 1961 (2004-35)",
+    "published_date":"2025-10-16 14:19:07.674657",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

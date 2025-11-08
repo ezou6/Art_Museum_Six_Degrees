@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":5716,
+    "objectnumber":"x1946-403",
+    "sortnumber":"1946  403x",
+    "displaytitle":"Roman Ruins",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1618,
+    "dateend":1657,
+    "datecomputed":1638,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Pen and brown ink with brown wash",
+    "dimensions":"17.9 x 22.4 cm. (7 1/16 x 8 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":"Stamp in ink, lower center: PHL [Lugt 2090]\r\nStamp in ink, lower right (upside down): M [in square] [Lugt 1853a]",
+    "inscribed":"in ink, lower center: Claudio\r\nin ink, on verso of mount: No. 98 Jan 28 . 80",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":581,
+            "displayname":"Bartholomeus Breenbergh",
+            "displaydate":"Dutch, 1598–1657",
+            "datebegin":1598,
+            "dateend":1657,
+            "prefix":"attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"attributed to Bartholomeus Breenbergh, Dutch, 1598–1657",
+            "displayorder":1
+        },
+        {
+            "id":6087,
+            "displayname":"Claude Lorrain",
+            "displaydate":"French, 1604–1682",
+            "datebegin":1604,
+            "dateend":1682,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Claude Lorrain, French, 1604–1682",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":9584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1946-403_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":109539,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33316",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 6, no. 1/2 (1947): p. 7.",
+            "citation":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 6, no. 1/2 (1947): p. 7., p. 7",
+            "date":1947,
+            "id":3294,
+            "uri":"https://www.jstor.org/stable/3774166"
+        },
+        {
+            "boilertext":"<em>An exhibition of paintings &amp; drawings by Claude Lorrain, 1600-1682, January 19th through February 12th, 1938</em>, (New York: Durlacher Bros., 1938).",
+            "citation":"<em>An exhibition of paintings &amp; drawings by Claude Lorrain, 1600-1682, January 19th through February 12th, 1938</em>, (New York: Durlacher Bros., 1938)., no. 9",
+            "date":1938,
+            "id":5833,
+            "uri":"http://www.worldcat.org/oclc/78123158"
+        },
+        {
+            "boilertext":"<em>Exhibition of drawings by old masters from the private collection of Prof. Frank Jewett Mather: International Art Center of Roerich Museum: December 18th to 31st, 1930</em>, (New York: Roerich Museum, 1930).",
+            "citation":"<em>Exhibition of drawings by old masters from the private collection of Prof. Frank Jewett Mather: International Art Center of Roerich Museum: December 18th to 31st, 1930</em>, (New York: Roerich Museum, 1930)., no. 86a",
+            "date":1930,
+            "id":5328,
+            "uri":"http://www.worldcat.org/oclc/863465110"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2087836,
+            "term":"ruins",
+            "aatid":300008057,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33316"
+    ],
+    "displaymaker":"attributed to Bartholomeus Breenbergh, Dutch, 1598–1657 | formerly attributed to Claude Lorrain, French, 1604–1682",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Attributed to Bartholomeus Breenbergh (Dutch, 1598–1657), formerly attributed to Claude Lorrain (French, 1604–1682), Roman Ruins. Pen and brown ink with brown wash; 17.9 x 22.4 cm. Gift of Frank Jewett Mather Jr. (x1946-403)",
+    "captionhtml":"Attributed to Bartholomeus Breenbergh (Dutch, 1598–1657), formerly attributed to Claude Lorrain (French, 1604–1682), Roman Ruins. Pen and brown ink with brown wash; 17.9 x 22.4 cm. Gift of Frank Jewett Mather Jr. (x1946-403)",
+    "published_date":"2025-10-16 10:40:26.356520",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":53111,
+    "objectnumber":"x1934-376",
+    "sortnumber":"1934  376x",
+    "displaytitle":"Vita et Passio Christi (The Life and Passion of Christ)",
+    "department":"Prints and Drawings",
+    "classification":"Books",
+    "datebegin":1568,
+    "dateend":1568,
+    "datecomputed":1568,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"published 1568",
+    "medium":"Bound book illustrated with woodcuts",
+    "dimensions":"15.2 × 9.5 × 1 cm (6 × 3 3/4 × 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vita et Passio Christi (The Life and Passion of Christ)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5715,
+            "displayname":"Albrecht Dürer",
+            "displaydate":"1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "datebegin":1471,
+            "dateend":1528,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":117850,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40287",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":117853,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40288",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":117856,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40289",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":117859,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40290",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":117862,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40291",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany, Frankfurt",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":"Frankfurt",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3220968/frankfurt-am-main.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2097902,
+            "term":"life",
+            "aatid":300055134,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133991,
+            "term":"passion",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125777,
+            "classification":"books"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":16124,
+            "name":"Web_Callot_2014"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40288"
+    ],
+    "displaymaker":"after Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), Vita et Passio Christi (The Life and Passion of Christ), published 1568. Bound book illustrated with woodcuts; 15.2 × 9.5 × 1 cm. Bequest of Junius S. Morgan, Class of 1888 (x1934-376)",
+    "captionhtml":"After Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), <i>Vita et Passio Christi (The Life and Passion of Christ)</i>, published 1568. Bound book illustrated with woodcuts; 15.2 × 9.5 × 1 cm. Bequest of Junius S. Morgan, Class of 1888 (x1934-376)",
+    "published_date":"2025-10-16 15:16:47.206082",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

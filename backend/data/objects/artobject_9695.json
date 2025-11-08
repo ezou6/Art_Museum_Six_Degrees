@@ -1,0 +1,164 @@
+{
+    "type":"artobject",
+    "objectid":9695,
+    "objectnumber":"x1957-140",
+    "sortnumber":"1957  140x",
+    "displaytitle":"St. Mark",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1634,
+    "dateend":1679,
+    "datecomputed":1656,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 13.5 x 9.9 cm. (5 5/16 x 3 7/8 in.)\r\nsheet: 14.3 x 10.6 cm (5 5/8 x 4 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. A. Farrington",
+    "markings":null,
+    "inscribed":"IL at top right; bottom left: Ioannes Lievens fecit; bottom right: Franciscus vanden Wyngaerde excudit; bottom center: S. Marcus",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Mark",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1866,
+            "displayname":"Frans van den Wyngaerde",
+            "displaydate":"Belgian, 1614–1679",
+            "datebegin":1614,
+            "dateend":1679,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Frans van den Wyngaerde, Belgian, 1614–1679",
+            "displayorder":1
+        },
+        {
+            "id":4612,
+            "displayname":"Jan Lievens",
+            "displaydate":"Dutch, 1607–1674",
+            "datebegin":1607,
+            "dateend":1674,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jan Lievens, Dutch, 1607–1674",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":103011,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27750",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27750"
+    ],
+    "displaymaker":"Frans van den Wyngaerde, Belgian, 1614–1679 | after Jan Lievens, Dutch, 1607–1674",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Frans van den Wyngaerde (Belgian, 1614–1679), after Jan Lievens (Dutch, 1607–1674), St. Mark. Engraving; 13.5 x 9.9 cm (plate), 14.3 x 10.6 cm (sheet). Gift of J. A. Farrington (x1957-140)",
+    "captionhtml":"Frans van den Wyngaerde (Belgian, 1614–1679), after Jan Lievens (Dutch, 1607–1674), <i>St. Mark</i>. Engraving; 13.5 x 9.9 cm (plate), 14.3 x 10.6 cm (sheet). Gift of J. A. Farrington (x1957-140)",
+    "published_date":"2025-10-23 16:51:56.663964",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

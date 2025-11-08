@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":10393,
+    "objectnumber":"x1962-43",
+    "sortnumber":"1962   43x",
+    "displaytitle":"The Zanys",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1830,
+    "dateend":1830,
+    "datecomputed":1830,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"publ. 1830",
+    "medium":"lithograph",
+    "dimensions":"image: 22.3 x 36 cm. (8 3/4 x 14 3/16 in.)\r\nsheet: 27.7 x 39.8 cm. (10 7/8 x 15 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Hugh Trumbull Adams, Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Zanys",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3402,
+            "displayname":"R. S.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"R. S.",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":103919,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28345",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 17",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28345"
+    ],
+    "displaymaker":"R. S.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"R. S., The Zanys, publ. 1830. Lithograph; 22.3 x 36 cm (image), 27.7 x 39.8 cm (sheet). Gift of Hugh Trumbull Adams, Class of 1935 (x1962-43)",
+    "captionhtml":"R. S., <i>The Zanys</i>, publ. 1830. Lithograph; 22.3 x 36 cm (image), 27.7 x 39.8 cm (sheet). Gift of Hugh Trumbull Adams, Class of 1935 (x1962-43)",
+    "published_date":"2025-10-16 11:21:36.984627",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

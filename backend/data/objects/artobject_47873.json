@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":47873,
+    "objectnumber":"x1934-983 a",
+    "sortnumber":"1934  983xa",
+    "displaytitle":"Jenkins (?)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1617,
+    "dateend":1650,
+    "datecomputed":1634,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 11.9 x 7.8 cm. (4 11/16 x 3 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jenkins (?)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4834,
+            "displayname":"William Marshall",
+            "displaydate":"British, active ca. 1617–1650",
+            "datebegin":1617,
+            "dateend":1650,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Marshall, British, active ca. 1617–1650",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102215,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26966",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.90"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26966"
+    ],
+    "displaymaker":"William Marshall, British, active ca. 1617–1650",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Marshall (British, active ca. 1617–1650), Jenkins (?). Engraving; 11.9 x 7.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-983 a)",
+    "captionhtml":"William Marshall (British, active ca. 1617–1650), <i>Jenkins (?)</i>. Engraving; 11.9 x 7.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-983 a)",
+    "published_date":"2025-10-23 17:21:10.934668",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

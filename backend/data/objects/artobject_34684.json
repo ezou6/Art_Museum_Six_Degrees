@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":34684,
+    "objectnumber":"y706",
+    "sortnumber":"706     y",
+    "displaytitle":"Plate",
+    "department":"Asian Art",
+    "classification":"Ceramic",
+    "datebegin":1736,
+    "dateend":1795,
+    "datecomputed":1766,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Porcelain with underglaze blue designs",
+    "dimensions":"h. 2.9 cm., diam. 23.2 cm. (1 1/8 x 9 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull- Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":55968,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV023486",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":55969,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV023487",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055802,
+            "term":"still lifes",
+            "aatid":300015638,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171690,
+            "term":"blue-and-white",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033620,
+            "term":"Qianlong",
+            "aatid":300018486,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033707,
+            "term":"Chinese ceramics styles",
+            "aatid":300018504,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2126468,
+            "term":"scrolls (information artifacts)",
+            "aatid":300028629,
+            "termtype":"Subject"
+        },
+        {
+            "id":2157558,
+            "term":"underglazing",
+            "aatid":300048642,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2171690,
+            "classification":"blue-and-white"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2033707,
+            "classification":"chinese ceramics styles"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13958,
+            "period":"Qianlong reign period",
+            "alphasort":"Qianlong reign period",
+            "begindate":1736,
+            "enddate":1795,
+            "displayperiod":"Qing dynasty, Qianlong reign period, 1736–1795",
+            "displaydate":"1736–1795"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033620,
+            "period":"Qianlong"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"23.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV023487"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, Qianlong reign period, 1736–1795",
+    "caption":"Chinese, Qing dynasty, Qianlong reign period (1736–1795), Plate. Porcelain with underglaze blue designs; 2.9 x 23.2 cm. Trumbull- Prime Collection (y706)",
+    "captionhtml":"Chinese, Qing dynasty, Qianlong reign period (1736–1795), <i>Plate</i>. Porcelain with underglaze blue designs; 2.9 x 23.2 cm. Trumbull- Prime Collection (y706)",
+    "published_date":"2025-10-16 13:42:07.896655",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":57943,
+    "objectnumber":"2009-132",
+    "sortnumber":"2009  132",
+    "displaytitle":"Allen Rosenbaum",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1968,
+    "dateend":1968,
+    "datecomputed":1968,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1968",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 32.3 x 32.1 cm. (12 11/16 x 12 5/8 in.)\r\nsheet: 42.8 x 35.4 cm. (16 7/8 x 13 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allen Rosenbaum",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Peter Hujar",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2009-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Allen Rosenbaum",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5366,
+            "displayname":"Peter Hujar",
+            "displaydate":"1934–1987; born Trenton, NJ; died New York, NY",
+            "datebegin":1934,
+            "dateend":1987,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Peter Hujar, 1934–1987; born Trenton, NJ; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91938,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17799",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85., p. 77",
+            "date":2010,
+            "id":1248,
+            "uri":"https://www.jstor.org/stable/41757697"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098620,
+            "term":"rain",
+            "aatid":300055377,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188467,
+            "term":"Depicts",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2154022,
+            "classification":"gelatin silver process"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17799"
+    ],
+    "displaymaker":"Peter Hujar, 1934–1987; born Trenton, NJ; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Peter Hujar (1934–1987; born Trenton, NJ; died New York, NY), Allen Rosenbaum, 1968. Gelatin silver print; 32.3 x 32.1 cm (image), 42.8 x 35.4 cm (sheet). Gift of Allen Rosenbaum (2009-132)",
+    "captionhtml":"Peter Hujar (1934–1987; born Trenton, NJ; died New York, NY), <i>Allen Rosenbaum</i>, 1968. Gelatin silver print; 32.3 x 32.1 cm (image), 42.8 x 35.4 cm (sheet). Gift of Allen Rosenbaum (2009-132)",
+    "published_date":"2025-10-16 15:43:28.833047",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

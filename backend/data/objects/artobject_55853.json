@@ -1,0 +1,205 @@
+{
+    "type":"artobject",
+    "objectid":55853,
+    "objectnumber":"2008-1080",
+    "sortnumber":"2008 1080",
+    "displaytitle":"Aleph 4",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2008,
+    "dateend":2008,
+    "datecomputed":2008,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2008",
+    "medium":"Digital print",
+    "dimensions":"sheet: 72.2 × 81.2 cm (28 7/16 × 31 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Andor Orand Carius",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Aleph 4",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14772,
+            "displayname":"Andor Orand Carius",
+            "displaydate":"American, born 1942",
+            "datebegin":1942,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Andor Orand Carius, American, born 1942",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121111,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41356",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 86",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052830,
+            "term":"digital images",
+            "aatid":300215302,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052830,
+            "classification":"digital images"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"72.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41356"
+    ],
+    "displaymaker":"Andor Orand Carius, American, born 1942",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Andor Orand Carius (American, born 1942), Aleph 4, 2008. Digital print; 72.2 × 81.2 cm (sheet). Gift of Gillett G. Griffin (2008-1080)",
+    "captionhtml":"Andor Orand Carius (American, born 1942), <i>Aleph 4</i>, 2008. Digital print; 72.2 × 81.2 cm (sheet). Gift of Gillett G. Griffin (2008-1080)",
+    "published_date":"2025-10-16 15:26:00.539953",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

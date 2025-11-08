@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":36386,
+    "objectnumber":"1998-284.11",
+    "sortnumber":"1998  284    11",
+    "displaytitle":"Henry Geldzahler",
+    "department":"American Art",
+    "classification":"Time-based works",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964",
+    "medium":"Video transfer of black and white film, 16 mm, silent",
+    "dimensions":"duration: 99 minutes",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Henry Geldzahler",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1671,
+            "displayname":"Andy Warhol",
+            "displaydate":"1928–1987; born Pittsburgh, PA; died New York, NY; active New York",
+            "datebegin":1928,
+            "dateend":1987,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Andy Warhol, 1928–1987; born Pittsburgh, PA; died New York, NY; active New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[
+        {
+            "id":11059,
+            "displayname":"Henry Geldzahler",
+            "displaydate":"American, 1935–1994",
+            "datebegin":1935,
+            "dateend":1994,
+            "prefix":null,
+            "suffix":null,
+            "role":"Depicted",
+            "displaymaker":"Henry Geldzahler, American, 1935–1994",
+            "displayorder":2
+        }
+    ],
+    "texts":[],
+    "media":[
+        {
+            "id":99241,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24622",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":99242,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24623",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 99",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2170729,
+            "term":"black-and-white film",
+            "aatid":300127344,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055565,
+            "term":"time-based works",
+            "aatid":300185191,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2126292,
+            "term":"silent films",
+            "aatid":300252071,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188611,
+            "term":"single-channel video",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2055565,
+            "classification":"time-based works"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"duration",
+            "type":"Minutes",
+            "units":"minutes",
+            "dimension":"99.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196700,
+            "name":"MoCo-Pop art"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24622"
+    ],
+    "displaymaker":"Andy Warhol, 1928–1987; born Pittsburgh, PA; died New York, NY; active New York | Henry Geldzahler, American, 1935–1994",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Andy Warhol (1928–1987; born Pittsburgh, PA; died New York, NY; active New York), Henry Geldzahler (American, 1935–1994), Henry Geldzahler, 1964. Video transfer of black and white film, 16 mm, silent; 99 minutes (duration). Museum purchase (1998-284.11)",
+    "captionhtml":"Andy Warhol (1928–1987; born Pittsburgh, PA; died New York, NY; active New York), Henry Geldzahler (American, 1935–1994), <i>Henry Geldzahler</i>, 1964. Video transfer of black and white film, 16 mm, silent; 99 minutes (duration). Museum purchase (1998-284.11)",
+    "published_date":"2025-10-16 13:52:52.461560",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

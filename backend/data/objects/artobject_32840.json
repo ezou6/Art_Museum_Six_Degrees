@@ -1,0 +1,216 @@
+{
+    "type":"artobject",
+    "objectid":32840,
+    "objectnumber":"y1984-68",
+    "sortnumber":"1984   68y",
+    "displaytitle":"Portrait of a Cleric",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1770,
+    "dateend":1799,
+    "datecomputed":1784,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"98.9 x 74 cm (38 15/16 x 29 1/8 in.)\r\nframe: 118.5 x 94 x 6.2 cm (46 5/8 x 37 x 2 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Marco Grassi, Class of 1956, and Mrs. Grassi",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated, lower left: Cades 1793",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1984-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a Cleric",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6226,
+            "displayname":"Giuseppe Cades",
+            "displaydate":"Italian, 1750–1799",
+            "datebegin":1750,
+            "dateend":1799,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Giuseppe Cades, Italian, 1750–1799",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":124627,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47415",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52.",
+            "citation":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52., p. 25 (illus.)",
+            "date":1985,
+            "id":3134,
+            "uri":"https://www.jstor.org/stable/3774658"
+        },
+        {
+            "boilertext":"Maria Teresa Caracciolo, \"Giuseppe Cades (Rome, 1750 - 1799) et son imitateur: complément au catalogue raisonné\", <EM>Les Cahiers d’histoire de l’art</EM> 6 (2008): p. 122-153.",
+            "citation":"Maria Teresa Caracciolo, \"Giuseppe Cades (Rome, 1750 - 1799) et son imitateur: complément au catalogue raisonné\", <EM>Les Cahiers d’histoire de l’art</EM> 6 (2008): p. 122-153., p. 140; cat. no. 24",
+            "date":2008,
+            "id":7533,
+            "uri":"http://www.worldcat.org/oclc/886892328"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2090788,
+            "term":"prelates",
+            "aatid":300237368,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"118.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"94.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"98.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47415"
+    ],
+    "displaymaker":"Giuseppe Cades, Italian, 1750–1799",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Giuseppe Cades (Italian, 1750–1799), Portrait of a Cleric. Oil on canvas; 98.9 x 74 cm, 118.5 × 94 × 6.2 cm (frame). Gift of Marco Grassi, Class of 1956, and Mrs. Grassi (y1984-68)",
+    "captionhtml":"Giuseppe Cades (Italian, 1750–1799), <i>Portrait of a Cleric</i>. Oil on canvas; 98.9 x 74 cm, 118.5 × 94 × 6.2 cm (frame). Gift of Marco Grassi, Class of 1956, and Mrs. Grassi (y1984-68)",
+    "published_date":"2025-10-16 13:32:17.198887",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

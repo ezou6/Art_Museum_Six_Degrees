@@ -1,0 +1,158 @@
+{
+    "type":"artobject",
+    "objectid":53971,
+    "objectnumber":"y1943-4",
+    "sortnumber":"1943    4y",
+    "displaytitle":"Flask",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":700,
+    "dateend":899,
+    "datecomputed":800,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"8th–9th century",
+    "medium":"Glass",
+    "dimensions":"15.5 x 13.2 x 5.5 cm (6 1/8 x 5 3/16 x 2 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Allan Marquand",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Prof. Allan Marquand, Class of 1874, or Mrs. Eleanor (Cross) Marquand at an unknown date from an unknown source; given to the Museum in 1943 by Mrs. Marquand.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43785,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008875",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14523,
+            "culture":"Islamic",
+            "alphasort":"Islamic",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Islamic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008875"
+    ],
+    "displaymaker":null,
+    "displayculture":"Islamic",
+    "displayperiod":null,
+    "caption":"Islamic, 8th–9th century, Flask. Glass; 15.5 x 13.2 x 5.5 cm. Gift of Mrs. Allan Marquand (y1943-4)",
+    "captionhtml":"Islamic, 8th–9th century, <i>Flask</i>. Glass; 15.5 x 13.2 x 5.5 cm. Gift of Mrs. Allan Marquand (y1943-4)",
+    "published_date":"2025-10-16 15:20:16.386563",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

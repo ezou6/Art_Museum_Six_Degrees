@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":13731,
+    "objectnumber":"x1979-100",
+    "sortnumber":"1979  100x",
+    "displaytitle":"In the Notch, White Mountains",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1854,
+    "dateend":1854,
+    "datecomputed":1854,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1854",
+    "medium":"Albumen print",
+    "dimensions":"24 x 29 cm. (9 7/16 x 11 7/16 in.)\r\nmount: 35 x 43.1 cm. (13 3/4 x 16 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Robert O. Dougan Collection, gift of Warner Communications, Inc.",
+    "markings":null,
+    "inscribed":"In graphite, bottom right: In the Notch. / White Mts. / 1854",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1979-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"In the Notch, White Mountains",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"In the Notch, White Mountains, New Hampshire",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":412,
+            "displayname":"James Wallace Black",
+            "displaydate":"American, 1825–1896",
+            "datebegin":1825,
+            "dateend":1896,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James Wallace Black, American, 1825–1896",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85036,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11587",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1979,\" <em>Record of the Art Museum, Princeton University </em>39, no. 1/2 (1980): p. 40-63.",
+            "citation":"\"Acquisitions of the Art Museum 1979,\" <em>Record of the Art Museum, Princeton University </em>39, no. 1/2 (1980): p. 40-63., p. 56",
+            "date":1980,
+            "id":3367,
+            "uri":"https://www.jstor.org/stable/3774628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New Hampshire, White Mountains",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Hampshire",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"White Mountains",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5094627/white-mountains.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        },
+        {
+            "id":2153946,
+            "classification":"albumen process"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.00"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":206377,
+            "name":"image_descriptions_AD"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11587"
+    ],
+    "displaymaker":"James Wallace Black, American, 1825–1896",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James Wallace Black (American, 1825–1896), In the Notch, White Mountains, 1854. Albumen print; 24 x 29 cm. Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1979-100)",
+    "captionhtml":"James Wallace Black (American, 1825–1896), <i>In the Notch, White Mountains</i>, 1854. Albumen print; 24 x 29 cm. Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1979-100)",
+    "published_date":"2025-10-16 11:51:00.574599",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

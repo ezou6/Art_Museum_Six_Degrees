@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":54923,
+    "objectnumber":"y1967-2 a-k",
+    "sortnumber":"1967    2ya    k",
+    "displaytitle":"Landscapes",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1701,
+    "dateend":1701,
+    "datecomputed":1701,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1701",
+    "medium":"Album of 11 leaves (10 painting, 1 calligraphy); ink and light colors on paper",
+    "dimensions":"Album: 33 x 25.5 x 3.6 cm. (13 x 10 1/16 x 1 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Arthur M. Sackler Collection",
+    "markings":"Characters in ink on label adhered to side of wooden case",
+    "inscribed":"dated 1701",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscapes",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2372,
+            "displayname":"Shitao 石濤",
+            "displaydate":"1642–1707; born Guilin, China; died Yangzhou, China",
+            "datebegin":1642,
+            "dateend":1707,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shitao 石濤, 1642–1707; born Guilin, China; died Yangzhou, China",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":58527,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03653",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":58528,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03654",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":58529,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03652",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41., p. 35",
+            "date":1968,
+            "id":884,
+            "uri":"https://www.jstor.org/stable/3774425"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03654"
+    ],
+    "displaymaker":"Shitao 石濤, 1642–1707; born Guilin, China; died Yangzhou, China",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Shitao 石濤 (1642–1707; born Guilin, China; died Yangzhou, China), Landscapes, 1701. Album of 11 leaves (10 painting, 1 calligraphy); ink and light colors on paper; 33 x 25.5 x 3.6 cm (Album). Arthur M. Sackler Collection (y1967-2 a-k)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Shitao 石濤 (1642–1707; born Guilin, China; died Yangzhou, China), <i>Landscapes</i>, 1701. Album of 11 leaves (10 painting, 1 calligraphy); ink and light colors on paper; 33 x 25.5 x 3.6 cm (Album). Arthur M. Sackler Collection (y1967-2 a-k)",
+    "published_date":"2025-10-21 02:03:46.052070",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

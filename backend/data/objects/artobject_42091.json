@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":42091,
+    "objectnumber":"2003-243",
+    "sortnumber":"2003  243",
+    "displaytitle":"Self Portrait (Love is Tenderness)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1977,
+    "dateend":1977,
+    "datecomputed":1977,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1977, printed 2003",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 46.7 x 46.6 cm (18 3/8 x 18 3/8 in.)\r\nsheet: 65 x 50.6 cm (25 9/16 x 19 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Inscribed/signed in ink, verso center: 2//12 1977//2003-09 / Samuel Fosso",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Samuel Fosso",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Self Portrait (L'Amour c'est la tendresse)",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1570,
+            "displayname":"Samuel Fosso",
+            "displaydate":"born 1962, Kumba, Cameroon; active Bangui, Central African Republic; Aba, Nigeria; and Paris, France",
+            "datebegin":1962,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Samuel Fosso, born 1962, Kumba, Cameroon; active Bangui, Central African Republic; Aba, Nigeria; and Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"\r\nSamuel Fosso’s Studio Photo Nationale, located in Bangui, Central African Republic, specialized in passport, portrait, and wedding photography, promising clients that they would be \"beautiful, elegant, and easy to recognize.\" Hating to waste an unfinished roll of film, Fosso often would photograph himself at the end of the day, sending the prints to his mother in Nigeria. His self-portraits are deeply linked to the photographs of his clients; both types depict a theatrical space in which the sitters reinvent themselves freely. In this tightly cropped photograph, the teenage photographer poses holding paper bouquets in his studio, whose small stage and curtain are barely visible. </P></SPAN>",
+            "remarks":"African rotation September 2014"
+        }
+    ],
+    "media":[
+        {
+            "id":83931,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10565",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 121, p. 126 (illus.)",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Central African Republic, Bangui",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Central African Republic",
+            "region":null,
+            "state":null,
+            "city":"Bangui",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2389853/bangui.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188426,
+            "term":"Cameroonian",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2185097,
+            "term":"Modern and Contemporary African Artists",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2054171,
+            "term":"studio portraits",
+            "aatid":300223022,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055785,
+            "term":"self-portraits",
+            "aatid":300124534,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2188426,
+            "culture":"Cameroonian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10565"
+    ],
+    "displaymaker":"Samuel Fosso, born 1962, Kumba, Cameroon; active Bangui, Central African Republic; Aba, Nigeria; and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Samuel Fosso (born 1962, Kumba, Cameroon; active Bangui, Central African Republic; Aba, Nigeria; and Paris, France), Self Portrait (Love is Tenderness), 1977, printed 2003. Gelatin silver print; 46.7 x 46.6 cm (image), 65 x 50.6 cm (sheet). Museum purchase, anonymous gift (2003-243)",
+    "captionhtml":"Samuel Fosso (born 1962, Kumba, Cameroon; active Bangui, Central African Republic; Aba, Nigeria; and Paris, France), <i>Self Portrait (Love is Tenderness)</i>, 1977, printed 2003. Gelatin silver print; 46.7 x 46.6 cm (image), 65 x 50.6 cm (sheet). Museum purchase, anonymous gift (2003-243)",
+    "published_date":"2025-10-30 02:06:52.112801",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

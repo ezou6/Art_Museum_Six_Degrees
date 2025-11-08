@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":26632,
+    "objectnumber":"2016-1405",
+    "sortnumber":"2016 1405",
+    "displaytitle":"Figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-800,
+    "dateend":0,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":"ca. 800 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 9.0 cm., w. 4.4 cm., d. 1.7 cm. (3 9/16 x 1 3/4 x 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Teochita Inc., owned by Francis Pratt (1913-2003)]; purchased on April 10, 1967 by Gillett G. Griffin (1928-2016), Princeton, NJ [1]; bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated invoice.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":21003,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV0000297",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Image"
+        },
+        {
+            "id":21007,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV0000296",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P><?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p>Frances Pratt and Carlo T. E. Gay, <EM>Ceramic figures of ancient Mexico: Guerrero, México, Guanajuato, Michoacán, 1600 B.C.-300 A.D</EM>. (Graz: Akademische Druck-u. Verlagsanstalt, 1979).</o:p></P>",
+            "citation":"<P><?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p>Frances Pratt and Carlo T. E. Gay, <EM>Ceramic figures of ancient Mexico: Guerrero, México, Guanajuato, Michoacán, 1600 B.C.-300 A.D</EM>. (Graz: Akademische Druck-u. Verlagsanstalt, 1979).</o:p></P>, illus., fig. 258",
+            "date":1979,
+            "id":6204,
+            "uri":"http://www.worldcat.org/oclc/8347609"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero, San Jeronimo, Costa Grande",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Costa Grande",
+            "state":"Guerrero",
+            "city":"San Jeronimo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3986597/san-jeronimo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24010,
+            "period":"Middle Formative Period",
+            "alphasort":"Formative Period, Middle",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Middle Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":226010,
+            "name":"VisibleStorage_GHC-E_Mesoamerica1"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV0000296"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Middle Formative Period",
+    "caption":"Middle Formative Period, ca. 800 BCE, San Jeronimo, Guerrero, Costa Grande, Mexico, Mesoamerica, Figure. Ceramic; 9 x 4.4 x 1.7 cm. Bequest of Gillett G. Griffin (2016-1405)",
+    "captionhtml":"Middle Formative Period, ca. 800 BCE, San Jeronimo, Guerrero, Costa Grande, Mexico, Mesoamerica, <i>Figure</i>. Ceramic; 9 x 4.4 x 1.7 cm. Bequest of Gillett G. Griffin (2016-1405)",
+    "published_date":"2025-10-29 02:03:28.939159",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

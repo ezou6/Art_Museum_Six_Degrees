@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":15496,
+    "objectnumber":"x1983-66",
+    "sortnumber":"1983   66x",
+    "displaytitle":"Farm House No. 2",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1967,
+    "dateend":1967,
+    "datecomputed":1967,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1967",
+    "medium":"Etching and aquatint",
+    "dimensions":"plate: 16 x 22.8 cm (6 5/16 x 9 in.)\r\nsheet: 22.6 x 29.9 cm (8 7/8 x 11 3/4 in.)\r\nmat: 36.2 x 49 cm. (14 1/4 x 19 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Jerome Straka",
+    "markings":null,
+    "inscribed":"In graphite lower left of sheet: Warabuki no Ie\r\nIn graphite lower left of plate: 15/50",
+    "signed":"Signed and dated in graphite below lower right corner of plate: T. Ryahei '67",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Farm House No. 2",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2699,
+            "displayname":"Tanaka Ryōhei 田中良平",
+            "displaydate":"1933–2019",
+            "datebegin":1933,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Tanaka Ryōhei 田中良平, 1933–2019",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":58359,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03566",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151451,
+            "term":"thatching",
+            "aatid":300053687,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033927,
+            "term":"Showa",
+            "aatid":300018568,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034112,
+            "term":"Japanese printmaking styles",
+            "aatid":300106750,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2034112,
+            "classification":"japanese printmaking styles"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12593,
+            "period":"Shōwa era",
+            "alphasort":"Showa era",
+            "begindate":1926,
+            "enddate":1989,
+            "displayperiod":"Shōwa era, 1926–1989",
+            "displaydate":"1926–1989"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033927,
+            "period":"Showa"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.00"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.20"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03566"
+    ],
+    "displaymaker":"Tanaka Ryōhei 田中良平, 1933–2019",
+    "displayculture":"Japanese",
+    "displayperiod":"Shōwa era, 1926–1989",
+    "caption":"Japanese, Shōwa era (1926–1989), Tanaka Ryōhei 田中良平 (1933–2019), Farm House No. 2, 1967. Etching and aquatint; 16 x 22.8 cm (plate), 22.6 x 29.9 cm (sheet), 36.2 x 49 cm (mat). Gift of Mr. and Mrs. Jerome Straka (x1983-66)",
+    "captionhtml":"Japanese, Shōwa era (1926–1989), Tanaka Ryōhei 田中良平 (1933–2019), <i>Farm House No. 2</i>, 1967. Etching and aquatint; 16 x 22.8 cm (plate), 22.6 x 29.9 cm (sheet), 36.2 x 49 cm (mat). Gift of Mr. and Mrs. Jerome Straka (x1983-66)",
+    "published_date":"2025-10-16 12:03:15.774940",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

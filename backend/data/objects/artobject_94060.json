@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":94060,
+    "objectnumber":"2013-108",
+    "sortnumber":"2013  108",
+    "displaytitle":"Archer",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1958,
+    "dateend":1963,
+    "datecomputed":1960,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1958–63",
+    "medium":"Sheet; ink and color on paper",
+    "dimensions":"66.3 × 89.0 cm. (26 1/8 × 35 1/16 in.)\r\nmount: 69.5 x 92.3 cm",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Lucy L. Lo",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Archer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":9015,
+            "displayname":"James C. Lo",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"Workshop",
+            "role":"Artist",
+            "displaymaker":"James C. Lo Workshop",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–2013&nbsp;Lucy L. Lo (West Windsor, NJ), by gift to the Princeton University Art Museum, 2013.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":213081,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46773",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 46",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: China, Gansu province, Dunhuang, Mogao Caves",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":"Gansu province",
+            "city":"Dunhuang",
+            "county":null,
+            "subregion":null,
+            "locale":"Mogao Caves",
+            "locus":"Cave 346",
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1529271/qianfodong.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088735,
+            "term":"soldiers",
+            "aatid":300185678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048340,
+            "term":"copies (derivitive objects)",
+            "aatid":300015640,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2146894,
+            "term":"archery",
+            "aatid":300249162,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053099,
+            "term":"cave paintings",
+            "aatid":300178308,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2048340,
+            "classification":"copies (derivitive objects)"
+        },
+        {
+            "id":2053099,
+            "classification":"cave paintings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":12549,
+            "period":"Five Dynasties",
+            "alphasort":"Five Dynasties",
+            "begindate":907,
+            "enddate":960,
+            "displayperiod":"copy after wall painting, Five Dynasties, 907–960",
+            "displaydate":"907–960"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"66.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"89.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46773"
+    ],
+    "displaymaker":"James C. Lo Workshop",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present | copy after wall painting, Five Dynasties, 907–960",
+    "caption":"Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Five Dynasties (907–960), Archer, 1958–63. Sheet; ink and color on paper; 66.3 × 89 cm. Gift of Lucy L. Lo (2013-108)",
+    "captionhtml":"Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Five Dynasties (907–960), <i>Archer</i>, 1958–63. Sheet; ink and color on paper; 66.3 × 89 cm. Gift of Lucy L. Lo (2013-108)",
+    "published_date":"2025-10-16 17:19:37.849673",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

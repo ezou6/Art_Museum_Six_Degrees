@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":42506,
+    "objectnumber":"2004-62",
+    "sortnumber":"2004   62",
+    "displaytitle":"Little Dordrecht",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1886,
+    "dateend":1886,
+    "datecomputed":1886,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1886",
+    "medium":"Etching",
+    "dimensions":"plate: 9.6 x 13 cm. (3 3/4 x 5 1/8 in.)\r\nsheet: 11.6 x 16 cm (4 9/16 x 6 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":"In plate, lower right: artist monogram [butterfly]",
+    "catalograisonne":"Glasgow 260 i/i; Kennedy 243; Mansfield 240",
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Little Dordrecht",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1787,
+            "displayname":"James McNeill Whistler",
+            "displaydate":"1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "datebegin":1834,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2229,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-62",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 107",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, The Netherlands, Dordrecht",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"The Netherlands",
+            "region":null,
+            "state":null,
+            "city":"Dordrecht",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2087261,
+            "term":"wharves",
+            "aatid":300120786,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101779,
+            "term":"carts",
+            "aatid":300212695,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102367,
+            "term":"ships",
+            "aatid":300082981,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-62"
+    ],
+    "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), Little Dordrecht, 1886. Etching; 9.6 x 13 cm (plate), 11.6 x 16 cm (sheet). Museum purchase, Felton Gibbons Fund (2004-62)",
+    "captionhtml":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), <i>Little Dordrecht</i>, 1886. Etching; 9.6 x 13 cm (plate), 11.6 x 16 cm (sheet). Museum purchase, Felton Gibbons Fund (2004-62)",
+    "published_date":"2025-10-16 14:19:54.029902",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

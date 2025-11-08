@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":43402,
+    "objectnumber":"2004-502",
+    "sortnumber":"2004  502",
+    "displaytitle":"Spinning (3/10 edition)",
+    "department":"American Art",
+    "classification":"Reliefs",
+    "datebegin":1882,
+    "dateend":1883,
+    "datecomputed":1882,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1882–83, cast 1980",
+    "medium":"Bronze\r\n",
+    "dimensions":"45.7 x 36.8 cm (18 x 14 1/2 in.)\r\nmount: 57 x 48 x 5 cm (22 7/16 x 18 7/8 x 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld",
+    "markings":null,
+    "inscribed":"Inscribed and dated (along rim at bottom): EAKINS-Model 1882-3-Cast 1980 3/10 T/X",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Spinning (3/10 edition)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1523,
+            "displayname":"Tallix Foundry",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Tallix Foundry",
+            "displayorder":2
+        },
+        {
+            "id":5736,
+            "displayname":"Thomas Eakins",
+            "displaydate":"1844–1916; born and died Philadelphia, PA",
+            "datebegin":1844,
+            "dateend":1916,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Eakins, 1844–1916; born and died Philadelphia, PA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":140841,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-502",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Puam Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Mark F. Bockrath, Virginia N.Naude, Debbie Hess Norris, \"Thomas Eakins: painter, sculptor, photographer\", <EM>Journal of the American Institute for Conservation</EM>&nbsp;31, no. 1, Conservation of Sacred Objects and Other Papers from the General Session of the 19th Annual Meeting of the American Institute for Conservation of Historic and Artistic Works. Albuquerque, New Mexico, June 3-8, 1991 (Spring, 1992): p. 51-64.",
+            "citation":"Mark F. Bockrath, Virginia N.Naude, Debbie Hess Norris, \"Thomas Eakins: painter, sculptor, photographer\", <EM>Journal of the American Institute for Conservation</EM>&nbsp;31, no. 1, Conservation of Sacred Objects and Other Papers from the General Session of the 19th Annual Meeting of the American Institute for Conservation of Historic and Artistic Works. Albuquerque, New Mexico, June 3-8, 1991 (Spring, 1992): p. 51-64., fig.1; p. 57 (illus.)",
+            "date":1992,
+            "id":498,
+            "uri":"https://www.jstor.org/stable/3179612"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 96 (illus.)",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055330,
+            "term":"reliefs",
+            "aatid":300047230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2157631,
+            "term":"spinning (textile process)",
+            "aatid":300053661,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048643,
+            "term":"plaques",
+            "aatid":300010262,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        },
+        {
+            "id":2048643,
+            "classification":"plaques"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.00"
+        },
+        {
+            "element":"mount",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-502"
+    ],
+    "displaymaker":"Thomas Eakins, 1844–1916; born and died Philadelphia, PA | Tallix Foundry",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Eakins (1844–1916; born and died Philadelphia, PA), Tallix Foundry, Spinning (3/10 edition), 1882–83, cast 1980. Bronze\r\n; 45.7 × 36.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (2004-502)",
+    "captionhtml":"Thomas Eakins (1844–1916; born and died Philadelphia, PA), Tallix Foundry, <i>Spinning (3/10 edition)</i>, 1882–83, cast 1980. Bronze\r\n; 45.7 × 36.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (2004-502)",
+    "published_date":"2025-10-16 14:23:24.599609",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

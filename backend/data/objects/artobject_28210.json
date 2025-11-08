@@ -1,0 +1,281 @@
+{
+    "type":"artobject",
+    "objectid":28210,
+    "objectnumber":"y1957-52",
+    "sortnumber":"1957   52y",
+    "displaytitle":"Three Monkeys",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1747,
+    "dateend":1821,
+    "datecomputed":1784,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Hanging scroll; ink and light colors on paper",
+    "dimensions":"Painting: 113 x 39.4 cm. (44 1/2 x 15 1/2 in.)\r\nMount: 198 x 53.4 cm. (77 15/16 x 21 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Nathan V. Hammer",
+    "markings":"ovoid shaped red seal, lower half of which is shape of elephant or bug",
+    "inscribed":null,
+    "signed":"signed: Sosen hitsu",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Three Monkeys",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":667,
+            "displayname":"Mori Sosen 森狙仙",
+            "displaydate":"1747–1821",
+            "datebegin":1747,
+            "dateend":1821,
+            "prefix":null,
+            "suffix":", style of",
+            "role":"Artist",
+            "displaymaker":"Mori Sosen 森狙仙, style of, 1747–1821",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Hanging scroll with family of three monkeys in setting of sparse grasses.&nbsp; In lower right of painting is found the ‘signature’, “Sosen hitsu” (brushed by Sosen) over an ovoid seal split into upper and lower halves. The lower half of the seal appears to be a bug or elephant.",
+            "remarks":"as per object file"
+        }
+    ],
+    "media":[
+        {
+            "id":3076,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1957-52",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":61841,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08509",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 41",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2087885,
+            "term":"families",
+            "aatid":300055474,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133996,
+            "term":"monkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"198.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.40"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"113.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1957-52"
+    ],
+    "displaymaker":"Mori Sosen 森狙仙, style of, 1747–1821",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Mori Sosen 森狙仙, style of (1747–1821), Three Monkeys. Hanging scroll; ink and light colors on paper; 113 x 39.4 cm (Painting). Gift of Mr. and Mrs. Nathan V. Hammer (y1957-52)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Mori Sosen 森狙仙, style of (1747–1821), <i>Three Monkeys</i>. Hanging scroll; ink and light colors on paper; 113 x 39.4 cm (Painting). Gift of Mr. and Mrs. Nathan V. Hammer (y1957-52)",
+    "published_date":"2025-10-16 13:06:33.474163",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

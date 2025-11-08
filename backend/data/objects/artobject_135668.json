@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":135668,
+    "objectnumber":"2019-127",
+    "sortnumber":"2019  127",
+    "displaytitle":"Wrapper (kente)",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900–20",
+    "medium":"Cotton and dye",
+    "dimensions":"170 × 251 cm (66 15/16 × 98 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wrapper (kente)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15611,
+            "displayname":"Ewe",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Ewe artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Private collection, Accra, Ghana]; [Adire African Textiles, London, UK, acquired from the above, March 2019]; Princeton University Art Museum, acquired from the above, May 2019\n",
+            "remarks":"See Provenance Notes for additional, private provenance information. -PL"
+        }
+    ],
+    "media":[
+        {
+            "id":236240,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1498",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022).",
+            "citation":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022)., cat. no. 93, p. 203",
+            "date":2022,
+            "id":9861,
+            "uri":"https://worldcat.org/en/title/1345518255"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Ghana or Togo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Ghana or Togo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096251,
+            "term":"iconography",
+            "aatid":300055859,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127887,
+            "term":"wrappers (garments)",
+            "aatid":300216844,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188460,
+            "term":"prestige",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042139,
+            "term":"Ewe",
+            "aatid":300016018,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044686,
+            "term":"kente",
+            "aatid":300014085,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095240,
+            "term":"symbolism",
+            "aatid":300055865,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051820,
+            "term":"symbols",
+            "aatid":300055878,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122399,
+            "term":"proverbs",
+            "aatid":300188783,
+            "termtype":"Subject"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044421,
+            "term":"cotton (textile)",
+            "aatid":300014067,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2044686,
+            "classification":"kente"
+        },
+        {
+            "id":2127887,
+            "classification":"wrappers (garments)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042139,
+            "culture":"Ewe"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"170.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"251.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211430,
+            "name":"PUAM_Materials and Techniques"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1498"
+    ],
+    "displaymaker":"Ewe artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ewe artist, Ghana or Togo, Western Africa, Wrapper (kente), ca. 1900–20. Cotton and dye; 170 × 251 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2019-127)",
+    "captionhtml":"Ewe artist, Ghana or Togo, Western Africa, <i>Wrapper (kente)</i>, ca. 1900–20. Cotton and dye; 170 × 251 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2019-127)",
+    "published_date":"2025-10-16 18:49:53.452676",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

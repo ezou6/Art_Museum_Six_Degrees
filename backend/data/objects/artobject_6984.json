@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":6984,
+    "objectnumber":"x1948-1660",
+    "sortnumber":"1948 1660x",
+    "displaytitle":"Sketchbook",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1792,
+    "dateend":1792,
+    "datecomputed":1792,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1792",
+    "medium":"Graphite",
+    "dimensions":"sheet (each): 14.2 × 23.4 cm (5 9/16 × 9 3/16 in.)\r\nalbum: 14.9 × 24.1 × 1.3 cm (5 7/8 × 9 1/2 × 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Dan Fellows Platt, Class of 1895",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sketchbook",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3317,
+            "displayname":"George Romney",
+            "displaydate":"1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+            "datebegin":1734,
+            "dateend":1802,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Romney, 1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":43895,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8615",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":43896,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8616",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":43897,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8617",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":43898,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8618",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":43899,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8619",
+            "isprimary":0,
+            "rank":9,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":118763,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41113",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2125468,
+            "term":"sketchbooks",
+            "aatid":300027354,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2125468,
+            "classification":"sketchbooks"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.12"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.26"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/YF1V8615"
+    ],
+    "displaymaker":"George Romney, 1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Romney (1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom), Sketchbook, 1792. Graphite; 14.2 × 23.4 cm (sheet, each), 14.9 × 24.1 × 1.3 cm (album). Bequest of Dan Fellows Platt, Class of 1895 (x1948-1660)",
+    "captionhtml":"George Romney (1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom), <i>Sketchbook</i>, 1792. Graphite; 14.2 × 23.4 cm (sheet, each), 14.9 × 24.1 × 1.3 cm (album). Bequest of Dan Fellows Platt, Class of 1895 (x1948-1660)",
+    "published_date":"2025-10-16 10:52:15.680056",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

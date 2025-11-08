@@ -1,0 +1,191 @@
+{
+    "type":"artobject",
+    "objectid":45215,
+    "objectnumber":"PP20",
+    "sortnumber":"P        20P",
+    "displaytitle":"John Witherspoon (1723-1794)",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1768,
+    "dateend":1876,
+    "datecomputed":1822,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Marble",
+    "dimensions":"w/ mount: 73 x 59.7 x 50.8 cm (23 1/2 x 20 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, presented by the Class of 1876",
+    "markings":null,
+    "inscribed":"On pedestal: Presented by the Class of 1876;",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Witherspoon (1723-1794)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":9820,
+            "displayname":"Unknown",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Unknown",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":146021,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV64177",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":146022,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV64178",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Mark Edward Lender, et. al., <EM>George Washington and the Battle of Trenton: the evolution of an American image</EM>, (Trenton, NJ: New Jersey State Museum, 2001).",
+            "citation":"Mark Edward Lender, et. al., <EM>George Washington and the Battle of Trenton: the evolution of an American image</EM>, (Trenton, NJ: New Jersey State Museum, 2001).",
+            "date":2001,
+            "id":8029,
+            "uri":"http://www.worldcat.org/oclc/49337440"
+        },
+        {
+            "boilertext":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947).",
+            "citation":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947)., fig. 20; p. 45-50",
+            "date":1947,
+            "id":475,
+            "uri":"http://www.worldcat.org/oclc/740984936"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088801,
+            "term":"presidents",
+            "aatid":300025470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2163424,
+            "term":"marble",
+            "aatid":300011443,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055663,
+            "classification":"busts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"59.68"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.79"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV64177"
+    ],
+    "displaymaker":"Unknown",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown, John Witherspoon (1723-1794). Marble; 59.7 x 50.8 cm. Princeton University, presented by the Class of 1876 (PP20)",
+    "captionhtml":"Unknown, <i>John Witherspoon (1723-1794)</i>. Marble; 59.7 x 50.8 cm. Princeton University, presented by the Class of 1876 (PP20)",
+    "published_date":"2025-10-16 14:28:25.012133",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

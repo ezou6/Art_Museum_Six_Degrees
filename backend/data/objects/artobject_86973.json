@@ -1,0 +1,283 @@
+{
+    "type":"artobject",
+    "objectid":86973,
+    "objectnumber":"2013-17",
+    "sortnumber":"2013   17",
+    "displaytitle":"Dog at Night, Mission Hills, from the series The Valley",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1999,
+    "dateend":1999,
+    "datecomputed":1999,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1999",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 46.4 x 57.1 cm. (18 1/4 x 22 1/2 in.)\r\nsheet: 50.8 x 61 cm. (20 x 24 in.)\r\nmount: 61 x 71.1 cm. (24 x 28 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. Douglas R. Nickel, Graduate School Class of 1995 and Ms. Genoa L. Shepley",
+    "markings":null,
+    "inscribed":"Inscribed in ink, verso, lower right: For Doug and Genoa / Larry Sultan / 2004\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Larry Sultan",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":1304,
+            "displayname":"Larry Sultan",
+            "displaydate":"American, 1946–2009",
+            "datebegin":1946,
+            "dateend":2009,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Larry Sultan, American, 1946–2009",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":158058,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00710",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., illustrated p. 58, p. 59",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Mission Hills",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Mission Hills",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5373649/mission-hills.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2099007,
+            "term":"shadows",
+            "aatid":300056036,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057248,
+            "term":"light brown",
+            "aatid":300127503,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106423,
+            "term":"porches",
+            "aatid":300004132,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.95"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.11"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.79"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.95"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.35"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.14"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00710"
+    ],
+    "displaymaker":"Larry Sultan, American, 1946–2009",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Larry Sultan (American, 1946–2009), Dog at Night, Mission Hills, from the series The Valley, 1999. Chromogenic print; 46.4 x 57.1 cm (image), 50.8 x 61 cm (sheet). Gift of Mr. Douglas R. Nickel, Graduate School Class of 1995 and Ms. Genoa L. Shepley (2013-17)",
+    "captionhtml":"Larry Sultan (American, 1946–2009), <i>Dog at Night, Mission Hills, from the series The Valley</i>, 1999. Chromogenic print; 46.4 x 57.1 cm (image), 50.8 x 61 cm (sheet). Gift of Mr. Douglas R. Nickel, Graduate School Class of 1995 and Ms. Genoa L. Shepley (2013-17)",
+    "published_date":"2025-10-16 17:10:10.754582",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

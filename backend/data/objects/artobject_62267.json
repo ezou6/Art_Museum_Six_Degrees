@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":62267,
+    "objectnumber":"1998-81 t-u",
+    "sortnumber":"1998   81 t    u",
+    "displaytitle":"Letter",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1633,
+    "dateend":1685,
+    "datecomputed":1659,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Album leaves; ink on paper",
+    "dimensions":"Calligraphy (t): 10.1 × 26.3 cm (4 × 10 3/8 in.)\r\nCalligraphy (u): 11.3 × 26.6 cm (4 7/16 × 10 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Letter",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2836,
+            "displayname":"Cao Rong 曹溶",
+            "displaydate":"1613–1685",
+            "datebegin":1613,
+            "dateend":1685,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cao Rong 曹溶, 1613–1685",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;John B. Elliott (Princeton, NJ), by bequest to the Princeton University Art Museum, 1998. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":224729,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2020_61215",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":224730,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2020_61216",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155285,
+            "term":"calligraphy (writing)",
+            "aatid":300053162,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133986,
+            "term":"calligraphy (visual work)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2122698,
+            "term":"letters (correspondence)",
+            "aatid":300026879,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2133986,
+            "classification":"calligraphy (visual work)"
+        },
+        {
+            "id":2155285,
+            "classification":"calligraphy (writing)"
+        },
+        {
+            "id":2122698,
+            "classification":"letters (correspondence)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        },
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.30"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.60"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.10"
+        },
+        {
+            "element":"Calligraphy",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2020_61215"
+    ],
+    "displaymaker":"Cao Rong 曹溶, 1613–1685",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Cao Rong 曹溶 (1613–1685), Letter. Album leaves; ink on paper; 10.1 × 26.3 cm (Calligraphy, t), 11.3 × 26.6 cm (Calligraphy, u). Bequest of John B. Elliott, Class of 1951 (1998-81 t-u)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Cao Rong 曹溶 (1613–1685), <i>Letter</i>. Album leaves; ink on paper; 10.1 × 26.3 cm (Calligraphy, t), 11.3 × 26.6 cm (Calligraphy, u). Bequest of John B. Elliott, Class of 1951 (1998-81 t-u)",
+    "published_date":"2025-10-16 16:07:17.058295",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

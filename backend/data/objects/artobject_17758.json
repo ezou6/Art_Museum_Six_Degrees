@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":17758,
+    "objectnumber":"y1929-25",
+    "sortnumber":"1929   25y",
+    "displaytitle":"Fertility",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1613,
+    "dateend":1929,
+    "datecomputed":1771,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"26.5 x 36.5 cm (10 7/16 x 14 3/8 in.)\r\nframe: 37.8 x 47.5 cm (14 7/8 x 18 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Ellis P. Waterhouse",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fertility",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5494,
+            "displayname":"Jacob Jordaens",
+            "displaydate":"Flemish, 1593–1678",
+            "datebegin":1593,
+            "dateend":1678,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jacob Jordaens, Flemish, 1593–1678",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ellis P. Waterhouse; 1929 gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":124201,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47124",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":124202,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47125",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Max Rooses, <em>Jacob Jordaens: his life and work</em>, (London: J.M. Dent &amp; co.; New York: E.P. Dutton &amp; co., 1908).",
+            "citation":"Max Rooses, <em>Jacob Jordaens: his life and work</em>, (London: J.M. Dent &amp; co.; New York: E.P. Dutton &amp; co., 1908)., p. 43-47 (illus.)",
+            "date":1908,
+            "id":7137,
+            "uri":"http://www.worldcat.org/oclc/937987401"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031640,
+            "term":"Flemish",
+            "aatid":300111184,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158030,
+            "term":"grapes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188673,
+            "term":"fauns",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2147427,
+            "term":"satyrs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031640,
+            "culture":"Flemish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.80"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"47.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47124"
+    ],
+    "displaymaker":"after Jacob Jordaens, Flemish, 1593–1678",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After Jacob Jordaens (Flemish, 1593–1678), Fertility. Oil on canvas; 26.5 x 36.5 cm, 37.8 × 47.5 cm (frame). Gift of Ellis P. Waterhouse (y1929-25)",
+    "captionhtml":"After Jacob Jordaens (Flemish, 1593–1678), <i>Fertility</i>. Oil on canvas; 26.5 x 36.5 cm, 37.8 × 47.5 cm (frame). Gift of Ellis P. Waterhouse (y1929-25)",
+    "published_date":"2025-10-16 12:18:55.230131",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

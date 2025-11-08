@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":55145,
+    "objectnumber":"2007-89",
+    "sortnumber":"2007   89",
+    "displaytitle":"Tony Bennett, New York City",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1950,
+    "dateend":1950,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1950",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 22.8 x 32.7 cm. (9 x 12 7/8 in.)\r\nsheet: 27.7 x 35.4 cm. (10 7/8 x 13 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of M. Robin Krasny, Class of 1973",
+    "markings":null,
+    "inscribed":"Ttitled, signed, and dated in ink, below image: Tony Bennett - NYC - 1950 / © Herman Leonard",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Herman Leonard",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tony Bennett, New York City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13890,
+            "displayname":"Herman Leonard",
+            "displaydate":"American, 1923–2010",
+            "datebegin":1923,
+            "dateend":2010,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Herman Leonard, American, 1923–2010",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85450,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11969",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 112",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089612,
+            "term":"singers",
+            "aatid":300025684,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2106368,
+            "term":"recording studios",
+            "aatid":300005397,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11969"
+    ],
+    "displaymaker":"Herman Leonard, American, 1923–2010",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Herman Leonard (American, 1923–2010), Tony Bennett, New York City, 1950. Gelatin silver print; 22.8 x 32.7 cm (image), 27.7 x 35.4 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2007-89)",
+    "captionhtml":"Herman Leonard (American, 1923–2010), <i>Tony Bennett, New York City</i>, 1950. Gelatin silver print; 22.8 x 32.7 cm (image), 27.7 x 35.4 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2007-89)",
+    "published_date":"2025-10-16 15:23:55.243029",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

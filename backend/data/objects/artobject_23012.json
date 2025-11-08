@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":23012,
+    "objectnumber":"y1946-295",
+    "sortnumber":"1946  295y",
+    "displaytitle":"Unguentarium",
+    "department":"European Painting and Sculpture ",
+    "classification":"Glass",
+    "datebegin":600,
+    "dateend":799,
+    "datecomputed":700,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"7th–8th century",
+    "medium":"Amethyst and white glass",
+    "dimensions":"h. 10.8 cm, diam. 2.3 cm (4 1/4 x 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Unguentarium",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895; 1946 gift to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":41378,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV006875",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Gustav A. Eisen and Fahim Kouchakji, <EM>Glass, its origin, history, chronology, technic and classification to the sixteenth century</EM>, (New York: W.E. Rudge, 1927). ",
+            "citation":"Gustav A. Eisen and Fahim Kouchakji, <EM>Glass, its origin, history, chronology, technic and classification to the sixteenth century</EM>, (New York: W.E. Rudge, 1927). , p. 584-585",
+            "date":1927,
+            "id":6661,
+            "uri":"http://www.worldcat.org/oclc/311701333"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: Syria, Damascus",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":"Damascus",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_33.51_36.291.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031755,
+            "term":"Early Medieval",
+            "aatid":300020760,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049409,
+            "term":"glassware",
+            "aatid":300010898,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036390,
+            "term":"Mediterranean (Early Western World)",
+            "aatid":300020058,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171812,
+            "term":"unguentaria",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162981,
+            "term":"amethyst",
+            "aatid":300011133,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049409,
+            "classification":"glassware"
+        },
+        {
+            "id":2171812,
+            "classification":"unguentaria"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036390,
+            "culture":"Mediterranean (Early Western World)"
+        }
+    ],
+    "periods":[
+        {
+            "id":14431,
+            "period":"Medieval",
+            "alphasort":"Medieval",
+            "begindate":400,
+            "enddate":1499,
+            "displayperiod":"Early Medieval",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2031755,
+            "period":"Early Medieval"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"2.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV006875"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Early Medieval",
+    "caption":"Early Medieval, Unguentarium, 7th–8th century. Amethyst and white glass; 10.8 x 2.3 cm. Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895 (y1946-295)",
+    "captionhtml":"Early Medieval, <i>Unguentarium</i>, 7th–8th century. Amethyst and white glass; 10.8 x 2.3 cm. Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895 (y1946-295)",
+    "published_date":"2025-10-23 17:05:00.669683",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,224 @@
+{
+    "type":"artobject",
+    "objectid":24031,
+    "objectnumber":"y1953-179",
+    "sortnumber":"1953  179y",
+    "displaytitle":"Whistle",
+    "department":"African and Oceanic Art",
+    "classification":"Musical Instruments",
+    "datebegin":1800,
+    "dateend":1924,
+    "datecomputed":1862,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1924",
+    "medium":"Wood, paint or stain, and raffia",
+    "dimensions":"h. 6.0 cm., w. 3.0 cm., d. 2.6 cm. (2 3/8 x 1 3/16 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Donald B. Doyle in memory of her husband, Class of 1905",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1953-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Whistle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15590,
+            "displayname":"Kuba",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Kuba artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":43534,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008777",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21737,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv1133",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Gifts of Mrs. Donald B. Doyle in memory of her husband Donald B. Doyle, Class of 1905,\" in \"The Doyle Collection of African Art,\" special issue <EM>Record of the Art Museum, Princeton University </EM>42, no. 2 (1983): p. 35-42.",
+            "citation":"\"Gifts of Mrs. Donald B. Doyle in memory of her husband Donald B. Doyle, Class of 1905,\" in \"The Doyle Collection of African Art,\" special issue <EM>Record of the Art Museum, Princeton University </EM>42, no. 2 (1983): p. 35-42., p. 39",
+            "date":1983,
+            "id":3147,
+            "uri":"https://www.jstor.org/stable/3774590"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2042584,
+            "term":"Kuba (Democratic Republic of the Congo)",
+            "aatid":300016310,
+            "termtype":"Culture"
+        },
+        {
+            "id":2147660,
+            "term":"whistles",
+            "aatid":300042706,
+            "termtype":"Classification"
+        },
+        {
+            "id":2150797,
+            "term":"musical instruments",
+            "aatid":300041620,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167555,
+            "term":"stain",
+            "aatid":300014968,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2147660,
+            "classification":"whistles"
+        },
+        {
+            "id":2150797,
+            "classification":"musical instruments"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2042584,
+            "culture":"Kuba (Democratic Republic of the Congo)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.57"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008777"
+    ],
+    "displaymaker":"Kuba artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kuba artist, Democratic Republic of the Congo, Central Africa, Whistle, before 1924. Wood, paint or stain, and raffia; 6 x 3 x 2.6 cm. Gift of Mrs. Donald B. Doyle in memory of her husband, Class of 1905 (y1953-179)",
+    "captionhtml":"Kuba artist, Democratic Republic of the Congo, Central Africa, <i>Whistle</i>, before 1924. Wood, paint or stain, and raffia; 6 x 3 x 2.6 cm. Gift of Mrs. Donald B. Doyle in memory of her husband, Class of 1905 (y1953-179)",
+    "published_date":"2025-10-16 12:56:14.415586",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":10670,
+    "objectnumber":"x1968-144",
+    "sortnumber":"1968  144x",
+    "displaytitle":"\"Jules de Bourbon\"",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1661,
+    "dateend":1661,
+    "datecomputed":1661,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 32.7 x 25.5 cm (12 7/8 x 10 1/16 in.)\r\nsheet: 33 x 26 cm (13 x 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Thomas P. Baird, Class of 1945",
+    "markings":null,
+    "inscribed":"oval border with inscription: H. IVLES DE BOVRBON DVC DANGVIEN....; l.l.: Mignard  Romanus Pinxit.; l.r.: Nanteuil sculpebat 1661.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"\"Jules de Bourbon\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3951,
+            "displayname":"Robert Nanteuil",
+            "displaydate":"French, 1623–1678",
+            "datebegin":1623,
+            "dateend":1678,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert Nanteuil, French, 1623–1678",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":98477,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23805",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105., p. 103",
+            "date":1968,
+            "id":6009,
+            "uri":"https://www.jstor.org/stable/3774498"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23805"
+    ],
+    "displaymaker":"Robert Nanteuil, French, 1623–1678",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert Nanteuil (French, 1623–1678), \"Jules de Bourbon\". Engraving; 32.7 x 25.5 cm (plate), 33 x 26 cm (sheet). Gift of Thomas P. Baird, Class of 1945 (x1968-144)",
+    "captionhtml":"Robert Nanteuil (French, 1623–1678), <i>\"Jules de Bourbon\"</i>. Engraving; 32.7 x 25.5 cm (plate), 33 x 26 cm (sheet). Gift of Thomas P. Baird, Class of 1945 (x1968-144)",
+    "published_date":"2025-10-23 16:53:39.965015",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

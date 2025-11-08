@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":40701,
+    "objectnumber":"2001-273",
+    "sortnumber":"2001  273",
+    "displaytitle":"David Wojnarowicz",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1981,
+    "dateend":1981,
+    "datecomputed":1981,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1981, printed ca. 1981-87",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 37.5 x 37.7 cm (14 3/4 x 14 13/16 in.)\r\nsheet: 50.4 x 40.5 cm (19 13/16 x 15 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stephen Koch",
+    "markings":null,
+    "inscribed":"Inscribed in pencil, verso center: DAVID WOJNAROWICZ /1981\r\nStamped in ink, verso lower left corner: THE ESTATE OF PETER HUJAR/ STEPHEN KOCH, EXECUTOR/ PRINTED BY THE ARTIST\r\nStamped in ink, verso lower center: COPYRIGHT 1987 [inscribed in pencil]/ THE ESTATE OF PETER HUJAR/ NOT TO BE REPRODUCED IN ANY FORM/ WITHOUT WRITTEN PERMISSION FROM/ THE ESTATE\r\nStamped in ink, verso lower right corner: FROM THE ESTATE # / 935-4-5 / EPH228-1 [inscribed in pencil in unknown hand]",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Peter Hujar",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"David Wojnarowicz",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5366,
+            "displayname":"Peter Hujar",
+            "displaydate":"1934–1987; born Trenton, NJ; died New York, NY",
+            "datebegin":1934,
+            "dateend":1987,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Peter Hujar, 1934–1987; born Trenton, NJ; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":91912,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17774",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 124",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188467,
+            "term":"Depicts",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2154022,
+            "classification":"gelatin silver process"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":212331,
+            "name":"2022_VIS212_03_29"
+        },
+        {
+            "packageid":184110,
+            "name":"CRS_2020_NataliePrizel_Mellon"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV17774"
+    ],
+    "displaymaker":"Peter Hujar, 1934–1987; born Trenton, NJ; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Peter Hujar (1934–1987; born Trenton, NJ; died New York, NY), David Wojnarowicz, 1981, printed ca. 1981-87. Gelatin silver print; 37.5 x 37.7 cm (image), 50.4 x 40.5 cm (sheet). Gift of Stephen Koch (2001-273)",
+    "captionhtml":"Peter Hujar (1934–1987; born Trenton, NJ; died New York, NY), <i>David Wojnarowicz</i>, 1981, printed ca. 1981-87. Gelatin silver print; 37.5 x 37.7 cm (image), 50.4 x 40.5 cm (sheet). Gift of Stephen Koch (2001-273)",
+    "published_date":"2025-10-16 14:11:12.791388",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

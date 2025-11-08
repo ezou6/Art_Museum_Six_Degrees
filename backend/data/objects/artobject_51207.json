@@ -1,0 +1,216 @@
+{
+    "type":"artobject",
+    "objectid":51207,
+    "objectnumber":"2006-472",
+    "sortnumber":"2006  472",
+    "displaytitle":"Inkwell",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":1,
+    "dateend":99,
+    "datecomputed":50,
+    "daterange":"A.D. 1-500",
+    "displaydate":"1st century CE",
+    "medium":"Transparent light blue glass",
+    "dimensions":"h. 6.5 cm, diam. rim 6.1 cm, diam. base 6 cm (2 9/16 x 2 3/8 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Dan Fellows Platt",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Inkwell",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Mrs. Dan Fellows Platt",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"In-folded, horizontal rim with fire-polished lip; narrow mouth; cylindrical body with folded, horizontal flange at top and bottom; flat, slightly concave bottom. At the center of the bottom is an annular pontil mark, 2 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        }
+    ],
+    "media":[
+        {
+            "id":74065,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2006-472",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 412 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 72",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean ?",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean ?",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2074747,
+            "term":"inkwells",
+            "aatid":300196797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2074747,
+            "classification":"inkwells"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        },
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"6.10"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"6.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2006-472"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman Imperial Period (ca. 30 BCE–476 CE), Eastern Mediterranean ?, 1st century CE, Inkwell. Transparent light blue glass; 6.5 x 6.1 x 6 cm. Gift of Mrs. Dan Fellows Platt (2006-472)",
+    "captionhtml":"Roman Imperial Period (ca. 30 BCE–476 CE), Eastern Mediterranean ?, 1st century CE, <i>Inkwell</i>. Transparent light blue glass; 6.5 x 6.1 x 6 cm. Gift of Mrs. Dan Fellows Platt (2006-472)",
+    "published_date":"2025-10-16 15:13:44.923651",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

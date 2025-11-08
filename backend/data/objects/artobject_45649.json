@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":45649,
+    "objectnumber":"PP574",
+    "sortnumber":"P       574P",
+    "displaytitle":"Ann Young",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1877,
+    "dateend":1877,
+    "datecomputed":1877,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1877",
+    "medium":"Oil on canvas",
+    "dimensions":"sight: 90.3 × 72.2 cm (35 9/16 × 28 7/16 in.)\r\nframe: 117.2 × 99.2 × 7.9 cm (46 1/8 × 39 1/16 × 3 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Edward R. Finch, Jr. Class of 1941",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated, lower left: H.C. Bispham / N.Y.1877",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ann Young",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":408,
+            "displayname":"Henry Collins Bispham",
+            "displaydate":"1841–1882; born Philadelphia, PA; died Rome, Italy",
+            "datebegin":1841,
+            "dateend":1882,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Henry Collins Bispham, 1841–1882; born Philadelphia, PA; died Rome, Italy",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Francis Spier [1]; Mrs. Andrew Chalmers Wilson, niece of the sitter [2]. Edward R. Finch, New York (NY), by 1980; donated to Princeton University, 1980.\n\n[1] According to a plaque on the frame.\n[2] According to a plaque on the frame.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123461,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46452",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"117.15"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"99.21"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.93"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"72.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        },
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46452"
+    ],
+    "displaymaker":"Henry Collins Bispham, 1841–1882; born Philadelphia, PA; died Rome, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Henry Collins Bispham (1841–1882; born Philadelphia, PA; died Rome, Italy), Ann Young, 1877. Oil on canvas; 90.3 × 72.2 cm (sight), 117.2 × 99.2 × 7.9 cm (frame). Princeton University, gift of Edward R. Finch, Jr. Class of 1941 (PP574)",
+    "captionhtml":"Henry Collins Bispham (1841–1882; born Philadelphia, PA; died Rome, Italy), <i>Ann Young</i>, 1877. Oil on canvas; 90.3 × 72.2 cm (sight), 117.2 × 99.2 × 7.9 cm (frame). Princeton University, gift of Edward R. Finch, Jr. Class of 1941 (PP574)",
+    "published_date":"2025-10-30 02:07:01.871814",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

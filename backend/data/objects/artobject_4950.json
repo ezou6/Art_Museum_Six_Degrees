@@ -1,0 +1,187 @@
+{
+    "type":"artobject",
+    "objectid":4950,
+    "objectnumber":"x1944-463",
+    "sortnumber":"1944  463x",
+    "displaytitle":"Lamp and Books",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1868,
+    "dateend":1926,
+    "datecomputed":1897,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Wood engraving",
+    "dimensions":"block: 3.2 x 8 cm. (1 1/4 x 3 1/8 in.)\r\nsheet: 24.5 x 31 cm. (9 5/8 x 12 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Miss A. G. Latham (niece of W.B. Closson)",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in block, lower left: W.B. Closson",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lamp and Books",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6569,
+            "displayname":"W. B. Closson",
+            "displaydate":"American, 1848–1926",
+            "datebegin":1848,
+            "dateend":1926,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"W. B. Closson, American, 1848–1926",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105801,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30165",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105802,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30166",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055802,
+            "term":"still lifes",
+            "aatid":300015638,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2070903,
+            "term":"lamps (lighting devices)",
+            "aatid":300037592,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054702,
+            "term":"wood engravings",
+            "aatid":300041402,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054702,
+            "classification":"wood engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.20"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30166"
+    ],
+    "displaymaker":"W. B. Closson, American, 1848–1926",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"W. B. Closson (American, 1848–1926), Lamp and Books. Wood engraving; 3.2 x 8 cm (block), 24.5 x 31 cm (sheet). Gift of Miss A. G. Latham (niece of W.B. Closson) (x1944-463)",
+    "captionhtml":"W. B. Closson (American, 1848–1926), <i>Lamp and Books</i>. Wood engraving; 3.2 x 8 cm (block), 24.5 x 31 cm (sheet). Gift of Miss A. G. Latham (niece of W.B. Closson) (x1944-463)",
+    "published_date":"2025-10-16 10:34:52.609642",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

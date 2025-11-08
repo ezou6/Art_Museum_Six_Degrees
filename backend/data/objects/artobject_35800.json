@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":35800,
+    "objectnumber":"PU 5471",
+    "sortnumber":"U      5471P",
+    "displaytitle":"Mask",
+    "department":"Art of the Ancient Americas",
+    "classification":"Masks",
+    "datebegin":1860,
+    "dateend":1900,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1860–1900",
+    "medium":"Wood painted with red ocher",
+    "dimensions":"h. 19.7 cm., w. 14.2 cm., d. 7.3 cm. (7 3/4 x 5 9/16 x 2 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Lt. George Thornton Emmons; Given to E. M. Museum (Princeton Museum of Natural History), 1894-1915",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43875,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009153",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Susan Bloom, <em>Masked rituals</em>, (New York, The Queens Museum, 1977).",
+            "citation":"Susan Bloom, <em>Masked rituals</em>, (New York, The Queens Museum, 1977)., cat. no. 35, p. 24",
+            "date":1977,
+            "id":2795,
+            "uri":"http://www.worldcat.org/oclc/3223610"
+        },
+        {
+            "boilertext":"Patricia Garrett, ed. <i>The Guardians: The Native American Artists</i> (Summit, NJ: Summit Art Center, 1980).",
+            "citation":"Patricia Garrett, ed. <i>The Guardians: The Native American Artists</i> (Summit, NJ: Summit Art Center, 1980)., cat. no. 98, p. 13",
+            "date":1980,
+            "id":1234,
+            "uri":"http://www.worldcat.org/oclc/30414350"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1739,
+            "citation":"The Guardians: The Native American Artists (September 28 - November 9, 1980)",
+            "isvirtual":true,
+            "begindate":"1980-09-28",
+            "enddate":"1980-11-09",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1739"
+        },
+        {
+            "exhibitionid":1744,
+            "citation":"Masked Rituals (Saturday, August 27, 1977 - Sunday, November 13, 1977)",
+            "isvirtual":true,
+            "begindate":"1977-08-27",
+            "enddate":"1977-11-13",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1744"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Alaska, Yukon-Kuskokwim Delta",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Arctic",
+            "country":"United States",
+            "region":"Yukon-Kuskokwim Delta",
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5879092/alaska.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2039536,
+            "term":"Alaskan Native styles",
+            "aatid":300102451,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2039558,
+            "term":"Yupik",
+            "aatid":300102489,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15289,
+            "culture":"Yup'ik",
+            "alphasort":"Yup'ik",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Yup'ik",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2039558,
+            "culture":"Yupik"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2039536,
+            "period":"Alaskan Native styles"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009153"
+    ],
+    "displaymaker":null,
+    "displayculture":"Yup'ik",
+    "displayperiod":null,
+    "caption":"Yup'ik, 1860–1900, Alaska, Yukon-Kuskokwim Delta, United States, Arctic, Mask. Wood painted with red ocher; 19.7 x 14.2 x 7.3 cm. Lent by the Department of Geosciences, Princeton University (PU 5471)",
+    "captionhtml":"Yup'ik, 1860–1900, Alaska, Yukon-Kuskokwim Delta, United States, Arctic, <i>Mask</i>. Wood painted with red ocher; 19.7 x 14.2 x 7.3 cm. Lent by the Department of Geosciences, Princeton University (PU 5471)",
+    "published_date":"2025-10-16 13:50:12.027372",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

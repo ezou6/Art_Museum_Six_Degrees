@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":8268,
+    "objectnumber":"1997-427",
+    "sortnumber":"1997  427",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1981,
+    "dateend":1981,
+    "datecomputed":1981,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1981",
+    "medium":"Aquatint in six colors on Fabiano",
+    "dimensions":"image: 54 x 75.2 cm (21 1/4 x 29 5/8 in.)\r\nsheet: 68.7 x 87.5 cm (27 1/16 x 34 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist, Class of 1940",
+    "markings":"Blindstamp of publisher lower left",
+    "inscribed":"Edition statement in graphite, lower left: Trial Proof",
+    "signed":"Signed in graphite, lower right:  Gray",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Cleve Gray",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1997-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4944,
+            "displayname":"Cleve Gray",
+            "displaydate":"American, 1918–2004",
+            "datebegin":1918,
+            "dateend":2004,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cleve Gray, American, 1918–2004",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":9348,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1997-427_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":78626,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09440",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208.",
+            "citation":"\"Acquisitions of the Art Museum 1997,\" in \"A Window into Collecting American Folk Art: The Edward Duff Balken Collection at Princeton,\" special issue, <em>Record of the Art Museum, Princeton University</em> 57, no. 1/2 (1998): p. 164-208., p. 175",
+            "date":1998,
+            "id":3048,
+            "uri":"https://www.jstor.org/stable/3774775"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"75.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"87.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196696,
+            "name":"MoCo-Abstract Expressionism"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09440"
+    ],
+    "displaymaker":"Cleve Gray, American, 1918–2004",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cleve Gray (American, 1918–2004), Untitled, 1981. Aquatint in six colors on Fabiano; 54 x 75.2 cm (image), 68.7 x 87.5 cm (sheet). Gift of the artist, Class of 1940 (1997-427)",
+    "captionhtml":"Cleve Gray (American, 1918–2004), <i>Untitled</i>, 1981. Aquatint in six colors on Fabiano; 54 x 75.2 cm (image), 68.7 x 87.5 cm (sheet). Gift of the artist, Class of 1940 (1997-427)",
+    "published_date":"2025-10-16 11:07:15.632148",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

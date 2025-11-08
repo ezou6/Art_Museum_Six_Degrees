@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":18395,
+    "objectnumber":"x1993-283",
+    "sortnumber":"1993  283x",
+    "displaytitle":"Charitable",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1990,
+    "dateend":1990,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1990",
+    "medium":"Color photo-offset lithograph",
+    "dimensions":"image: 52.8 x 42 cm (20 13/16 x 16 9/16 in.)\r\nsheet: 69.8 x 58.2 cm (27 1/2 x 22 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":"Workshop number in graphite, verso, lower left: 90P370",
+    "inscribed":"Numbered, signed, and dated in graphite, lower left: 67//100, lower right: William Wegman 1990",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Charitable",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1688,
+            "displayname":"William Wegman",
+            "displaydate":"American, born 1943",
+            "datebegin":1943,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Wegman, American, born 1943",
+            "displayorder":1
+        },
+        {
+            "id":14411,
+            "displayname":"Segura Publishing Company",
+            "displaydate":"American, founded 1981",
+            "datebegin":1981,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Segura Publishing Company, American, founded 1981",
+            "displayorder":2
+        },
+        {
+            "id":14411,
+            "displayname":"Segura Publishing Company",
+            "displaydate":"American, founded 1981",
+            "datebegin":1981,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":"for the benefit of the Phoenix Shanti Group",
+            "role":"Publisher",
+            "displaymaker":"Published by Segura Publishing Company for the benefit of the Phoenix Shanti Group, American, founded 1981",
+            "displayorder":4
+        },
+        {
+            "id":14412,
+            "displayname":"Lisa Sette Gallery",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":"and",
+            "role":"Publisher",
+            "displaymaker":"Published by Lisa Sette Gallery and",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":78775,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09586",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Contemporary Prints and Photographs: Selections from the Collection of James Kraft, Class of 1957\" (Princeton: Princeton University Art Museum, 1998).",
+            "citation":"\"Contemporary Prints and Photographs: Selections from the Collection of James Kraft, Class of 1957\" (Princeton: Princeton University Art Museum, 1998)., p. 37",
+            "date":1998,
+            "id":4168,
+            "uri":"http://www.worldcat.org/oclc/44911264"
+        },
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 114",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 69",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Arizona, Mesa",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Arizona",
+            "city":"Mesa",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5304391/mesa.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054638,
+            "term":"offset lithographs",
+            "aatid":300192896,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054638,
+            "classification":"offset lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"69.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"52.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09586"
+    ],
+    "displaymaker":"William Wegman, American, born 1943 | Printed by Segura Publishing Company, American, founded 1981 | Published by Lisa Sette Gallery and | Published by Segura Publishing Company for the benefit of the Phoenix Shanti Group, American, founded 1981",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Wegman (American, born 1943), Printed by Segura Publishing Company (American, founded 1981), Published by Lisa Sette Gallery and, Published by Segura Publishing Company for the benefit of the Phoenix Shanti Group (American, founded 1981), Charitable, 1990. Color photo-offset lithograph; 52.8 x 42 cm (image), 69.8 x 58.2 cm (sheet). Gift of James Kraft, Class of 1957 (x1993-283)",
+    "captionhtml":"William Wegman (American, born 1943), Printed by Segura Publishing Company (American, founded 1981), Published by Lisa Sette Gallery and, Published by Segura Publishing Company for the benefit of the Phoenix Shanti Group (American, founded 1981), <i>Charitable</i>, 1990. Color photo-offset lithograph; 52.8 x 42 cm (image), 69.8 x 58.2 cm (sheet). Gift of James Kraft, Class of 1957 (x1993-283)",
+    "published_date":"2025-10-16 12:22:42.681335",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

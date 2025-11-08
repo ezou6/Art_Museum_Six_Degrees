@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":19407,
+    "objectnumber":"y1930-122",
+    "sortnumber":"1930  122y",
+    "displaytitle":"Tsuba (sword guard): Locust and wheel",
+    "department":"Asian Art",
+    "classification":"Weapons and Armor",
+    "datebegin":1603,
+    "dateend":1912,
+    "datecomputed":1758,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Iron",
+    "dimensions":"h. 6.9 cm., w. 6.5 cm., d. 0.4 cm. (2 11/16 x 2 9/16 x 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Mildred von Kienbusch Collection of Tsubas, given in 1914 by Carl Otto von Kienbusch, Class of 1906",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tsuba (sword guard): Locust and wheel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12589,
+            "displayname":"Edo period",
+            "displaydate":"1603–1868",
+            "datebegin":1603,
+            "dateend":1868,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edo period, 1603–1868",
+            "displayorder":2
+        },
+        {
+            "id":12591,
+            "displayname":"Meiji era",
+            "displaydate":"1868–1912",
+            "datebegin":1868,
+            "dateend":1912,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Meiji era, 1868–1912",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The Mildred von Kienbusch Collection of Tsubas; Carl Otto von Kienbusch, Class of 1906 (1884–1976); given to the Princeton University Art Museum, 1914.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":55221,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV022384",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2157112,
+            "term":"metalworking",
+            "aatid":300053946,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158048,
+            "term":"insects",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171642,
+            "term":"tsuba",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2093493,
+            "term":"swordsmiths",
+            "aatid":300025342,
+            "termtype":"Subject"
+        },
+        {
+            "id":2161787,
+            "term":"iron",
+            "aatid":300011002,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2171642,
+            "classification":"tsuba"
+        },
+        {
+            "id":2157112,
+            "classification":"metalworking"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.88"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.42"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264606,
+            "name":"DenseDispaly_Asian_at_20250205"
+        },
+        {
+            "packageid":264566,
+            "name":"VisibleStorage_DenseDisplay_G13_Asia_WorldInMini"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV022384"
+    ],
+    "displaymaker":"Edo period, 1603–1868 | Meiji era, 1868–1912",
+    "displayculture":"Japanese",
+    "displayperiod":null,
+    "caption":"Japanese, Edo period (1603–1868), Meiji era (1868–1912), Tsuba (sword guard): Locust and wheel. Iron; 6.9 x 6.5 x 0.4 cm. The Mildred von Kienbusch Collection of Tsubas, given in 1914 by Carl Otto von Kienbusch, Class of 1906 (y1930-122)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Meiji era (1868–1912), <i>Tsuba (sword guard): Locust and wheel</i>. Iron; 6.9 x 6.5 x 0.4 cm. The Mildred von Kienbusch Collection of Tsubas, given in 1914 by Carl Otto von Kienbusch, Class of 1906 (y1930-122)",
+    "published_date":"2025-10-23 16:58:58.268366",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

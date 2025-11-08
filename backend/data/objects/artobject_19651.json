@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":19651,
+    "objectnumber":"y1930-428",
+    "sortnumber":"1930  428y",
+    "displaytitle":"Flask",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":300,
+    "dateend":499,
+    "datecomputed":400,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th–5th century CE",
+    "medium":"Transparent light green glass",
+    "dimensions":"h. 18.8 cm, diam. rim 3.8 cm, diam. base 4.1 cm (7 3/8 x 1 1/2 x 1 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Howard Crosby Butler, Class of 1892",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"In-folded, out-splayed rim; slender neck spreading into an elongated globular body;\r\nconical foot, with slanting impressions around it. Six bands of very fine engraved lines around neck and body.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Howard Crosby Butler\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1930-428_3",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 204 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean ?",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean ?",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Egypt ?",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt ?",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_27_30.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036755,
+            "term":"Late Antique",
+            "aatid":300020666,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        },
+        {
+            "id":2036755,
+            "period":"Late Antique"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"4.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"3.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264578,
+            "name":"VisibleStorage_DenseDisplay_G22_ABI_RomanGlass"
+        },
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1930-428_3"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Late Antiquity, ca. 476–700 CE",
+    "caption":"Roman, Late Antiquity (ca. 476–700 CE), Eastern Mediterranean ?, 4th–5th century CE, Flask. Transparent light green glass; 18.8 x 3.8 x 4.1 cm. Gift of Howard Crosby Butler, Class of 1892 (y1930-428)",
+    "captionhtml":"Roman, Late Antiquity (ca. 476–700 CE), Eastern Mediterranean ?, 4th–5th century CE, <i>Flask</i>. Transparent light green glass; 18.8 x 3.8 x 4.1 cm. Gift of Howard Crosby Butler, Class of 1892 (y1930-428)",
+    "published_date":"2025-10-18 02:01:26.953350",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

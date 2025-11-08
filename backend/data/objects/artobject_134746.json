@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":134746,
+    "objectnumber":"2020-257",
+    "sortnumber":"2020  257",
+    "displaytitle":"Dish with zoomorphic appliqués",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1000,
+    "dateend":1500,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1000–1500",
+    "medium":"Ceramic",
+    "dimensions":"7.9 × 9.8 × 16.5 cm (3 1/8 × 3 7/8 × 6 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dish with zoomorphic appliqués",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":218204,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932007",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218205,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932009",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218206,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932014",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218207,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932018",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":218208,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932030",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, Dominican Republic, Santo Domingo, Boca Chica",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Intermediate area",
+            "country":"Dominican Republic",
+            "region":null,
+            "state":"Santo Domingo",
+            "city":"Boca Chica",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035920,
+            "term":"Taino",
+            "aatid":300017878,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13908,
+            "culture":"Taíno",
+            "alphasort":"Taíno",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Taíno",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035920,
+            "culture":"Taino"
+        }
+    ],
+    "periods":[
+        {
+            "id":21429,
+            "period":"Chicoid",
+            "alphasort":"Chicoid",
+            "begindate":1200,
+            "enddate":1500,
+            "displayperiod":"Chicoid (Boca Chica)",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"16.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":188261,
+            "name":"Web_Taino_AAMD"
+        },
+        {
+            "packageid":189897,
+            "name":"web_recacq_2020"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932007"
+    ],
+    "displaymaker":null,
+    "displayculture":"Taíno",
+    "displayperiod":"Chicoid (Boca Chica)",
+    "caption":"Taíno, Chicoid (Boca Chica), 1000–1500, Boca Chica, Santo Domingo, Dominican Republic, Intermediate area, Dish with zoomorphic appliqués. Ceramic; 7.9 × 9.8 × 16.5 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-257)",
+    "captionhtml":"Taíno, Chicoid (Boca Chica), 1000–1500, Boca Chica, Santo Domingo, Dominican Republic, Intermediate area, <i>Dish with zoomorphic appliqués</i>. Ceramic; 7.9 × 9.8 × 16.5 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2020-257)",
+    "published_date":"2025-10-16 18:45:07.256983",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

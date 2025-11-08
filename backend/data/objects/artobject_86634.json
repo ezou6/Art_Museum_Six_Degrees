@@ -1,0 +1,197 @@
+{
+    "type":"artobject",
+    "objectid":86634,
+    "objectnumber":"PP693",
+    "sortnumber":"P       693P",
+    "displaytitle":"Orrery",
+    "department":"American Art",
+    "classification":"Tools / Equipment / Implements",
+    "datebegin":1770,
+    "dateend":1770,
+    "datecomputed":1770,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1770",
+    "medium":"Wood and metal",
+    "dimensions":"",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Orrery",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18132,
+            "displayname":"David Rittenhouse",
+            "displaydate":"1732–1796; born Germantown, PA; died Philadelphia, PA",
+            "datebegin":1732,
+            "dateend":1796,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David Rittenhouse, 1732–1796; born Germantown, PA; died Philadelphia, PA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"An orrery is a model of the solar system used to determine planetary movement. Princeton's orrery became a symbol of scientific promise for America, as it was the first made in the United States. It was created in 1770 by David Rittenhouse, an astronomer and clockmaker from Philadelphia.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":253749,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_0006",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253750,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_0018",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253751,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_0019",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159364,
+            "term":"stars",
+            "aatid":300009811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052957,
+            "term":"multimedia works",
+            "aatid":300047910,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051669,
+            "term":"orreries",
+            "aatid":300251656,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051669,
+            "classification":"orreries"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_0006"
+    ],
+    "displaymaker":"David Rittenhouse, 1732–1796; born Germantown, PA; died Philadelphia, PA",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"David Rittenhouse (1732–1796; born Germantown, PA; died Philadelphia, PA), Orrery, 1770. Wood and metal. Princeton University (PP693)",
+    "captionhtml":"David Rittenhouse (1732–1796; born Germantown, PA; died Philadelphia, PA), <i>Orrery</i>, 1770. Wood and metal. Princeton University (PP693)",
+    "published_date":"2025-10-16 17:08:28.770473",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Natural Sciences Neighborhood",
+            "lat":"40.3466",
+            "lon":"-74.6517"
+        }
+    ],
+    "extended_content":true
+}

@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":33369,
+    "objectnumber":"y1990-54",
+    "sortnumber":"1990   54y",
+    "displaytitle":"Fragment of a red-figure cup (see y1990-20 and 1998-25)",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-500,
+    "dateend":-470,
+    "datecomputed":-485,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 490–480  BCE",
+    "medium":"Ceramic",
+    "dimensions":"3.3 x 2.1 cm (1 5/16 x 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase. Gift of Dietrich von Bothmer",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment of a red-figure cup (see y1990-20 and 1998-25)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4767,
+            "displayname":"Makron",
+            "displaydate":null,
+            "datebegin":-500,
+            "dateend":-475,
+            "prefix":"attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"attributed to Makron",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased in 1990&nbsp;from Galerie Nefer, Zürich through a gift of Dietrich von Bothmer.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":3555,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1990-20",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":193416,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_10452",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 57-58 (illus.)",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        },
+        {
+            "boilertext":"Guy Michael Hedreen, <EM>Capturing Troy: the narrative functions of landscape in archaic and early classical Greek art</EM>, (Ann Arbor, MI: University of Michigan Press, 2001).",
+            "citation":"Guy Michael Hedreen, <EM>Capturing Troy: the narrative functions of landscape in archaic and early classical Greek art</EM>, (Ann Arbor, MI: University of Michigan Press, 2001)., p. 48, 55-57; fig. 18",
+            "date":2004,
+            "id":6994,
+            "uri":"http://www.worldcat.org/oclc/469360533"
+        },
+        {
+            "boilertext":"<P>Norbert Kunisch, <EM>Makron</EM>, (Mainz am Rhein: P. von Zabern, 1997).</P>",
+            "citation":"<P>Norbert Kunisch, <EM>Makron</EM>, (Mainz am Rhein: P. von Zabern, 1997).</P>, p. 129,174; cat. no. 135; pI. 45",
+            "date":1997,
+            "id":2049,
+            "uri":"http://www.worldcat.org/oclc/875318854"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159399,
+            "term":"palmettes",
+            "aatid":300009995,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036550,
+            "term":"Attic",
+            "aatid":300020118,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036601,
+            "term":"Red-figure",
+            "aatid":300020201,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13588,
+            "culture":"Greek, Attic",
+            "alphasort":"Attic",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Attic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036550,
+            "culture":"Attic"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036601,
+            "period":"Red-figure"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_10452"
+    ],
+    "displaymaker":"attributed to Makron",
+    "displayculture":"Greek, Attic",
+    "displayperiod":null,
+    "caption":"Greek, Attic, attributed to Makron, ca. 490–480  BCE, Fragment of a red-figure cup (see y1990-20 and 1998-25). Ceramic; 3.3 x 2.1 cm. Museum purchase. Gift of Dietrich von Bothmer (y1990-54)",
+    "captionhtml":"Greek, Attic, attributed to Makron, ca. 490–480  BCE, <i>Fragment of a red-figure cup (see y1990-20 and 1998-25)</i>. Ceramic; 3.3 x 2.1 cm. Museum purchase. Gift of Dietrich von Bothmer (y1990-54)",
+    "published_date":"2025-10-16 13:35:22.648312",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

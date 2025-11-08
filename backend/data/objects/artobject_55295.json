@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":55295,
+    "objectnumber":"2008-15",
+    "sortnumber":"2008   15",
+    "displaytitle":"Plate",
+    "department":"Modern and Contemporary Art",
+    "classification":"Ceramics",
+    "datebegin":1944,
+    "dateend":2002,
+    "datecomputed":1973,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"Stoneware",
+    "dimensions":"h. 11.3 cm, diam. ca. 59.5 cm (4 7/16 x 23 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Toshiko Takaesu",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and inscribed on bottom: 92",
+    "catalograisonne":null,
+    "creditlinerepro":"© Peter Voulkos",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1630,
+            "displayname":"Peter Voulkos",
+            "displaydate":"1924–2002; born Bozeman, MT; died Bowling Green, OH; active Bozeman, MT",
+            "datebegin":1924,
+            "dateend":2002,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Peter Voulkos, 1924–2002; born Bozeman, MT; died Bowling Green, OH; active Bozeman, MT",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Toshiko Takaesu, Quakertown, New Jersey, gift; to Princeton University Art Museum, 2008.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22811,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-15_A",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce M. White"
+        },
+        {
+            "id":22812,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-15_B",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce M. White"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 74",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        },
+        {
+            "boilertext":"Cary Y. Liu, \"Presence and remembrance: the art of Toshiko Takaezu,\"&nbsp;<EM>Art Museum</EM> 68 (2009): p. 46-59.",
+            "citation":"Cary Y. Liu, \"Presence and remembrance: the art of Toshiko Takaezu,\"&nbsp;<EM>Art Museum</EM> 68 (2009): p. 46-59., p. 58, fig. 21",
+            "date":2009,
+            "id":2991,
+            "uri":"https://www.jstor.org/stable/25747107"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.76_-98.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049308,
+            "term":"stoneware",
+            "aatid":300010672,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2049308,
+            "classification":"stoneware"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"59.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":226660,
+            "name":"2023_VIS331_04_06"
+        },
+        {
+            "packageid":214963,
+            "name":"Gallery_01-Welcome"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-15_A"
+    ],
+    "displaymaker":"Peter Voulkos, 1924–2002; born Bozeman, MT; died Bowling Green, OH; active Bozeman, MT",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Peter Voulkos (1924–2002; born Bozeman, MT; died Bowling Green, OH; active Bozeman, MT), Plate. Stoneware; 11.3 x 59.5 cm. Gift of Toshiko Takaesu (2008-15)",
+    "captionhtml":"Peter Voulkos (1924–2002; born Bozeman, MT; died Bowling Green, OH; active Bozeman, MT), <i>Plate</i>. Stoneware; 11.3 x 59.5 cm. Gift of Toshiko Takaesu (2008-15)",
+    "published_date":"2025-10-16 15:24:34.618662",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

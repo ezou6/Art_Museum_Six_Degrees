@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":48680,
+    "objectnumber":"x1937-19 a",
+    "sortnumber":"1937   19xa",
+    "displaytitle":"Frontispiece",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1861,
+    "dateend":1861,
+    "datecomputed":1861,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1861",
+    "medium":"Etching",
+    "dimensions":"plate: 18.4 x 13.2 cm. (7 1/4 x 5 3/16 in.)\r\nsheet: 45 x 31 cm. (17 11/16 x 12 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Inscribed in plate, overall center: Voyage / EN BATEAU / Croquis à l’Eau Forte / PAR / DAUBIGNY / 1862. \r\n\r\nInscribed in plate beneath image, from left to right: A. CADART & ÉDITEURS. / Imp. Delâtre, Paris.\r\n",
+    "signed":null,
+    "catalograisonne":"Delteil 99",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Frontispiece",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5511,
+            "displayname":"Charles François Daubigny",
+            "displaydate":"1817–1878; born Paris, France; died Paris",
+            "datebegin":1817,
+            "dateend":1878,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles François Daubigny, 1817–1878; born Paris, France; died Paris",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":97852,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23208",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Loys Delteil, \"Volume 13,\" <EM>Le peintre-graveur illustré </EM>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930).",
+            "citation":"Loys Delteil, \"Volume 13,\" <EM>Le peintre-graveur illustré </EM>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930)., no. 99 (illus.)",
+            "date":1907,
+            "id":6040,
+            "uri":"http://www.worldcat.org/oclc/11858030"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2118552,
+            "term":"frontispieces (illustrations)",
+            "aatid":300083021,
+            "termtype":"Classification"
+        },
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119841,
+            "term":"ponds",
+            "aatid":300008688,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171667,
+            "term":"frogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171775,
+            "term":"reeds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2118552,
+            "classification":"frontispieces (illustrations)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23208"
+    ],
+    "displaymaker":"Charles François Daubigny, 1817–1878; born Paris, France; died Paris",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles François Daubigny (1817–1878; born Paris, France; died Paris), Frontispiece, 1861. Etching; 18.4 x 13.2 cm (plate), 45 x 31 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-19 a)",
+    "captionhtml":"Charles François Daubigny (1817–1878; born Paris, France; died Paris), <i>Frontispiece</i>, 1861. Etching; 18.4 x 13.2 cm (plate), 45 x 31 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-19 a)",
+    "published_date":"2025-10-16 15:01:36.718321",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

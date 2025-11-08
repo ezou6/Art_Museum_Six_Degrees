@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":32003,
+    "objectnumber":"y1973-113",
+    "sortnumber":"1973  113y",
+    "displaytitle":"Italian Hills",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1900,
+    "dateend":1968,
+    "datecomputed":1934,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"51.7 × 61.2 cm (20 3/8 × 24 1/8 in.)\r\nframe: 71.1 × 81.3 × 8.9 cm (28 × 32 × 3 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, bottom right: Kuehne",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1973-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Italian Hills",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4391,
+            "displayname":"Max Kuehne",
+            "displaydate":"American, 1880–1968",
+            "datebegin":1880,
+            "dateend":1968,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Max Kuehne, American, 1880–1968",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":172268,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV82290",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":172269,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV82291",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47.",
+            "citation":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47., p. 38",
+            "date":1974,
+            "id":3613,
+            "uri":"https://www.jstor.org/stable/3774502"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.833_12.833.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119357,
+            "term":"villages",
+            "aatid":300008372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.70"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"71.11"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.27"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.88"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV82290"
+    ],
+    "displaymaker":"Max Kuehne, American, 1880–1968",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Max Kuehne (American, 1880–1968), Italian Hills. Oil on canvas; 51.7 × 61.2 cm, 71.1 × 81.3 × 8.9 cm (frame). Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (y1973-113)",
+    "captionhtml":"Max Kuehne (American, 1880–1968), <i>Italian Hills</i>. Oil on canvas; 51.7 × 61.2 cm, 71.1 × 81.3 × 8.9 cm (frame). Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (y1973-113)",
+    "published_date":"2025-10-16 13:27:43.697759",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

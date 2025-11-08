@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":37005,
+    "objectnumber":"1998-727",
+    "sortnumber":"1998  727",
+    "displaytitle":"Hat",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1900,
+    "dateend":1988,
+    "datecomputed":1944,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"20th century",
+    "medium":"Feathers, cane, and raffia",
+    "dimensions":"h. 50.0 cm, diam. 59.0 cm (19 11/16 x 23 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hat",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15637,
+            "displayname":"Lwalu",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"or Yaka artist",
+            "role":"Artist",
+            "displaymaker":"Lwalu or Yaka artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1988; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":1908,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-727",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 67",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 80",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129212,
+            "term":"ceremonial costume",
+            "aatid":300210387,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Classification"
+        },
+        {
+            "id":2100254,
+            "term":"social status",
+            "aatid":300065206,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042618,
+            "term":"Lwalwa",
+            "aatid":300016328,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042720,
+            "term":"Yaka",
+            "aatid":300016276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159614,
+            "term":"openwork",
+            "aatid":300253899,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155430,
+            "term":"basketmaking",
+            "aatid":300053590,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045686,
+            "term":"cane (plant material)",
+            "aatid":300011864,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045460,
+            "term":"feather",
+            "aatid":300011809,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045752,
+            "term":"reed",
+            "aatid":300011878,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2131442,
+            "classification":"hats"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2129212,
+            "classification":"ceremonial costume"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042618,
+            "culture":"Lwalwa"
+        },
+        {
+            "id":2042720,
+            "culture":"Yaka"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"59.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-727"
+    ],
+    "displaymaker":"Lwalu or Yaka artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lwalu or Yaka artist, Democratic Republic of the Congo, Central Africa, Hat, 20th century. Feathers, cane, and raffia; 50 x 59 cm. Bequest of John B. Elliott, Class of 1951 (1998-727)",
+    "captionhtml":"Lwalu or Yaka artist, Democratic Republic of the Congo, Central Africa, <i>Hat</i>, 20th century. Feathers, cane, and raffia; 50 x 59 cm. Bequest of John B. Elliott, Class of 1951 (1998-727)",
+    "published_date":"2025-10-16 13:56:40.322189",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

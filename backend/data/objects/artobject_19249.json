@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":19249,
+    "objectnumber":"y1929-286",
+    "sortnumber":"1929  286y",
+    "displaytitle":"Plate",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":1281,
+    "dateend":1924,
+    "datecomputed":1602,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Brown clay with white glaze",
+    "dimensions":"6.2 x diam. 29.7 cm (2 7/16 x 11 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":148251,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65982",
+            "isprimary":1,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":148252,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65983",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":148253,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65984",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Europe, Greece, Rhodes",
+            "code":"Place collected",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Greece",
+            "region":null,
+            "state":null,
+            "city":"Rhodes",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_36.443_28.227.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Asia Minor, Ottoman Empire, Iznik",
+            "code":"Place made",
+            "continent":"Asia Minor",
+            "subcontinent":null,
+            "country":"Ottoman Empire",
+            "region":null,
+            "state":null,
+            "city":"Iznik",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.429_29.721.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160078,
+            "term":"wave pattern",
+            "aatid":300009936,
+            "termtype":"Subject"
+        },
+        {
+            "id":2037836,
+            "term":"Ottoman",
+            "aatid":300021614,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037951,
+            "term":"Iznik",
+            "aatid":300021623,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2098427,
+            "term":"spirals",
+            "aatid":300163114,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160353,
+            "term":"clay",
+            "aatid":300010439,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15310,
+            "culture":"Ottoman",
+            "alphasort":"Ottoman",
+            "begindate":1281,
+            "enddate":1924,
+            "displayculture":"Ottoman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037836,
+            "culture":"Ottoman"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2037951,
+            "period":"Iznik"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"29.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV65982"
+    ],
+    "displaymaker":null,
+    "displayculture":"Ottoman",
+    "displayperiod":null,
+    "caption":"Ottoman, Plate. Brown clay with white glaze; 6.2 × 29.7 cm. Trumbull Prime Collection (y1929-286)",
+    "captionhtml":"Ottoman, <i>Plate</i>. Brown clay with white glaze; 6.2 × 29.7 cm. Trumbull Prime Collection (y1929-286)",
+    "published_date":"2025-10-16 12:27:10.755218",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

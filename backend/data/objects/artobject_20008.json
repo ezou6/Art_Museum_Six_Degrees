@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":20008,
+    "objectnumber":"y1933-27",
+    "sortnumber":"1933   27y",
+    "displaytitle":"Fragment of a plaque with Aphrodite",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Bone",
+    "datebegin":300,
+    "dateend":499,
+    "datecomputed":400,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th–5th century CE",
+    "medium":"Bone",
+    "dimensions":"13.5 x 7.1 x 1.6 cm (5 5/16 x 2 13/16 x 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1933-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment of a plaque with Aphrodite",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by John Khayat at an unknown date from an unknown source; purchased by the Museum in 1933 from Khayat.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34900,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV003183",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Slobodan Curcic and Archer St. Clair,<em> Byzantium at Princeton: Byzantine art and archaeology at Princeton University: catalogue of an exhibition at Firestone Library, Princeton University, August 1 through October 26, 1986</em>, (Princeton, NJ: Dept. of Art and Archaeology, Princeton University, The Art Museum, Princeton University, Princeton University Library, Dept. of Rare Books and Special Collections, 1986).",
+            "citation":"Slobodan Curcic and Archer St. Clair,<em> Byzantium at Princeton: Byzantine art and archaeology at Princeton University: catalogue of an exhibition at Firestone Library, Princeton University, August 1 through October 26, 1986</em>, (Princeton, NJ: Dept. of Art and Archaeology, Princeton University, The Art Museum, Princeton University, Princeton University Library, Dept. of Rare Books and Special Collections, 1986)., cat. no. 28; p. 61",
+            "date":1986,
+            "id":2216,
+            "uri":"http://www.worldcat.org/oclc/16649090"
+        },
+        {
+            "boilertext":"Archer St. Clair, Elizabeth Parker McLachlan<EM>, The carver's art, Medieval sculpture in ivory, bone, and horn,</EM> (New Brunswick: Zimmerli Art Museum, Rutgers University, 1989).",
+            "citation":"Archer St. Clair, Elizabeth Parker McLachlan<EM>, The carver's art, Medieval sculpture in ivory, bone, and horn,</EM> (New Brunswick: Zimmerli Art Museum, Rutgers University, 1989)., cat. no. 29",
+            "date":1989,
+            "id":2371,
+            "uri":"http://www.worldcat.org/oclc/20761913"
+        },
+        {
+            "boilertext":"Susan Heuck Allen,<EM> Survival of the gods: classical mythology in Medieval art</EM>, (Providence, RI: David Winton Bell Gallery, Brown University, 1987).",
+            "citation":"Susan Heuck Allen,<EM> Survival of the gods: classical mythology in Medieval art</EM>, (Providence, RI: David Winton Bell Gallery, Brown University, 1987)., p. 112, fig. 34",
+            "date":1987,
+            "id":2451,
+            "uri":"http://www.worldcat.org/oclc/15558218"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Egypt",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_27_30.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048643,
+            "term":"plaques",
+            "aatid":300010262,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2166191,
+            "classification":"bone"
+        },
+        {
+            "id":2048643,
+            "classification":"plaques"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.63"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV003183"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":null,
+    "caption":"Egyptian, Egypt, 4th–5th century CE, Fragment of a plaque with Aphrodite. Bone; 13.5 x 7.1 x 1.6 cm. Museum purchase (y1933-27)",
+    "captionhtml":"Egyptian, Egypt, 4th–5th century CE, <i>Fragment of a plaque with Aphrodite</i>. Bone; 13.5 x 7.1 x 1.6 cm. Museum purchase (y1933-27)",
+    "published_date":"2025-10-29 02:01:50.451178",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

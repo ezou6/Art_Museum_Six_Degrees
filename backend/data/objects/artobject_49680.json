@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":49680,
+    "objectnumber":"2006-304",
+    "sortnumber":"2006  304",
+    "displaytitle":"Surrey Signing",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1985,
+    "dateend":1985,
+    "datecomputed":1985,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1985",
+    "medium":"Monotype and acrylic over Kodalith sheet, laid down on paper support",
+    "dimensions":"image: 60.9 x 77.8 cm. (24 x 30 5/8 in.)\r\nsheet: 77.1 x 102.1 cm. (30 3/8 x 40 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Titled in graphite below image, lower left: Surrey Signing\r\n\r\nSigned and dated in graphite below image, lower right: Pamela Moore 1985",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Surrey Signing",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":10706,
+            "displayname":"Castelli Graphics",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed at",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed at Castelli Graphics",
+            "displayorder":2
+        },
+        {
+            "id":12756,
+            "displayname":"Pamela Moore",
+            "displaydate":"American, born 1950",
+            "datebegin":1950,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pamela Moore, American, born 1950",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":143008,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63826",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 101",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054641,
+            "term":"monotypes",
+            "aatid":300041538,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155047,
+            "term":"monotype (process)",
+            "aatid":300053277,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2165436,
+            "term":"acrylic",
+            "aatid":300014426,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054641,
+            "classification":"monotypes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"77.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"102.10"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"77.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63826"
+    ],
+    "displaymaker":"Pamela Moore, American, born 1950 | Printed at Castelli Graphics",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pamela Moore (American, born 1950), Printed at Castelli Graphics, Surrey Signing, 1985. Monotype and acrylic over Kodalith sheet, laid down on paper support; 60.9 x 77.8 cm (image), 77.1 x 102.1 cm (sheet). Gift of James Kraft, Class of 1957 (2006-304)",
+    "captionhtml":"Pamela Moore (American, born 1950), Printed at Castelli Graphics, <i>Surrey Signing</i>, 1985. Monotype and acrylic over Kodalith sheet, laid down on paper support; 60.9 x 77.8 cm (image), 77.1 x 102.1 cm (sheet). Gift of James Kraft, Class of 1957 (2006-304)",
+    "published_date":"2025-10-16 15:07:41.805204",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,270 @@
+{
+    "type":"artobject",
+    "objectid":29294,
+    "objectnumber":"y1963-40",
+    "sortnumber":"1963   40y",
+    "displaytitle":"Lotus",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1883,
+    "dateend":1957,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 185.8 x 62.2 cm. (73 1/8 x 24 1/2 in.)\r\nMount: 250 x 76 cm. (98 7/16 x 29 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. Patrick J. Kelleher, Graduate School Class of 1947, and Mrs. Kelleher",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1963-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lotus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6375,
+            "displayname":"Qi Baishi 齊白石",
+            "displaydate":"Chinese, 1863–1957",
+            "datebegin":1863,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66565,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1963-40",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61821,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08286",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31.",
+            "citation":"\"Summary of Acquisitions, 1963,\" <i>Record of the Art Museum, Princeton University</i>, vol. 23, no. 1 (1964): p. 29-31., p. 29",
+            "date":1964,
+            "id":545,
+            "uri":"https://www.jstor.org/stable/3774404"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134003,
+            "term":"lotus",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"late Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        },
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"185.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.20"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"250.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1963-40"
+    ],
+    "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+    "displayculture":"Chinese",
+    "displayperiod":"late Qing dynasty, 1644–1912 | Modern period, 1912–present",
+    "caption":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), Lotus, undated. Hanging scroll; ink and color on paper; 185.8 x 62.2 cm (Painting), 250 x 76 cm (mount). Gift of Mr. Patrick J. Kelleher, Graduate School Class of 1947, and Mrs. Kelleher (y1963-40)",
+    "captionhtml":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), <i>Lotus</i>, undated. Hanging scroll; ink and color on paper; 185.8 x 62.2 cm (Painting), 250 x 76 cm (mount). Gift of Mr. Patrick J. Kelleher, Graduate School Class of 1947, and Mrs. Kelleher (y1963-40)",
+    "published_date":"2025-10-16 13:13:36.946818",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

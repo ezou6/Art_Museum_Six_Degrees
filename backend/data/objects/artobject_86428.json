@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":86428,
+    "objectnumber":"2006-396.2",
+    "sortnumber":"2006  396     2",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1990,
+    "dateend":1990,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1990",
+    "medium":"Color aquatint",
+    "dimensions":"plate: 44.3 x 31.6 cm. (17 7/16 x 12 7/16 in.)\r\nsheet: 67.5 x 52 cm. (26 9/16 x 20 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Numbered, signed, and dated in graphite below image, left: 13//40, right: ASpence 90",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Andrew Spence",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2507,
+            "displayname":"Andrew Spence",
+            "displaydate":"American, born 1947",
+            "datebegin":1947,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Andrew Spence, American, born 1947",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101760,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26516",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 110",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098346,
+            "term":"rectangles",
+            "aatid":300055636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098434,
+            "term":"line",
+            "aatid":300056279,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095511,
+            "term":"symmetry",
+            "aatid":300056249,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095711,
+            "term":"geometric abstraction",
+            "aatid":300056509,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"67.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"52.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26516"
+    ],
+    "displaymaker":"Andrew Spence, American, born 1947",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Andrew Spence (American, born 1947), Untitled, 1990. Color aquatint; 44.3 x 31.6 cm (plate), 67.5 x 52 cm (sheet). Gift of James Kraft, Class of 1957 (2006-396.2)",
+    "captionhtml":"Andrew Spence (American, born 1947), <i>Untitled</i>, 1990. Color aquatint; 44.3 x 31.6 cm (plate), 67.5 x 52 cm (sheet). Gift of James Kraft, Class of 1957 (2006-396.2)",
+    "published_date":"2025-10-16 17:07:52.393395",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

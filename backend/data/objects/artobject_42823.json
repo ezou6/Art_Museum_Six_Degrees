@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":42823,
+    "objectnumber":"2005-124",
+    "sortnumber":"2005  124",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1994,
+    "dateend":1994,
+    "datecomputed":1994,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1994",
+    "medium":"Etching and color aquatint",
+    "dimensions":"plate: 42.3 × 52 cm (16 5/8 × 20 1/2 in.)\r\nsheet: 90.7 × 77 cm (35 11/16 × 30 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stephanie H. Bernheim",
+    "markings":null,
+    "inscribed":"in graphite, lower left: 10//50",
+    "signed":"Signed and dated in graphite, lower right: Marcaccio 94",
+    "catalograisonne":null,
+    "creditlinerepro":"© Fabian Marcaccio",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1468,
+            "displayname":"Fabian Marcaccio",
+            "displaydate":"Argentinian, born 1963",
+            "datebegin":1963,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Fabian Marcaccio, Argentinian, born 1963",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Stephanie H. Bernheim;</p><p>Gifted to the Princeton University Art Museum</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":142235,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63544",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 63",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Argentina",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":null,
+            "country":"Argentina",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3865483/argentine-republic.html",
+            "location":{
+                "lat":"-34",
+                "lon":"-64"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038516,
+            "term":"Argentine",
+            "aatid":300107965,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038516,
+            "culture":"Argentine"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"77.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"52.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63544"
+    ],
+    "displaymaker":"Fabian Marcaccio, Argentinian, born 1963",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Fabian Marcaccio (Argentinian, born 1963), Untitled, 1994. Etching and color aquatint; 30 x 36 in, 42.3 × 52 cm (plate), 90.7 × 77 cm (sheet). Gift of Stephanie H. Bernheim (2005-124)",
+    "captionhtml":"Fabian Marcaccio (Argentinian, born 1963), <i>Untitled</i>, 1994. Etching and color aquatint; 30 x 36 in, 42.3 × 52 cm (plate), 90.7 × 77 cm (sheet). Gift of Stephanie H. Bernheim (2005-124)",
+    "published_date":"2025-10-16 14:21:34.902702",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

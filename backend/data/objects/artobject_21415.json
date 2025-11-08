@@ -1,0 +1,287 @@
+{
+    "type":"artobject",
+    "objectid":21415,
+    "objectnumber":"y1940-155",
+    "sortnumber":"1940  155y",
+    "displaytitle":"Deposition",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1699,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Oil on canvas",
+    "dimensions":"34 x 46 cm (13 3/8 x 18 1/8 in.)\r\nframe: 54.2 x 67 x 7 cm (21 5/16 x 26 3/8 x 2 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Deposition",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1977,
+            "displayname":"Massimo Stanzione",
+            "displaydate":"Italian, ca. 1585–ca. 1656",
+            "datebegin":-1580,
+            "dateend":1661,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Massimo Stanzione, Italian, ca. 1585–ca. 1656",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"H. Leonard Simmons, New York (until 1940; sale, Parke-Bernet, New York, April 4–5, 1940, lot 14, to Frank Jewett Mather for the Princeton University Art Museum).;",
+            "remarks":"Migrated from 9.35 12/2013"
+        }
+    ],
+    "media":[
+        {
+            "id":16142,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1940-155",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<EM>Paintings by contemporary artists...: public sale, Paintings: April 4 at 8:15 p.m., Art objects: April 5 at 2 p.m.</EM>, (New York: Parke-Bernet Galleries, 1940).",
+            "citation":"<EM>Paintings by contemporary artists...: public sale, Paintings: April 4 at 8:15 p.m., Art objects: April 5 at 2 p.m.</EM>, (New York: Parke-Bernet Galleries, 1940)., no. 14",
+            "date":1940,
+            "id":7242,
+            "uri":"http://www.worldcat.org/oclc/11379246"
+        },
+        {
+            "boilertext":"Thomas Carr Howe, <EM>Exhibition of Italian baroque painting: 17th and 18th centuries</EM>, (San Francisco: Recorder printing and Publishing Co., 1941).",
+            "citation":"Thomas Carr Howe, <EM>Exhibition of Italian baroque painting: 17th and 18th centuries</EM>, (San Francisco: Recorder printing and Publishing Co., 1941).",
+            "date":1941,
+            "id":7243,
+            "uri":"http://www.worldcat.org/oclc/504890240"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Naples",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Naples",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.856_14.246.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135437,
+            "term":"deaths",
+            "aatid":300151836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2095964,
+            "classification":"religious art"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13456,
+            "culture":"Italian",
+            "alphasort":"Italian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Italian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.20"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"67.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":123,
+            "name":"Web_Provenance"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1940-155"
+    ],
+    "displaymaker":"formerly attributed to Massimo Stanzione, Italian, ca. 1585–ca. 1656",
+    "displayculture":"Italian",
+    "displayperiod":null,
+    "caption":"Italian, formerly attributed to Massimo Stanzione (Italian, ca. 1585–ca. 1656), Deposition, 17th century. Oil on canvas; 34 x 46 cm, 54.2 × 67 × 7 cm (frame). Gift of Frank Jewett Mather Jr. (y1940-155)",
+    "captionhtml":"Italian, formerly attributed to Massimo Stanzione (Italian, ca. 1585–ca. 1656), <i>Deposition</i>, 17th century. Oil on canvas; 34 x 46 cm, 54.2 × 67 × 7 cm (frame). Gift of Frank Jewett Mather Jr. (y1940-155)",
+    "published_date":"2025-10-30 02:00:59.333981",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

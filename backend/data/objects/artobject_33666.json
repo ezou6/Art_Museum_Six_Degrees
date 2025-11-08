@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":33666,
+    "objectnumber":"1996-278",
+    "sortnumber":"1996  278",
+    "displaytitle":"Santa Catalina, Mallorca",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1889,
+    "dateend":1936,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Gouache over graphite",
+    "dimensions":"25.1 x 32.9 cm. (9 7/8 x 12 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Remak Ramsay, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, on verso lower right: St. Catalina\r\nin graphite, on verso upper right: Palma | Mallorka(?) | Dec. 14",
+    "signed":"Signed in black ink, lower right: B. Gutmann",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1996-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Santa Catalina, Mallorca",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5021,
+            "displayname":"Bernhard Gutmann",
+            "displaydate":"American, 1869–1936",
+            "datebegin":1869,
+            "dateend":1936,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Bernhard Gutmann, American, 1869–1936",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Andrew Stasik Fine Arts, Darien, CT; the donor.",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":107223,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31553",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1357,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1996-278_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 317, checklist no. 434",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115.",
+            "citation":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115., p. 82",
+            "date":1997,
+            "id":3051,
+            "uri":"https://www.jstor.org/stable/3774760"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119363,
+            "term":"towns",
+            "aatid":300008375,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095402,
+            "term":"foreground",
+            "aatid":300056367,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31553"
+    ],
+    "displaymaker":"Bernhard Gutmann, American, 1869–1936",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bernhard Gutmann (American, 1869–1936), Santa Catalina, Mallorca. Gouache over graphite; 25.1 x 32.9 cm. Gift of Remak Ramsay, Class of 1958 (1996-278)",
+    "captionhtml":"Bernhard Gutmann (American, 1869–1936), <i>Santa Catalina, Mallorca</i>. Gouache over graphite; 25.1 x 32.9 cm. Gift of Remak Ramsay, Class of 1958 (1996-278)",
+    "published_date":"2025-10-16 13:37:07.160134",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

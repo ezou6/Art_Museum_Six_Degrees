@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":43843,
+    "objectnumber":"1996-201.3",
+    "sortnumber":"1996  201     3",
+    "displaytitle":"Boston",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964",
+    "medium":"Gelatin silver print",
+    "dimensions":"10.8 x 15.8 cm (4 1/4 x 6 1/4 in.)\r\nmount: 34.3 x 28 cm. (13 1/2 x 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":"Portfolio number blindstamped on mount, lower left corner",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Richard Lebowitz",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1996-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Boston",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2214,
+            "displayname":"Richard Lebowitz",
+            "displaydate":"American, born 1937",
+            "datebegin":1937,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Richard Lebowitz, American, born 1937",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90214,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16186",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Rhode Island, Providence",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Rhode Island",
+            "city":"Providence",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5224151/providence.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: North America, United States, Massachusetts, Boston",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Massachusetts",
+            "city":"Boston",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4930956/boston.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2079250,
+            "term":"stores",
+            "aatid":300005283,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055802,
+            "term":"still lifes",
+            "aatid":300015638,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2139610,
+            "term":"fans (equipment)",
+            "aatid":300209970,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.80"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.30"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16186"
+    ],
+    "displaymaker":"Richard Lebowitz, American, born 1937",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Richard Lebowitz (American, born 1937), Boston, 1964. Gelatin silver print; 10.8 x 15.8 cm. Museum purchase, anonymous gift (1996-201.3)",
+    "captionhtml":"Richard Lebowitz (American, born 1937), <i>Boston</i>, 1964. Gelatin silver print; 10.8 x 15.8 cm. Museum purchase, anonymous gift (1996-201.3)",
+    "published_date":"2025-10-16 14:24:08.489393",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

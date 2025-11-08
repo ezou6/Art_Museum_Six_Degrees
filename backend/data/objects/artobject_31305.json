@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":31305,
+    "objectnumber":"y1969-121",
+    "sortnumber":"1969  121y",
+    "displaytitle":"Tomb guardian",
+    "department":"Asian Art",
+    "classification":"Ceramic",
+    "datebegin":618,
+    "dateend":907,
+    "datecomputed":762,
+    "daterange":"A.D. 500-1000",
+    "displaydate":null,
+    "medium":"Ceramic with with three-color (sancai) glaze",
+    "dimensions":"h. 91.0 cm., w. 28.9 cm., d. 22.0 cm. (35 13/16 x 11 3/8 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the Arthur M. Sackler Foundation",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tomb guardian",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":57194,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV02488",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 23",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        },
+        {
+            "boilertext":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986)",
+            "citation":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986), p. 203 illus.",
+            "date":1986,
+            "id":1899,
+            "uri":"http://www.worldcat.org/oclc/14244748"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2080462,
+            "term":"tombs",
+            "aatid":300005926,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033522,
+            "term":"Tang",
+            "aatid":300018420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171684,
+            "term":"tomb figures",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103920,
+            "term":"cats",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103922,
+            "term":"cows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147421,
+            "term":"beasts",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095937,
+            "term":"funerary art",
+            "aatid":300056488,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033763,
+            "term":"Sancai",
+            "aatid":300018511,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2171684,
+            "classification":"tomb figures"
+        },
+        {
+            "id":2095937,
+            "classification":"funerary art"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12547,
+            "period":"Tang dynasty",
+            "alphasort":"Tang dynasty",
+            "begindate":618,
+            "enddate":907,
+            "displayperiod":"Tang dynasty, 618–907",
+            "displaydate":"618–907"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033522,
+            "period":"Tang"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"91.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"22.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185608,
+            "name":"image_descriptions_artmaking"
+        },
+        {
+            "packageid":181967,
+            "name":"web_2020_Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV02488"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Tang dynasty, 618–907",
+    "caption":"Chinese, Tang dynasty (618–907), Tomb guardian. Ceramic with with three-color (sancai) glaze; 91 x 28.9 x 22 cm. Museum purchase, gift of the Arthur M. Sackler Foundation (y1969-121)",
+    "captionhtml":"Chinese, Tang dynasty (618–907), <i>Tomb guardian</i>. Ceramic with with three-color (sancai) glaze; 91 x 28.9 x 22 cm. Museum purchase, gift of the Arthur M. Sackler Foundation (y1969-121)",
+    "published_date":"2025-10-16 13:23:45.326316",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

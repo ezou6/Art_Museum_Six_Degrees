@@ -1,0 +1,149 @@
+{
+    "type":"artobject",
+    "objectid":4022,
+    "objectnumber":"x1942-246",
+    "sortnumber":"1942  246x",
+    "displaytitle":"Harbor Scene",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":0,
+    "dateend":1942,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 23.1 x 30.5 cm. (9 1/8 x 12 in.)\r\nsheet: 37.5 x 49.1 cm. (14 3/4 x 19 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Harbor Scene",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1643,
+            "displayname":"W. Wallace",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"W. Wallace",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101962,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26714",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26714"
+    ],
+    "displaymaker":"W. Wallace",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"W. Wallace, Harbor Scene. Etching; 23.1 x 30.5 cm (plate), 37.5 x 49.1 cm (sheet). Museum Purchase (x1942-246)",
+    "captionhtml":"W. Wallace, <i>Harbor Scene</i>. Etching; 23.1 x 30.5 cm (plate), 37.5 x 49.1 cm (sheet). Museum Purchase (x1942-246)",
+    "published_date":"2025-10-23 16:43:46.637770",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

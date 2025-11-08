@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":13542,
+    "objectnumber":"x1976-299",
+    "sortnumber":"1976  299x",
+    "displaytitle":"Mount Desert",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1858,
+    "dateend":1858,
+    "datecomputed":1858,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1858",
+    "medium":"Graphite",
+    "dimensions":"27.4 x 43.8 cm (10 13/16 x 17 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld",
+    "markings":null,
+    "inscribed":"in graphite, lower left: Mt. Desert. | Aug 31. | 1858.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1976-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mount Desert",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3587,
+            "displayname":"Aaron Draper Shattuck",
+            "displaydate":"American, 1832–1928",
+            "datebegin":1832,
+            "dateend":1928,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Aaron Draper Shattuck, American, 1832–1928",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist's bequest to his daughter, Helen Shattuck Stewart, 1928; her daughter, Mrs. Eugene Emigh (Katherine Stewart Emigh), until 1972; Mr. and MRs. Stuart P. Feld, New York.r",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":7696,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1976-299_SL",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":108087,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31914",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 138, cat. no. 29; p. 139 (illus.); p. 345, checklist no. 948",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40., p. 33",
+            "date":1977,
+            "id":3365,
+            "uri":"https://www.jstor.org/stable/3774447"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":4,
+            "citation":"West to Wesselmann: American Drawings and Watercolors from the Princeton University Art Museum (October 16, 2004–July 23, 2006)",
+            "isvirtual":true,
+            "begindate":"2004-10-16",
+            "enddate":"2006-07-23",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/4"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Maine, Mount Desert Island",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Maine",
+            "city":null,
+            "county":"Hancock County",
+            "subregion":null,
+            "locale":"Mount Desert Island",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4972735/mount-desert-island.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041441,
+            "term":"Luminist",
+            "aatid":300108215,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2041441,
+            "period":"Luminist"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31914"
+    ],
+    "displaymaker":"Aaron Draper Shattuck, American, 1832–1928",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Aaron Draper Shattuck (American, 1832–1928), Mount Desert, 1858. Graphite; 27.4 x 43.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (x1976-299)",
+    "captionhtml":"Aaron Draper Shattuck (American, 1832–1928), <i>Mount Desert</i>, 1858. Graphite; 27.4 x 43.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (x1976-299)",
+    "published_date":"2025-10-16 11:49:55.222545",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

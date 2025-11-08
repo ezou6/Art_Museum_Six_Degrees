@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":45812,
+    "objectnumber":"x1934-1104",
+    "sortnumber":"1934 1104x",
+    "displaytitle":"Anne Boleyn",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1618,
+    "dateend":1618,
+    "datecomputed":1618,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 18.3 x 12 cm. (7 3/16 x 4 3/4 in.)\r\nsheet: 22.7 x 15.5 cm. (8 15/16 x 6 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Anne Boleyn",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5780,
+            "displayname":"Renold Elstrack",
+            "displaydate":"British, before 1570–after 1630",
+            "datebegin":1570,
+            "dateend":1630,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Renold Elstrack, British, before 1570–after 1630",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102163,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26914",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206377,
+            "name":"image_descriptions_AD"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26914"
+    ],
+    "displaymaker":"Renold Elstrack, British, before 1570–after 1630",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Renold Elstrack (British, before 1570–after 1630), Anne Boleyn. Engraving; 18.3 x 12 cm (plate), 22.7 x 15.5 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1104)",
+    "captionhtml":"Renold Elstrack (British, before 1570–after 1630), <i>Anne Boleyn</i>. Engraving; 18.3 x 12 cm (plate), 22.7 x 15.5 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1104)",
+    "published_date":"2025-10-23 17:15:50.211438",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

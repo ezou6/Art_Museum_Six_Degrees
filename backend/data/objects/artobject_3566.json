@@ -1,0 +1,163 @@
+{
+    "type":"artobject",
+    "objectid":3566,
+    "objectnumber":"x1940-91",
+    "sortnumber":"1940   91x",
+    "displaytitle":"St. Jerome",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1631,
+    "dateend":1631,
+    "datecomputed":1631,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1631",
+    "medium":"Engraving",
+    "dimensions":"plate: 36.2 x 28.8 cm. (14 1/4 x 11 5/16 in.)\r\nsheet: 36.7 x 29.3 cm. (14 7/16 x 11 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed, l.r.: RH v Riyn jn. JG v Vliet fec. 1631",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Jerome",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1550,
+            "displayname":"Rembrandt van Rijn",
+            "displaydate":"1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "datebegin":1606,
+            "dateend":1669,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+            "displayorder":2
+        },
+        {
+            "id":1621,
+            "displayname":"Jan van Vliet",
+            "displaydate":"born 1610, Delft, The Netherlands; active Leiden, The Netherlands and Antwerp, Belgium; died The Netherlands",
+            "datebegin":1610,
+            "dateend":1668,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jan van Vliet, born 1610, Delft, The Netherlands; active Leiden, The Netherlands and Antwerp, Belgium; died The Netherlands",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102766,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27498",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27498"
+    ],
+    "displaymaker":"Jan van Vliet, born 1610, Delft, The Netherlands; active Leiden, The Netherlands and Antwerp, Belgium; died The Netherlands | after Rembrandt van Rijn, 1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jan van Vliet (born 1610, Delft, The Netherlands; active Leiden, The Netherlands and Antwerp, Belgium; died The Netherlands), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), St. Jerome, 1631. Engraving; 36.2 x 28.8 cm (plate), 36.7 x 29.3 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1940-91)",
+    "captionhtml":"Jan van Vliet (born 1610, Delft, The Netherlands; active Leiden, The Netherlands and Antwerp, Belgium; died The Netherlands), after Rembrandt van Rijn (1606–1669; born Leiden, Netherlands; died Amsterdam, Netherlands), <i>St. Jerome</i>, 1631. Engraving; 36.2 x 28.8 cm (plate), 36.7 x 29.3 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1940-91)",
+    "published_date":"2025-10-16 10:25:10.226280",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

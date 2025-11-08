@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":36980,
+    "objectnumber":"1998-685",
+    "sortnumber":"1998  685",
+    "displaytitle":"Bottle",
+    "department":"African and Oceanic Art",
+    "classification":"Ceramic",
+    "datebegin":0,
+    "dateend":1998,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 22 cm., diam. 22.3 cm. (8 11/16 x 8 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bottle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15627,
+            "displayname":"Mangbetu",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Mangbetu artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1984; Princeton University Art Museum, 1998",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<span lang=\"EN\"><p align=\"LEFT\" dir=\"LTR\">The bulbous body, short neck, and narrow opening suggest this vessel was used to store water. The potter probably made it from the bottom up: first placing clay inside the hollow of an old pot, then building the neck with coils of clay. The delicate surface design was impressed on the smooth, wet clay, and the flat horizontal bands and rectangular adornments were then burnished—probably with a smooth stone—before the bottle \nwas fired at a low temperature. </p></span>",
+            "remarks":"Holding Culture: Containers in African Art"
+        }
+    ],
+    "media":[
+        {
+            "id":43470,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008530",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1888,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-685_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 71",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042851,
+            "term":"Mangbetu",
+            "aatid":300016426,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072893,
+            "term":"bottles",
+            "aatid":300045627,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2156809,
+            "term":"firing (technique)",
+            "aatid":300053887,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072893,
+            "classification":"bottles"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042851,
+            "culture":"Mangbetu"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"22.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":142974,
+            "name":"web_african_holding_culture"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008530"
+    ],
+    "displaymaker":"Mangbetu artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mangbetu artist, Democratic Republic of the Congo, Central Africa, Bottle. Ceramic; 22 x 22.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-685)",
+    "captionhtml":"Mangbetu artist, Democratic Republic of the Congo, Central Africa, <i>Bottle</i>. Ceramic; 22 x 22.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-685)",
+    "published_date":"2025-10-23 17:13:12.164415",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

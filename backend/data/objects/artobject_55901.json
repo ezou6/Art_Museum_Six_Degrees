@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":55901,
+    "objectnumber":"2008-1047",
+    "sortnumber":"2008 1047",
+    "displaytitle":"Paris",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1975,
+    "dateend":1985,
+    "datecomputed":1980,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1980",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 24.7 x 16.5 cm. (9 3/4 x 6 1/2 in.)\r\nsheet: 25.4 x 20.3 cm. (10 x 8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of André Kertész",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Paris",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4278,
+            "displayname":"André Kertész",
+            "displaydate":"1894–1985; born Budapest, Hungary; died New York, NY; active Paris and New York",
+            "datebegin":1894,
+            "dateend":1985,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"André Kertész, 1894–1985; born Budapest, Hungary; died New York, NY; active Paris and New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84671,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11262",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 91",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2988507/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188588,
+            "term":"sky",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171359,
+            "term":"cities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098998,
+            "term":"reflections",
+            "aatid":300056034,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120405,
+            "term":"plants",
+            "aatid":300132360,
+            "termtype":"Subject"
+        },
+        {
+            "id":2063877,
+            "term":"draperies",
+            "aatid":300203770,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2105216,
+            "term":"balconets",
+            "aatid":300002589,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.39"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.31"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11262"
+    ],
+    "displaymaker":"André Kertész, 1894–1985; born Budapest, Hungary; died New York, NY; active Paris and New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"André Kertész (1894–1985; born Budapest, Hungary; died New York, NY; active Paris and New York), Paris, ca. 1980. Gelatin silver print; 24.7 x 16.5 cm (image), 25.4 x 20.3 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1047)",
+    "captionhtml":"André Kertész (1894–1985; born Budapest, Hungary; died New York, NY; active Paris and New York), <i>Paris</i>, ca. 1980. Gelatin silver print; 24.7 x 16.5 cm (image), 25.4 x 20.3 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1047)",
+    "published_date":"2025-10-16 15:26:11.316681",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":135302,
+    "objectnumber":"2019-90",
+    "sortnumber":"2019   90",
+    "displaytitle":"Round Robin",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2000,
+    "dateend":2000,
+    "datecomputed":2000,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2000",
+    "medium":"Color etching, aquatint, and mezzotint",
+    "dimensions":"plate: 17.8 × 41.8 cm (7 × 16 7/16 in.)\r\nsheet: 38.4 × 66 cm (15 1/8 × 26 in.)\r\nframe: 60 × 87.6 × 4.8 cm (23 5/8 × 34 1/2 × 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Helen Frankenthaler Foundation",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Helen Frankenthaler Foundation, Inc. / Artists Rights Society (ARS), New York / Tyler Graphics Ltd., Bedford Village, New York",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Round Robin",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5980,
+            "displayname":"Helen Frankenthaler",
+            "displaydate":"1928–2011; born New York, NY; died Darien, CT; active New York",
+            "datebegin":1928,
+            "dateend":2011,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Helen Frankenthaler, 1928–2011; born New York, NY; died Darien, CT; active New York",
+            "displayorder":1
+        },
+        {
+            "id":14270,
+            "displayname":"Tyler Graphics Ltd.",
+            "displaydate":"founded 1974",
+            "datebegin":1974,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":", Mount Kisco, New York",
+            "role":"Printer",
+            "displaymaker":"Printed and published by Tyler Graphics Ltd., Mount Kisco, New York, founded 1974",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist; her estate; The Helen Frankenthaler Foundation; gifted to the Princeton University Art Museum, 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":219342,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/HF_14",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Donor supplied image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, Mount Kisco",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Mount Kisco",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5127744/mount-kisco.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154948,
+            "term":"mezzotint",
+            "aatid":300053233,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.41"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.03"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.77"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.75"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"87.62"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.76"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196697,
+            "name":"MoCo-Color-field"
+        },
+        {
+            "packageid":196696,
+            "name":"MoCo-Abstract Expressionism"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/HF_14"
+    ],
+    "displaymaker":"Helen Frankenthaler, 1928–2011; born New York, NY; died Darien, CT; active New York | Printed and published by Tyler Graphics Ltd. , Mount Kisco, New York, founded 1974",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Helen Frankenthaler (1928–2011; born New York, NY; died Darien, CT; active New York), Printed and published by Tyler Graphics Ltd., Mount Kisco, New York (founded 1974), Round Robin, 2000. Color etching, aquatint, and mezzotint; 17.8 × 41.8 cm (plate), 38.4 × 66 cm (sheet), 60 × 87.6 × 4.8 cm (frame). Gift of the Helen Frankenthaler Foundation (2019-90)",
+    "captionhtml":"Helen Frankenthaler (1928–2011; born New York, NY; died Darien, CT; active New York), Printed and published by Tyler Graphics Ltd., Mount Kisco, New York (founded 1974), <i>Round Robin</i>, 2000. Color etching, aquatint, and mezzotint; 17.8 × 41.8 cm (plate), 38.4 × 66 cm (sheet), 60 × 87.6 × 4.8 cm (frame). Gift of the Helen Frankenthaler Foundation (2019-90)",
+    "published_date":"2025-10-16 18:46:31.613815",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

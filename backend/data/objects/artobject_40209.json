@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":40209,
+    "objectnumber":"2001-109",
+    "sortnumber":"2001  109",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964",
+    "medium":"Black ink, watercolor, and gouache",
+    "dimensions":"25 x 32.3 cm (9 13/16 x 12 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, on verso lower left: 7",
+    "signed":"Signed and dated in blue ink, lower right: Toledo 64.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Francisco Toledo",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2793,
+            "displayname":"Francisco Toledo",
+            "displaydate":"1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "datebegin":1940,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13467,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-109",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "citation":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "date":2007,
+            "id":5865,
+            "uri":"http://www.worldcat.org/oclc/225896945"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 110",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Oaxaca, Oaxaca City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Oaxaca",
+            "city":"Oaxaca City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3522507/oaxaca.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2001-109"
+    ],
+    "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), Untitled, 1964. Black ink, watercolor, and gouache; 25 x 32.3 cm. Bequest of David L. Meginnity, Class of 1958 (2001-109)",
+    "captionhtml":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), <i>Untitled</i>, 1964. Black ink, watercolor, and gouache; 25 x 32.3 cm. Bequest of David L. Meginnity, Class of 1958 (2001-109)",
+    "published_date":"2025-10-16 14:09:29.502645",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":22150,
+    "objectnumber":"y1944-95 d",
+    "sortnumber":"1944   95yd",
+    "displaytitle":"Robert Anderson",
+    "department":"American Art",
+    "classification":"Medals and Medallions",
+    "datebegin":1861,
+    "dateend":1861,
+    "datecomputed":1861,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1861",
+    "medium":"Bronze",
+    "dimensions":"diam. 15.5 cm (6 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":"Stamped on obverse: ROBERT ANDERSON. 1861;\r\nStamped on reverse: THE CHAMBER OF COMMERCE, NEW-YORK, HONORS THE DEFENDERS OF FORT SUMTER - THE PATRIOT, THE HERO AND THE MAN.",
+    "signed":"Stamped on obverse, below truncate: Müller F.;\r\nStamped on reverse, lower left: Müller F.",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Robert Anderson",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3914,
+            "displayname":"Müller",
+            "displaydate":"American, 19th century",
+            "datebegin":1800,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Müller, American, 19th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":52289,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV019487",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":52290,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV019488",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.76_-98.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: United States, South Carolina, Fort Sumter",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"South Carolina",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Fort Sumter",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_32.752_-79.875.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126774,
+            "term":"banners",
+            "aatid":300195679,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127068,
+            "term":"flags",
+            "aatid":300195678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2113299,
+            "term":"battlements",
+            "aatid":300002595,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050533,
+            "term":"cannons (artillery)",
+            "aatid":300036936,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051423,
+            "term":"medals",
+            "aatid":300046025,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088676,
+            "term":"officers (military officers)",
+            "aatid":300236210,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2071891,
+            "term":"torches (lighting devices)",
+            "aatid":300037652,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095232,
+            "term":"personification",
+            "aatid":300055905,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051423,
+            "classification":"medals"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV019487"
+    ],
+    "displaymaker":"Müller, American, 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Müller (American, 19th century), Robert Anderson, 1861. Bronze; 15.5 cm. Museum Collection (y1944-95 d)",
+    "captionhtml":"Müller (American, 19th century), <i>Robert Anderson</i>, 1861. Bronze; 15.5 cm. Museum Collection (y1944-95 d)",
+    "published_date":"2025-10-16 12:44:41.767597",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

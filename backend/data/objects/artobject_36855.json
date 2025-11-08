@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":36855,
+    "objectnumber":"1998-545",
+    "sortnumber":"1998  545",
+    "displaytitle":"Stool",
+    "department":"African and Oceanic Art",
+    "classification":"Furniture",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood and iron",
+    "dimensions":"h. 10.7 cm., w. 24.2 cm., d. 19.4 cm. (4 3/16 x 9 1/2 x 7 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stool",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15615,
+            "displayname":"Safwa",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Safwa artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1987; Princeton University Art Museum, 1998",
+            "remarks":"\"by 1987\" date as per NMAFA loan"
+        }
+    ],
+    "media":[
+        {
+            "id":42884,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008322",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1723,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-545",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 68",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Tanzania",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Eastern Africa",
+            "country":"Tanzania",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/149590/united-republic-of-tanzania.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188706,
+            "term":"lines (geometric concept)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064771,
+            "term":"furniture",
+            "aatid":300037680,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2066487,
+            "term":"stools",
+            "aatid":300038418,
+            "termtype":"Classification"
+        },
+        {
+            "id":2043006,
+            "term":"East African",
+            "aatid":300016434,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2161787,
+            "term":"iron",
+            "aatid":300011002,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168157,
+            "term":"colorant",
+            "aatid":300013026,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2066487,
+            "classification":"stools"
+        },
+        {
+            "id":2064771,
+            "classification":"furniture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2043006,
+            "culture":"East African"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"19.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008322"
+    ],
+    "displaymaker":"Safwa artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Safwa artist, Tanzania, Eastern Africa, Stool, 20th century. Wood and iron; 10.7 x 24.2 x 19.4 cm. Bequest of John B. Elliott, Class of 1951 (1998-545)",
+    "captionhtml":"Safwa artist, Tanzania, Eastern Africa, <i>Stool</i>, 20th century. Wood and iron; 10.7 x 24.2 x 19.4 cm. Bequest of John B. Elliott, Class of 1951 (1998-545)",
+    "published_date":"2025-10-16 13:55:43.480606",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

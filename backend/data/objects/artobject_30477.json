@@ -1,0 +1,186 @@
+{
+    "type":"artobject",
+    "objectid":30477,
+    "objectnumber":"y1967-63",
+    "sortnumber":"1967   63y",
+    "displaytitle":"Lydion",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-600,
+    "dateend":-501,
+    "datecomputed":-550,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"6th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 6.8 cm, diam. 5.8 cm (2 11/16 x 2 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of E. L. and F. B. Godwin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lydion",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum in 1967 by E.L. and F.B. Godwin",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":32311,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42181",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Turkey",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Sardis",
+            "geoname":"http://www.geonames.org/maps/google_38.489_28.04.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037134,
+            "term":"Lydian",
+            "aatid":300019705,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073383,
+            "term":"lydia",
+            "aatid":300198874,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073383,
+            "classification":"lydia"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13971,
+            "culture":"Lydian",
+            "alphasort":"Lydian",
+            "begindate":-700,
+            "enddate":-571,
+            "displayculture":"Lydian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037134,
+            "culture":"Lydian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"5.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42181"
+    ],
+    "displaymaker":null,
+    "displayculture":"Lydian",
+    "displayperiod":null,
+    "caption":"Lydian, Turkey, 6th century BCE, Lydion. Ceramic; 6.8 x 5.8 cm. Gift of E. L. and F. B. Godwin (y1967-63)",
+    "captionhtml":"Lydian, Turkey, 6th century BCE, <i>Lydion</i>. Ceramic; 6.8 x 5.8 cm. Gift of E. L. and F. B. Godwin (y1967-63)",
+    "published_date":"2025-10-16 13:20:28.495578",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

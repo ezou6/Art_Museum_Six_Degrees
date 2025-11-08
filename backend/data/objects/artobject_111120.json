@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":111120,
+    "objectnumber":"2016-480",
+    "sortnumber":"2016  480",
+    "displaytitle":"Watchman",
+    "department":"Prints and Drawings",
+    "classification":"Paintings",
+    "datebegin":1939,
+    "dateend":1939,
+    "datecomputed":1939,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1939",
+    "medium":"Egg tempera on canvas-textured cream wove paper",
+    "dimensions":"35.6 × 45.7 cm (14 × 18 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Joseph and Betsy Ritz Friebert Family Partnership and Kohler Foundation, Inc.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Watchman",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18925,
+            "displayname":"Joseph Friebert",
+            "displaydate":"American, 1908–2002",
+            "datebegin":1908,
+            "dateend":2002,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joseph Friebert, American, 1908–2002",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist’s estate; the artist’s daughter, Susan Rossen, Chicago, IL; given to the Princeton University Art Museum, 2016,",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":216762,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1930874",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":216763,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1930875",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 149",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Wisconsin, Milwaukee",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Wisconsin",
+            "city":"Milwaukee",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5263045/milwaukee.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088297,
+            "term":"workers",
+            "aatid":300025886,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167923,
+            "term":"egg tempera",
+            "aatid":300015064,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.55"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.71"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1930874"
+    ],
+    "displaymaker":"Joseph Friebert, American, 1908–2002",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joseph Friebert (American, 1908–2002), Watchman, 1939. Egg tempera on canvas-textured cream wove paper; 35.6 × 45.7 cm. Gift of Joseph and Betsy Ritz Friebert Family Partnership and Kohler Foundation, Inc. (2016-480)",
+    "captionhtml":"Joseph Friebert (American, 1908–2002), <i>Watchman</i>, 1939. Egg tempera on canvas-textured cream wove paper; 35.6 × 45.7 cm. Gift of Joseph and Betsy Ritz Friebert Family Partnership and Kohler Foundation, Inc. (2016-480)",
+    "published_date":"2025-10-16 18:18:01.735944",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

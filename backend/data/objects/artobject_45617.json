@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":45617,
+    "objectnumber":"PP544",
+    "sortnumber":"P       544P",
+    "displaytitle":"Strip of tapestry",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":-300,
+    "dateend":-150,
+    "datecomputed":-225,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 300–150 BCE",
+    "medium":"Tapestry",
+    "dimensions":"229 x 16 cm. (90 3/16 x 6 5/16 in.)\r\nframe: 245 × 32.5 × 4.5 cm (96 7/16 × 12 13/16 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Museum of Natural History and the Departments of Geology and Geophysical Sciences",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Strip of tapestry",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":45861,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010931",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":45862,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010924",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":45863,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010926",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>Andrew James Hamilton, \"New Horizons in Andean Art History,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 42-101.<br></p>",
+            "citation":"<p>Andrew James Hamilton, \"New Horizons in Andean Art History,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 42-101.<br></p>, pp. 50–51, fig. 6",
+            "date":2016,
+            "id":9660,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, South coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"South coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2064593,
+            "term":"tapestries",
+            "aatid":300205002,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035979,
+            "term":"Early horizon",
+            "aatid":300017267,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103920,
+            "term":"cats",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035998,
+            "term":"Paracas",
+            "aatid":300017276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2064593,
+            "classification":"tapestries"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13503,
+            "culture":"Paracas",
+            "alphasort":"Paracas",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Paracas",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035998,
+            "culture":"Paracas"
+        }
+    ],
+    "periods":[
+        {
+            "id":13505,
+            "period":"Early Horizon Period",
+            "alphasort":"Horizon, Early",
+            "begindate":-750,
+            "enddate":-100,
+            "displayperiod":"Early Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035979,
+            "period":"Early horizon"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"245.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"229.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010931"
+    ],
+    "displaymaker":null,
+    "displayculture":"Paracas",
+    "displayperiod":"Early Horizon Period",
+    "caption":"Paracas, Early Horizon Period, ca. 300–150 BCE, South coast, Peru, Andes, Strip of tapestry. Tapestry; 229 x 16 cm, 245 × 32.5 × 4.5 cm (frame). Lent by the Museum of Natural History and the Departments of Geology and Geophysical Sciences (PP544)",
+    "captionhtml":"Paracas, Early Horizon Period, ca. 300–150 BCE, South coast, Peru, Andes, <i>Strip of tapestry</i>. Tapestry; 229 x 16 cm, 245 × 32.5 × 4.5 cm (frame). Lent by the Museum of Natural History and the Departments of Geology and Geophysical Sciences (PP544)",
+    "published_date":"2025-10-16 14:31:58.401321",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

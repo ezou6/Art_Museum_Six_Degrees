@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":46085,
+    "objectnumber":"x1934-1193",
+    "sortnumber":"1934 1193x",
+    "displaytitle":"William Laudi",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1649,
+    "dateend":1658,
+    "datecomputed":1654,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 19.7 x 14.2 cm. (7 3/4 x 5 9/16 in.)\r\nsheet: 20.3 x 14.4 cm (8 x 5 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed: C. Visscher Excudit",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"William Laudi",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1612,
+            "displayname":"Cornelis Visscher",
+            "displaydate":"Dutch, ca. 1629–1658",
+            "datebegin":1629,
+            "dateend":1658,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cornelis Visscher, Dutch, ca. 1629–1658",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102754,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27486",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27486"
+    ],
+    "displaymaker":"Cornelis Visscher, Dutch, ca. 1629–1658",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cornelis Visscher (Dutch, ca. 1629–1658), William Laudi. Engraving; 19.7 x 14.2 cm (plate), 20.3 x 14.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1193)",
+    "captionhtml":"Cornelis Visscher (Dutch, ca. 1629–1658), <i>William Laudi</i>. Engraving; 19.7 x 14.2 cm (plate), 20.3 x 14.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1193)",
+    "published_date":"2025-10-23 17:17:05.043533",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

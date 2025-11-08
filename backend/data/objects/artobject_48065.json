@@ -1,0 +1,220 @@
+{
+    "type":"artobject",
+    "objectid":48065,
+    "objectnumber":"x1935-1504",
+    "sortnumber":"1935 1504x",
+    "displaytitle":"Man with the Trefoil",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1636,
+    "dateend":1680,
+    "datecomputed":1658,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"sheet trimmed to plate: 8.8 x 7.4 cm. (3 7/16 x 2 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1935-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Man with the Trefoil",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":465,
+            "displayname":"Ferdinand Bol",
+            "displaydate":"Dutch, 1616–1680",
+            "datebegin":1616,
+            "dateend":1680,
+            "prefix":"attributed to",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"attributed to Ferdinand Bol, Dutch, 1616–1680",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":109983,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33511",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":8029,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1935-1504-06_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Netherlands",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Netherlands",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159265,
+            "term":"trefoils",
+            "aatid":300009786,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33511"
+    ],
+    "displaymaker":"attributed to Ferdinand Bol, Dutch, 1616–1680",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Attributed to Ferdinand Bol (Dutch, 1616–1680), Man with the Trefoil. Etching; 8.8 x 7.4 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1935-1504)",
+    "captionhtml":"Attributed to Ferdinand Bol (Dutch, 1616–1680), <i>Man with the Trefoil</i>. Etching; 8.8 x 7.4 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1935-1504)",
+    "published_date":"2025-10-23 17:21:59.131299",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

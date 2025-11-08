@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":13659,
+    "objectnumber":"x1981-85",
+    "sortnumber":"1981   85x",
+    "displaytitle":"Loch Brinn, Kerry County",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1856,
+    "dateend":1892,
+    "datecomputed":1874,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Graphite, gray wash, and watercolor",
+    "dimensions":"37.2 x 58.8 cm. (14 5/8 x 23 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld",
+    "markings":null,
+    "inscribed":"in graphite, lower right: Loch Brinn Kerry Co\r\nin graphite, lower center: banks of the river [sometimes [crossed out]] in places very red\r\nin graphite, around lake in several places: G [and] H",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1981-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Loch Brinn, Kerry County",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2074,
+            "displayname":"Alexander Helwig Wyant",
+            "displaydate":"1836–1892; born Port Washington, OH; died New York, NY; active New York",
+            "datebegin":1836,
+            "dateend":1892,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Alexander Helwig Wyant, 1836–1892; born Port Washington, OH; died New York, NY; active New York",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12220,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1981-85_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":78935,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09747",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 356, checklist no. 1153",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1981\", <em>Record of the Art&nbsp;Museum, Princeton University&nbsp;</em>41, no. 1&nbsp;(1982): p. 16-31.",
+            "citation":"\"Acquisitions of the Art Museum 1981\", <em>Record of the Art&nbsp;Museum, Princeton University&nbsp;</em>41, no. 1&nbsp;(1982): p. 16-31., p. 26",
+            "date":1982,
+            "id":3368,
+            "uri":"https://www.jstor.org/stable/3774576"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Ireland",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Ireland",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":"Kerry",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/2963517/ciarrai.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09747"
+    ],
+    "displaymaker":"Alexander Helwig Wyant, 1836–1892; born Port Washington, OH; died New York, NY; active New York",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Alexander Helwig Wyant (1836–1892; born Port Washington, OH; died New York, NY; active New York), Loch Brinn, Kerry County. Graphite, gray wash, and watercolor; 37.2 x 58.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (x1981-85)",
+    "captionhtml":"Alexander Helwig Wyant (1836–1892; born Port Washington, OH; died New York, NY; active New York), <i>Loch Brinn, Kerry County</i>. Graphite, gray wash, and watercolor; 37.2 x 58.8 cm. Gift of Stuart P. Feld, Class of 1957, and Mrs. Feld (x1981-85)",
+    "published_date":"2025-10-16 11:50:36.318377",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

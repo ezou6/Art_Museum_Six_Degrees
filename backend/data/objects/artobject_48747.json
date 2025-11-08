@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":48747,
+    "objectnumber":"x1937-395",
+    "sortnumber":"1937  395x",
+    "displaytitle":"The Medalist",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1805,
+    "dateend":1866,
+    "datecomputed":1836,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"mezzotint",
+    "dimensions":"plate: 30.3 x 20.5 cm. (11 15/16 x 8 1/16 in.)\r\nsheet: 44 x 31 cm. (17 5/16 x 12 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Medalist",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1904,
+            "displayname":"Antonello da Messina",
+            "displaydate":"Italian, 1430–1479",
+            "datebegin":1430,
+            "dateend":1479,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Antonello da Messina, Italian, 1430–1479",
+            "displayorder":2
+        },
+        {
+            "id":2755,
+            "displayname":"John Thompson",
+            "displaydate":"1785–1866; born Manchester, UK; active and died London, UK",
+            "datebegin":1785,
+            "dateend":1866,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Thompson, 1785–1866; born Manchester, UK; active and died London, UK",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103795,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28308",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":103796,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28309",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28308"
+    ],
+    "displaymaker":"John Thompson, 1785–1866; born Manchester, UK; active and died London, UK | after Antonello da Messina, Italian, 1430–1479",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Thompson (1785–1866; born Manchester, UK; active and died London, UK), after Antonello da Messina (Italian, 1430–1479), The Medalist. Mezzotint; 30.3 x 20.5 cm (plate), 44 x 31 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-395)",
+    "captionhtml":"John Thompson (1785–1866; born Manchester, UK; active and died London, UK), after Antonello da Messina (Italian, 1430–1479), <i>The Medalist</i>. Mezzotint; 30.3 x 20.5 cm (plate), 44 x 31 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-395)",
+    "published_date":"2025-10-23 17:23:02.028232",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

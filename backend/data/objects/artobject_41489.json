@@ -1,0 +1,210 @@
+{
+    "type":"artobject",
+    "objectid":41489,
+    "objectnumber":"2002-408",
+    "sortnumber":"2002  408",
+    "displaytitle":"Seated Youth",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1918,
+    "dateend":1957,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Watercolor",
+    "dimensions":"sheet: 49 x 31 cm. (19 5/16 x 12 3/16 in.)\r\nmount: 51.1 x 32.7 cm. (20 1/8 x 12 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Geoffrey Gates, Class of 1954, and Wende Gates.",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite, lower right: P. Tchelitchew",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Pavel Tchelitcheff",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Seated Youth",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2718,
+            "displayname":"Pavel Tchelitchew",
+            "displaydate":"1898–1957; born Kaluga, Russia; died Grottaferrata, Italy",
+            "datebegin":1898,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pavel Tchelitchew, 1898–1957; born Kaluga, Russia; died Grottaferrata, Italy",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":78928,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09740",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 123",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 350, checklist no. 1033",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2048528,
+            "term":"boards (flat objects)",
+            "aatid":300014616,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.10"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09740"
+    ],
+    "displaymaker":"Pavel Tchelitchew, 1898–1957; born Kaluga, Russia; died Grottaferrata, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pavel Tchelitchew (1898–1957; born Kaluga, Russia; died Grottaferrata, Italy), Seated Youth. Watercolor; 49 x 31 cm (sheet). Gift of Geoffrey Gates, Class of 1954, and Wende Gates. (2002-408)",
+    "captionhtml":"Pavel Tchelitchew (1898–1957; born Kaluga, Russia; died Grottaferrata, Italy), <i>Seated Youth</i>. Watercolor; 49 x 31 cm (sheet). Gift of Geoffrey Gates, Class of 1954, and Wende Gates. (2002-408)",
+    "published_date":"2025-10-16 14:14:53.465266",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

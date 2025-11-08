@@ -1,0 +1,215 @@
+{
+    "type":"artobject",
+    "objectid":39562,
+    "objectnumber":"2002-216",
+    "sortnumber":"2002  216",
+    "displaytitle":"Untitled Composition",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1940,
+    "dateend":1950,
+    "datecomputed":1945,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1945",
+    "medium":"Gouache",
+    "dimensions":"18.5 x 19.8 cm. (7 5/16 x 7 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Kathleen Compton Sherrerd Fund for American Art",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: J. Rothschild",
+    "catalograisonne":null,
+    "creditlinerepro":"© The Judith Rothschild Foundation",
+    "restrictions":"The Judith Rothschild Foundation",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled Composition",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1562,
+            "displayname":"Judith Rothschild",
+            "displaydate":"American, 1921–1993",
+            "datebegin":1921,
+            "dateend":1993,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Judith Rothschild, American, 1921–1993",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":6735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2002-216_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"The Judith Rothschild Foundation",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":6736,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2002-216_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"The Judith Rothschild Foundation",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":114442,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV37533",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"The Judith Rothschild Foundation",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 343, checklist no. 899",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 120 (illus.), p. 123",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2053178,
+            "term":"gouaches",
+            "aatid":300078928,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048528,
+            "term":"boards (flat objects)",
+            "aatid":300014616,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053178,
+            "classification":"gouaches"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2095701,
+            "period":"abstraction"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":163462,
+            "name":"web_WoPSR_ 2019_Abstractions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2002-216_SL"
+    ],
+    "displaymaker":"Judith Rothschild, American, 1921–1993",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Judith Rothschild (American, 1921–1993), Untitled Composition, ca. 1945. Gouache; 18.5 x 19.8 cm. Museum purchase, Kathleen Compton Sherrerd Fund for American Art (2002-216)",
+    "captionhtml":"Judith Rothschild (American, 1921–1993), <i>Untitled Composition</i>, ca. 1945. Gouache; 18.5 x 19.8 cm. Museum purchase, Kathleen Compton Sherrerd Fund for American Art (2002-216)",
+    "published_date":"2025-10-16 14:06:59.571920",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":23720,
+    "objectnumber":"y1950-14",
+    "sortnumber":"1950   14y",
+    "displaytitle":"Ajoure Medallion",
+    "department":"European Painting and Sculpture ",
+    "classification":"Medals and Medallions",
+    "datebegin":1200,
+    "dateend":1299,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"13th century",
+    "medium":"Bronze and enamel",
+    "dimensions":"diam. 8 cm (3 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1950-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ajoure Medallion",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Baron Max von Goldschmidt-Rothschild; his sale (#1150), Parke-Bernet Galleries, April 13, 1950, no. 10; 1950 museum purchase.",
+            "remarks":"accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":141384,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63289",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 2 (1950): p. 15.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 2 (1950): p. 15., p. 16",
+            "date":1950,
+            "id":3749,
+            "uri":"https://www.jstor.org/stable/3774242"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"(not assigned): Limoges",
+            "code":"(not assigned)",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Limoges",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031777,
+            "term":"Gothic (Medieval)",
+            "aatid":300020775,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051460,
+            "term":"medallions (medals)",
+            "aatid":300077357,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051460,
+            "classification":"medallions (medals)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031777,
+            "period":"Gothic (Medieval)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"8.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264566,
+            "name":"VisibleStorage_DenseDisplay_G13_Asia_WorldInMini"
+        },
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63289"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, Ajoure Medallion, 13th century. Bronze and enamel; 8 cm. Museum purchase (y1950-14)",
+    "captionhtml":"French, <i>Ajoure Medallion</i>, 13th century. Bronze and enamel; 8 cm. Museum purchase (y1950-14)",
+    "published_date":"2025-10-16 12:54:29.141213",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

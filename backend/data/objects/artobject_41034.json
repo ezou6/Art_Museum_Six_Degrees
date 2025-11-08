@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":41034,
+    "objectnumber":"2002-146",
+    "sortnumber":"2002  146",
+    "displaytitle":"Mary's Middle-Class",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1985,
+    "dateend":1985,
+    "datecomputed":1985,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1985, printed 2001",
+    "medium":"Inkjet print",
+    "dimensions":"image: 52.3 x 66 cm (20 9/16 x 26 in.)\r\nsheet: 61.1 x 76.1 cm (24 1/16 x 29 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Peter C. Bunnell Collection, gift of the artist",
+    "markings":null,
+    "inscribed":"Printed on sheet below image: Mary’s Middle-Class, 1985/2001. // PRINTED BY LES KRIMS IN A BASEMENT IN BUFFALO, NEW YORK – A FAILED BORDER TOWN\r\n",
+    "signed":"Dated and signed in graphite, verso lower right: © 1985/2001. L. Krims",
+    "catalograisonne":null,
+    "creditlinerepro":"© Les Krims",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mary's Middle-Class",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1276,
+            "displayname":"Les Krims",
+            "displaydate":"American, born 1942",
+            "datebegin":1942,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Les Krims, American, born 1942",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76239,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09261",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 133",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2096251,
+            "term":"iconography",
+            "aatid":300055859,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055774,
+            "term":"group portraits",
+            "aatid":300124525,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087907,
+            "term":"middle class",
+            "aatid":300055481,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051938,
+            "term":"collages",
+            "aatid":300033963,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2154537,
+            "classification":"inkjet printing"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"52.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":204177,
+            "name":"web_whitman"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09261"
+    ],
+    "displaymaker":"Les Krims, American, born 1942",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Les Krims (American, born 1942), Mary's Middle-Class, 1985, printed 2001. Inkjet print; 52.3 x 66 cm (image), 61.1 x 76.1 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-146)",
+    "captionhtml":"Les Krims (American, born 1942), <i>Mary's Middle-Class</i>, 1985, printed 2001. Inkjet print; 52.3 x 66 cm (image), 61.1 x 76.1 cm (sheet). The Peter C. Bunnell Collection, gift of the artist (2002-146)",
+    "published_date":"2025-10-16 14:12:43.664860",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,291 @@
+{
+    "type":"artobject",
+    "objectid":137149,
+    "objectnumber":"2020-333.1-.5",
+    "sortnumber":"2020  333     1   5",
+    "displaytitle":"America",
+    "department":"Modern and Contemporary Art",
+    "classification":"Sculpture",
+    "datebegin":2018,
+    "dateend":2018,
+    "datecomputed":2018,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2018",
+    "medium":"Sculpted mesquite (Prosopis glandulosa) on plywood",
+    "dimensions":"Overall: 109.5 × 205.4 × 205.4 cm (43 1/8 × 80 7/8 × 80 7/8 in.)\r\nTable: 90.2 × 101.6 × 101.6 cm (35 1/2 × 40 × 40 in.)\r\nChairs (each): 109.9 × 53.3 × 44.4 cm (43 1/4 × 21 × 17 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Hugh Hayden",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"America",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21859,
+            "displayname":"Hugh Hayden",
+            "displaydate":"born 1983, Dallas, TX; active New York, NY",
+            "datebegin":1983,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hugh Hayden, born 1983, Dallas, TX; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Hugh Hayden, New York, New York, to; [Lisson Gallery, New York, New York], sold; to Princeton University Art Museum, 2020.",
+            "remarks":"as per curatorial notes in TMS"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Multivocal Label",
+            "textentryhtml":"<p>America is based on a kitchen table I grew up with, a type popular in Texas in the 1980s and ’90s. Conceptually, the round tabletop provides everyone in a “nuclear family” a seat at the table. The chairs are derived from turn-of-the-century pressback chairs that, compared to more common utilitarian chairs, allowed the masses the luxury of a design that was both ergonomic and decorative. The table is crafted from mesquite wood, a tree indigenous to the southwestern United States that can thrive in drought conditions. Perseverance is a cultural trait I attempt to anthropomorphize through the use of this wood. The large thorns create a space that is uninhabitable. For me the piece materializes the people who intentionally place thorns on the table to prevent others from using it, as well as the users who perceive the table as inaccessible and inhospitable. The work is an embodiment of America as a desirable space that is for many difficult to inhabit.\n</p><p> </p><p><b>Hugh Hayden </b></p>",
+            "remarks":"AMER1_23-27_WLA   Day 1 Cataloguing"
+        }
+    ],
+    "media":[
+        {
+            "id":222327,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/HAYD180007_1",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Exhibition Planning Image"
+        },
+        {
+            "id":225192,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/HAYD180007_2",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Artist Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":null,
+            "citation":null,
+            "date":2023,
+            "id":9922,
+            "uri":"https://search.worldcat.org/en/title/1388534941"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":3667,
+            "citation":"Border States September 15–October 27, 2018",
+            "isvirtual":true,
+            "begindate":"2018-09-15",
+            "enddate":"2018-10-27",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3667"
+        },
+        {
+            "exhibitionid":3638,
+            "citation":"Art@Bainbridge | Hugh Hayden: Creation Myths January 16–September 13, 2020",
+            "isvirtual":true,
+            "begindate":"2020-01-16",
+            "enddate":"2020-09-13",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3638"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049655,
+            "term":"woodwork",
+            "aatid":300015348,
+            "termtype":"Classification"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2069511,
+            "term":"tables (support furniture)",
+            "aatid":300039548,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048086,
+            "term":"plywood",
+            "aatid":300012849,
+            "termtype":"Materials"
+        },
+        {
+            "id":2047506,
+            "term":"mesquite",
+            "aatid":300133246,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2049655,
+            "classification":"woodwork"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"109.85"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.33"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"44.44"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.16"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"109.53"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"205.42"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"205.42"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/HAYD180007_1"
+    ],
+    "displaymaker":"Hugh Hayden, born 1983, Dallas, TX; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hugh Hayden (born 1983, Dallas, TX; active New York, NY), America, 2018. Sculpted mesquite (Prosopis glandulosa) on plywood; 109.5 × 205.4 × 205.4 cm, 90.2 × 101.6 × 101.6 cm (Table), 109.9 × 53.3 × 44.4 cm (Chairs (each)). Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2020-333.1-.5)",
+    "captionhtml":"Hugh Hayden (born 1983, Dallas, TX; active New York, NY), <i>America</i>, 2018. Sculpted mesquite (Prosopis glandulosa) on plywood; 109.5 × 205.4 × 205.4 cm, 90.2 × 101.6 × 101.6 cm (Table), 109.9 × 53.3 × 44.4 cm (Chairs (each)). Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2020-333.1-.5)",
+    "published_date":"2025-10-16 18:53:47.417572",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

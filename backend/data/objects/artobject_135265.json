@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":135265,
+    "objectnumber":"2018-210",
+    "sortnumber":"2018  210",
+    "displaytitle":"The Virgin and Child with St. Catherine",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1699,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Oil on panel",
+    "dimensions":"30.6 × 25.5 × 2.7 cm (12 1/16 × 10 1/16 × 1 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Norman Muller",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Virgin and Child with St. Catherine",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Norman Muller; 2018 gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":242803,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_3892",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":242804,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_3892_1",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":242805,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_3892_2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":217358,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2018-110",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Acquisition meeting image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 170",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Crete",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Crete",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6697802/crete.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171368,
+            "term":"Mary",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051776,
+            "term":"icons",
+            "aatid":300033945,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036496,
+            "term":"Cretan",
+            "aatid":300020143,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095964,
+            "term":"religious art",
+            "aatid":300248179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2051776,
+            "classification":"icons"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Cretan",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        },
+        {
+            "id":2036496,
+            "culture":"Cretan"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2018-110"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek, Cretan",
+    "displayperiod":null,
+    "caption":"Greek, Cretan, The Virgin and Child with St. Catherine, 17th century. Oil on panel; 30.6 × 25.5 × 2.7 cm. Gift of Norman Muller (2018-210)",
+    "captionhtml":"Greek, Cretan, <i>The Virgin and Child with St. Catherine</i>, 17th century. Oil on panel; 30.6 × 25.5 × 2.7 cm. Gift of Norman Muller (2018-210)",
+    "published_date":"2025-10-16 18:46:06.862848",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

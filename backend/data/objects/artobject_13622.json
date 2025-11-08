@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":13622,
+    "objectnumber":"x1981-82",
+    "sortnumber":"1981   82x",
+    "displaytitle":"Umbral (Threshold)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1947,
+    "dateend":1947,
+    "datecomputed":1947,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1947, printed 1977",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 24.3 x 19.4 cm. (9 9/16 x 7 5/8 in.)\r\nsheet: 25.3 x 20.3 cm. (9 15/16 x 8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frederick M. and Elizabeth Myers",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, inscribed, and numbered in graphite, verso bottom right: M. Alvarez Bravo | Mexico | 4/100\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":"© Colette Urbajtel/Archivo Manuel Álvarez Bravo, SC.",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1981-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":72,
+            "displayname":"Manuel Álvarez Bravo",
+            "displaydate":"1902–2002; born and died Mexico City, Mexico",
+            "datebegin":1902,
+            "dateend":2002,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Manuel Álvarez Bravo, 1902–2002; born and died Mexico City, Mexico",
+            "displayorder":1
+        },
+        {
+            "id":19794,
+            "displayname":"Acorn Editions Limited",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Acorn Editions Limited",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Frederick M. and Elizabeth Myers, Pittsfield, MA (by 1979); gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":106304,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1981-82",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":85837,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12283",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1981\", <em>Record of the Art&nbsp;Museum, Princeton University&nbsp;</em>41, no. 1&nbsp;(1982): p. 16-31.",
+            "citation":"\"Acquisitions of the Art Museum 1981\", <em>Record of the Art&nbsp;Museum, Princeton University&nbsp;</em>41, no. 1&nbsp;(1982): p. 16-31., p. 28",
+            "date":1982,
+            "id":3368,
+            "uri":"https://www.jstor.org/stable/3774576"
+        },
+        {
+            "boilertext":"Eduardo Cadava and Gabriela Nouzeilles, <EM>The Itinerant Languages of Photography </EM>(Princeton, NJ: Princeton University Art Museum; New Haven: Yale University Press, 2013).",
+            "citation":"Eduardo Cadava and Gabriela Nouzeilles, <EM>The Itinerant Languages of Photography </EM>(Princeton, NJ: Princeton University Art Museum; New Haven: Yale University Press, 2013)., plate 46",
+            "date":2013,
+            "id":2043,
+            "uri":"http://www.worldcat.org/oclc/844731591"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"23",
+                "lon":"-102"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158092,
+            "term":"feet",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045125,
+            "term":"tile",
+            "aatid":300010676,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.30"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1981-82"
+    ],
+    "displaymaker":"Manuel Álvarez Bravo, 1902–2002; born and died Mexico City, Mexico | Published by Acorn Editions Limited",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Manuel Álvarez Bravo (1902–2002; born and died Mexico City, Mexico), Published by Acorn Editions Limited, Umbral (Threshold), 1947, printed 1977. Gelatin silver print; 24.3 x 19.4 cm (image), 25.3 x 20.3 cm (sheet). Gift of Frederick M. and Elizabeth Myers (x1981-82)",
+    "captionhtml":"Manuel Álvarez Bravo (1902–2002; born and died Mexico City, Mexico), Published by Acorn Editions Limited, <i>Umbral (Threshold)</i>, 1947, printed 1977. Gelatin silver print; 24.3 x 19.4 cm (image), 25.3 x 20.3 cm (sheet). Gift of Frederick M. and Elizabeth Myers (x1981-82)",
+    "published_date":"2025-10-21 02:00:42.683721",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":34855,
+    "objectnumber":"y818",
+    "sortnumber":"818     y",
+    "displaytitle":"Plate",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1700,
+    "dateend":1900,
+    "datecomputed":1800,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Earthenware",
+    "dimensions":"2.6 x diam. 23.8 cm (1 x 9 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Princeton University Class of 1843 (1825-1905); gift to the Princeton University Art Museum, 1890.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":136775,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59104",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England, Staffordshire",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Staffordshire",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.833_-2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159813,
+            "term":"scalloping",
+            "aatid":300165381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13593,
+            "culture":"British",
+            "alphasort":"British",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"British",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"23.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":236377,
+            "name":"EW-Artwalk_Materials&Surfaces"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277928,
+            "name":"EW-Artwalk_Materials&Surfaces_CaseB"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59104"
+    ],
+    "displaymaker":null,
+    "displayculture":"British",
+    "displayperiod":null,
+    "caption":"British, Plate. Earthenware; 2.6 × 23.8 cm. Trumbull-Prime Collection (y818)",
+    "captionhtml":"British, <i>Plate</i>. Earthenware; 2.6 × 23.8 cm. Trumbull-Prime Collection (y818)",
+    "published_date":"2025-10-22 02:02:10.667125",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

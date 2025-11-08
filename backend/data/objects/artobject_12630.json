@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":12630,
+    "objectnumber":"x1973-99 a",
+    "sortnumber":"1973   99xa",
+    "displaytitle":"Area of Nassau",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1972,
+    "dateend":1972,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1972",
+    "medium":"Serigraph",
+    "dimensions":"image: 42.5 x 58.2 cm. (16 3/4 x 22 15/16 in.)\r\nsheet: 56 x 71.5 cm. (22 1/16 x 28 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Itek Corporation",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed lower right margin",
+    "catalograisonne":null,
+    "creditlinerepro":"© Len Gittleman",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1973-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Area of Nassau",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4862,
+            "displayname":"Len Gittleman",
+            "displaydate":"American, born 1932",
+            "datebegin":1932,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Len Gittleman, American, born 1932",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":95541,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV21273",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":95542,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV21274",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47.",
+            "citation":"\"Acquisitions of the Art Museum 1974\", <EM>Record of the Art Museum, Princeton University</EM> 33, no. 1 (1974): p. 37-47., p. 44",
+            "date":1974,
+            "id":3613,
+            "uri":"https://www.jstor.org/stable/3774502"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV21274"
+    ],
+    "displaymaker":"Len Gittleman, American, born 1932",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Len Gittleman (American, born 1932), Area of Nassau, 1972. Serigraph; 42.5 x 58.2 cm (image), 56 x 71.5 cm (sheet). Gift of Itek Corporation (x1973-99 a)",
+    "captionhtml":"Len Gittleman (American, born 1932), <i>Area of Nassau</i>, 1972. Serigraph; 42.5 x 58.2 cm (image), 56 x 71.5 cm (sheet). Gift of Itek Corporation (x1973-99 a)",
+    "published_date":"2025-10-16 11:43:12.416921",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

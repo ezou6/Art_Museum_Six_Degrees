@@ -1,0 +1,181 @@
+{
+    "type":"artobject",
+    "objectid":8111,
+    "objectnumber":"x1949-128",
+    "sortnumber":"1949  128x",
+    "displaytitle":"Out of Commission",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1884,
+    "dateend":1919,
+    "datecomputed":1902,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"image: 34 x 55 cm. (13 3/8 x 21 5/8 in.)\r\nplate: 42.8 x 60.4 cm. (16 7/8 x 23 3/4 in.)\r\nsheet: 79.5 x 57 cm. (31 5/16 x 22 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"Titled in graphite, lower left: Out of Commission\r\nDated 1887",
+    "signed":"Signed in graphite below plate, lower right: Ch F.W. Mielatz",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Out of Commission",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3747,
+            "displayname":"Charles  F. W. Mielatz",
+            "displaydate":"American, 1864–1919",
+            "datebegin":1864,
+            "dateend":1919,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles  F. W. Mielatz, American, 1864–1919",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76319,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09332",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2102367,
+            "term":"ships",
+            "aatid":300082981,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"79.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09332"
+    ],
+    "displaymaker":"Charles  F. W. Mielatz, American, 1864–1919",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles  F. W. Mielatz (American, 1864–1919), Out of Commission. Etching; 34 x 55 cm (image), 42.8 x 60.4 cm (plate), 79.5 x 57 cm (sheet). Mather Collection (x1949-128)",
+    "captionhtml":"Charles  F. W. Mielatz (American, 1864–1919), <i>Out of Commission</i>. Etching; 34 x 55 cm (image), 42.8 x 60.4 cm (plate), 79.5 x 57 cm (sheet). Mather Collection (x1949-128)",
+    "published_date":"2025-10-16 11:04:57.905786",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

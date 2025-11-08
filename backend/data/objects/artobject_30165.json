@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":30165,
+    "objectnumber":"y1965-97",
+    "sortnumber":"1965   97y",
+    "displaytitle":"Bowl",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":1200,
+    "dateend":1399,
+    "datecomputed":1300,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"13th–14th century",
+    "medium":"Fine, red-brown clay",
+    "dimensions":"h. 12.9 cm, diam. 20.0 cm (5 1/16 x 7 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated at Fustat in 1964; given to the Museum by the American Research Center in Egypt in 1965 courtesy of the Department of Antiquities of the United Arab Republic.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":38229,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004742",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 31",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Egypt, Fustat A",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Fustat A",
+            "locus":"VII-17",
+            "river":null,
+            "excavation":"Fustat",
+            "geoname":"http://www.geonames.org/352261/misr-al-qadimah.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037678,
+            "term":"Fatimid",
+            "aatid":300021550,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103924,
+            "term":"fish",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159429,
+            "term":"fleurs-de-lis",
+            "aatid":300009966,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2121598,
+            "term":"inscriptions",
+            "aatid":300028702,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160353,
+            "term":"clay",
+            "aatid":300010439,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[
+        {
+            "id":14743,
+            "period":"Fatimid",
+            "alphasort":"Fatimid",
+            "begindate":909,
+            "enddate":1171,
+            "displayperiod":"Fatimid, 909 - 1171",
+            "displaydate":"909 - 1171"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037678,
+            "period":"Fatimid"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"20.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":131700,
+            "name":"web_FUSTAT"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004742"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Fatimid, 909 - 1171",
+    "caption":"Fatimid (909 - 1171), Egypt, 13th–14th century, Bowl. Fine, red-brown clay; 12.9 x 20 cm. Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic (y1965-97)",
+    "captionhtml":"Fatimid (909 - 1171), Egypt, 13th–14th century, <i>Bowl</i>. Fine, red-brown clay; 12.9 x 20 cm. Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic (y1965-97)",
+    "published_date":"2025-10-16 13:18:53.357333",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

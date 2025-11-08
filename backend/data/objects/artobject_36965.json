@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":36965,
+    "objectnumber":"1998-690",
+    "sortnumber":"1998  690",
+    "displaytitle":"Jar",
+    "department":"African and Oceanic Art",
+    "classification":"Ceremonial Objects",
+    "datebegin":1900,
+    "dateend":1998,
+    "datecomputed":1949,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Terracotta and colorant",
+    "dimensions":"h. 46.3 cm., diam. 43.2 cm. (18 1/4 x 17 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15596,
+            "displayname":"Songye",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Songye artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<span lang=\"EN\"><p align=\"LEFT\" dir=\"LTR\">This jar, with its ample body and wide neck, was used to collect and store water. While European-style vessels have replaced traditional Songye cooking pots, the cooling capability of jars of this type has kept them in use today. Songye pots are usually adorned with arcs, parallel lines, or other patterns that are incised into the clay with a banana-stem fragment. A piece of gourd with a serrated edge is used to create the more delicate decoration. After firing, such pots are coated with a substance thought to be botanical. </p></span>",
+            "remarks":"Holding Culture: Containers in African Art"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":141529,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63384",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1893,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-690_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 64",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042790,
+            "term":"Songye",
+            "aatid":300016364,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156714,
+            "term":"incising",
+            "aatid":300053847,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2156809,
+            "term":"firing (technique)",
+            "aatid":300053887,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168157,
+            "term":"colorant",
+            "aatid":300013026,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042790,
+            "culture":"Songye"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":142974,
+            "name":"web_african_holding_culture"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63384"
+    ],
+    "displaymaker":"Songye artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Songye artist, Democratic Republic of the Congo, Central Africa, Jar, 20th century. Terracotta and colorant; 46.3 x 43.2 cm. Bequest of John B. Elliott, Class of 1951 (1998-690)",
+    "captionhtml":"Songye artist, Democratic Republic of the Congo, Central Africa, <i>Jar</i>, 20th century. Terracotta and colorant; 46.3 x 43.2 cm. Bequest of John B. Elliott, Class of 1951 (1998-690)",
+    "published_date":"2025-10-16 13:56:22.391979",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

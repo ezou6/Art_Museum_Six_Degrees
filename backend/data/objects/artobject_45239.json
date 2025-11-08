@@ -1,0 +1,205 @@
+{
+    "type":"artobject",
+    "objectid":45239,
+    "objectnumber":"PP278",
+    "sortnumber":"P       278P",
+    "displaytitle":"John Stuart",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1917,
+    "dateend":1991,
+    "datecomputed":1954,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"82 x 66.8 cm (32 5/16 x 26 5/16 in.)\r\nframe: 97.2 x 81.3 x 4.7 cm (38 1/4 x 32 x 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"John Stuart",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":63,
+            "displayname":"Joseph Allworthy",
+            "displaydate":"American, 1897–1991",
+            "datebegin":1897,
+            "dateend":1991,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joseph Allworthy, American, 1897–1991",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123450,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46441",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123604,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46599",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"97.20"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.30"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"82.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46441"
+    ],
+    "displaymaker":"Joseph Allworthy, American, 1897–1991",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joseph Allworthy (American, 1897–1991), John Stuart. Oil on canvas; 82 x 66.8 cm (sight), 97.2 × 81.3 × 4.7 cm (frame). Princeton University (PP278)",
+    "captionhtml":"Joseph Allworthy (American, 1897–1991), <i>John Stuart</i>. Oil on canvas; 82 x 66.8 cm (sight), 97.2 × 81.3 × 4.7 cm (frame). Princeton University (PP278)",
+    "published_date":"2025-10-16 14:28:33.661788",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

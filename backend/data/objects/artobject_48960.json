@@ -1,0 +1,212 @@
+{
+    "type":"artobject",
+    "objectid":48960,
+    "objectnumber":"x1937-248",
+    "sortnumber":"1937  248x",
+    "displaytitle":"Petrus Paulus Rubens",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1623,
+    "dateend":1658,
+    "datecomputed":1640,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 36.5 x 27.8 cm. (14 3/8 x 10 15/16 in.)\r\nsheet: 37.3 x 28 cm. (14 11/16 x 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed, left: Paulus Pontius sculpsit et excudit; above: MDCXXX; below: Petrus Paulus Rubens",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Petrus Paulus Rubens",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3080,
+            "displayname":"Paul Pontius",
+            "displaydate":"Flemish, 1603–1658",
+            "datebegin":1603,
+            "dateend":1658,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paul Pontius, Flemish, 1603–1658",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Cornelis Ploos van Amstel [1726-1798, Lugt 2118a]. Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":102412,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27149",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":8038,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1937-248_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Rupert Martin, \"A portrait of Rubens by Daniel Seghers\", <em>Record of the Art Museum, Princeton University</em> 17, no. 1 (1958): p. 2-20.",
+            "citation":"John Rupert Martin, \"A portrait of Rubens by Daniel Seghers\", <em>Record of the Art Museum, Princeton University</em> 17, no. 1 (1958): p. 2-20., fig. 7, p. 12 (illus.)",
+            "date":1958,
+            "id":4466,
+            "uri":"https://www.jstor.org/stable/3774227"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031640,
+            "term":"Flemish",
+            "aatid":300111184,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031640,
+            "culture":"Flemish"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27149"
+    ],
+    "displaymaker":"Paul Pontius, Flemish, 1603–1658",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paul Pontius (Flemish, 1603–1658), Petrus Paulus Rubens. Engraving; 36.5 x 27.8 cm (plate), 37.3 x 28 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-248)",
+    "captionhtml":"Paul Pontius (Flemish, 1603–1658), <i>Petrus Paulus Rubens</i>. Engraving; 36.5 x 27.8 cm (plate), 37.3 x 28 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-248)",
+    "published_date":"2025-10-16 15:03:59.808036",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

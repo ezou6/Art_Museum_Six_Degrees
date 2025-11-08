@@ -1,0 +1,293 @@
+{
+    "type":"artobject",
+    "objectid":28165,
+    "objectnumber":"y1957-53",
+    "sortnumber":"1957   53y",
+    "displaytitle":"Mounted Archer and Courtesan with Bow",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1785,
+    "dateend":1795,
+    "datecomputed":1790,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"ca. 1790",
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 92.5 x 34.7 cm. (36 7/16 x 13 11/16 in.)\r\nMount: 183 x 48.2 cm. (72 1/16 x 19 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Nathan V. Hammer",
+    "markings":"Seven characters in ink on edge of rolled scroll",
+    "inscribed":null,
+    "signed":"Signed lower right: 栄之画\r\n“Eishi ga”",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mounted Archer and Courtesan with Bow",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5769,
+            "displayname":"Chōbunsai Eishi 鳥文斎 栄之",
+            "displaydate":"1756–1829",
+            "datebegin":1756,
+            "dateend":1829,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chōbunsai Eishi 鳥文斎 栄之, 1756–1829",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66625,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1957-53",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61840,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08508",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 41",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096754,
+            "term":"beauty",
+            "aatid":300055821,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158100,
+            "term":"warriors",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094283,
+            "term":"equestrians",
+            "aatid":300188602,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126477,
+            "term":"kakemonos",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044466,
+            "term":"silk (textile)",
+            "aatid":300243428,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        },
+        {
+            "id":2126477,
+            "classification":"kakemonos"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"183.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"92.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1957-53"
+    ],
+    "displaymaker":"Chōbunsai Eishi 鳥文斎 栄之, 1756–1829",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Chōbunsai Eishi 鳥文斎 栄之 (1756–1829), Mounted Archer and Courtesan with Bow, ca. 1790. Hanging scroll; colors on silk; 92.5 x 34.7 cm (Painting). Gift of Mr. and Mrs. Nathan V. Hammer (y1957-53)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Chōbunsai Eishi 鳥文斎 栄之 (1756–1829), <i>Mounted Archer and Courtesan with Bow</i>, ca. 1790. Hanging scroll; colors on silk; 92.5 x 34.7 cm (Painting). Gift of Mr. and Mrs. Nathan V. Hammer (y1957-53)",
+    "published_date":"2025-10-16 13:06:11.224798",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

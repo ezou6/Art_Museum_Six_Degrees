@@ -1,0 +1,284 @@
+{
+    "type":"artobject",
+    "objectid":18942,
+    "objectnumber":"x1994-25",
+    "sortnumber":"1994   25x",
+    "displaytitle":"The Stickleback Catcher",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1887,
+    "dateend":1887,
+    "datecomputed":1887,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1887",
+    "medium":"Photogravure",
+    "dimensions":"image: 23.9 x 29.2 cm. (9 7/16 x 11 1/2 in.)\r\nsheet: 26.4 x 31.2 cm. (10 3/8 x 12 5/16 in.)\r\nmount: 40.3 x 50.6 cm. (15 7/8 x 19 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":"Signed in negative, lower right comer of image: P.H. EMERSON.",
+    "inscribed":"Printed in ink on mount, upper left corner: 16\r\nInscribed in graphite, verso lower right comer: TR 823-92\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1994-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Stickleback Catcher",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5783,
+            "displayname":"Peter Henry Emerson",
+            "displaydate":"English, born Cuba, 1856–1936",
+            "datebegin":1856,
+            "dateend":1936,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Peter Henry Emerson, English, born Cuba, 1856–1936",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85095,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11646",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"P.H. Emerson, <EM>Pictures from Life in Field and Fen</EM> (London: G. Bell &amp; Sons, 1887).",
+            "citation":"P.H. Emerson, <EM>Pictures from Life in Field and Fen</EM> (London: G. Bell &amp; Sons, 1887)., plate 16",
+            "date":1887,
+            "id":5421,
+            "uri":"http://www.worldcat.org/oclc/31925852"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79.",
+            "citation":"\"Acquisitions of the Art Museum 1994,\" <i>Record of the Art Museum, Princeton University </i>54, no. 1 (1995): p. 40-79., p. 63",
+            "date":1995,
+            "id":569,
+            "uri":"https://www.jstor.org/stable/3774717"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6269131/england.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120346,
+            "term":"grassland",
+            "aatid":300008874,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2138953,
+            "term":"fishing lines",
+            "aatid":300257158,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2147403,
+            "term":"fishing",
+            "aatid":300239470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2154825,
+            "classification":"photogravure"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":45184,
+            "name":"Website - Objects with Multiple parts"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11646"
+    ],
+    "displaymaker":"Peter Henry Emerson, English, born Cuba, 1856–1936",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Peter Henry Emerson (English, born Cuba, 1856–1936), The Stickleback Catcher, 1887. Photogravure; 23.9 x 29.2 cm (image), 26.4 x 31.2 cm (sheet). Museum purchase, anonymous gift (x1994-25)",
+    "captionhtml":"Peter Henry Emerson (English, born Cuba, 1856–1936), <i>The Stickleback Catcher</i>, 1887. Photogravure; 23.9 x 29.2 cm (image), 26.4 x 31.2 cm (sheet). Museum purchase, anonymous gift (x1994-25)",
+    "published_date":"2025-10-16 12:25:34.190938",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

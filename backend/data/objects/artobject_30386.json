@@ -1,0 +1,288 @@
+{
+    "type":"artobject",
+    "objectid":30386,
+    "objectnumber":"y1967-114",
+    "sortnumber":"1967  114y",
+    "displaytitle":"Three Porters",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1832,
+    "dateend":1858,
+    "datecomputed":1845,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"mid 19th century",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 25.7 x 34.7 cm. (10 1/8 x 13 11/16 in.)\r\nMount: 114 x 48.5 cm. (44 7/8 x 19 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Peter Josten",
+    "markings":"Artist, \"Ichiryūsai\" [壱]立齋, square relief, bottom right\r\n(Ichiryūsai一立齋 is a name Hiroshige used after 1832.)",
+    "inscribed":null,
+    "signed":"Signed lower right: 廣重\r\n“Hiroshige”",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Three Porters",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":94,
+            "displayname":"Utagawa Hiroshige 歌川 広重",
+            "displaydate":"1797–1858; born and died Tokyo, Japan",
+            "datebegin":1797,
+            "dateend":1858,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Utagawa Hiroshige 歌川 広重, 1797–1858; born and died Tokyo, Japan",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Two men in broad hats moving left, through snow, carrying pole on which is suspended a large container. Close behind, a third man with a large hat or umbrella, head bent forward, carrying a pole over his shoulder from which hangs a basket containing two upright sticks. ",
+            "remarks":"as per object file"
+        }
+    ],
+    "media":[
+        {
+            "id":62310,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08517",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":66736,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-114",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41., p. 36",
+            "date":1968,
+            "id":884,
+            "uri":"https://www.jstor.org/stable/3774425"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088525,
+            "term":"porters",
+            "aatid":300025868,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"114.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-114"
+    ],
+    "displaymaker":"Utagawa Hiroshige 歌川 広重, 1797–1858; born and died Tokyo, Japan",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Utagawa Hiroshige 歌川 広重 (1797–1858; born and died Tokyo, Japan), Three Porters, mid 19th century. Hanging scroll; ink and color on paper; 25.7 x 34.7 cm (Painting). Gift of Peter Josten (y1967-114)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Utagawa Hiroshige 歌川 広重 (1797–1858; born and died Tokyo, Japan), <i>Three Porters</i>, mid 19th century. Hanging scroll; ink and color on paper; 25.7 x 34.7 cm (Painting). Gift of Peter Josten (y1967-114)",
+    "published_date":"2025-10-22 02:01:33.331331",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

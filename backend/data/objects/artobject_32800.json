@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":32800,
+    "objectnumber":"y1984-70",
+    "sortnumber":"1984   70y",
+    "displaytitle":"Portrait stirrup-spout vessel",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":450,
+    "dateend":550,
+    "datecomputed":500,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"ca. 550 CE",
+    "medium":"Ceramic with brown-black highly burnished surface",
+    "dimensions":"h. 24.8 cm., w. 10.0 cm., d. 14.0 cm. (9 3/4 x 3 15/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Robert A. Winters, Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1984-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait stirrup-spout vessel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gift of Robert A. Winters (1912-2006), Class of 1935, to the Princeton University Art Museum, 1984.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":48848,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV014332",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52.",
+            "citation":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52., p. 51",
+            "date":1985,
+            "id":3134,
+            "uri":"https://www.jstor.org/stable/3774658"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, Lambayeque, North coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"North coast",
+            "state":"Lambayeque",
+            "city":null,
+            "county":null,
+            "subregion":"Lambayeque river valley",
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8351309/lambayeque.html",
+            "location":{
+                "lat":"-6.67387",
+                "lon":"-79.93284"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2117201,
+            "term":"spouts",
+            "aatid":300197224,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036006,
+            "term":"Early Intermediate period",
+            "aatid":300017280,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036017,
+            "term":"Mochica",
+            "aatid":300017287,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2152702,
+            "term":"burnishing (polishing)",
+            "aatid":300053869,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2117201,
+            "classification":"spouts"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13510,
+            "culture":"Mochica",
+            "alphasort":"Mochica",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mochica",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036006,
+            "culture":"Early Intermediate period"
+        },
+        {
+            "id":2036017,
+            "culture":"Mochica"
+        }
+    ],
+    "periods":[
+        {
+            "id":13506,
+            "period":"Early Intermediate Period",
+            "alphasort":"Intermediate, Early",
+            "begindate":-200,
+            "enddate":500,
+            "displayperiod":"Early Intermediate Period (Late Moche IV)",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225767,
+            "name":"VisibleStorage_GHC-C_SouthAmerica2"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":129401,
+            "name":"CRS_ART103_2018_week5"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV014332"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mochica",
+    "displayperiod":"Early Intermediate Period (Late Moche IV)",
+    "caption":"Mochica, Early Intermediate Period (Late Moche IV), ca. 550 CE, Lambayeque river valley, Lambayeque, North coast, Peru, Andes, Portrait stirrup-spout vessel. Ceramic with brown-black highly burnished surface; 24.8 cm, 24.8 x 10 x 14 cm. Gift of Robert A. Winters, Class of 1935 (y1984-70)",
+    "captionhtml":"Mochica, Early Intermediate Period (Late Moche IV), ca. 550 CE, Lambayeque river valley, Lambayeque, North coast, Peru, Andes, <i>Portrait stirrup-spout vessel</i>. Ceramic with brown-black highly burnished surface; 24.8 cm, 24.8 x 10 x 14 cm. Gift of Robert A. Winters, Class of 1935 (y1984-70)",
+    "published_date":"2025-10-23 17:11:50.185708",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

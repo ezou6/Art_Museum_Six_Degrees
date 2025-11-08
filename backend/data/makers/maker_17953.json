@@ -1,0 +1,94 @@
+{
+    "makerid":17953,
+    "published_date":"2022-03-28 16:09:31.674352",
+    "type":"maker",
+    "displayname":"Doug and Mike Starn",
+    "makertype":"Individual",
+    "alphasort":"Starn, Doug and Mike",
+    "lastname":"Starn",
+    "firstname":"Doug and Mike",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"American, born 1961",
+    "begindate":1961,
+    "enddate":2100,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Doug and Mike Starn",
+            "alphasort":"Starn, Doug and Mike",
+            "lastname":"Starn",
+            "firstname":"Doug and Mike",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        },
+        {
+            "nametype":"Alternate",
+            "displayname":"Mike Starn",
+            "alphasort":"Starn, Mike",
+            "lastname":"Starn",
+            "firstname":"Mike",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        },
+        {
+            "nametype":"Alternate",
+            "displayname":"Doug Starn",
+            "alphasort":"Starn, Doug",
+            "lastname":"Starn",
+            "firstname":"Doug",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500127914"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d813cda69514e00166d8dec"
+            },
+            "title":"(Any) Body Oddly Propped",
+            "description":"",
+            "speaker_type":"Artist",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_o14xlvna",
+            "transcript":"",
+            "source_project":"Campus Art",
+            "caption_file":[],
+            "displaydate":"December 17, 2017",
+            "sort_date":"2015-12-17",
+            "video_type":"Collections"
+        },
+        {
+            "_id":{
+                "$oid":"5d8141a969514e00166d8df1"
+            },
+            "title":"Starn Brothers Presentation",
+            "description":"",
+            "speaker_type":"Artist",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_nm0r7x3g",
+            "transcript":"",
+            "source_project":"Campus Art",
+            "displaydate":"October 24, 2015",
+            "sort_date":"2015-10-24",
+            "video_type":"Artist Talks",
+            "caption_file":[]
+        }
+    ],
+    "essay":[]
+}

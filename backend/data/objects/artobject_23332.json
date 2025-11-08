@@ -1,0 +1,286 @@
+{
+    "type":"artobject",
+    "objectid":23332,
+    "objectnumber":"y1949-90",
+    "sortnumber":"1949   90y",
+    "displaytitle":"Figure in Red on Donkey, in Ming style",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1479,
+    "dateend":1508,
+    "datecomputed":1494,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 136.5 x 63 cm. (53 3/4 x 24 13/16 in.)\r\nMount: 267 x 74.1 cm. (105 1/8 x 29 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Four characters in ink on label adhered to edge of rolled scroll; Four characters in ink on label adhered to silk bag ",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Figure in Red on Donkey, in Ming style",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":987,
+            "displayname":"Wu Wei 吳偉",
+            "displaydate":"1459 - 1508",
+            "datebegin":1459,
+            "dateend":1508,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wu Wei 吳偉, 1459 - 1508",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1949 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":64118,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-90",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61860,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08239",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096423,
+            "term":"travel",
+            "aatid":300080094,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158070,
+            "term":"donkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171378,
+            "term":"roads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2120463,
+            "term":"vines",
+            "aatid":300132406,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"267.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.10"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"136.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-90"
+    ],
+    "displaymaker":"Wu Wei 吳偉, 1459 - 1508",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Wu Wei 吳偉 (1459 - 1508), Figure in Red on Donkey, in Ming style, undated. Hanging scroll; ink and color on paper; 136.5 x 63 cm (Painting), 267 x 74.1 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-90)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Wu Wei 吳偉 (1459 - 1508), <i>Figure in Red on Donkey, in Ming style</i>, undated. Hanging scroll; ink and color on paper; 136.5 x 63 cm (Painting), 267 x 74.1 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1949-90)",
+    "published_date":"2025-10-16 12:52:19.136982",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

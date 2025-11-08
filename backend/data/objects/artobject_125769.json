@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":125769,
+    "objectnumber":"2016-59",
+    "sortnumber":"2016   59",
+    "displaytitle":"Paris-Plage",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1902,
+    "dateend":1912,
+    "datecomputed":1907,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1907",
+    "medium":"Oil on canvas board",
+    "dimensions":"21.7 x 26.5 cm (8 9/16 x 10 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Emma Swan Hall",
+    "markings":"Handwritten on back of frame, upper left: 0710\r\n\r\n",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Paris-Plage",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4200,
+            "displayname":"Samuel John Peploe",
+            "displaydate":"1871–1935; born and died Edinburgh, Scotland; active France",
+            "datebegin":1871,
+            "dateend":1935,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Samuel John Peploe, 1871–1935; born and died Edinburgh, Scotland; active France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Thomas Agnew and Sons, no. 47991. Bequest of Emma Swan Hall.",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":196783,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_11794",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 138 (illus.)",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Pas-de-Calais, Le Touquet",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":"Pas-de-Calais",
+            "city":"Le Touquet",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_50.524_1.586.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044040,
+            "term":"canvas board",
+            "aatid":300014236,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_11794"
+    ],
+    "displaymaker":"Samuel John Peploe, 1871–1935; born and died Edinburgh, Scotland; active France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Samuel John Peploe (1871–1935; born and died Edinburgh, Scotland; active France), Paris-Plage, ca. 1907. Oil on canvas board; 21.7 × 26.5 cm. Bequest of Emma Swan Hall (2016-59)",
+    "captionhtml":"Samuel John Peploe (1871–1935; born and died Edinburgh, Scotland; active France), <i>Paris-Plage</i>, ca. 1907. Oil on canvas board; 21.7 × 26.5 cm. Bequest of Emma Swan Hall (2016-59)",
+    "published_date":"2025-10-16 18:25:00.277813",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

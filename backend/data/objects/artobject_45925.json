@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":45925,
+    "objectnumber":"x1934-1154",
+    "sortnumber":"1934 1154x",
+    "displaytitle":"Richard Brownlowe Armigeri",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1639,
+    "dateend":1639,
+    "datecomputed":1639,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 18.7 x 12.5 cm. (7 3/8 x 4 15/16 in.)\r\nsheet: 19.4 x 12.9 cm. (7 5/8 x 5 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Richard Brownlowe Armigeri",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6714,
+            "displayname":"Thomas Cross",
+            "displaydate":"British, ac. 1632 - 1682",
+            "datebegin":0,
+            "dateend":1682,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Cross, British, ac. 1632 - 1682",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102017,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26768",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.90"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206377,
+            "name":"image_descriptions_AD"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26768"
+    ],
+    "displaymaker":"Thomas Cross, British, ac. 1632 - 1682",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Cross (British, ac. 1632 - 1682), Richard Brownlowe Armigeri. Engraving; 18.7 x 12.5 cm (plate), 19.4 x 12.9 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1154)",
+    "captionhtml":"Thomas Cross (British, ac. 1632 - 1682), <i>Richard Brownlowe Armigeri</i>. Engraving; 18.7 x 12.5 cm (plate), 19.4 x 12.9 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1154)",
+    "published_date":"2025-10-23 17:16:16.351734",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

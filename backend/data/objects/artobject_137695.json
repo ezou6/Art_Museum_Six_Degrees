@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":137695,
+    "objectnumber":"2020-375",
+    "sortnumber":"2020  375",
+    "displaytitle":"Mask",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-300,
+    "dateend":400,
+    "datecomputed":50,
+    "daterange":"A.D. 1-500",
+    "displaydate":"300 BCE–400 CE",
+    "medium":"Ceramic with brown slip, reduced/smudged to gray/black in places",
+    "dimensions":"21.6 × 17.8 × 8.3 cm (8 1/2 × 7 × 3 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Gillett G. Griffin Art of the Ancient Americas Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mathias Komor, NY, by 1970; John and Sue Tishman, NY, 1970-2007; Dr. Daniel Rifkin, NY; purchased by the Princeton University Art Museum, 2020.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":228149,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_63507",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Colima, West Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"West Mexico",
+            "state":"Colima",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4013513/estado-de-colima.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048783,
+            "term":"funerary objects",
+            "aatid":300234126,
+            "termtype":"Classification"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035837,
+            "term":"Colima",
+            "aatid":300017197,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048783,
+            "classification":"funerary objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":17720,
+            "culture":"Comala",
+            "alphasort":"Comala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Comala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035837,
+            "culture":"Colima"
+        }
+    ],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.58"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.77"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.25"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":226010,
+            "name":"VisibleStorage_GHC-E_Mesoamerica1"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_63507"
+    ],
+    "displaymaker":null,
+    "displayculture":"Comala",
+    "displayperiod":"Late Formative Period",
+    "caption":"Comala, Late Formative Period, 300 BCE–400 CE, Colima, West Mexico, Mexico, Mesoamerica, Mask. Ceramic with brown slip, reduced/smudged to gray/black in places; 21.6 × 17.8 × 8.3 cm. Museum purchase, Gillett G. Griffin Art of the Ancient Americas Fund (2020-375)",
+    "captionhtml":"Comala, Late Formative Period, 300 BCE–400 CE, Colima, West Mexico, Mexico, Mesoamerica, <i>Mask</i>. Ceramic with brown slip, reduced/smudged to gray/black in places; 21.6 × 17.8 × 8.3 cm. Museum purchase, Gillett G. Griffin Art of the Ancient Americas Fund (2020-375)",
+    "published_date":"2025-10-29 02:07:11.949901",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

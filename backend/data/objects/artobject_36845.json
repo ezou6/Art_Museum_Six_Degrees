@@ -1,0 +1,227 @@
+{
+    "type":"artobject",
+    "objectid":36845,
+    "objectnumber":"1998-871",
+    "sortnumber":"1998  871",
+    "displaytitle":"Mount St. Helena",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1975,
+    "dateend":1975,
+    "datecomputed":1975,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1975",
+    "medium":"Watercolor with touches of pen and black ink",
+    "dimensions":"38.1 x 55.9 cm. (15 x 22 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The John B. Elliott, Class of 1951, Collection",
+    "markings":null,
+    "inscribed":"in ink, lower right:  #1072 Haddock",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mount St. Helena",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5032,
+            "displayname":"Arthur Haddock",
+            "displaydate":"American, 1895–1980",
+            "datebegin":1895,
+            "dateend":1980,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Arthur Haddock, American, 1895–1980",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by donor at Ernesto Mayans Gallery, Santa Fe.&nbsp; Formerly L.1997.213.454.",
+            "remarks":"moved from provenance fields"
+        }
+    ],
+    "media":[
+        {
+            "id":78889,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09698",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 50",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 317, checklist no. 436 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, California, Mount Saint Helena",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Mount Saint Helena",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5390282/mount-saint-helena.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2048528,
+            "term":"boards (flat objects)",
+            "aatid":300014616,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09698"
+    ],
+    "displaymaker":"Arthur Haddock, American, 1895–1980",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Arthur Haddock (American, 1895–1980), Mount St. Helena, 1975. Watercolor with touches of pen and black ink; 38.1 x 55.9 cm. The John B. Elliott, Class of 1951, Collection (1998-871)",
+    "captionhtml":"Arthur Haddock (American, 1895–1980), <i>Mount St. Helena</i>, 1975. Watercolor with touches of pen and black ink; 38.1 x 55.9 cm. The John B. Elliott, Class of 1951, Collection (1998-871)",
+    "published_date":"2025-10-16 13:55:39.632181",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

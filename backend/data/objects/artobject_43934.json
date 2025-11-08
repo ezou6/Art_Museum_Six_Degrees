@@ -1,0 +1,206 @@
+{
+    "type":"artobject",
+    "objectid":43934,
+    "objectnumber":"x1934-1224",
+    "sortnumber":"1934 1224x",
+    "displaytitle":"Charles",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1642,
+    "dateend":1665,
+    "datecomputed":1654,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 15 x 10 cm. (5 7/8 x 3 15/16 in.)\r\nsheet: 17 x 11.2 cm. (6 11/16 x 4 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Signed and inscribed in plate, lower left: P. Stent excudit",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Charles",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2550,
+            "displayname":"Peter Stent",
+            "displaydate":"British, active 1642–1665",
+            "datebegin":1642,
+            "dateend":1665,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Peter Stent, British, active 1642–1665",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":110001,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33529",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089201,
+            "term":"kings (people)",
+            "aatid":300025481,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33529"
+    ],
+    "displaymaker":"Peter Stent, British, active 1642–1665",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Peter Stent (British, active 1642–1665), Charles. Engraving; 15 x 10 cm (plate), 17 x 11.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1224)",
+    "captionhtml":"Peter Stent (British, active 1642–1665), <i>Charles</i>. Engraving; 15 x 10 cm (plate), 17 x 11.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1224)",
+    "published_date":"2025-10-16 14:24:20.277867",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

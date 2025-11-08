@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":70662,
+    "objectnumber":"x1980-4331",
+    "sortnumber":"1980 4331x",
+    "displaytitle":"Lincoln, Vermont",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1968,
+    "dateend":1968,
+    "datecomputed":1968,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"August 1968",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 14 × 20.5 cm (5 1/2 × 8 1/16 in.)\r\nsheet: 17.5 × 27.6 cm (6 7/8 × 10 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 68-13-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lincoln, Vermont (Barn)",
+            "titletype":"Published",
+            "displayorder":2
+        },
+        {
+            "title":"Lincoln, Vermont",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":169501,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled3219.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        },
+        {
+            "id":178551,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA05509",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>Peter C. Bunnell et al., <i>Minor White: The Eye That Shapes</i> (Princeton: Princeton University Art Museum, 1989)</p>",
+            "citation":"<p>Peter C. Bunnell et al., <i>Minor White: The Eye That Shapes</i> (Princeton: Princeton University Art Museum, 1989)</p>",
+            "date":1989,
+            "id":3159,
+            "uri":"http://www.worldcat.org/oclc/20828462"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1427,
+            "citation":"Minor White: The Eye That Shapes (April 27, 1989–June 15, 1991)",
+            "isvirtual":true,
+            "begindate":"1989-04-27",
+            "enddate":"1991-06-15",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1427"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Vermont, Lincoln",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Vermont",
+            "city":"Lincoln",
+            "county":"Addison County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5237960/lincoln.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078449,
+            "term":"barns",
+            "aatid":300004900,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120456,
+            "term":"grasses",
+            "aatid":300132397,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047928,
+            "term":"plank",
+            "aatid":300012825,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA05509"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Lincoln, Vermont, August 1968. Gelatin silver print; 14 × 20.5 cm (image), 17.5 × 27.6 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-4331)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Lincoln, Vermont</i>, August 1968. Gelatin silver print; 14 × 20.5 cm (image), 17.5 × 27.6 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-4331)",
+    "published_date":"2025-10-16 16:50:08.260937",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":24523,
+    "objectnumber":"y1953-51",
+    "sortnumber":"1953   51y",
+    "displaytitle":"Diana",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1844,
+    "dateend":1887,
+    "datecomputed":1866,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"mid-19th century",
+    "medium":"Plaster",
+    "dimensions":"49.3 x 22.2 x 20.2 cm (19 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Mrs. George McClellan",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1953-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Diana",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6308,
+            "displayname":"Albert Ernest Carrier-Belleuse",
+            "displaydate":"French, 1824–1887",
+            "datebegin":1824,
+            "dateend":1887,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Albert Ernest Carrier-Belleuse, French, 1824–1887",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs. George McClellan; 1953 bequest to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13108,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1953-51_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":140043,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62167",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140044,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62168",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140045,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62169",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140046,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62170",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63.",
+            "citation":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63., p. 62",
+            "date":1954,
+            "id":848,
+            "uri":"https://www.jstor.org/stable/3774286"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2127881,
+            "term":"chitons",
+            "aatid":300209824,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171354,
+            "term":"Roman mythology",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051164,
+            "term":"arrows",
+            "aatid":300036976,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072804,
+            "term":"quivers",
+            "aatid":300036930,
+            "termtype":"Subject"
+        },
+        {
+            "id":2091959,
+            "term":"hunters",
+            "aatid":300025619,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167445,
+            "term":"plaster",
+            "aatid":300014922,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV62167"
+    ],
+    "displaymaker":"Albert Ernest Carrier-Belleuse, French, 1824–1887",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Albert Ernest Carrier-Belleuse (French, 1824–1887), Diana, mid-19th century. Plaster; 49.3 cm. Bequest of Mrs. George McClellan (y1953-51)",
+    "captionhtml":"Albert Ernest Carrier-Belleuse (French, 1824–1887), <i>Diana</i>, mid-19th century. Plaster; 49.3 cm. Bequest of Mrs. George McClellan (y1953-51)",
+    "published_date":"2025-10-16 12:58:37.857129",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

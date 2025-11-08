@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":21886,
+    "objectnumber":"y1942-36",
+    "sortnumber":"1942   36y",
+    "displaytitle":"Daoist Sages",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1368,
+    "dateend":1644,
+    "datecomputed":1506,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Vertical scroll; ink and color on silk",
+    "dimensions":"124.5 x 51 cm. (49 x 20 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Frederick Peterson Collection, Gift of William Bingham II",
+    "markings":"Dated: Hongzhi ding chou [non-existant]\r\nSeal: Mi Wanzhong yin [sq. int. (spurious?)]",
+    "inscribed":null,
+    "signed":"Signed: Li Jiangqun [i.e., Li Sixun; spurious]",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Daoist Sages",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>pre-1930 Dr. Frederick Peterson (New York, NY), acquired in New York, NY between ca. 1910–1929.</p><p><br>1930s William Bingham II, 1879-1955 (Bethel, ME), acquired in 1930s (possibly at time of Peterson’s death in 1938).</p><p><br>1930s–1942 William Bingham II (Bethel, ME), sold to the Princeton University Art Museum, 1942.</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":60965,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07861",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":60966,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07862",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2097386,
+            "term":"Taoism",
+            "aatid":300143666,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094039,
+            "term":"scholars",
+            "aatid":300025579,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"124.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"51.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV07861"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":null,
+    "caption":"Chinese, Anonymous, Daoist Sages. Vertical scroll; ink and color on silk; 124.5 x 51 cm. Frederick Peterson Collection, Gift of William Bingham II (y1942-36)",
+    "captionhtml":"Chinese, Anonymous, <i>Daoist Sages</i>. Vertical scroll; ink and color on silk; 124.5 x 51 cm. Frederick Peterson Collection, Gift of William Bingham II (y1942-36)",
+    "published_date":"2025-10-23 17:04:17.429610",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

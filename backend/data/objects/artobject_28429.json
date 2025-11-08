@@ -1,0 +1,277 @@
+{
+    "type":"artobject",
+    "objectid":28429,
+    "objectnumber":"y1960-43",
+    "sortnumber":"1960   43y",
+    "displaytitle":"Loquat Branch",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1925,
+    "dateend":1935,
+    "datecomputed":1930,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1930",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 101 x 26 cm. (39 3/4 x 10 1/4 in.)\r\nMount: 202.5 x 37.2 cm. (79 3/4 x 14 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":null,
+    "inscribed":"yes",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Loquat Branch",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6375,
+            "displayname":"Qi Baishi 齊白石",
+            "displaydate":"Chinese, 1863–1957",
+            "datebegin":1863,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":67996,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1960-43",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61826,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08280",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 26; p. 27 (illus.)",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        },
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 24",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"late Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        },
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"202.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"101.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1960-43"
+    ],
+    "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+    "displayculture":"Chinese",
+    "displayperiod":"late Qing dynasty, 1644–1912 | Modern period, 1912–present",
+    "caption":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), Loquat Branch, ca. 1930. Hanging scroll; ink and color on paper; 101 x 26 cm (Painting), 202.5 x 37.2 cm (mount). Gift of J. Lionberger Davis, Class of 1900 (y1960-43)",
+    "captionhtml":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), <i>Loquat Branch</i>, ca. 1930. Hanging scroll; ink and color on paper; 101 x 26 cm (Painting), 202.5 x 37.2 cm (mount). Gift of J. Lionberger Davis, Class of 1900 (y1960-43)",
+    "published_date":"2025-10-16 13:07:51.879342",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

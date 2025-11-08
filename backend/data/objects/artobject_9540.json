@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":9540,
+    "objectnumber":"x1954-3",
+    "sortnumber":"1954    3x",
+    "displaytitle":"Le chapeau épinglé (The Hat-pin)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1897,
+    "dateend":1897,
+    "datecomputed":1897,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1897",
+    "medium":"Color lithograph",
+    "dimensions":"image: 61 × 49.5 cm (24 × 19 1/2 in.)\r\nsheet: 71 × 58.5 cm (27 15/16 × 23 1/16 in.)\r\nframe: 90 × 77.6 × 2.6 cm (35 7/16 × 30 9/16 × 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Everett E. Rogerson",
+    "markings":null,
+    "inscribed":"Signed, lower right: Renoir",
+    "signed":null,
+    "catalograisonne":"Delteil 30",
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Le chapeau épinglé (The Hat-pin)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3211,
+            "displayname":"Pierre-Auguste Renoir",
+            "displaydate":"French, 1841–1919",
+            "datebegin":1841,
+            "dateend":1919,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pierre-Auguste Renoir, French, 1841–1919",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121233,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41477",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; tab-stops: 339.0pt\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; mso-fareast-font-family: \"Times New Roman\"'>Loys Delteil, \"Volume 17,\" <I>Le peintre-graveur illustré </I>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>",
+            "citation":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; tab-stops: 339.0pt\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; mso-fareast-font-family: \"Times New Roman\"'>Loys Delteil, \"Volume 17,\" <I>Le peintre-graveur illustré </I>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>, no. 30",
+            "date":1906,
+            "id":6477,
+            "uri":"http://www.worldcat.org/oclc/11858030"
+        },
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 18",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3017382/republic-of-france.html",
+            "location":{
+                "lat":"46",
+                "lon":"2"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"90.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"77.60"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"71.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41477"
+    ],
+    "displaymaker":"Pierre-Auguste Renoir, French, 1841–1919",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pierre-Auguste Renoir (French, 1841–1919), Le chapeau épinglé (The Hat-pin), 1897. Color lithograph; 61 × 49.5 cm (image), 71 × 58.5 cm (sheet), 90 × 77.6 × 2.6 cm (frame). Gift of Everett E. Rogerson (x1954-3)",
+    "captionhtml":"Pierre-Auguste Renoir (French, 1841–1919), <i>Le chapeau épinglé (The Hat-pin)</i>, 1897. Color lithograph; 61 × 49.5 cm (image), 71 × 58.5 cm (sheet), 90 × 77.6 × 2.6 cm (frame). Gift of Everett E. Rogerson (x1954-3)",
+    "published_date":"2025-10-16 11:16:13.878308",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

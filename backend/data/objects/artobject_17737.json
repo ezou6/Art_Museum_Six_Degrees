@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":17737,
+    "objectnumber":"y1929-165",
+    "sortnumber":"1929  165y",
+    "displaytitle":"Fragment (base of bowl)",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":975,
+    "dateend":1150,
+    "datecomputed":1062,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"10th–11th century",
+    "medium":"Glazed ceramic",
+    "dimensions":"4.0 x 11.0 x 7.3 cm (1 9/16 x 4 5/16 x 2 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of A. Hyatt Mayor, Class of 1922",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment (base of bowl)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by A. Hyatt Mayer",
+            "remarks":"Batch edit for Provenance publiaction project"
+        }
+    ],
+    "media":[
+        {
+            "id":40205,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV005262",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Egypt",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Fustat",
+            "geoname":"http://www.geonames.org/352261/misr-al-qadimah.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037678,
+            "term":"Fatimid",
+            "aatid":300021550,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        },
+        {
+            "id":2156714,
+            "term":"incising",
+            "aatid":300053847,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":21079,
+            "culture":"Egyptian Islamic",
+            "alphasort":"Egyptian Islamic",
+            "begindate":652,
+            "enddate":0,
+            "displayculture":"Egyptian Islamic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[
+        {
+            "id":14743,
+            "period":"Fatimid",
+            "alphasort":"Fatimid",
+            "begindate":909,
+            "enddate":1171,
+            "displayperiod":"Fatimid, 909 - 1171",
+            "displaydate":"909 - 1171"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037678,
+            "period":"Fatimid"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":131700,
+            "name":"web_FUSTAT"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV005262"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian Islamic",
+    "displayperiod":"Fatimid, 909 - 1171",
+    "caption":"Egyptian Islamic, Fatimid (909 - 1171), Egypt, 10th–11th century, Fragment (base of bowl). Glazed ceramic; 4 x 11 x 7.3 cm. Gift of A. Hyatt Mayor, Class of 1922 (y1929-165)",
+    "captionhtml":"Egyptian Islamic, Fatimid (909 - 1171), Egypt, 10th–11th century, <i>Fragment (base of bowl)</i>. Glazed ceramic; 4 x 11 x 7.3 cm. Gift of A. Hyatt Mayor, Class of 1922 (y1929-165)",
+    "published_date":"2025-10-16 12:18:46.801093",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

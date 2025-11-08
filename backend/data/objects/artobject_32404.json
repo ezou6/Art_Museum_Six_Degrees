@@ -1,0 +1,217 @@
+{
+    "type":"artobject",
+    "objectid":32404,
+    "objectnumber":"y225",
+    "sortnumber":"225     y",
+    "displaytitle":"Jar",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":300,
+    "dateend":399,
+    "datecomputed":350,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th century CE",
+    "medium":"Transparent light green glass",
+    "dimensions":"h. 8.7 cm, diam. rim 8.4 cm, diam. base 5.5 cm (3 7/16 x 3 5/16 x 2 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W.L. Bogert, Class of 1912",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Flaring, in-folded rim; funnel mouth; short neck; globular body; concave bottom. Pair of coil handles from shoulder to rim. At the center of the bottom is a solid, circular pontil mark, 1.1 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74505,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y225",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 295 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        },
+        {
+            "boilertext":"<P>Vessberg, Olof, \"roman glass in Cyprus\", <EM>Opuscula Archaeologica</EM> 7 (1952).</P>",
+            "citation":"<P>Vessberg, Olof, \"roman glass in Cyprus\", <EM>Opuscula Archaeologica</EM> 7 (1952).</P>, p. 109ff; pl. 4, p. 32.",
+            "date":1952,
+            "id":3117,
+            "uri":"http://www.worldcat.org/oclc/732353917"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Levant",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Levant",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2077991,
+            "term":"amphorae",
+            "aatid":300148696,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2058680,
+            "term":"light green",
+            "aatid":300128475,
+            "termtype":"Subject"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2077991,
+            "classification":"amphorae"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.70"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"8.40"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"5.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y225"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Late Antiquity, ca. 476–700 CE",
+    "caption":"Late Antiquity (ca. 476–700 CE), Levant, 4th century CE, Jar. Transparent light green glass; 8.7 x 8.4 x 5.5 cm. Gift of W.L. Bogert, Class of 1912 (y225)",
+    "captionhtml":"Late Antiquity (ca. 476–700 CE), Levant, 4th century CE, <i>Jar</i>. Transparent light green glass; 8.7 x 8.4 x 5.5 cm. Gift of W.L. Bogert, Class of 1912 (y225)",
+    "published_date":"2025-10-18 02:03:50.758476",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

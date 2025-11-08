@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":57305,
+    "objectnumber":"y242",
+    "sortnumber":"242     y",
+    "displaytitle":"Flask",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":300,
+    "dateend":399,
+    "datecomputed":350,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th century CE",
+    "medium":"Transparent light blue glass",
+    "dimensions":"h. 11.6 cm, diam. rim 3.7 cm, diam. base 2.7 cm (4 9/16 x 1 7/16 x 1 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W.L. Bogert, Class of 1912",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Fire-polished, rounded rim; conical neck, constricted at its base; everted conical body; inherent pad base; flat bottom. At the center of the bottom is an annular pontil mark, 2 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        }
+    ],
+    "media":[
+        {
+            "id":74516,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y242",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 220 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Levant",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Levant",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34_36.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: Syria",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_38.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036755,
+            "term":"Late Antique",
+            "aatid":300020666,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036755,
+            "period":"Late Antique"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"3.70"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"2.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y242"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Late Antiquity, ca. 476–700 CE",
+    "caption":"Late Antiquity (ca. 476–700 CE), Levant, 4th century CE, Flask. Transparent light blue glass; 11.6 x 3.7 x 2.7 cm. Gift of W.L. Bogert, Class of 1912 (y242)",
+    "captionhtml":"Late Antiquity (ca. 476–700 CE), Levant, 4th century CE, <i>Flask</i>. Transparent light blue glass; 11.6 x 3.7 x 2.7 cm. Gift of W.L. Bogert, Class of 1912 (y242)",
+    "published_date":"2025-10-18 02:04:37.021726",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

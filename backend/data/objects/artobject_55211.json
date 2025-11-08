@@ -1,0 +1,280 @@
+{
+    "type":"artobject",
+    "objectid":55211,
+    "objectnumber":"2007-147",
+    "sortnumber":"2007  147",
+    "displaytitle":"Olla",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1930,
+    "dateend":1950,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1940",
+    "medium":"Ceramic with cream, black, and orange slip",
+    "dimensions":"h. 20.3 × diam. 19 cm (8 × 7 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed by Seferina Bell: [drawing of bell] / Zia Pueblo",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Seferina Bell",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Olla",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14043,
+            "displayname":"Seferina Bell",
+            "displaydate":"Zia, 1920–1986; born and died Zia Pueblo, NM",
+            "datebegin":1920,
+            "dateend":1986,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Seferina Bell, Zia, 1920–1986; born and died Zia Pueblo, NM",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by Jim Maddox at an antiques show in Washington, DC; donated by Jim Maddox and Lucy Maddox to the Princeton University Art Museum, 2007.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44287,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010003",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":239944,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3254",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239945,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3250",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":239946,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3248",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 119 (illus.)",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Zia Pueblo, Jemez River basin",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Jemez River basin",
+            "state":"New Mexico",
+            "city":"Zia Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5498948/zia-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040536,
+            "term":"Zia",
+            "aatid":300017761,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073397,
+            "term":"ollas",
+            "aatid":300199780,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073397,
+            "classification":"ollas"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040536,
+            "culture":"Zia"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.31"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"19.04"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3248"
+    ],
+    "displaymaker":"Seferina Bell, Zia, 1920–1986; born and died Zia Pueblo, NM",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Seferina Bell (Zia, 1920–1986; born and died Zia Pueblo, NM), ca. 1940, Zia Pueblo, New Mexico, Jemez River basin, United States, American southwest, Olla. Ceramic with cream, black, and orange slip; 20.3 × 19 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2007-147)",
+    "captionhtml":"Seferina Bell (Zia, 1920–1986; born and died Zia Pueblo, NM), ca. 1940, Zia Pueblo, New Mexico, Jemez River basin, United States, American southwest, <i>Olla</i>. Ceramic with cream, black, and orange slip; 20.3 × 19 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2007-147)",
+    "published_date":"2025-10-30 02:07:21.043621",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

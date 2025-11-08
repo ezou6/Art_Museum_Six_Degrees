@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":10656,
+    "objectnumber":"x1965-68",
+    "sortnumber":"1965   68x",
+    "displaytitle":"The Barbarous Dance",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1905,
+    "dateend":1905,
+    "datecomputed":1905,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1905",
+    "medium":"Drypoint",
+    "dimensions":"plate: 18.5 x 23.2 cm. (7 5/16 x 9 1/8 in.)\r\nsheet: 33 x 51 cm. (13 x 20 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. David A. Thompson",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1965-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Barbarous Dance",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3027,
+            "displayname":"Pablo Picasso",
+            "displaydate":"1881–1973; born Malaga, Spain; died Mougins, France; active Paris",
+            "datebegin":1881,
+            "dateend":1973,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pablo Picasso, 1881–1973; born Malaga, Spain; died Mougins, France; active Paris",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101754,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26510",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":101755,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26511",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 30",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"51.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":80298,
+            "name":"web_wopsr_2016-07_Picasso"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26510"
+    ],
+    "displaymaker":"Pablo Picasso, 1881–1973; born Malaga, Spain; died Mougins, France; active Paris",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pablo Picasso (1881–1973; born Malaga, Spain; died Mougins, France; active Paris), The Barbarous Dance, 1905. Drypoint; 18.5 x 23.2 cm (plate), 32 x 49.4 cm, 33 x 51 cm (sheet). Gift of Mr. and Mrs. David A. Thompson (x1965-68)",
+    "captionhtml":"Pablo Picasso (1881–1973; born Malaga, Spain; died Mougins, France; active Paris), <i>The Barbarous Dance</i>, 1905. Drypoint; 18.5 x 23.2 cm (plate), 32 x 49.4 cm, 33 x 51 cm (sheet). Gift of Mr. and Mrs. David A. Thompson (x1965-68)",
+    "published_date":"2025-10-16 11:23:09.693582",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":48264,
+    "objectnumber":"x1937-160",
+    "sortnumber":"1937  160x",
+    "displaytitle":"Ecce Homo",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1765,
+    "dateend":1830,
+    "datecomputed":1798,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 37 x 40.6 cm. (14 9/16 x 16 in.)\r\nsheet: 38.5 x 42.2 cm. (15 3/16 x 16 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ecce Homo",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4034,
+            "displayname":"Jean Pierre Norblin de la Gourdaine",
+            "displaydate":"French, 1745–1830",
+            "datebegin":1745,
+            "dateend":1830,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Pierre Norblin de la Gourdaine, French, 1745–1830",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":96937,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22551",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22551"
+    ],
+    "displaymaker":"Jean Pierre Norblin de la Gourdaine, French, 1745–1830",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Pierre Norblin de la Gourdaine (French, 1745–1830), Ecce Homo. Etching; 37 x 40.6 cm (plate), 38.5 x 42.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-160)",
+    "captionhtml":"Jean Pierre Norblin de la Gourdaine (French, 1745–1830), <i>Ecce Homo</i>. Etching; 37 x 40.6 cm (plate), 38.5 x 42.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-160)",
+    "published_date":"2025-10-23 17:22:16.621509",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

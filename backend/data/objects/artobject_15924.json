@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":15924,
+    "objectnumber":"2000-314",
+    "sortnumber":"2000  314",
+    "displaytitle":"Mesa Air",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1995,
+    "dateend":1995,
+    "datecomputed":1995,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1995",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 23.1 x 34.1 cm (9 1/8 x 13 7/16 in.)\r\nsheet: 28.1 x 35.4 cm (11 1/16 x 13 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":"Inscribed/signed in pencil, verso lower right corner: \"MESA AIR\" / Chuck Forsman / '00",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Chuck Forsman",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mesa Air",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":653,
+            "displayname":"Chuck Forsman",
+            "displaydate":"American, born 1944",
+            "datebegin":1944,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chuck Forsman, American, born 1944",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85108,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11659",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 79",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.10"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11659"
+    ],
+    "displaymaker":"Chuck Forsman, American, born 1944",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Chuck Forsman (American, born 1944), Mesa Air, 1995. Gelatin silver print; 23.1 x 34.1 cm (image), 28.1 x 35.4 cm (sheet). Museum purchase (2000-314)",
+    "captionhtml":"Chuck Forsman (American, born 1944), <i>Mesa Air</i>, 1995. Gelatin silver print; 23.1 x 34.1 cm (image), 28.1 x 35.4 cm (sheet). Museum purchase (2000-314)",
+    "published_date":"2025-10-16 12:06:45.172767",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

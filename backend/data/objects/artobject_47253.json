@@ -1,0 +1,179 @@
+{
+    "type":"artobject",
+    "objectid":47253,
+    "objectnumber":"x1934-611",
+    "sortnumber":"1934  611x",
+    "displaytitle":"Lucretia",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1541,
+    "dateend":1567,
+    "datecomputed":1554,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 27.8 x 20.3 cm. (10 15/16 x 8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Stone, left: E.V. Fran. Par. Inventor",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lucretia",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2944,
+            "displayname":"Enea Vico",
+            "displaydate":"Italian, Rome, 1523–1567",
+            "datebegin":1523,
+            "dateend":1567,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Enea Vico, Italian, Rome, 1523–1567",
+            "displayorder":1
+        },
+        {
+            "id":4155,
+            "displayname":"Parmigianino",
+            "displaydate":"Italian, 1503–1540",
+            "datebegin":1503,
+            "dateend":1540,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Parmigianino, Italian, 1503–1540",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Mark Masterman Sykes [1771-1823, Lugt 1897]. Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":16013,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1934-611",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1934-611"
+    ],
+    "displaymaker":"Enea Vico, Italian, Rome, 1523–1567 | after Parmigianino, Italian, 1503–1540",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Enea Vico (Italian, Rome, 1523–1567), after Parmigianino (Italian, 1503–1540), Lucretia. Engraving; 27.8 x 20.3 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-611)",
+    "captionhtml":"Enea Vico (Italian, Rome, 1523–1567), after Parmigianino (Italian, 1503–1540), <i>Lucretia</i>. Engraving; 27.8 x 20.3 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-611)",
+    "published_date":"2025-10-16 14:48:51.380439",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

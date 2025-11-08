@@ -1,0 +1,211 @@
+{
+    "type":"artobject",
+    "objectid":13836,
+    "objectnumber":"x1977-123",
+    "sortnumber":"1977  123x",
+    "displaytitle":"Hydnefoss, Veslehorn (Hemesdal) (Norway Series XI)",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1976,
+    "dateend":1976,
+    "datecomputed":1976,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1976",
+    "medium":"Brush and black ink",
+    "dimensions":"50.8 x 66.8 cm (20 x 26 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Mr.and Mrs. Thomas George",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated in black ink, lower right: George 76",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hydnefoss, Veslehorn (Hemesdal) (Norway Series XI)",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6096,
+            "displayname":"Thomas George",
+            "displaydate":"American, 1918–2014",
+            "datebegin":1918,
+            "dateend":2014,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas George, American, 1918–2014",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gift of Mr. and Mrs. Thomas George",
+            "remarks":"Published in Bib 4416"
+        }
+    ],
+    "media":[
+        {
+            "id":114102,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV37350",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 313, checklist no. 353 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 34",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Norway, Hemsedal",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Norway",
+            "region":"Hemsedal",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3152987/hemsedal.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV37350"
+    ],
+    "displaymaker":"Thomas George, American, 1918–2014",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas George (American, 1918–2014), Hydnefoss, Veslehorn (Hemesdal) (Norway Series XI), 1976. Brush and black ink; 50.8 x 66.8 cm. Gift of the Mr.and Mrs. Thomas George (x1977-123)",
+    "captionhtml":"Thomas George (American, 1918–2014), <i>Hydnefoss, Veslehorn (Hemesdal) (Norway Series XI)</i>, 1976. Brush and black ink; 50.8 x 66.8 cm. Gift of the Mr.and Mrs. Thomas George (x1977-123)",
+    "published_date":"2025-10-16 11:51:36.268537",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":41801,
+    "objectnumber":"2003-56",
+    "sortnumber":"2003   56",
+    "displaytitle":"Mickey & Eleanor",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1930,
+    "dateend":1939,
+    "datecomputed":1934,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1930s",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 12.4 x 7 cm (4 7/8 x 2 3/4 in.)\r\nsheet: 14.5 x 8.8 cm (5 11/16 x 3 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Donald Lokuta",
+    "markings":null,
+    "inscribed":"Recto bottom left, below image: MICKEY + ELEANOR",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mickey & Eleanor",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Unknown",
+            "suffix":"photographer",
+            "role":"Artist",
+            "displaymaker":"Unknown American photographer",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84603,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11194",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 118",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11194"
+    ],
+    "displaymaker":"Unknown American photographer",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown American photographer, Mickey & Eleanor, ca. 1930s. Gelatin silver print; 12.4 x 7 cm (image), 14.5 x 8.8 cm (sheet). Gift of Donald Lokuta (2003-56)",
+    "captionhtml":"Unknown American photographer, <i>Mickey & Eleanor</i>, ca. 1930s. Gelatin silver print; 12.4 x 7 cm (image), 14.5 x 8.8 cm (sheet). Gift of Donald Lokuta (2003-56)",
+    "published_date":"2025-10-16 14:16:17.229000",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

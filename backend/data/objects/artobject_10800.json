@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":10800,
+    "objectnumber":"x1967-28",
+    "sortnumber":"1967   28x",
+    "displaytitle":"Melancolia",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1602,
+    "dateend":1602,
+    "datecomputed":1602,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 23.5 x 18.4 cm (9 1/4 x 7 1/4 in.)\r\nsheet: 24.1 x 18.9 cm (9 1/2 x 7 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"(transferred from Slides and Photographs)",
+    "markings":null,
+    "inscribed":"in margin: Iohan Wiricx Fecit Ann 1602",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Melancolia",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1794,
+            "displayname":"Johan Wierix",
+            "displaydate":"Flemish, c. 1549 - p. 1615",
+            "datebegin":0,
+            "dateend":1615,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Johan Wierix, Flemish, c. 1549 - p. 1615",
+            "displayorder":1
+        },
+        {
+            "id":5715,
+            "displayname":"Albrecht Dürer",
+            "displaydate":"1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "datebegin":1471,
+            "dateend":1528,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":102782,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27514",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27514"
+    ],
+    "displaymaker":"Johan Wierix, Flemish, c. 1549 - p. 1615 | after Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Johan Wierix (Flemish, c. 1549 - p. 1615), after Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), Melancolia. Engraving; 23.5 x 18.4 cm (plate), 24.1 x 18.9 cm (sheet). (transferred from Slides and Photographs) (x1967-28)",
+    "captionhtml":"Johan Wierix (Flemish, c. 1549 - p. 1615), after Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), <i>Melancolia</i>. Engraving; 23.5 x 18.4 cm (plate), 24.1 x 18.9 cm (sheet). (transferred from Slides and Photographs) (x1967-28)",
+    "published_date":"2025-10-23 16:54:10.003860",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

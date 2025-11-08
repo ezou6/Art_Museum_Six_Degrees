@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":23944,
+    "objectnumber":"y1951-38",
+    "sortnumber":"1951   38y",
+    "displaytitle":"Waterfall and Pheasant",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1868,
+    "datecomputed":1734,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Temple door, left panel; ink on paper",
+    "dimensions":"171 x 140.7 cm. (67 5/16 x 55 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alfred U. Elser",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1951-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Waterfall and Pheasant",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":20514,
+            "displayname":"Kano School (Kano-ha 狩野派)",
+            "displaydate":"15th–19th century",
+            "datebegin":1400,
+            "dateend":1899,
+            "prefix":"style of",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"style of Kano School (Kano-ha 狩野派), 15th–19th century",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":70635,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1951-38",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23., p. 23",
+            "date":1951,
+            "id":862,
+            "uri":"https://www.jstor.org/stable/3774224"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2084828,
+            "term":"temples",
+            "aatid":300007595,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2119959,
+            "term":"waterfalls",
+            "aatid":300008736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2034064,
+            "term":"Kano School",
+            "aatid":300018653,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171671,
+            "term":"pine trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        },
+        {
+            "id":2034064,
+            "period":"Kano School"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"171.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"140.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1951-38"
+    ],
+    "displaymaker":"style of Kano School (Kano-ha 狩野派), 15th–19th century",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), style of Kano School (Kano-ha 狩野派) (15th–19th century), Waterfall and Pheasant. Temple door, left panel; ink on paper; 171 x 140.7 cm. Gift of Alfred U. Elser (y1951-38)",
+    "captionhtml":"Japanese, Edo period (1603–1868), style of Kano School (Kano-ha 狩野派) (15th–19th century), <i>Waterfall and Pheasant</i>. Temple door, left panel; ink on paper; 171 x 140.7 cm. Gift of Alfred U. Elser (y1951-38)",
+    "published_date":"2025-10-16 12:55:44.604199",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

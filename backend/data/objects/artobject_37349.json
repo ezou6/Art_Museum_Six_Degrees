@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":37349,
+    "objectnumber":"1998-19",
+    "sortnumber":"1998   19",
+    "displaytitle":"View of the Teignmouth Harbor, Devon",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1841,
+    "dateend":1885,
+    "datecomputed":1863,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Watercolor over graphite",
+    "dimensions":"12.1 x 32.7 cm. (4 3/4 x 12 7/8 in.) (uneven)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alexander D. Wainwright, Class of 1939",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"View of the Teignmouth Harbor, Devon",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1243,
+            "displayname":"John Mogford",
+            "displaydate":"1821–1885; born and died London, England",
+            "datebegin":1821,
+            "dateend":1885,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Mogford, 1821–1885; born and died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by donor from The Drawing Room (Laurie Johnson) (no. 7-414)",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":108753,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV32564",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":346,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-19_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 96",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, Devon",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":"Devon",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/11609025/devon.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120264,
+            "term":"shores (landforms)",
+            "aatid":300008733,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172874,
+            "term":"cliffs",
+            "aatid":300008749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV32564"
+    ],
+    "displaymaker":"John Mogford, 1821–1885; born and died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Mogford (1821–1885; born and died London, England), View of the Teignmouth Harbor, Devon. Watercolor over graphite; 12.1 x 32.7 cm (uneven). Gift of Alexander D. Wainwright, Class of 1939 (1998-19)",
+    "captionhtml":"John Mogford (1821–1885; born and died London, England), <i>View of the Teignmouth Harbor, Devon</i>. Watercolor over graphite; 12.1 x 32.7 cm (uneven). Gift of Alexander D. Wainwright, Class of 1939 (1998-19)",
+    "published_date":"2025-10-16 13:58:39.212692",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

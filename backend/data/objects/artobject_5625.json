@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":5625,
+    "objectnumber":"x1946-289",
+    "sortnumber":"1946  289x",
+    "displaytitle":"Guillaume de Brisacier",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1664,
+    "dateend":1664,
+    "datecomputed":1664,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1664",
+    "medium":"Engraving; second state",
+    "dimensions":"plate: 34.7 x 26.6 cm. (13 11/16 x 10 1/2 in.)\r\nsheet: 35.4 x 26.5 cm. (13 15/16 x 10 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Laura P. Hall Memorial Collection",
+    "markings":null,
+    "inscribed":"inscribed: N. Mignard Auenionensis pinxit   Ant. Masson sculpebat 1664",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Guillaume de Brisacier",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3605,
+            "displayname":"Antoine Masson",
+            "displaydate":"French, 1636–1700",
+            "datebegin":1636,
+            "dateend":1700,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Antoine Masson, French, 1636–1700",
+            "displayorder":1
+        },
+        {
+            "id":3753,
+            "displayname":"Nicholas Mignard",
+            "displaydate":"French, 1606–1668",
+            "datebegin":1606,
+            "dateend":1668,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Nicholas Mignard, French, 1606–1668",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":96932,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22546",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22546"
+    ],
+    "displaymaker":"Antoine Masson, French, 1636–1700 | after Nicholas Mignard, French, 1606–1668",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Antoine Masson (French, 1636–1700), after Nicholas Mignard (French, 1606–1668), Guillaume de Brisacier, 1664. Engraving; second state; 34.7 x 26.6 cm (plate), 35.4 x 26.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-289)",
+    "captionhtml":"Antoine Masson (French, 1636–1700), after Nicholas Mignard (French, 1606–1668), <i>Guillaume de Brisacier</i>, 1664. Engraving; second state; 34.7 x 26.6 cm (plate), 35.4 x 26.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-289)",
+    "published_date":"2025-10-16 10:39:42.718000",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

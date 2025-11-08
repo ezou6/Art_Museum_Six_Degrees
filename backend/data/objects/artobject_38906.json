@@ -1,0 +1,257 @@
+{
+    "type":"artobject",
+    "objectid":38906,
+    "objectnumber":"2000-436",
+    "sortnumber":"2000  436",
+    "displaytitle":"The Old Sailor",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1899,
+    "dateend":1899,
+    "datecomputed":1899,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1899",
+    "medium":"Woodcut",
+    "dimensions":"block: 44 x 34.5 cm (17 5/16 x 13 9/16 in.)\r\nsheet: 54.9 x 49 cm (21 5/8 x 19 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. and Mrs. Albert L. Rosenthal",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":"Schiefler 124; Woll 116",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Old Sailor",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3921,
+            "displayname":"Edvard Munch",
+            "displaydate":"1863–1944; born Loten, Norway; died Oslo, Norway",
+            "datebegin":1863,
+            "dateend":1944,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edvard Munch, 1863–1944; born Loten, Norway; died Oslo, Norway",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":83576,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10279",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2022,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-436_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Gustav Schiefler, <EM>Verzeichnis der graphischen Werks Edvard Munchs</EM>&nbsp;(Oslo: J. W. Cappelen, 1974).",
+            "citation":"Gustav Schiefler, <EM>Verzeichnis der graphischen Werks Edvard Munchs</EM>&nbsp;(Oslo: J. W. Cappelen, 1974)., no. 124, p. 101",
+            "date":1974,
+            "id":6436,
+            "uri":"http://www.worldcat.org/oclc/28792066"
+        },
+        {
+            "boilertext":"Gerd Woll, <EM>Edvard Munch: the Complete Graphic Works</EM> (New York: harry N. Abrams, in association with the Munch-Musset, Oslo, 2001).",
+            "citation":"Gerd Woll, <EM>Edvard Munch: the Complete Graphic Works</EM> (New York: harry N. Abrams, in association with the Munch-Musset, Oslo, 2001)., no. 116",
+            "date":2001,
+            "id":6437,
+            "uri":"http://www.worldcat.org/oclc/46937502"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 72 (illus.), p. 75",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Norway",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Norway",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3144096/kingdom-of-norway.html",
+            "location":{
+                "lat":"62",
+                "lon":"10"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031665,
+            "term":"Norwegian",
+            "aatid":300111201,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2091924,
+            "term":"fishermen (people)",
+            "aatid":300025608,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031665,
+            "culture":"Norwegian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.90"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.50"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10279"
+    ],
+    "displaymaker":"Edvard Munch, 1863–1944; born Loten, Norway; died Oslo, Norway",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edvard Munch (1863–1944; born Loten, Norway; died Oslo, Norway), The Old Sailor, 1899. Woodcut; 44 x 34.5 cm (block), 54.9 x 49 cm (sheet). Gift of Dr. and Mrs. Albert L. Rosenthal (2000-436)",
+    "captionhtml":"Edvard Munch (1863–1944; born Loten, Norway; died Oslo, Norway), <i>The Old Sailor</i>, 1899. Woodcut; 44 x 34.5 cm (block), 54.9 x 49 cm (sheet). Gift of Dr. and Mrs. Albert L. Rosenthal (2000-436)",
+    "published_date":"2025-10-16 14:04:24.509699",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

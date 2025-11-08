@@ -1,0 +1,280 @@
+{
+    "type":"artobject",
+    "objectid":27354,
+    "objectnumber":"y1955-3275",
+    "sortnumber":"1955 3275y",
+    "displaytitle":"Birds and Lotus",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1400,
+    "dateend":1499,
+    "datecomputed":1450,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 15th century",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 115 x 47.2 cm. (45 1/4 x 18 9/16 in.)\r\nMount: 209 x 60.7 cm. (82 5/16 x 23 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John M. Crawford Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1955-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Birds and Lotus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2467,
+            "displayname":"Soga Jasoku 曽我蛇足",
+            "displaydate":"died 1483",
+            "datebegin":1400,
+            "dateend":1483,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Soga Jasoku 曽我蛇足, attributed to, died 1483",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":13145,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3275_GS",
+            "isprimary":1,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":61847,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08500",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University </i>15, no. 1 (1956): p. 26-27.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University </i>15, no. 1 (1956): p. 26-27., p. 26",
+            "date":1956,
+            "id":1832,
+            "uri":"https://www.jstor.org/stable/i291443"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119808,
+            "term":"bodies of water",
+            "aatid":300132296,
+            "termtype":"Subject"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2134003,
+            "term":"lotus",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033864,
+            "term":"Muromachi",
+            "aatid":300018561,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12585,
+            "period":"Muromachi period",
+            "alphasort":"Muromachi period",
+            "begindate":1333,
+            "enddate":1568,
+            "displayperiod":"Muromachi period, 1333–1568",
+            "displaydate":"1333–1568"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033864,
+            "period":"Muromachi"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"209.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"115.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"47.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3275_GS"
+    ],
+    "displaymaker":"Soga Jasoku 曽我蛇足, attributed to, died 1483",
+    "displayculture":"Japanese",
+    "displayperiod":"Muromachi period, 1333–1568",
+    "caption":"Japanese, Muromachi period (1333–1568), Soga Jasoku 曽我蛇足, attributed to (died 1483), Birds and Lotus, ca. 15th century. Hanging scroll; ink on paper; 115 x 47.2 cm (Painting). Gift of John M. Crawford Jr. (y1955-3275)",
+    "captionhtml":"Japanese, Muromachi period (1333–1568), Soga Jasoku 曽我蛇足, attributed to (died 1483), <i>Birds and Lotus</i>, ca. 15th century. Hanging scroll; ink on paper; 115 x 47.2 cm (Painting). Gift of John M. Crawford Jr. (y1955-3275)",
+    "published_date":"2025-10-16 13:03:30.682951",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

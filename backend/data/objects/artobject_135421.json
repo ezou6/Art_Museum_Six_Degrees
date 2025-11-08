@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":135421,
+    "objectnumber":"2019-26",
+    "sortnumber":"2019   26",
+    "displaytitle":"Wrapper",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1920,
+    "dateend":1929,
+    "datecomputed":1924,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1920s",
+    "medium":"Cotton and dye",
+    "dimensions":"195.6 × 127 cm (77 × 50 in.)\r\nwith fringe: 212.1 × 127 cm (83 1/2 × 50 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund, and anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wrapper",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15605,
+            "displayname":"Igbo",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Igbo artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Unidentified family, presumably by purchase during 1920s colonial service; [Private collection, Edinburgh, Scotland]; [Adire African Textiles, London, UK, by purchase, 2018]; Princeton University Art Museum, by purchase from the above, 2019</p>",
+            "remarks":"See Provenance Notes for additional, private information. Perrin Lathrop 11/6/2023"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"By the age of twelve, virtually all girls in Akwete, a town on the southern edge of the Igbo speaking area in Nigeria, make the weavings for which the town is famous. Woven on the widest variant of an upright loom and traditionally worn by women on ceremonial occasions, two identically patterned <em>Akwete</em> cloths are “tied,” one at the waist and the other under the arms in a form of dress known as “Up and Down.” This custom continues today and has expanded to include wearing <em>Akwete</em> while attending church and at major Christian festivals.",
+            "remarks":"Women and the Arts of Africa "
+        }
+    ],
+    "media":[
+        {
+            "id":236198,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1713",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria, Akwete",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":"Akwete",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2350792/akwete.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042029,
+            "term":"Igbo",
+            "aatid":300016065,
+            "termtype":"Culture"
+        },
+        {
+            "id":2127412,
+            "term":"costume",
+            "aatid":300178802,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043611,
+            "term":"cotton (fiber)",
+            "aatid":300183670,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2127412,
+            "classification":"costume"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042029,
+            "culture":"Igbo"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"195.57"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"126.99"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"212.08"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"126.99"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":169344,
+            "name":"web_2019_African_women"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":181965,
+            "name":"web_2020_African"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1713"
+    ],
+    "displaymaker":"Igbo artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Igbo artist, Akwete, Nigeria, Western Africa, Wrapper, 1920s. Cotton and dye; 195.6 × 127 cm, 212.1 × 127 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund, and anonymous gift (2019-26)",
+    "captionhtml":"Igbo artist, Akwete, Nigeria, Western Africa, <i>Wrapper</i>, 1920s. Cotton and dye; 195.6 × 127 cm, 212.1 × 127 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund, and anonymous gift (2019-26)",
+    "published_date":"2025-10-25 02:00:43.954882",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

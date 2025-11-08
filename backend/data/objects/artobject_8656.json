@@ -1,0 +1,215 @@
+{
+    "type":"artobject",
+    "objectid":8656,
+    "objectnumber":"x1951-42",
+    "sortnumber":"1951   42x",
+    "displaytitle":"God the Father with Angels and Putti",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1550,
+    "dateend":1578,
+    "datecomputed":1564,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Pen and brown ink with brush and brown wash over traces of black chalk, squared in red chalk, on light tan laid paper",
+    "dimensions":"15.5 x 20.9 cm. (6 1/8 x 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"Inscribed recto, lower left, in black ink: 76; inscribed recto, lower left, in black in image: G. Ran?; inscribed verso, lower right, in graphite: Fico Zuccari; inscribed verso, lower left, in graphite: 14; inscribed verso, upper right, in red pencil: 111",
+    "signed":null,
+    "catalograisonne":"G. 737",
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1951-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"God the Father with Angels and Putti",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13442,
+            "displayname":"Roman",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"formerly late 16th century",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly late 16th century Roman",
+            "displayorder":2
+        },
+        {
+            "id":16011,
+            "displayname":"Raffaellino da Reggio",
+            "displaydate":"1550-1578",
+            "datebegin":1550,
+            "dateend":1578,
+            "prefix":"Circle of",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Circle of Raffaellino da Reggio, 1550-1578",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Frank Jewtt Mather, Jr. (Lugt supp. 1853a) lower right",
+            "remarks":"from Bib 4362"
+        }
+    ],
+    "media":[
+        {
+            "id":14072,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1951-42_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":23053,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1951-42",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977).",
+            "citation":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977)., Vol. 1: p. 231, no. 737 (illustrated in Vol. 2 under the same catalog number)",
+            "date":1977,
+            "id":263,
+            "uri":"http://www.worldcat.org/oclc/2136968"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23., p. 23",
+            "date":1951,
+            "id":862,
+            "uri":"https://www.jstor.org/stable/3774224"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051723,
+            "term":"religious visual works",
+            "aatid":300234093,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159231,
+            "term":"putti",
+            "aatid":300250465,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159625,
+            "term":"frames (ornament areas)",
+            "aatid":300257245,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171831,
+            "term":"angels",
+            "aatid":null,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1951-42"
+    ],
+    "displaymaker":"Circle of Raffaellino da Reggio, 1550-1578 | formerly late 16th century Roman",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Circle of Raffaellino da Reggio (1550-1578), formerly late 16th century Roman, God the Father with Angels and Putti. Pen and brown ink with brush and brown wash over traces of black chalk, squared in red chalk, on light tan laid paper; 15.5 × 20.9 cm. Gift of Frank Jewett Mather Jr. (x1951-42)",
+    "captionhtml":"Circle of Raffaellino da Reggio (1550-1578), formerly late 16th century Roman, <i>God the Father with Angels and Putti</i>. Pen and brown ink with brush and brown wash over traces of black chalk, squared in red chalk, on light tan laid paper; 15.5 × 20.9 cm. Gift of Frank Jewett Mather Jr. (x1951-42)",
+    "published_date":"2025-10-23 16:50:52.480997",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

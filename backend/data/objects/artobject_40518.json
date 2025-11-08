@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":40518,
+    "objectnumber":"2001-261",
+    "sortnumber":"2001  261",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 25.6 x 21.8 cm (10 1/16 x 8 9/16 in.)\r\nsheet: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Signed in pencil, verso lower right corner: Gerald Slota 2001",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1309,
+            "displayname":"Gerald Slota",
+            "displaydate":"American, born 1965",
+            "datebegin":1965,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gerald Slota, American, born 1965",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85729,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12175",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 129",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12175"
+    ],
+    "displaymaker":"Gerald Slota, American, born 1965",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gerald Slota (American, born 1965), Untitled, 2001. Gelatin silver print; 25.6 x 21.8 cm (image), 35.4 x 27.7 cm (sheet). Museum purchase, anonymous gift (2001-261)",
+    "captionhtml":"Gerald Slota (American, born 1965), <i>Untitled</i>, 2001. Gelatin silver print; 25.6 x 21.8 cm (image), 35.4 x 27.7 cm (sheet). Museum purchase, anonymous gift (2001-261)",
+    "published_date":"2025-10-16 14:10:32.460159",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

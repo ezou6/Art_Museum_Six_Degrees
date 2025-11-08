@@ -1,0 +1,282 @@
+{
+    "type":"artobject",
+    "objectid":55171,
+    "objectnumber":"2007-161",
+    "sortnumber":"2007  161",
+    "displaytitle":"Marché aux légumes à Pontoise (Vegetable Market at Pontoise)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1891,
+    "dateend":1891,
+    "datecomputed":1891,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1891",
+    "medium":"Etching and drypoint",
+    "dimensions":"plate: 25.5 x 20 cm. (10 1/16 x 7 7/8 in.)\r\nsheet: 31.6 x 23.9 cm. (12 7/16 x 9 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":"Inscribed in graphite, lower left to center: LD 017 11//11 Marche aux Ligumex à Pontoise, 1891\r\n\r\nInscribed in ink, lower right corner: VSSX.\r\n",
+    "signed":null,
+    "catalograisonne":"Delteil 97",
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Marché aux légumes à Pontoise (Vegetable Market at Pontoise)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3054,
+            "displayname":"Camille Pissarro",
+            "displaydate":"1830–1903; born Charlotte Amalie, St. Thomas, US Virgin Islands, died Paris, France",
+            "datebegin":1830,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Camille Pissarro, 1830–1903; born Charlotte Amalie, St. Thomas, US Virgin Islands, died Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":20597,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-161",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":40735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-161_1",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Cora Michael, \"Utopian Views of Rural Life in Prints by Camille Pissarro at the Princeton University Art Museum,\"&nbsp;<EM>Record of the Princeton University Art Museum</EM> 68 (2009): 38–45.",
+            "citation":"Cora Michael, \"Utopian Views of Rural Life in Prints by Camille Pissarro at the Princeton University Art Museum,\"&nbsp;<EM>Record of the Princeton University Art Museum</EM> 68 (2009): 38–45., p. 38, fig. 1",
+            "date":2009,
+            "id":2990,
+            "uri":"https://www.jstor.org/stable/25747106"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 105",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3017382/republic-of-france.html",
+            "location":{
+                "lat":"46",
+                "lon":"2"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2079195,
+            "term":"markets (buildings)",
+            "aatid":300005238,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2170598,
+            "term":"food",
+            "aatid":300254496,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054535,
+            "term":"drypoints",
+            "aatid":300041349,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054535,
+            "classification":"drypoints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.90"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2007-161_1"
+    ],
+    "displaymaker":"Camille Pissarro, 1830–1903; born Charlotte Amalie, St. Thomas, US Virgin Islands, died Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Camille Pissarro (1830–1903; born Charlotte Amalie, St. Thomas, US Virgin Islands, died Paris, France), Marché aux légumes à Pontoise (Vegetable Market at Pontoise), 1891. Etching and drypoint; 25.5 x 20 cm (plate), 31.6 x 23.9 cm (sheet). Museum purchase, Felton Gibbons Fund (2007-161)",
+    "captionhtml":"Camille Pissarro (1830–1903; born Charlotte Amalie, St. Thomas, US Virgin Islands, died Paris, France), <i>Marché aux légumes à Pontoise (Vegetable Market at Pontoise)</i>, 1891. Etching and drypoint; 25.5 x 20 cm (plate), 31.6 x 23.9 cm (sheet). Museum purchase, Felton Gibbons Fund (2007-161)",
+    "published_date":"2025-10-16 15:24:02.732805",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":40092,
+    "objectnumber":"2001-72",
+    "sortnumber":"2001   72",
+    "displaytitle":"Simbiosis (Symbiosis)",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1996,
+    "dateend":1996,
+    "datecomputed":1996,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1996",
+    "medium":"Oil on pressed wood panel",
+    "dimensions":"64 × 53.4 cm (25 3/16 × 21 in.)\r\nframe: 80.6 × 69.8 × 6.4 cm (31 3/4 × 27 1/2 × 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in black ink, verso: \"Simbiosis\" Gerzso IV. 92  II. 96",
+    "signed":"Signed and dated in black ink, lower right: Gerzso | 96",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Gunther Gerzso",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":1331,
+            "displayname":"Gunther Gerzso",
+            "displaydate":"Mexican, 1915–2000",
+            "datebegin":1915,
+            "dateend":2000,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gunther Gerzso, Mexican, 1915–2000",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Gerszo’s architectonic abstract paintings reflect myriad sources, including the bold sculptural style of the modernist architect Le Corbusier, which Gerzso absorbed during his formative years in Switzerland. He integrated bright colors and motifs reminiscent of those found in the art of&nbsp;the ancient Americas with Surrealist compositional elements, such as the geometric planes seen here that take on the appearance of an uncanny landscape.",
+            "remarks":"PBL Rotation January 2020"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Latin American Masters, Santa Monica, CA by 2000; sold to David L. Meginnity, Class of 1958; by bequest in 2001 to the Princeton University Art Museum.",
+            "remarks":"From acquisition file for Meginnity Bequest, PUAM Registrar files."
+        }
+    ],
+    "media":[
+        {
+            "id":197101,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92573",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 102",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3530597/mexico-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"80.60"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"69.80"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206416,
+            "name":"image_descriptions_KG"
+        },
+        {
+            "packageid":270705,
+            "name":"Web_CA_2025_LatinAmerican"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV92573"
+    ],
+    "displaymaker":"Gunther Gerzso, Mexican, 1915–2000",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gunther Gerzso (Mexican, 1915–2000), Simbiosis (Symbiosis), 1996. Oil on pressed wood panel; 64 × 53.4 cm, 80.6 × 69.8 × 6.4 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-72)",
+    "captionhtml":"Gunther Gerzso (Mexican, 1915–2000), <i>Simbiosis (Symbiosis)</i>, 1996. Oil on pressed wood panel; 64 × 53.4 cm, 80.6 × 69.8 × 6.4 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-72)",
+    "published_date":"2025-10-16 14:09:01.905482",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

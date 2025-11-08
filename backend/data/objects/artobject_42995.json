@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":42995,
+    "objectnumber":"2006-20",
+    "sortnumber":"2006   20",
+    "displaytitle":"The Embankment",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1892,
+    "dateend":1892,
+    "datecomputed":1892,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1892",
+    "medium":"Lithograph on light gray chine vollant paper",
+    "dimensions":"image: 24.8 x 16.7 cm. (9 3/4 x 6 9/16 in.)\r\nsheet: 47.3 x 29.2 cm. (18 5/8 x 11 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":"Signed and inscribed in plate, lower left corner: F Buhot / Inven 1892",
+    "signed":null,
+    "catalograisonne":"Boucard 183",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Embankment",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6180,
+            "displayname":"Félix Hilaire Buhot",
+            "displaydate":"1847–1898; born Valognes, France; died Paris, France",
+            "datebegin":1847,
+            "dateend":1898,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Félix Hilaire Buhot, 1847–1898; born Valognes, France; died Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":97527,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23112",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Gustave Bourcard, <EM>Félix Buhot, catalogue descriptif de son oeuvre gravé</EM> (Paris: H. Floury, 1899)",
+            "citation":"Gustave Bourcard, <EM>Félix Buhot, catalogue descriptif de son oeuvre gravé</EM> (Paris: H. Floury, 1899), no. 183",
+            "date":1899,
+            "id":6077,
+            "uri":"http://www.worldcat.org/oclc/5675971"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 49",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, London, Houses of Parliament",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":"Houses of Parliament",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6930645/parliament.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171378,
+            "term":"roads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101520,
+            "term":"carriages",
+            "aatid":300185335,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23112"
+    ],
+    "displaymaker":"Félix Hilaire Buhot, 1847–1898; born Valognes, France; died Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Félix Hilaire Buhot (1847–1898; born Valognes, France; died Paris, France), The Embankment, 1892. Lithograph on light gray chine vollant paper; 24.8 x 16.7 cm (image), 47.3 x 29.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2006-20)",
+    "captionhtml":"Félix Hilaire Buhot (1847–1898; born Valognes, France; died Paris, France), <i>The Embankment</i>, 1892. Lithograph on light gray chine vollant paper; 24.8 x 16.7 cm (image), 47.3 x 29.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2006-20)",
+    "published_date":"2025-10-16 14:22:29.377627",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

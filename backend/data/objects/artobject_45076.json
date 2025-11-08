@@ -1,0 +1,201 @@
+{
+    "type":"artobject",
+    "objectid":45076,
+    "objectnumber":"PP112",
+    "sortnumber":"P       112P",
+    "displaytitle":"Henry Lane Eno (1871-1928)",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1891,
+    "dateend":1934,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"sight: 125 x 79.5 cm (49 3/16 x 31 5/16 in.)\r\nframe: 154.9 x 109.2 cm (61 x 43 x 3 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Mrs. Rupert Mitford (widow of subject)",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Henry Lane Eno (1871-1928)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":9820,
+            "displayname":"Unknown",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Unknown",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":192585,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU01363",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947).",
+            "citation":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947)., fig. 112; p. 165-166",
+            "date":1947,
+            "id":475,
+            "uri":"http://www.worldcat.org/oclc/740984936"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"125.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"109.22"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"154.94"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU01363"
+    ],
+    "displaymaker":"Unknown",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown, Henry Lane Eno (1871-1928). Oil on canvas; 125 x 79.5 cm (sight), 61 x 43 in (frame). Princeton University, gift of Mrs. Rupert Mitford (widow of subject) (PP112)",
+    "captionhtml":"Unknown, <i>Henry Lane Eno (1871-1928)</i>. Oil on canvas; 125 x 79.5 cm (sight), 61 x 43 in (frame). Princeton University, gift of Mrs. Rupert Mitford (widow of subject) (PP112)",
+    "published_date":"2025-10-16 14:27:26.414819",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

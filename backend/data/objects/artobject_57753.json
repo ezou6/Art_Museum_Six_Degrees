@@ -1,0 +1,268 @@
+{
+    "type":"artobject",
+    "objectid":57753,
+    "objectnumber":"PP641",
+    "sortnumber":"P       641P",
+    "displaytitle":"Stone Mancala Table",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":2006,
+    "dateend":2006,
+    "datecomputed":2006,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2006",
+    "medium":"Concrete, Indiana limestone, White cedar",
+    "dimensions":"96.5 x 444.5 x 290.8 cm (38 x 175 x 114 1/2 in.)\r\nSupporting concret pad: 330.2 x 294.6 cm (130 x 116 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Kate Graves, George Scherer, and David Robinson",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stone Mancala Table",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15450,
+            "displayname":"Kate Graves",
+            "displaydate":"American, born 1970",
+            "datebegin":1970,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kate Graves, American, born 1970",
+            "displayorder":1
+        },
+        {
+            "id":15489,
+            "displayname":"George Scherer",
+            "displaydate":"American, born 1949",
+            "datebegin":1949,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Scherer, American, born 1949",
+            "displayorder":2
+        },
+        {
+            "id":18269,
+            "displayname":"David Robinson",
+            "displaydate":"American, born 1953",
+            "datebegin":1953,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David Robinson, American, born 1953",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<EM>Stone Mancala Table</EM> was first installed in Quark Park, a 2006 science-themed sculpture park in Princeton that was a collaboration among artists, scientists, and landscape architects. For the park, sculptor Kate Graves created this work in response to Professor George W. Scherer’s research into coatings for stone—developed to prevent internal pressure caused by salt crystallization, which leads to delamination or disaggregation over time. Graves carved an African board game, mancala, into a tabletop that spanned two legs, which were submerged in a salt solution; only one leg was treated with a protective coating. The original limestone legs wicked the water and salt thoroughly, efflorescing visibly in the uncoated areas. The game kept people seated at the site, allowing the process of entropy to be more fully considered. Both legs have been replaced for this installation, reversing the original concept of engineered destruction.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":147530,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00292",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":147531,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00291",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":147533,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00290",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160948,
+            "term":"concrete",
+            "aatid":300010737,
+            "termtype":"Subject"
+        },
+        {
+            "id":2163916,
+            "term":"limestone",
+            "aatid":300011286,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2047261,
+            "term":"cedar",
+            "aatid":300012514,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160948,
+            "term":"concrete",
+            "aatid":300010737,
+            "termtype":"Materials"
+        },
+        {
+            "id":2047261,
+            "term":"cedar",
+            "aatid":300012514,
+            "termtype":"Materials"
+        },
+        {
+            "id":2163916,
+            "term":"limestone",
+            "aatid":300011286,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"base",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"330.20"
+        },
+        {
+            "element":"base",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"294.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"96.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"444.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"290.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        },
+        {
+            "packageid":269977,
+            "name":"Web_CA_2025_PublicArt"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00292"
+    ],
+    "displaymaker":"Kate Graves, American, born 1970 | George Scherer, American, born 1949 | David Robinson, American, born 1953",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kate Graves (American, born 1970), George Scherer (American, born 1949), David Robinson (American, born 1953), Stone Mancala Table, 2006. Concrete, Indiana limestone, White cedar; 96.5 x 444.5 x 290.8 cm, 330.2 x 294.6 cm (base). Princeton University (PP641)",
+    "captionhtml":"Kate Graves (American, born 1970), George Scherer (American, born 1949), David Robinson (American, born 1953), <i>Stone Mancala Table</i>, 2006. Concrete, Indiana limestone, White cedar; 96.5 x 444.5 x 290.8 cm, 330.2 x 294.6 cm (base). Princeton University (PP641)",
+    "published_date":"2025-10-16 15:40:36.793271",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Social Sciences and Engineering Neighborhood",
+            "lat":"40.3506",
+            "lon":"-74.6521"
+        }
+    ],
+    "extended_content":false
+}

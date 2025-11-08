@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":62679,
+    "objectnumber":"ui.2011.82",
+    "sortnumber":"i      2011u   82",
+    "displaytitle":"Sample of partially worked argillite",
+    "department":"Art of the Ancient Americas",
+    "classification":"Tools / Equipment / Implements",
+    "datebegin":1700,
+    "dateend":1882,
+    "datecomputed":1791,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"before 1882",
+    "medium":"Argillite",
+    "dimensions":"7.1 × 12.9 × 1.6 cm (2 3/4 × 5 1/16 × 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sample of partially worked argillite",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to Princeton Theological Seminary, 1879-1882; Given to E. M. Museum (Princeton Museum of Natural History), 1882",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":224043,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_60261",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":224044,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_60263",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040056,
+            "term":"Haida",
+            "aatid":300017606,
+            "termtype":"Culture"
+        },
+        {
+            "id":2138871,
+            "term":"pipes",
+            "aatid":300248067,
+            "termtype":"Classification"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2138871,
+            "classification":"pipes"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14106,
+            "culture":"Haida",
+            "alphasort":"Haida",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haida",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040056,
+            "culture":"Haida"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.06"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.86"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.62"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":132030,
+            "name":"CRS_HaidaNaming"
+        },
+        {
+            "packageid":143766,
+            "name":"CRS_1HaidaFigures"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_60261"
+    ],
+    "displaymaker":null,
+    "displayculture":"Haida",
+    "displayperiod":null,
+    "caption":"Haida, before 1882, Alaska, United States, Northwest Coast, Sample of partially worked argillite. Argillite; 7.1 × 12.9 × 1.6 cm. Museum Collection (ui.2011.82)",
+    "captionhtml":"Haida, before 1882, Alaska, United States, Northwest Coast, <i>Sample of partially worked argillite</i>. Argillite; 7.1 × 12.9 × 1.6 cm. Museum Collection (ui.2011.82)",
+    "published_date":"2025-10-16 16:12:54.093461",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":36406,
+    "objectnumber":"1998-284.3",
+    "sortnumber":"1998  284     3",
+    "displaytitle":"Panama Hat with Bow Tie on a Chair",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1998,
+    "dateend":1998,
+    "datecomputed":1998,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1998",
+    "medium":"Hard- and soft-ground etching and aquatint on Somerset Satin White",
+    "dimensions":"plate: 61.3 x 39.7 cm (24 1/8 x 15 5/8 in.)\r\nsheet: 75.1 x 56.2 cm (29 9/16 x 22 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":"Signed and dated by the artist and numbered:  35//100 David Hockney 98",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© David Hockney",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Panama Hat with Bow Tie on a Chair",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5248,
+            "displayname":"David Hockney",
+            "displaydate":"born 1937, Bradford, England; active England, France, and California",
+            "datebegin":1937,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David Hockney, born 1937, Bradford, England; active England, France, and California",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":99233,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24614",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 99",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171229,
+            "term":"hard ground",
+            "aatid":300183810,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171241,
+            "term":"soft ground",
+            "aatid":300183909,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"56.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24614"
+    ],
+    "displaymaker":"David Hockney, born 1937, Bradford, England; active England, France, and California",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"David Hockney (born 1937, Bradford, England; active England, France, and California), Panama Hat with Bow Tie on a Chair, 1998. Hard- and soft-ground etching and aquatint on Somerset Satin White; 61.3 x 39.7 cm (plate), 75.1 x 56.2 cm (sheet). Museum purchase (1998-284.3)",
+    "captionhtml":"David Hockney (born 1937, Bradford, England; active England, France, and California), <i>Panama Hat with Bow Tie on a Chair</i>, 1998. Hard- and soft-ground etching and aquatint on Somerset Satin White; 61.3 x 39.7 cm (plate), 75.1 x 56.2 cm (sheet). Museum purchase (1998-284.3)",
+    "published_date":"2025-10-16 13:53:00.362444",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

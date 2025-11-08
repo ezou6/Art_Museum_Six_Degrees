@@ -1,0 +1,223 @@
+{
+    "type":"artobject",
+    "objectid":7441,
+    "objectnumber":"x1948-1813",
+    "sortnumber":"1948 1813x",
+    "displaytitle":"Under Green Apple Boughs",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1880,
+    "dateend":1880,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1880",
+    "medium":"Watercolor over graphite",
+    "dimensions":"16.7 x 35.6 cm (6 9/16 x 14 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated in watercolor, upper right: Theo. Robinson | 1880",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Under Green Apple Boughs",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3287,
+            "displayname":"Theodore Robinson",
+            "displaydate":"1852–1896; born Irasburg, VT; died New York, NY",
+            "datebegin":1852,
+            "dateend":1896,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Theodore Robinson, 1852–1896; born Irasburg, VT; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":158083,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00694",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976).",
+            "citation":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976)., p. 115, no. 115 (illus.)",
+            "date":1976,
+            "id":5635,
+            "uri":"http://www.worldcat.org/oclc/2681117"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 342, checklist no. 891 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":2314,
+            "citation":"American Drawings In The Art Museum, Princeton University (October 3, 1976 - November 28, 1976)\r\n",
+            "isvirtual":true,
+            "begindate":"1976-10-03",
+            "enddate":"1976-11-28",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/2314"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2131511,
+            "term":"sunbonnets",
+            "aatid":300210803,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171782,
+            "term":"apple trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00694"
+    ],
+    "displaymaker":"Theodore Robinson, 1852–1896; born Irasburg, VT; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Theodore Robinson (1852–1896; born Irasburg, VT; died New York, NY), Under Green Apple Boughs, 1880. Watercolor over graphite; 16.7 x 35.6 cm. Gift of Frank Jewett Mather Jr. (x1948-1813)",
+    "captionhtml":"Theodore Robinson (1852–1896; born Irasburg, VT; died New York, NY), <i>Under Green Apple Boughs</i>, 1880. Watercolor over graphite; 16.7 x 35.6 cm. Gift of Frank Jewett Mather Jr. (x1948-1813)",
+    "published_date":"2025-10-16 10:57:21.799256",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

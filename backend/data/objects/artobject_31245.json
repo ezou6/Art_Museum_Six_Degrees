@@ -1,0 +1,257 @@
+{
+    "type":"artobject",
+    "objectid":31245,
+    "objectnumber":"y1968-550",
+    "sortnumber":"1968  550y",
+    "displaytitle":"Two Birds",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1939,
+    "dateend":1939,
+    "datecomputed":1939,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1939",
+    "medium":"Hanging scroll; ink and color on paper",
+    "dimensions":"Painting: 119.2 x 53.6 cm. (46 15/16 x 21 1/8 in.)\r\nMount: 228 x 63.8 cm. (89 3/4 x 25 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection",
+    "markings":null,
+    "inscribed":"dated 1939",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two Birds",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2071,
+            "displayname":"Wu Kung-hu",
+            "displaydate":"born 1905",
+            "datebegin":1905,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wu Kung-hu, born 1905",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66377,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-550",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61785,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08311",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"The Carl Otto von Kienbusch, Jr., Memorial Collection,\" <em>Record of the Art Museum, Princeton University</em>, vol. 36, no. 2 (1977): p. 24-32.",
+            "citation":"\"The Carl Otto von Kienbusch, Jr., Memorial Collection,\" <em>Record of the Art Museum, Princeton University</em>, vol. 36, no. 2 (1977): p. 24-32., p. 27",
+            "date":1977,
+            "id":7732,
+            "uri":"https://www.jstor.org/stable/3774527"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171695,
+            "term":"willow trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"228.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"119.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"53.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-550"
+    ],
+    "displaymaker":"Wu Kung-hu, born 1905",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Wu Kung-hu (born 1905), Two Birds, 1939. Hanging scroll; ink and color on paper; 119.2 x 53.6 cm (Painting), 228 x 63.8 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection (y1968-550)",
+    "captionhtml":"Chinese, Modern period (1912–present), Wu Kung-hu (born 1905), <i>Two Birds</i>, 1939. Hanging scroll; ink and color on paper; 119.2 x 53.6 cm (Painting), 228 x 63.8 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906, for the Carl Otto von Kienbusch Jr., Memorial Collection (y1968-550)",
+    "published_date":"2025-10-16 13:23:22.185872",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

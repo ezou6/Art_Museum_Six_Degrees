@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":16350,
+    "objectnumber":"x1985-55",
+    "sortnumber":"1985   55x",
+    "displaytitle":"Krishna and Radha",
+    "department":"Asian Art",
+    "classification":"Manuscripts",
+    "datebegin":1799,
+    "dateend":1899,
+    "datecomputed":1849,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"19th century",
+    "medium":"Opaque watercolor on paper",
+    "dimensions":"18.9 × 13.3 cm (7 7/16 × 5 1/4 in.)\r\nmount: 22.7 × 17.3 cm (8 15/16 × 6 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Michael H. Strater, Class of 1951",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1985-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Krishna and Radha",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Kangra painting, named after the princely court of Kangra located in northern India, flourished from the late seventeenth to the nineteenth century. These paintings often focus on romantic themes, especially the famed union of Krishna and Radha, the protagonists here. Kangra artists were particularly attentive to the depiction of foliage and took a distinctive approach to figural painting that emphasized dancelike poses. Intending to heighten the figure’s beauty, Kangra artists developed a characteristically elongated almond shape to depict eyes.\n",
+            "remarks":"ASIA4_16-T3B-5_CLA  – Day 1 Cataloguing"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Michael H. Strater, Class of 1951 (1896–1987); bequeathed to the Princeton University Art Museum, 1985.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":115519,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV37986",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, India",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"India",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1269750/republic-of-india.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        },
+        {
+            "id":2034354,
+            "term":"Indian",
+            "aatid":300018863,
+            "termtype":"Culture"
+        },
+        {
+            "id":2034619,
+            "term":"Kangra",
+            "aatid":300019012,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2029911,
+            "term":"Manuscript",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13817,
+            "culture":"Indian",
+            "alphasort":"Indian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Indian, Kangra School",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2034354,
+            "culture":"Indian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2034619,
+            "period":"Kangra"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.70"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":214207,
+            "name":"Gallery_16-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV37986"
+    ],
+    "displaymaker":null,
+    "displayculture":"Indian, Kangra School",
+    "displayperiod":null,
+    "caption":"Indian, Kangra School, Krishna and Radha, 19th century. Opaque watercolor on paper; 18.9 × 13.3 cm. Bequest of Michael H. Strater, Class of 1951 (x1985-55)",
+    "captionhtml":"Indian, Kangra School, <i>Krishna and Radha</i>, 19th century. Opaque watercolor on paper; 18.9 × 13.3 cm. Bequest of Michael H. Strater, Class of 1951 (x1985-55)",
+    "published_date":"2025-10-23 16:57:38.393827",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

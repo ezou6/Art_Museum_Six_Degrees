@@ -1,0 +1,282 @@
+{
+    "type":"artobject",
+    "objectid":21701,
+    "objectnumber":"y1940-7",
+    "sortnumber":"1940    7y",
+    "displaytitle":"One-handled jug",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1600,
+    "dateend":-1400,
+    "datecomputed":-1500,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1600–1400 BCE",
+    "medium":"White-slip I ware: ceramic",
+    "dimensions":"h. 16.5 cm, diam. 9.0 cm (6 1/2 x 3 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"[Museum purchase]",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"One-handled jug",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from the Cesnola Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":32270,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44355",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":32271,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44356",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Europe, Cyprus",
+            "code":"Place excavated",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.003_32.988.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037278,
+            "term":"Late Cypriote",
+            "aatid":300107602,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037305,
+            "term":"white slip (pottery style)",
+            "aatid":300107622,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159254,
+            "term":"lozenges",
+            "aatid":300009791,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073254,
+            "term":"jugs",
+            "aatid":300045685,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073254,
+            "classification":"jugs"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":23919,
+            "period":"Late Bronze Age",
+            "alphasort":"Late Bronze Age",
+            "begindate":-1600,
+            "enddate":-1050,
+            "displayperiod":"Late Bronze Age, ca. 1600–1050 BCE",
+            "displaydate":"ca. 1600–1050 BCE"
+        },
+        {
+            "id":23987,
+            "period":"Cypriot I",
+            "alphasort":"Cypriot I",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Cypriot I",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037278,
+            "period":"Late Cypriote"
+        },
+        {
+            "id":2037305,
+            "period":"white slip (pottery style)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"9.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44356"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Late Bronze Age, ca. 1600–1050 BCE | Cypriot I",
+    "caption":"Cypriote, Late Bronze Age (ca. 1600–1050 BCE), Cypriot I, Cyprus, ca. 1600–1400 BCE, One-handled jug. White-slip I ware: ceramic; 16.5 x 9 cm. [Museum purchase] (y1940-7)",
+    "captionhtml":"Cypriote, Late Bronze Age (ca. 1600–1050 BCE), Cypriot I, Cyprus, ca. 1600–1400 BCE, <i>One-handled jug</i>. White-slip I ware: ceramic; 16.5 x 9 cm. [Museum purchase] (y1940-7)",
+    "published_date":"2025-10-16 12:41:38.450810",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

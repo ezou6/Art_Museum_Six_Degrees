@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":21328,
+    "objectnumber":"y1939-112",
+    "sortnumber":"1939  112y",
+    "displaytitle":"Oenochoe",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-350,
+    "dateend":-250,
+    "datecomputed":-300,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 300 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 17.0 cm, diam. 11.5 cm (6 11/16 x 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1939-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oenochoe",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Possibly from the Cesnola Collection; entered into the Museum's collection in 1939.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":32279,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44384",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":32281,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44386",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Cyprus",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Cyprus",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.003_32.988.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159265,
+            "term":"trefoils",
+            "aatid":300009786,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073385,
+            "term":"oinochoai",
+            "aatid":300198866,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073385,
+            "classification":"oinochoai"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":12597,
+            "period":"Iron Age",
+            "alphasort":"Iron Age",
+            "begindate":-1100,
+            "enddate":100,
+            "displayperiod":"Iron Age, 1100 BCE - 100 CE",
+            "displaydate":"1100 BCE - 100 CE"
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"11.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44384"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Iron Age, 1100 BCE - 100 CE",
+    "caption":"Cypriote, Iron Age (1100 BCE - 100 CE), Cyprus, ca. 300 BCE, Oenochoe. Ceramic; 17 x 11.5 cm. Museum Collection (y1939-112)",
+    "captionhtml":"Cypriote, Iron Age (1100 BCE - 100 CE), Cyprus, ca. 300 BCE, <i>Oenochoe</i>. Ceramic; 17 x 11.5 cm. Museum Collection (y1939-112)",
+    "published_date":"2025-10-16 12:39:44.278829",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

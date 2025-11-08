@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":34139,
+    "objectnumber":"y216",
+    "sortnumber":"216     y",
+    "displaytitle":"Kohl tube",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":200,
+    "dateend":399,
+    "datecomputed":300,
+    "daterange":"A.D. 1-500",
+    "displaydate":"probably 3rd–4th century CE",
+    "medium":"Transparent light bluish glass; some impurities",
+    "dimensions":"h. 11.5 cm, diam. rim 3.9 cm, diam. base 2.5 cm (4 1/2 x 1 9/16 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W.L. Bogert, Class of 1912",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Kohl tube",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"In-folded flaring rim; cylindrical neck, widening gradually into a cylindrical body, which contracts slightly above the bottom, then widens. Slightly concave bottom. Two coil handles from neck to rim.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22679,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/216d",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22681,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/216c",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22682,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/216a",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22683,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/216b",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":74497,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y217_",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 445 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Levant",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Levant",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34_36.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2199040,
+            "term":"cosmetic tubes",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036755,
+            "term":"Late Antique",
+            "aatid":300020666,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2199040,
+            "classification":"cosmetic tubes"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Roman Imperial to Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        },
+        {
+            "id":2036755,
+            "period":"Late Antique"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"3.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"2.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y217_"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Roman Imperial to Late Antiquity, ca. 476–700 CE",
+    "caption":"Roman, Roman Imperial to Late Antiquity (ca. 476–700 CE), Levant, probably 3rd–4th century CE, Kohl tube. Transparent light bluish glass; some impurities; 11.5 x 3.9 x 2.5 cm. Gift of W.L. Bogert, Class of 1912 (y216)",
+    "captionhtml":"Roman, Roman Imperial to Late Antiquity (ca. 476–700 CE), Levant, probably 3rd–4th century CE, <i>Kohl tube</i>. Transparent light bluish glass; some impurities; 11.5 x 3.9 x 2.5 cm. Gift of W.L. Bogert, Class of 1912 (y216)",
+    "published_date":"2025-10-18 02:04:05.519999",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":33662,
+    "objectnumber":"y1993-67",
+    "sortnumber":"1993   67y",
+    "displaytitle":"Fragment of a tunic with two columns of tapestry-woven designs",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":600,
+    "dateend":900,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"ca. 600–900",
+    "medium":"Camelid fiber and cotton",
+    "dimensions":"h. 45.8 cm., w. 37.6 cm. (18 1/16 x 14 13/16 in.)\r\nmount: h. 53.4 cm., w. 45.3 cm. (21 x 17 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragment of a tunic with two columns of tapestry-woven designs",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":45872,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010902",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 89",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2128089,
+            "term":"shirts",
+            "aatid":300212499,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039435,
+            "term":"Huari",
+            "aatid":300017283,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2128089,
+            "classification":"shirts"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13511,
+            "culture":"Wari",
+            "alphasort":"Wari",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Wari",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039435,
+            "culture":"Huari"
+        }
+    ],
+    "periods":[
+        {
+            "id":13507,
+            "period":"Middle Horizon Period",
+            "alphasort":"Horizon, Middle",
+            "begindate":550,
+            "enddate":1000,
+            "displayperiod":"Middle Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.40"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        },
+        {
+            "packageid":129407,
+            "name":"CRS_ART103_2018_week6"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010902"
+    ],
+    "displaymaker":null,
+    "displayculture":"Wari",
+    "displayperiod":"Middle Horizon Period",
+    "caption":"Wari, Middle Horizon Period, ca. 600–900, Peru, Andes, Fragment of a tunic with two columns of tapestry-woven designs. Camelid fiber and cotton; 45.8 x 37.6 cm. Gift of Gillett G. Griffin (y1993-67)",
+    "captionhtml":"Wari, Middle Horizon Period, ca. 600–900, Peru, Andes, <i>Fragment of a tunic with two columns of tapestry-woven designs</i>. Camelid fiber and cotton; 45.8 x 37.6 cm. Gift of Gillett G. Griffin (y1993-67)",
+    "published_date":"2025-10-16 13:37:05.744124",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

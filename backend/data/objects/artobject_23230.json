@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":23230,
+    "objectnumber":"y1947-2",
+    "sortnumber":"1947    2y",
+    "displaytitle":"White Eagle (Bai ying tu 白鷹圖)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1300,
+    "dateend":1399,
+    "datecomputed":1350,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"14th century",
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 140 x 69 cm. (55 1/8 x 27 3/16 in.)\r\nMount: 278.5 x 86.4 cm. (109 5/8 x 34 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"seal\r\nEight characters in ink on label adhered to outside of silk bag\r\nSix characters in red ink on circular tag attached to silk bag\r\nEight characters in ink on label adhered to edge of scroll",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"photo: Masatsugu Nokubo",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"White Eagle (Bai ying tu 白鷹圖)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":53606,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-2",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"University of Tokyo imaging project"
+        },
+        {
+            "id":61062,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07955",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":61063,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07956",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133994,
+            "term":"eagles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        },
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"278.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"86.40"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"140.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"69.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-2"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368 | Ming dynasty, 1368–1644",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Ming dynasty (1368–1644), Anonymous, White Eagle (Bai ying tu 白鷹圖), 14th century. Hanging scroll; colors on silk; 140 x 69 cm (Painting), 278.5 x 86.4 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-2)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Ming dynasty (1368–1644), Anonymous, <i>White Eagle (Bai ying tu 白鷹圖)</i>, 14th century. Hanging scroll; colors on silk; 140 x 69 cm (Painting), 278.5 x 86.4 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-2)",
+    "published_date":"2025-10-16 12:51:44.522530",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,292 @@
+{
+    "type":"artobject",
+    "objectid":36710,
+    "objectnumber":"1998-645",
+    "sortnumber":"1998  645",
+    "displaytitle":"Necklace",
+    "department":"African and Oceanic Art",
+    "classification":"Ornament",
+    "datebegin":1900,
+    "dateend":1998,
+    "datecomputed":1949,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Brass and cotton",
+    "dimensions":"l. 93 cm. (36 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Necklace",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13992,
+            "displayname":"Baule",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"possibly",
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"possibly Baule artist",
+            "displayorder":2
+        },
+        {
+            "id":15594,
+            "displayname":"Akan",
+            "displaydate":null,
+            "datebegin":1400,
+            "dateend":0,
+            "prefix":"possibly",
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"possibly Akan artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1989; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43454,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008705",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1851,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-645_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 62",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 77",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Ghana",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Ghana",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2300660/republic-of-ghana.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Africa, Côte d’Ivoire",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Côte d’Ivoire",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2287781/republic-of-cote-d-ivoire.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2130588,
+            "term":"jewelry",
+            "aatid":300209286,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130736,
+            "term":"necklaces",
+            "aatid":300046001,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042070,
+            "term":"Akan",
+            "aatid":300016000,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042093,
+            "term":"Baulé",
+            "aatid":300016009,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185121,
+            "term":"Akan Art",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2152740,
+            "term":"casting (process)",
+            "aatid":300053104,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043611,
+            "term":"cotton (fiber)",
+            "aatid":300183670,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162050,
+            "term":"brass (alloy)",
+            "aatid":300010946,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130588,
+            "classification":"jewelry"
+        },
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        },
+        {
+            "id":2130736,
+            "classification":"necklaces"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042070,
+            "culture":"Akan"
+        },
+        {
+            "id":2042093,
+            "culture":"Baulé"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"93.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":13288,
+            "name":"web_Akan_Art_all"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008705"
+    ],
+    "displaymaker":"possibly Akan artist | possibly Baule artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Possibly Akan artist, possibly Baule artist, Ghana, Western Africa, Necklace, 20th century. Brass and cotton; 93 cm. Bequest of John B. Elliott, Class of 1951 (1998-645)",
+    "captionhtml":"Possibly Akan artist, possibly Baule artist, Ghana, Western Africa, <i>Necklace</i>, 20th century. Brass and cotton; 93 cm. Bequest of John B. Elliott, Class of 1951 (1998-645)",
+    "published_date":"2025-10-16 13:54:45.889422",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

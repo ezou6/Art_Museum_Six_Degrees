@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":49705,
+    "objectnumber":"2006-329 a-b",
+    "sortnumber":"2006  329 a    b",
+    "displaytitle":"Studio per 'Scastico in Controluce'",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1988,
+    "dateend":1988,
+    "datecomputed":1988,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1988",
+    "medium":"Two impressions of same plate: etching and aquatint",
+    "dimensions":"plate (a): 15.2 × 9.8 cm (6 × 3 7/8 in.)\r\nsheet (a): 25 × 17.3 cm (9 13/16 × 6 13/16 in.)\r\nplate (b): 15.2 × 9.8 cm (6 × 3 7/8 in.)\r\nsheet (b): 16 × 11.4 cm (6 5/16 × 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"A. Numbered, signed, and dated in graphite below plate, lower left to right: V / Sanjust ‘88\r\n\r\nB. Inscribed and signed in graphite in plate, lower left to right: P.A. / Sanjust\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":12785,
+            "displayname":"Luca Sanjust",
+            "displaydate":"Italian, born 1959",
+            "datebegin":1959,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Luca Sanjust, Italian, born 1959",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110837,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34053",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":110838,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34054",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 107",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3175395/repubblica-italiana.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051797,
+            "term":"studies (visual works)",
+            "aatid":300081053,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34053"
+    ],
+    "displaymaker":"Luca Sanjust, Italian, born 1959",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Luca Sanjust (Italian, born 1959), Studio per 'Scastico in Controluce', 1988. Two impressions of same plate: etching and aquatint; 15.2 × 9.8 cm (plate, a), 25 × 17.3 cm (sheet, a), 15.2 × 9.8 cm (plate, b), 16 × 11.4 cm (sheet, b). Gift of James Kraft, Class of 1957 (2006-329 a-b)",
+    "captionhtml":"Luca Sanjust (Italian, born 1959), <i>Studio per 'Scastico in Controluce'</i>, 1988. Two impressions of same plate: etching and aquatint; 15.2 × 9.8 cm (plate, a), 25 × 17.3 cm (sheet, a), 15.2 × 9.8 cm (plate, b), 16 × 11.4 cm (sheet, b). Gift of James Kraft, Class of 1957 (2006-329 a-b)",
+    "published_date":"2025-10-16 15:07:51.976619",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

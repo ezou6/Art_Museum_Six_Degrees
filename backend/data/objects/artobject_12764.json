@@ -1,0 +1,281 @@
+{
+    "type":"artobject",
+    "objectid":12764,
+    "objectnumber":"x1975-86",
+    "sortnumber":"1975   86x",
+    "displaytitle":"Papillon Rouge (Red Butterfly)",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1972,
+    "dateend":1972,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1972",
+    "medium":"Mezzotint; ink and color on BFK Rives paper",
+    "dimensions":"block: 5 x 5 cm. (1 15/16 x 1 15/16 in.)\r\nsheet: 25.2 x 21.5 cm (9 15/16 x 8 7/16 in.)\r\nmat: 49 x 36.3 cm. (19 5/16 x 14 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of William M. Milliken, Class of 1911",
+    "markings":null,
+    "inscribed":"Pencilled lower left corner, recto: 149\r\nWatermark at bottom of sheet: B F K RIVES / France",
+    "signed":"Signed in pencil below plate, lower left: Hamaguchi",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Papillon Rouge (Red Butterfly)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2088,
+            "displayname":"Hamaguchi Yōzō 浜口陽三",
+            "displaydate":"1909–2000; born Hirogawa, Japan; died Tokyo, Japan",
+            "datebegin":1909,
+            "dateend":2000,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hamaguchi Yōzō 浜口陽三, 1909–2000; born Hirogawa, Japan; died Tokyo, Japan",
+            "displayorder":1
+        },
+        {
+            "id":2136,
+            "displayname":"Atelier Georges Leblanc, Paris",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Atelier Georges Leblanc, Paris",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":58340,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03547",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31.",
+            "citation":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31., p. 26",
+            "date":1976,
+            "id":3366,
+            "uri":"https://www.jstor.org/stable/3774452"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158052,
+            "term":"butterflies",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033917,
+            "term":"Meiji",
+            "aatid":300018567,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033927,
+            "term":"Showa",
+            "aatid":300018568,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034112,
+            "term":"Japanese printmaking styles",
+            "aatid":300106750,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054726,
+            "term":"woodblock prints",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2043820,
+            "term":"paper",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2055845,
+            "term":"color",
+            "aatid":300056130,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2034112,
+            "classification":"japanese printmaking styles"
+        },
+        {
+            "id":2054726,
+            "classification":"woodblock prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2033917,
+            "period":"Meiji"
+        },
+        {
+            "id":2033927,
+            "period":"Showa"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.30"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03547"
+    ],
+    "displaymaker":"Hamaguchi Yōzō 浜口陽三, 1909–2000; born Hirogawa, Japan; died Tokyo, Japan | Printed by Atelier Georges Leblanc, Paris",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hamaguchi Yōzō 浜口陽三 (1909–2000; born Hirogawa, Japan; died Tokyo, Japan), Printed by Atelier Georges Leblanc, Paris, Papillon Rouge (Red Butterfly), 1972. Mezzotint; ink and color on BFK Rives paper; 5 x 5 cm (block), 25.2 x 21.5 cm (sheet), 49 x 36.3 cm (mat). Gift of William M. Milliken, Class of 1911 (x1975-86)",
+    "captionhtml":"Hamaguchi Yōzō 浜口陽三 (1909–2000; born Hirogawa, Japan; died Tokyo, Japan), Printed by Atelier Georges Leblanc, Paris, <i>Papillon Rouge (Red Butterfly)</i>, 1972. Mezzotint; ink and color on BFK Rives paper; 5 x 5 cm (block), 25.2 x 21.5 cm (sheet), 49 x 36.3 cm (mat). Gift of William M. Milliken, Class of 1911 (x1975-86)",
+    "published_date":"2025-10-16 11:44:06.355754",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

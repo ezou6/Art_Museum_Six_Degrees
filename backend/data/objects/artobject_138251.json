@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":138251,
+    "objectnumber":"2021-44",
+    "sortnumber":"2021   44",
+    "displaytitle":"Wrapper",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1900,
+    "dateend":1930,
+    "datecomputed":1915,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century (probably before 1930)",
+    "medium":"Cotton and dye",
+    "dimensions":"198.1 × 124.5 cm (78 × 49 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2021-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wrapper",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22183,
+            "displayname":"Mandyak",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Mandyak artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Private collection, Guinea Bissau, by late 1930s; Private collection, London, UK, by descent, before 2020; [Adire African Textiles, London, UK, by purchase from the above, 2020]; Princeton University Art Museum, by purchase from the above, 2021</p>",
+            "remarks":"See Provenance Notes for additional, private provenance information. -PL, 11/6/2023"
+        }
+    ],
+    "media":[
+        {
+            "id":236321,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1728",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022).",
+            "citation":"Duncan Clarke, Vanessa Drake Moraga, Sarah Fee, and MabatNgoup Ly Dumas, <EM>African Textiles</EM> (Abbeville Press Publishers: New York, 2022)., cat. no. 27, pp. 78-79",
+            "date":2022,
+            "id":9861,
+            "uri":"https://worldcat.org/en/title/1345518255"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Guinea-Bissau",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Guinea-Bissau",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127887,
+            "term":"wrappers (garments)",
+            "aatid":300216844,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2199267,
+            "term":"Mandyak",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043611,
+            "term":"cotton (fiber)",
+            "aatid":300183670,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2127887,
+            "classification":"wrappers (garments)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2199267,
+            "culture":"Mandyak"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"198.11"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"124.45"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216464,
+            "name":"image_descriptions_newacquisitions_2021"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_1728"
+    ],
+    "displaymaker":"Mandyak artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mandyak artist, Guinea-Bissau, Western Africa, Wrapper, early 20th century (probably before 1930). Cotton and dye; 198.1 × 124.5 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2021-44)",
+    "captionhtml":"Mandyak artist, Guinea-Bissau, Western Africa, <i>Wrapper</i>, early 20th century (probably before 1930). Cotton and dye; 198.1 × 124.5 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2021-44)",
+    "published_date":"2025-10-16 18:57:52.952136",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

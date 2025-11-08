@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":46022,
+    "objectnumber":"1995-67",
+    "sortnumber":"1995   67",
+    "displaytitle":"Profile",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1977,
+    "dateend":1987,
+    "datecomputed":1982,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1982",
+    "medium":"Oil on canvas",
+    "dimensions":"74 x 59.4 cm (29 1/8 x 23 3/8 in.)\r\nframe: 80.7 × 94.5 × 4.5 cm (31 3/4 × 37 3/16 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in black paint, lower left: RAFAEL CORONEL.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Rafael Coronel",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Profile",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6655,
+            "displayname":"Rafael Coronel",
+            "displaydate":"Mexican, 1932–2019",
+            "datebegin":1932,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Rafael Coronel, Mexican, 1932–2019",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL,&nbsp;by 1995; gift&nbsp;to the Princeton University Art Museum, 1995.<br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123651,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46639",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 36, p. 39 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"80.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"94.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"74.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46639"
+    ],
+    "displaymaker":"Rafael Coronel, Mexican, 1932–2019",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Rafael Coronel (Mexican, 1932–2019), Profile, ca. 1982. Oil on canvas; 74 x 59.4 cm, 80.7 × 94.5 × 4.5 cm (frame). Gift of David L. Meginnity, Class of 1958 (1995-67)",
+    "captionhtml":"Rafael Coronel (Mexican, 1932–2019), <i>Profile</i>, ca. 1982. Oil on canvas; 74 x 59.4 cm, 80.7 × 94.5 × 4.5 cm (frame). Gift of David L. Meginnity, Class of 1958 (1995-67)",
+    "published_date":"2025-10-16 14:34:32.790449",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

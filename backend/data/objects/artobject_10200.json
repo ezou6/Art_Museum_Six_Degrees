@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":10200,
+    "objectnumber":"x1960-26",
+    "sortnumber":"1960   26x",
+    "displaytitle":"The Little Horse",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1505,
+    "dateend":1505,
+    "datecomputed":1505,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"sheet trimmed to plate: 16.6 x 10.9 cm (6 9/16 x 4 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Julie Parsons Redmond",
+    "markings":null,
+    "inscribed":"under vault: 1505; monogram on stone block",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Little Horse",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5715,
+            "displayname":"Albrecht Dürer",
+            "displaydate":"1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "datebegin":1471,
+            "dateend":1528,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":100769,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25493",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 26",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223230,
+            "name":"2023_ART447_02_06"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25493"
+    ],
+    "displaymaker":"Albrecht Dürer, 1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), The Little Horse. Engraving; 16.6 x 10.9 cm (plate). Bequest of Julie Parsons Redmond (x1960-26)",
+    "captionhtml":"Albrecht Dürer (1471–1528; born and died Nuremberg, Germany; active Venice, Italy, and Nuremburg), <i>The Little Horse</i>. Engraving; 16.6 x 10.9 cm (plate). Bequest of Julie Parsons Redmond (x1960-26)",
+    "published_date":"2025-10-23 16:52:24.556499",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

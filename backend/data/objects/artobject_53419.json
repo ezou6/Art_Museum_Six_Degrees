@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":53419,
+    "objectnumber":"y150 a-e",
+    "sortnumber":"150a    ye",
+    "displaytitle":"Letters",
+    "department":"Prints and Drawings",
+    "classification":"Manuscripts",
+    "datebegin":1230,
+    "dateend":1270,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"mid–13th century",
+    "medium":null,
+    "dimensions":"a: 4.5 × 4.6 cm (1 3/4 × 1 13/16 in.)\r\nb: 6.4 × 4.6 cm (2 1/2 × 1 13/16 in.)\r\nc: 3.5 × 3.7 cm (1 3/8 × 1 7/16 in.)\r\nd: 6.3 × 4.8 cm (2 1/2 × 1 7/8 in.)\r\ne: 4 × 4.3 cm (1 9/16 × 1 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Letters",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":230815,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y150c",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":230816,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y150b",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":230817,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y150a",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":230818,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y150-e",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":230819,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y150-d",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119249,
+            "term":"letters (signs)",
+            "aatid":300055055,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160046,
+            "term":"rinceaux",
+            "aatid":300165495,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y150a"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, Letters, mid–13th century. 4.5 × 4.6 cm (a), 6.4 × 4.6 cm (b), 3.5 × 3.7 cm (c), 6.3 × 4.8 cm (d), 4 × 4.3 cm (e). Museum purchase (y150 a-e)",
+    "captionhtml":"French, <i>Letters</i>, mid–13th century. 4.5 × 4.6 cm (a), 6.4 × 4.6 cm (b), 3.5 × 3.7 cm (c), 6.3 × 4.8 cm (d), 4 × 4.3 cm (e). Museum purchase (y150 a-e)",
+    "published_date":"2025-10-16 15:17:38.357717",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

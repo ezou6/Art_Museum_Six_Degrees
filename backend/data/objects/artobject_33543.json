@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":33543,
+    "objectnumber":"y1992-19",
+    "sortnumber":"1992   19y",
+    "displaytitle":"The Day-star Springs",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1882,
+    "dateend":1928,
+    "datecomputed":1905,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"71.5 x 59 cm. (28 1/8 x 23 1/4 in.)\r\nframe: 85 × 72 × 4 cm (33 7/16 × 28 3/8 × 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of JoAnn Sayers Agle",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: A. B. Davies",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Day-star Springs",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5526,
+            "displayname":"Arthur Bowen Davies",
+            "displaydate":"American, 1862–1928",
+            "datebegin":1862,
+            "dateend":1928,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Arthur Bowen Davies, American, 1862–1928",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":122607,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV45809",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 37, p. 39 (illus.)",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057735,
+            "term":"yellow",
+            "aatid":300127794,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059086,
+            "term":"bluish green",
+            "aatid":300128625,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2060110,
+            "term":"purplish blue",
+            "aatid":300129885,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"85.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"72.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"71.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV45809"
+    ],
+    "displaymaker":"Arthur Bowen Davies, American, 1862–1928",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Arthur Bowen Davies (American, 1862–1928), The Day-star Springs. Oil on canvas; 71.5 x 59 cm, 85 × 72 × 4 cm (frame). Gift of JoAnn Sayers Agle (y1992-19)",
+    "captionhtml":"Arthur Bowen Davies (American, 1862–1928), <i>The Day-star Springs</i>. Oil on canvas; 71.5 x 59 cm, 85 × 72 × 4 cm (frame). Gift of JoAnn Sayers Agle (y1992-19)",
+    "published_date":"2025-10-28 02:01:11.107305",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

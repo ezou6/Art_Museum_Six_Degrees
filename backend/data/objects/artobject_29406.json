@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":29406,
+    "objectnumber":"y1964-48",
+    "sortnumber":"1964   48y",
+    "displaytitle":"Common Man",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1917,
+    "dateend":1936,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century",
+    "medium":"Oil on hardboard",
+    "dimensions":"canvas: 44 x 43 cm (17 5/16 x 16 15/16 in.)\r\nmat: 42 x 41.8 cm (16 9/16 x 16 7/16 in.)\r\nframe: 46.5 x 36 x 2.1 cm (18 5/16 x 14 3/16 x 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Professor and Mrs. Millard Meiss",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, bottom right: Gropper",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1964-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Common Man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4978,
+            "displayname":"William Gropper",
+            "displaydate":"1897–1977; born New York, NY; died Manhasset, NY; active Croton-on-Hudson, NY",
+            "datebegin":1897,
+            "dateend":1977,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Gropper, 1897–1977; born New York, NY; died Manhasset, NY; active Croton-on-Hudson, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121811,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44819",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>",
+            "citation":"\"Acquisitions of 1964\", <em>Record of the Art Museum, Princeton University</em> 24, no. 1 (1965): p. 20-23.<i></i>, p. 20",
+            "date":1965,
+            "id":1864,
+            "uri":"https://www.jstor.org/stable/3774350"
+        },
+        {
+            "boilertext":"<em>American realism of the 20th century</em>, (Morristown, NJ: Morris Museum of Arts and Sciences, 1980)",
+            "citation":"<em>American realism of the 20th century</em>, (Morristown, NJ: Morris Museum of Arts and Sciences, 1980)",
+            "date":1980,
+            "id":4685,
+            "uri":"http://www.worldcat.org/oclc/78155809"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188483,
+            "term":"The Weary Body",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048138,
+            "term":"hardboard",
+            "aatid":300014203,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.10"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.00"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44819"
+    ],
+    "displaymaker":"William Gropper, 1897–1977; born New York, NY; died Manhasset, NY; active Croton-on-Hudson, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Gropper (1897–1977; born New York, NY; died Manhasset, NY; active Croton-on-Hudson, NY), Common Man, early 20th century. Oil on hardboard; 44 × 43 cm (canvas), 42 × 41.8 cm (mat), 46.5 × 36 × 2.1 cm (frame). Gift of Professor and Mrs. Millard Meiss (y1964-48)",
+    "captionhtml":"William Gropper (1897–1977; born New York, NY; died Manhasset, NY; active Croton-on-Hudson, NY), <i>Common Man</i>, early 20th century. Oil on hardboard; 44 × 43 cm (canvas), 42 × 41.8 cm (mat), 46.5 × 36 × 2.1 cm (frame). Gift of Professor and Mrs. Millard Meiss (y1964-48)",
+    "published_date":"2025-10-28 02:00:52.565671",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

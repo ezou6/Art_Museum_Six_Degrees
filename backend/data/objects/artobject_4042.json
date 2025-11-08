@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":4042,
+    "objectnumber":"x1942-263",
+    "sortnumber":"1942  263x",
+    "displaytitle":"Crucifixion",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1490,
+    "dateend":1536,
+    "datecomputed":1513,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"late 15th – early 16th century",
+    "medium":"Etching",
+    "dimensions":"plate: 34.6 x 21.8 cm. (13 5/8 x 8 9/16 in.)\r\nsheet: 36.7 x 23.8 cm. (14 7/16 x 9 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Unrecorded acquisition",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Crucifixion",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5286,
+            "displayname":"Daniel Hopfer",
+            "displaydate":"German, 1470–1536",
+            "datebegin":1470,
+            "dateend":1536,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Daniel Hopfer, German, 1470–1536",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":8241,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1942-263_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":100569,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25551",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25551"
+    ],
+    "displaymaker":"Daniel Hopfer, German, 1470–1536",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Daniel Hopfer (German, 1470–1536), Crucifixion, late 15th – early 16th century. Etching; 34.6 x 21.8 cm (plate), 36.7 x 23.8 cm (sheet). Unrecorded acquisition (x1942-263)",
+    "captionhtml":"Daniel Hopfer (German, 1470–1536), <i>Crucifixion</i>, late 15th – early 16th century. Etching; 34.6 x 21.8 cm (plate), 36.7 x 23.8 cm (sheet). Unrecorded acquisition (x1942-263)",
+    "published_date":"2025-10-16 10:28:12.283280",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

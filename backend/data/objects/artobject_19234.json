@@ -1,0 +1,214 @@
+{
+    "type":"artobject",
+    "objectid":19234,
+    "objectnumber":"y1929-220",
+    "sortnumber":"1929  220y",
+    "displaytitle":"Plate",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1755,
+    "dateend":1765,
+    "datecomputed":1760,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"ca. 1760",
+    "medium":"Salt glaze ware",
+    "dimensions":"3.3 x diam. 24.2 cm (1 5/16 x 9 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":136547,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58877",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136548,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58878",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England, Staffordshire",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Staffordshire",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.833_-2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159384,
+            "term":"plant-derived motifs",
+            "aatid":300164599,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159663,
+            "term":"allover patterns",
+            "aatid":300010143,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160025,
+            "term":"scrollwork",
+            "aatid":300010205,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168117,
+            "term":"salt glaze",
+            "aatid":300048635,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13593,
+            "culture":"British",
+            "alphasort":"British",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"British",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"24.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV58877"
+    ],
+    "displaymaker":null,
+    "displayculture":"British",
+    "displayperiod":null,
+    "caption":"British, Plate, ca. 1760. Salt glaze ware; 3.3 × 24.2 cm. Trumbull-Prime Collection (y1929-220)",
+    "captionhtml":"British, <i>Plate</i>, ca. 1760. Salt glaze ware; 3.3 × 24.2 cm. Trumbull-Prime Collection (y1929-220)",
+    "published_date":"2025-10-16 12:27:05.493334",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":40252,
+    "objectnumber":"2001-138",
+    "sortnumber":"2001  138",
+    "displaytitle":"Tzompantli",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1994,
+    "dateend":1994,
+    "datecomputed":1994,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1994",
+    "medium":"Acrylic on linen",
+    "dimensions":"99.2 × 75.2 cm (39 1/16 × 29 5/8 in.)\r\nframe: 103.3 × 78.8 x 5 cm (40 11/16 × 31 x 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in black, lower right: Ismael Vargas",
+    "catalograisonne":null,
+    "creditlinerepro":"© Ismael Vargas",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tzompantli",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1141,
+            "displayname":"Ismael Vargas",
+            "displaydate":"Mexican, born 1947",
+            "datebegin":1947,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ismael Vargas, Mexican, born 1947",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123694,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46656",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 106",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3530597/mexico-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158088,
+            "term":"eyes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045312,
+            "term":"skull (skeleton component)",
+            "aatid":300191856,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2172711,
+            "term":"hills",
+            "aatid":300008777,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048566,
+            "term":"crosses (objects)",
+            "aatid":300235443,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053119,
+            "term":"acrylic paintings",
+            "aatid":300181918,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167800,
+            "term":"acrylic paint",
+            "aatid":300015058,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053119,
+            "classification":"acrylic paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"103.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"99.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"75.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46656"
+    ],
+    "displaymaker":"Ismael Vargas, Mexican, born 1947",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ismael Vargas (Mexican, born 1947), Tzompantli, 1994. Acrylic on linen; 99.2 × 75.2 cm, 103.3 × 78.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-138)",
+    "captionhtml":"Ismael Vargas (Mexican, born 1947), <i>Tzompantli</i>, 1994. Acrylic on linen; 99.2 × 75.2 cm, 103.3 × 78.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-138)",
+    "published_date":"2025-10-16 14:09:43.849780",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,181 @@
+{
+    "type":"artobject",
+    "objectid":5582,
+    "objectnumber":"x1946-29",
+    "sortnumber":"1946   29x",
+    "displaytitle":"Landscape",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1812,
+    "dateend":1882,
+    "datecomputed":1847,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 10.3 × 15.4 cm (4 1/16 × 6 1/16 in.)\r\nsheet: 11.7 × 16.3 cm (4 5/8 × 6 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4631,
+            "displayname":"John Linnell",
+            "displaydate":"1792–1882; born London, England; died Redhill, England",
+            "datebegin":1792,
+            "dateend":1882,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Linnell, 1792–1882; born London, England; died Redhill, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":118636,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40984",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40984"
+    ],
+    "displaymaker":"John Linnell, 1792–1882; born London, England; died Redhill, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Linnell (1792–1882; born London, England; died Redhill, England), Landscape. Engraving; 10.3 × 15.4 cm (plate), 11.7 × 16.3 cm (sheet). Mather Collection (x1946-29)",
+    "captionhtml":"John Linnell (1792–1882; born London, England; died Redhill, England), <i>Landscape</i>. Engraving; 10.3 × 15.4 cm (plate), 11.7 × 16.3 cm (sheet). Mather Collection (x1946-29)",
+    "published_date":"2025-10-16 10:39:26.618842",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

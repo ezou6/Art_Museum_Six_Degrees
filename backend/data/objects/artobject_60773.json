@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":60773,
+    "objectnumber":"2011-33",
+    "sortnumber":"2011   33",
+    "displaytitle":"Untitled, plate 3 from Merz Portfolio 3",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1923,
+    "dateend":1923,
+    "datecomputed":1923,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1923",
+    "medium":"Photolithograph in dark gray ink",
+    "dimensions":"sheet: 55.2 x 44.7 cm. (21 3/4 x 17 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n",
+    "markings":null,
+    "inscribed":"Signed in graphite, lower left: Kurt Schwitters\r\n\r\nInscribed in graphite, verso: 73219",
+    "signed":null,
+    "catalograisonne":"Orchard and Schulz 1194",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2011-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":3540,
+            "displayname":"Kurt Schwitters",
+            "displaydate":"1887–1948; born Hannover, Germany; died Kendal, England",
+            "datebegin":1887,
+            "dateend":1948,
+            "prefix":"Published by Merzverlag,",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Merzverlag, Kurt Schwitters, 1887–1948; born Hannover, Germany; died Kendal, England",
+            "displayorder":2
+        },
+        {
+            "id":3540,
+            "displayname":"Kurt Schwitters",
+            "displaydate":"1887–1948; born Hannover, Germany; died Kendal, England",
+            "datebegin":1887,
+            "dateend":1948,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kurt Schwitters, 1887–1948; born Hannover, Germany; died Kendal, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":52651,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2011-33",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P>Karin Orchard and Isabel Schlulz, editors, <EM>Kurt Schwitters, Catalogue Raisonné</EM> (Ostfildern-Ruit: Hatje Cantz, 2000-2006). </P>",
+            "citation":"<P>Karin Orchard and Isabel Schlulz, editors, <EM>Kurt Schwitters, Catalogue Raisonné</EM> (Ostfildern-Ruit: Hatje Cantz, 2000-2006). </P>, no. 1194, pp. 138–40",
+            "date":2000,
+            "id":6506,
+            "uri":"http://www.worldcat.org/oclc/45559096"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132., p. 104",
+            "date":2012,
+            "id":2987,
+            "uri":"https://www.jstor.org/stable/24416387"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany, Hannover",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":"Hannover",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2910831/hannover.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159240,
+            "term":"geometric motifs",
+            "aatid":300009764,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051492,
+            "term":"letter pictures",
+            "aatid":300033914,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051938,
+            "term":"collages",
+            "aatid":300033963,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054243,
+            "term":"photolithographs",
+            "aatid":300154386,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155034,
+            "term":"offset lithography",
+            "aatid":300192900,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054243,
+            "classification":"photolithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"55.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":232144,
+            "name":"2023_ART213_11_15&16"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2011-33"
+    ],
+    "displaymaker":"Kurt Schwitters, 1887–1948; born Hannover, Germany; died Kendal, England | Published by Merzverlag, Kurt Schwitters, 1887–1948; born Hannover, Germany; died Kendal, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kurt Schwitters (1887–1948; born Hannover, Germany; died Kendal, England), Published by Merzverlag, Kurt Schwitters (1887–1948; born Hannover, Germany; died Kendal, England), Untitled, plate 3 from Merz Portfolio 3, 1923. Photolithograph in dark gray ink; 55.2 x 44.7 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n (2011-33)",
+    "captionhtml":"Kurt Schwitters (1887–1948; born Hannover, Germany; died Kendal, England), Published by Merzverlag, Kurt Schwitters (1887–1948; born Hannover, Germany; died Kendal, England), <i>Untitled, plate 3 from Merz Portfolio 3</i>, 1923. Photolithograph in dark gray ink; 55.2 x 44.7 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n (2011-33)",
+    "published_date":"2025-10-16 15:53:57.163880",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

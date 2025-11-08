@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":40519,
+    "objectnumber":"2001-263",
+    "sortnumber":"2001  263",
+    "displaytitle":"Liu Li Chang, Beijing",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1965,
+    "dateend":1965,
+    "datecomputed":1965,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1965",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 17.3 x 25.6 cm (6 13/16 x 10 1/16 in.)\r\nsheet: 18.2 x 26.6 cm (7 3/16 x 10 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Marc Riboud",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Liu Li Chang, Beijing",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":865,
+            "displayname":"Marc Riboud",
+            "displaydate":"French, 1923–2016",
+            "datebegin":1923,
+            "dateend":2016,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Marc Riboud, French, 1923–2016",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84897,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11488",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 129 (illus.)",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Asia, China, Beijing, Liu Li Chang",
+            "code":"Place depicted",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":"Beijing",
+            "county":null,
+            "subregion":null,
+            "locale":"Liu Li Chang",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1816670/beijing.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2110375,
+            "term":"storefronts",
+            "aatid":300002533,
+            "termtype":"Subject"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2094471,
+            "term":"pedestrians",
+            "aatid":300025851,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11488"
+    ],
+    "displaymaker":"Marc Riboud, French, 1923–2016",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Marc Riboud (French, 1923–2016), Liu Li Chang, Beijing, 1965. Gelatin silver print; 17.3 x 25.6 cm (image), 18.2 x 26.6 cm (sheet). Museum purchase, anonymous gift (2001-263)",
+    "captionhtml":"Marc Riboud (French, 1923–2016), <i>Liu Li Chang, Beijing</i>, 1965. Gelatin silver print; 17.3 x 25.6 cm (image), 18.2 x 26.6 cm (sheet). Museum purchase, anonymous gift (2001-263)",
+    "published_date":"2025-10-16 14:10:32.811993",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

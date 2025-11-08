@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":4498,
+    "objectnumber":"x1943-328",
+    "sortnumber":"1943  328x",
+    "displaytitle":"Portrait of John Aubrey",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1636,
+    "dateend":1691,
+    "datecomputed":1664,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Stipple engraving",
+    "dimensions":"plate: 25 x 21.2 cm. (9 13/16 x 8 3/8 in.)\r\nsheet: 29.6 x 22 cm. (11 5/8 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888 (?)",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of John Aubrey",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5824,
+            "displayname":"William Faithorne",
+            "displaydate":"British, 1616–1691",
+            "datebegin":1616,
+            "dateend":1691,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after William Faithorne, British, 1616–1691",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110258,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33624",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":110259,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33625",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051574,
+            "term":"three-quarter views",
+            "aatid":300117363,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054561,
+            "term":"stipple engravings",
+            "aatid":300041364,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054561,
+            "classification":"stipple engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33625"
+    ],
+    "displaymaker":"after William Faithorne, British, 1616–1691",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After William Faithorne (British, 1616–1691), Portrait of John Aubrey. Stipple engraving; 25 x 21.2 cm (plate), 29.6 x 22 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1943-328)",
+    "captionhtml":"After William Faithorne (British, 1616–1691), <i>Portrait of John Aubrey</i>. Stipple engraving; 25 x 21.2 cm (plate), 29.6 x 22 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1943-328)",
+    "published_date":"2025-10-16 10:31:44.058207",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

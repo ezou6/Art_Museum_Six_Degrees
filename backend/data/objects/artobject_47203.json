@@ -1,0 +1,188 @@
+{
+    "type":"artobject",
+    "objectid":47203,
+    "objectnumber":"x1934-405",
+    "sortnumber":"1934  405x",
+    "displaytitle":"Christ Tempted by the Devil",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1525,
+    "dateend":1525,
+    "datecomputed":1525,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1525",
+    "medium":"Engraving",
+    "dimensions":"plate: 11.2 x 7.6 cm. (4 7/16 x 3 in.)\r\nsheet: 11.8 x 8.2 cm. (4 5/8 x 3 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed 1525 D.V. April 11 at bottom",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Christ Tempted by the Devil",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1595,
+            "displayname":"Dirk Vellert",
+            "displaydate":"Netherlands, op. 1511 - 1544",
+            "datebegin":0,
+            "dateend":1544,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Dirk Vellert, Netherlands, op. 1511 - 1544",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27469",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":7989,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1934-405_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Netherlands",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Netherlands",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27469"
+    ],
+    "displaymaker":"Dirk Vellert, Netherlands, op. 1511 - 1544",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Dirk Vellert (Netherlands, op. 1511 - 1544), Christ Tempted by the Devil, 1525. Engraving; 11.2 x 7.6 cm (plate), 11.8 x 8.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-405)",
+    "captionhtml":"Dirk Vellert (Netherlands, op. 1511 - 1544), <i>Christ Tempted by the Devil</i>, 1525. Engraving; 11.2 x 7.6 cm (plate), 11.8 x 8.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-405)",
+    "published_date":"2025-10-16 14:48:03.693112",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

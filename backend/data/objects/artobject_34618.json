@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":34618,
+    "objectnumber":"y784",
+    "sortnumber":"784     y",
+    "displaytitle":"The Orchard",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1872,
+    "dateend":1919,
+    "datecomputed":1896,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"23 x 30.7 cm (9 1/16 x 12 1/16 in.)\r\nframe: 34 x 41.4 x 4 cm (13 3/8 x 16 5/16 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Gertrude Magie",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in brown, lower right: J. Alden Weir.",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Orchard",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1767,
+            "displayname":"Julian Alden Weir",
+            "displaydate":"American, 1852–1919",
+            "datebegin":1852,
+            "dateend":1919,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Julian Alden Weir, American, 1852–1919",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Donated to the Princeton University Art Museum by Mrs. Gertrude Magie, January 14, 1926.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":259316,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17745",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":259328,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17835",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"F. J. Mather, \"American paintings at Princeton University,\" <EM>Record of the Museum of Historic Art, Princeton University</EM> 2,<EM> </EM>no. 2 (1943): p. 2-15.",
+            "citation":"F. J. Mather, \"American paintings at Princeton University,\" <EM>Record of the Museum of Historic Art, Princeton University</EM> 2,<EM> </EM>no. 2 (1943): p. 2-15., p. 13",
+            "date":1943,
+            "id":3193,
+            "uri":"https://www.jstor.org/stable/3774197"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.40"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        },
+        {
+            "packageid":247734,
+            "name":"BackOfPaintings_EXH"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX_JE_093024_17835"
+    ],
+    "displaymaker":"Julian Alden Weir, American, 1852–1919",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Julian Alden Weir (American, 1852–1919), The Orchard. Oil on canvas; 23 x 30.7 cm, 34 × 41.4 × 4 cm (frame). Gift of Mrs. Gertrude Magie (y784)",
+    "captionhtml":"Julian Alden Weir (American, 1852–1919), <i>The Orchard</i>. Oil on canvas; 23 x 30.7 cm, 34 × 41.4 × 4 cm (frame). Gift of Mrs. Gertrude Magie (y784)",
+    "published_date":"2025-10-30 02:06:15.796715",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

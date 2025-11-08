@@ -1,0 +1,292 @@
+{
+    "type":"artobject",
+    "objectid":23316,
+    "objectnumber":"y1949-148",
+    "sortnumber":"1949  148y",
+    "displaytitle":"View of New York City from New Jersey",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1857,
+    "dateend":1857,
+    "datecomputed":1857,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1857",
+    "medium":"Oil on canvas",
+    "dimensions":"46 x 79 cm. (18 1/8 x 31 1/8 in.)\r\nframe: 56.8 × 89.9 cm (22 3/8 × 35 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated lower right: J. Henry Hill 1857",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"View of New York City from New Jersey",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5218,
+            "displayname":"John Henry Hill",
+            "displaydate":"American, 1839–1922",
+            "datebegin":1839,
+            "dateend":1922,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Henry Hill, American, 1839–1922",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":7158,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-148",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 1 (1950).",
+            "citation":"\"Recent accessions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 1 (1950)., p. 22",
+            "date":1950,
+            "id":3306,
+            "uri":"https://www.jstor.org/stable/3774210"
+        },
+        {
+            "boilertext":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22.",
+            "citation":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>9, no. 1 (1950): 22., p. 22",
+            "date":1950,
+            "id":7847,
+            "uri":"https://www.jstor.org/stable/3774210"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 123, fig. 1",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New York, Manhattan, New York",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.783_-73.966.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Hoboken, Castle Point",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Hoboken",
+            "county":null,
+            "subregion":null,
+            "locale":"Castle Point",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.748_-74.023.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171359,
+            "term":"cities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058601,
+            "term":"green (color)",
+            "aatid":300128438,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059612,
+            "term":"pale blue",
+            "aatid":300129645,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101520,
+            "term":"carriages",
+            "aatid":300185335,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.83"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"89.85"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-148"
+    ],
+    "displaymaker":"John Henry Hill, American, 1839–1922",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Henry Hill (American, 1839–1922), View of New York City from New Jersey, 1857. Oil on canvas; 46 x 79 cm, 56.8 × 89.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1949-148)",
+    "captionhtml":"John Henry Hill (American, 1839–1922), <i>View of New York City from New Jersey</i>, 1857. Oil on canvas; 46 x 79 cm, 56.8 × 89.9 cm (frame). Gift of Frank Jewett Mather Jr. (y1949-148)",
+    "published_date":"2025-10-16 12:52:13.035072",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,210 @@
+{
+    "type":"artobject",
+    "objectid":11658,
+    "objectnumber":"x1970-64",
+    "sortnumber":"1970   64x",
+    "displaytitle":"Studies of Horsemen",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1842,
+    "dateend":1899,
+    "datecomputed":1870,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Graphite on off-white wove paper",
+    "dimensions":"14.2 x 38 cm. (5 9/16 x 14 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"Graphite, lower right",
+    "signed":"Stamped in ink, lower right: Rosa B–",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1970-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Studies of Horsemen",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":482,
+            "displayname":"Rosa Bonheur",
+            "displaydate":"1822–1899; born Bordeaux, France; died Thomery (Fontainebleau), France; active Thomery and Paris, France",
+            "datebegin":1822,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Rosa Bonheur, 1822–1899; born Bordeaux, France; died Thomery (Fontainebleau), France; active Thomery and Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tBonheur was renowned for her skillful depictions of animals. Influenced by earlier artists such as Delacroix—similarly famous for his depictions of horses and lions—Bonheur meticulously studied animals from life, making countless studies and sketches, including the two on view here. To support this practice, she kept a personal menagerie with her life partner, Nathalie Micas, which included horses, sheep, deer, a gazelle, and even lions. She also worked from photographs like Tournachon’s, which comes from a publication of prize-winning horses from a competition in 1860. Photography and print were both deployed in making knowledge about animals widely available. Around 1861, Bonheur and her brother Isidore, a famed animal sculptor, worked from Tournachon’s photographs to illustrate an encyclopedia of cattle breeds published by the French Ministry of Agriculture.\n</p>",
+            "remarks":"EUR-STR_4-T5-A1_CLA-Day 1 Cataloguing (group chat for y1976-23, x1970-64, x1994-54, x1946-199) "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from The Drawing Room, Princeton, by the Princeton University Art Museum, 1970.\n",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":110714,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33945",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21657,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv1178",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1970\", <em>Record of the Art Museum, Princeton University</em> 30, no. 1 (1971): p. 22-30.",
+            "citation":"\"Acquisitions 1970\", <em>Record of the Art Museum, Princeton University</em> 30, no. 1 (1971): p. 22-30.",
+            "date":1971,
+            "id":3440,
+            "uri":"https://www.jstor.org/stable/3774539"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094283,
+            "term":"equestrians",
+            "aatid":300188602,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051797,
+            "term":"studies (visual works)",
+            "aatid":300081053,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":228560,
+            "name":"2023_ART490/GSS490/VIS490_10_02"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33945"
+    ],
+    "displaymaker":"Rosa Bonheur, 1822–1899; born Bordeaux, France; died Thomery (Fontainebleau), France; active Thomery and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Rosa Bonheur (1822–1899; born Bordeaux, France; died Thomery (Fontainebleau), France; active Thomery and Paris, France), Studies of Horsemen. Graphite on off-white wove paper; 14.2 × 38 cm. Museum purchase, Laura P. Hall Memorial Fund (x1970-64)",
+    "captionhtml":"Rosa Bonheur (1822–1899; born Bordeaux, France; died Thomery (Fontainebleau), France; active Thomery and Paris, France), <i>Studies of Horsemen</i>. Graphite on off-white wove paper; 14.2 × 38 cm. Museum purchase, Laura P. Hall Memorial Fund (x1970-64)",
+    "published_date":"2025-10-30 02:00:20.408646",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

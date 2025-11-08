@@ -1,0 +1,216 @@
+{
+    "type":"artobject",
+    "objectid":27963,
+    "objectnumber":"y1956-76",
+    "sortnumber":"1956   76y",
+    "displaytitle":"Jar",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-500,
+    "dateend":-331,
+    "datecomputed":-416,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 11.3 cm, diam. 12.7 cm (4 7/16 x 5 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the American Schools of Oriental Research",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1956-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated from Nippur (SE/W, below II-1 floor); given to the Museum by the American Schools of Oriental Research (now American Society of Overseas Research, ASOR) in 1956\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22911,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1956-72_GS",
+            "isprimary":1,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Richard C. Haines, D.E. McCown, and R.D. Biggs, <EM>Nippur: excavations of the Joint Expedition to Nippur of the University Museum of Philadelphia and the Oriental Institute of the University of Chicago</EM>,&nbsp;(Chicago, IL: University of Chicago Press, 1967-1978).",
+            "citation":"Richard C. Haines, D.E. McCown, and R.D. Biggs, <EM>Nippur: excavations of the Joint Expedition to Nippur of the University Museum of Philadelphia and the Oriental Institute of the University of Chicago</EM>,&nbsp;(Chicago, IL: University of Chicago Press, 1967-1978)., p. 14; pl. 53",
+            "date":1967,
+            "id":2498,
+            "uri":"http://www.worldcat.org/oclc/934086"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14., p. 13",
+            "date":1957,
+            "id":1830,
+            "uri":"https://www.jstor.org/stable/3774252"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Iraq, Nippur",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Iraq",
+            "region":null,
+            "state":null,
+            "city":"Nippur",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Level II, SE/W, 35 cm. below II-1 floor",
+            "geoname":"http://www.geonames.org/maps/google_32.136_45.221.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037397,
+            "term":"Mesopotamian",
+            "aatid":300019828,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037546,
+            "term":"Achaemenid",
+            "aatid":300019946,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13945,
+            "culture":"Mesopotamian",
+            "alphasort":"Mesopotamian",
+            "begindate":-10000,
+            "enddate":637,
+            "displayculture":"Mesopotamian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037397,
+            "culture":"Mesopotamian"
+        }
+    ],
+    "periods":[
+        {
+            "id":13446,
+            "period":"Achaemenid Persian Period",
+            "alphasort":"Achaemenid",
+            "begindate":-550,
+            "enddate":-330,
+            "displayperiod":"Achaemenid Persian Period, ca. 550–330 BCE",
+            "displaydate":"ca. 550–330 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037546,
+            "period":"Achaemenid"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"12.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1956-72_GS"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mesopotamian",
+    "displayperiod":"Achaemenid Persian Period, ca. 550–330 BCE",
+    "caption":"Mesopotamian, Achaemenid Persian Period (ca. 550–330 BCE), Nippur, Iraq, Jar. Ceramic; 11.3 x 12.7 cm. Gift of the American Schools of Oriental Research (y1956-76)",
+    "captionhtml":"Mesopotamian, Achaemenid Persian Period (ca. 550–330 BCE), Nippur, Iraq, <i>Jar</i>. Ceramic; 11.3 x 12.7 cm. Gift of the American Schools of Oriental Research (y1956-76)",
+    "published_date":"2025-10-16 13:04:38.617801",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

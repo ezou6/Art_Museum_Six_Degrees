@@ -1,0 +1,194 @@
+{
+    "type":"artobject",
+    "objectid":49097,
+    "objectnumber":"x1937-324",
+    "sortnumber":"1937  324x",
+    "displaytitle":"Marie Stuart",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1851,
+    "dateend":1851,
+    "datecomputed":1851,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1851",
+    "medium":"Mezzotint",
+    "dimensions":"plate: 23 × 14.3 cm (9 1/16 × 5 5/8 in.)\r\nsheet: 42.8 × 30 cm (16 7/8 × 11 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Joe Brown",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Marie Stuart",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6150,
+            "displayname":"Joe Brown",
+            "displaydate":"American, 1909–1985",
+            "datebegin":1909,
+            "dateend":1985,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joe Brown, American, 1909–1985",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118561,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40822",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118562,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40823",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054545,
+            "term":"mezzotints",
+            "aatid":300041356,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054545,
+            "classification":"mezzotints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40823"
+    ],
+    "displaymaker":"Joe Brown, American, 1909–1985",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joe Brown (American, 1909–1985), Marie Stuart, 1851. Mezzotint; 23 × 14.3 cm (plate), 42.8 × 30 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-324)",
+    "captionhtml":"Joe Brown (American, 1909–1985), <i>Marie Stuart</i>, 1851. Mezzotint; 23 × 14.3 cm (plate), 42.8 × 30 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-324)",
+    "published_date":"2025-10-16 15:05:04.022914",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

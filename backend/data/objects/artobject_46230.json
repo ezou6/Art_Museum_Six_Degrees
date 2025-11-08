@@ -1,0 +1,274 @@
+{
+    "type":"artobject",
+    "objectid":46230,
+    "objectnumber":"x1934-283 a",
+    "sortnumber":"1934  283xa",
+    "displaytitle":"St. John the Baptist",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1632,
+    "dateend":1632,
+    "datecomputed":1632,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1632",
+    "medium":"Etching",
+    "dimensions":"sheet trimmed inside plate: 6.3 x 4.2 cm (2 1/2 x 1 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Captioned and signed in plate, lower margin: S. Ioannes. / Cum priuileg. Regis. / Callot fe. Israel ex.",
+    "signed":null,
+    "catalograisonne":"Lieure 1315; Meaume 148",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. John the Baptist",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5179,
+            "displayname":"Israël Henriet",
+            "displaydate":"French, ca. 1590–1661",
+            "datebegin":1590,
+            "dateend":1661,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Israël Henriet, French, ca. 1590–1661",
+            "displayorder":2
+        },
+        {
+            "id":6244,
+            "displayname":"Jacques Callot",
+            "displaydate":"French, 1592–1635",
+            "datebegin":1592,
+            "dateend":1635,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jacques Callot, French, 1592–1635",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":100043,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24918",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Édouard Meaume, \"Volume 1,\" <EM>Recherches sur la vie et les ouvrages de Jacques Callot, suite au Peintre-graveur français de M. Robert-Dumesnil</EM> (Paris: V.J. Renouard, 1860).",
+            "citation":"Édouard Meaume, \"Volume 1,\" <EM>Recherches sur la vie et les ouvrages de Jacques Callot, suite au Peintre-graveur français de M. Robert-Dumesnil</EM> (Paris: V.J. Renouard, 1860)., no. 148, p. 108",
+            "date":1860,
+            "id":5892,
+            "uri":"http://www.worldcat.org/oclc/6875151"
+        },
+        {
+            "boilertext":"<P>Jules Lieure, <EM>Jacques Callot: catalogue raisonné de l'oeuvre gravé</EM> (San Francisco: Alan Wofsy Fine Arts, 1989).</P>",
+            "citation":"<P>Jules Lieure, <EM>Jacques Callot: catalogue raisonné de l'oeuvre gravé</EM> (San Francisco: Alan Wofsy Fine Arts, 1989).</P>, no. 1315",
+            "date":1989,
+            "id":5891,
+            "uri":"http://www.worldcat.org/oclc/19075836"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Nancy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Nancy",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6454307/nancy.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171371,
+            "term":"John the Baptist",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103923,
+            "term":"sheep",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":16124,
+            "name":"Web_Callot_2014"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":183079,
+            "name":"Prints-Callot"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24918"
+    ],
+    "displaymaker":"Jacques Callot, French, 1592–1635 | Published by Israël Henriet, French, ca. 1590–1661",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jacques Callot (French, 1592–1635), Published by Israël Henriet (French, ca. 1590–1661), St. John the Baptist, 1632. Etching; 6.3 x 4.2 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-283 a)",
+    "captionhtml":"Jacques Callot (French, 1592–1635), Published by Israël Henriet (French, ca. 1590–1661), <i>St. John the Baptist</i>, 1632. Etching; 6.3 x 4.2 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-283 a)",
+    "published_date":"2025-10-16 14:37:04.484547",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

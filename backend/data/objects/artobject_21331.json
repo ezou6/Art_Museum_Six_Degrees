@@ -1,0 +1,186 @@
+{
+    "type":"artobject",
+    "objectid":21331,
+    "objectnumber":"y1939-117",
+    "sortnumber":"1939  117y",
+    "displaytitle":"Instrument",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Metal",
+    "datebegin":-2300,
+    "dateend":1939,
+    "datecomputed":-180,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"24.6 x 5.2 x 0.6 cm (9 11/16 x 2 1/16 x 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1939-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Instrument",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from J. Khayat in 1939",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":42456,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV007627",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Syria, Hama",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Syria",
+            "region":null,
+            "state":null,
+            "city":"Hama",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.233_37.2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036193,
+            "term":"Early Western World",
+            "aatid":300019255,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2135650,
+            "term":"instruments",
+            "aatid":300024838,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2135650,
+            "classification":"instruments"
+        },
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036193,
+            "period":"Early Western World"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"24.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.19"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.56"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV007627"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hama, Syria, Instrument. Bronze; 24.6 x 5.2 x 0.6 cm. Museum purchase (y1939-117)",
+    "captionhtml":"Hama, Syria, <i>Instrument</i>. Bronze; 24.6 x 5.2 x 0.6 cm. Museum purchase (y1939-117)",
+    "published_date":"2025-10-16 12:39:45.349738",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,223 @@
+{
+    "type":"artobject",
+    "objectid":141578,
+    "objectnumber":"2022-94.10",
+    "sortnumber":"2022   94    10",
+    "displaytitle":"Sambayoo No. 10",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2019,
+    "dateend":2019,
+    "datecomputed":2019,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2019",
+    "medium":"Screenprint",
+    "dimensions":"image: 45 × 42.4 cm (17 11/16 × 16 11/16 in.)\r\nsheet: 56.7 × 52.2 cm (22 5/16 × 20 9/16 in.)\r\nframe: 61.3 × 57.4 × 3.8 cm (24 1/8 × 22 5/8 × 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Morley and Jean Melden Prints and Drawings Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Michael Menchaca",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Sambayoo No. 10",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22255,
+            "displayname":"Michael Menchaca",
+            "displaydate":"born 1985, San Antonio, TX, active San Antonio",
+            "datebegin":1985,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Michael Menchaca, born 1985, San Antonio, TX, active San Antonio",
+            "displayorder":1
+        },
+        {
+            "id":22256,
+            "displayname":"Julia Samuels",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Julia Samuels",
+            "displayorder":3
+        },
+        {
+            "id":22257,
+            "displayname":"Overpass Projects LLC",
+            "displaydate":"founded 2015, Pawtucket, RI",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Overpass Projects LLC, founded 2015, Pawtucket, RI",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Overpass Projects; purchased by Princeton University Art Museum, July 2022.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":232341,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2021-64-1-16_ref_1",
+            "isprimary":0,
+            "rank":11,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Reference Image"
+        },
+        {
+            "id":243337,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_4481",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":243338,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_4478",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"57.40"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"52.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"42.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_4478"
+    ],
+    "displaymaker":"Michael Menchaca, born 1985, San Antonio, TX, active San Antonio | Published by Overpass Projects LLC, founded 2015, Pawtucket, RI | Printed by Julia Samuels",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Michael Menchaca (born 1985, San Antonio, TX, active San Antonio), Published by Overpass Projects LLC (founded 2015, Pawtucket, RI), Printed by Julia Samuels, Sambayoo No. 10, 2019. Screenprint; 45 × 42.4 cm (image), 56.7 × 52.2 cm (sheet), 61.3 × 57.4 × 3.8 cm (frame). Museum purchase, Morley and Jean Melden Prints and Drawings Fund (2022-94.10)",
+    "captionhtml":"Michael Menchaca (born 1985, San Antonio, TX, active San Antonio), Published by Overpass Projects LLC (founded 2015, Pawtucket, RI), Printed by Julia Samuels, <i>Sambayoo No. 10</i>, 2019. Screenprint; 45 × 42.4 cm (image), 56.7 × 52.2 cm (sheet), 61.3 × 57.4 × 3.8 cm (frame). Museum purchase, Morley and Jean Melden Prints and Drawings Fund (2022-94.10)",
+    "published_date":"2025-10-16 19:07:46.631093",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

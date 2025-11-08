@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":32361,
+    "objectnumber":"y1979-9",
+    "sortnumber":"1979    9y",
+    "displaytitle":"Spanish Moss",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1949,
+    "dateend":1949,
+    "datecomputed":1949,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1949",
+    "medium":"Oil on canvas",
+    "dimensions":"92.3 x 68.5 cm (36 5/16 x 26 15/16 in.)\r\nframe: 106.7 x 73 x 6 cm (42 x 28 3/4 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Joseph F. McCrindle",
+    "markings":"Verso, painted: “SPANISH MOSS” / “paysage spres de Jacksonville” / Leonid / 49 / 23 x 36 inches.;\r\n",
+    "inscribed":null,
+    "signed":"Signed and dated, lower left: Leonid 49",
+    "catalograisonne":null,
+    "creditlinerepro":"Art © Leonid Berman / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1979-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Spanish Moss",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":357,
+            "displayname":"Leonid Berman",
+            "displaydate":"American, 1896–1976",
+            "datebegin":1896,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Leonid Berman, American, 1896–1976",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":123316,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46309",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123317,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46310",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1979,\" <em>Record of the Art Museum, Princeton University </em>39, no. 1/2 (1980): p. 40-63.",
+            "citation":"\"Acquisitions of the Art Museum 1979,\" <em>Record of the Art Museum, Princeton University </em>39, no. 1/2 (1980): p. 40-63., p. 40",
+            "date":1980,
+            "id":3367,
+            "uri":"https://www.jstor.org/stable/3774628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Florida, Jacksonville",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Florida",
+            "city":"Jacksonville",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_30.332_-81.656.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"68.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"92.30"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"106.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46309"
+    ],
+    "displaymaker":"Leonid Berman, American, 1896–1976",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Leonid Berman (American, 1896–1976), Spanish Moss, 1949. Oil on canvas; 92.3 x 68.5 cm, 106.7 × 73 × 6 cm (frame). Gift of Joseph F. McCrindle (y1979-9)",
+    "captionhtml":"Leonid Berman (American, 1896–1976), <i>Spanish Moss</i>, 1949. Oil on canvas; 92.3 x 68.5 cm, 106.7 × 73 × 6 cm (frame). Gift of Joseph F. McCrindle (y1979-9)",
+    "published_date":"2025-10-29 02:04:53.121137",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

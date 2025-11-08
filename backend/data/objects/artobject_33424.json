@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":33424,
+    "objectnumber":"y1991-86",
+    "sortnumber":"1991   86y",
+    "displaytitle":"Ancestor effigy (thilkotina)",
+    "department":"African and Oceanic Art",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood and organic material",
+    "dimensions":"h. 33.3 cm., w. 6.8 cm., d. 7.5 cm. (13 1/8 x 2 11/16 x 2 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ancestor effigy (thilkotina)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15597,
+            "displayname":"Lobi",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Lobi artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mr. and Mrs. H. Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1991",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43007,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008216",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":14206,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1991-86-87-88_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., pp. 75–76 (illus.)",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        },
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 80",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Burkina Faso",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Burkina Faso",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2361809/burkina-faso.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042338,
+            "term":"Lobi",
+            "aatid":300015860,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088181,
+            "term":"ancestors",
+            "aatid":300255718,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2164667,
+            "term":"organic material",
+            "aatid":300011792,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055416,
+            "classification":"statues"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042338,
+            "culture":"Lobi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.82"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.51"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008216"
+    ],
+    "displaymaker":"Lobi artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lobi artist, Burkina Faso, Western Africa, Ancestor effigy (thilkotina), 20th century. Wood and organic material; 33.3 x 6.8 x 7.5 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1991-86)",
+    "captionhtml":"Lobi artist, Burkina Faso, Western Africa, <i>Ancestor effigy (thilkotina)</i>, 20th century. Wood and organic material; 33.3 x 6.8 x 7.5 cm. Gift of H. Kelley Rollings, Class of 1948, and Mrs. Rollings (y1991-86)",
+    "published_date":"2025-10-16 13:35:42.306748",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

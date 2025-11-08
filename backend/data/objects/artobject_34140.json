@@ -1,0 +1,306 @@
+{
+    "type":"artobject",
+    "objectid":34140,
+    "objectnumber":"y267",
+    "sortnumber":"267     y",
+    "displaytitle":"Flask",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1800,
+    "dateend":-1600,
+    "datecomputed":-1700,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1800–1600 BCE",
+    "medium":"White-painted III–V ware: ceramic",
+    "dimensions":"19.7 x 8.2 x 4.6 cm (7 3/4 x 3 1/4 x 1 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":34532,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002055",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<em>Corpus vasorum antiquorum</em>, (Union Académique Internationale, 1923-).",
+            "citation":"<em>Corpus vasorum antiquorum</em>, (Union Académique Internationale, 1923-)., CVA, Great Britian 1, British Museum 1, IICa, pl. 5, p. 18;\r\nCVA, Great Britian 11, Cambridge 2, IIC, pl. 8, p. 19;\r\nCVA, Italia 8, Firenze 1, IICa, pl. 3, p. 1;\r\nCVA, Pays Bas 1, Musee Scheurleer 1, IICa, pl. 1, p. 9;\r\nCVA, Denmark 1, Copenhyagen 1, IIC, pl. 23, p. 3-4.",
+            "date":1923,
+            "id":3012,
+            "uri":"http://www.worldcat.org/oclc/648150256"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Europe, Cyprus",
+            "code":"Place collected",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_33.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037275,
+            "term":"Middle Cypriote",
+            "aatid":300107599,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037302,
+            "term":"white painted (pottery style)",
+            "aatid":300107620,
+            "termtype":"Subject"
+        },
+        {
+            "id":2117136,
+            "term":"lugs",
+            "aatid":300190784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199192,
+            "term":"Middle Bronze Age",
+            "aatid":300019277,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":20985,
+            "period":"Middle Cypriote II",
+            "alphasort":"Middle Cypriote II",
+            "begindate":-1850,
+            "enddate":-1750,
+            "displayperiod":"Middle Cypriote II – III",
+            "displaydate":null
+        },
+        {
+            "id":23986,
+            "period":"Middle Bronze Age",
+            "alphasort":"Middle Bronze Age",
+            "begindate":-1900,
+            "enddate":-1600,
+            "displayperiod":"Middle Bronze Age, ca. 1900–1600 BCE",
+            "displaydate":"ca. 1900–1600 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037275,
+            "period":"Middle Cypriote"
+        },
+        {
+            "id":2199192,
+            "period":"Middle Bronze Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.19"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.57"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182063,
+            "name":"web_2020_ancient_greek"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002055"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Middle Bronze Age, ca. 1900–1600 BCE | Middle Cypriote II – III",
+    "caption":"Cypriote, Middle Bronze Age (ca. 1900–1600 BCE), Middle Cypriote II – III, Cyprus, ca. 1800–1600 BCE, Flask. White-painted III–V ware: ceramic; 19.7 x 8.2 x 4.6 cm. Gift of Allan Marquand, Class of 1874 (y267)",
+    "captionhtml":"Cypriote, Middle Bronze Age (ca. 1900–1600 BCE), Middle Cypriote II – III, Cyprus, ca. 1800–1600 BCE, <i>Flask</i>. White-painted III–V ware: ceramic; 19.7 x 8.2 x 4.6 cm. Gift of Allan Marquand, Class of 1874 (y267)",
+    "published_date":"2025-10-16 13:39:23.037461",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

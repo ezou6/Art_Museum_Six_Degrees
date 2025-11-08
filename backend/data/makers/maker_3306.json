@@ -1,0 +1,61 @@
+{
+    "makerid":3306,
+    "published_date":"2023-04-06 02:02:08.076629",
+    "type":"maker",
+    "displayname":"Charles Rohlfs",
+    "makertype":"Individual",
+    "alphasort":"Rohlfs Charles",
+    "lastname":"Rohlfs",
+    "firstname":"Charles",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1853–1936; born New York, NY; died Buffalo, NY",
+    "begindate":1853,
+    "enddate":1936,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Charles Rohlfs",
+            "alphasort":"Rohlfs Charles",
+            "lastname":"Rohlfs",
+            "firstname":"Charles",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500293039"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/22040856"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d7295cccc32ae0016fd126e"
+            },
+            "title":"Friends Annual Mary Pitcairn Keating Lecture: Alice Cooney Frelinghuysen",
+            "description":"Alice Cooney Frelinghuysen, the Anthony W. and Lulu C. Wang Curator of American Decorative Arts at the Metropolitan Museum of Art and Princeton Class of 1976, shared insights into the American Arts and Crafts movement gleaned from a career as a curator and through reflections on her interactions with the Princeton University Art Museum’s collections and exhibitions.",
+            "speaker_type":"Curator",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_ebnmfamb",
+            "transcript":"",
+            "source_project":"Other",
+            "displaydate":"2016",
+            "sort_date":"2016-05-01",
+            "video_type":"Lectures",
+            "caption_file":[]
+        }
+    ],
+    "essay":[]
+}

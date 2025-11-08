@@ -1,0 +1,209 @@
+{
+    "type":"artobject",
+    "objectid":13376,
+    "objectnumber":"x1975-390",
+    "sortnumber":"1975  390x",
+    "displaytitle":"Sack",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1969,
+    "dateend":1969,
+    "datecomputed":1969,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1969",
+    "medium":"Color lithograph on Arjomari paper",
+    "dimensions":"101.5 x 71 cm. (39 15/16 x 27 15/16 in.)\r\nframe: 109 × 79.5 × 3.6 cm (42 15/16 × 31 5/16 × 1 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Paul F. Walter",
+    "markings":"Copyright and Gemini blindstamps, bottom right\r\nStamped, bottom left: GEMINI G.E.L./LOS ANGELES, CALIF.",
+    "inscribed":"Inscribed on verso in graphite, top right: 5508\r\nWorkshop number in graphite, bottom left: RR 69-282",
+    "signed":"Signed, numbered, and dated in graphite, top center: RAUSCHENBERG 52/60 69",
+    "catalograisonne":null,
+    "creditlinerepro":"Art © Robert Rauschenberg Foundation and Gemini G.E.L./Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1975-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sack",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3179,
+            "displayname":"Robert Rauschenberg",
+            "displaydate":"1925–2008; born Port Arthur, TX; died Captiva Island, FL; active New York, NY, and Captiva Island",
+            "datebegin":1925,
+            "dateend":2008,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert Rauschenberg, 1925–2008; born Port Arthur, TX; died Captiva Island, FL; active New York, NY, and Captiva Island",
+            "displayorder":1
+        },
+        {
+            "id":12874,
+            "displayname":"Gemini G.E.L., Los Angeles",
+            "displaydate":null,
+            "datebegin":1966,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Gemini G.E.L., Los Angeles",
+            "displayorder":4
+        },
+        {
+            "id":12874,
+            "displayname":"Gemini G.E.L., Los Angeles",
+            "displaydate":null,
+            "datebegin":1966,
+            "dateend":0,
+            "prefix":"Printed at",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed at Gemini G.E.L., Los Angeles",
+            "displayorder":3
+        },
+        {
+            "id":14054,
+            "displayname":"Daniel Freeman",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Daniel Freeman",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121791,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44779",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31.",
+            "citation":"\"Acquisitions of the Art Museum 1975,\" <em>Record of the Art Museum, Princeton University,</em> 35, no. 1 (1976): p. 22-31., p. 25 (illus.); p. 26",
+            "date":1976,
+            "id":3366,
+            "uri":"https://www.jstor.org/stable/3774452"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"101.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"109.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196700,
+            "name":"MoCo-Pop art"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44779"
+    ],
+    "displaymaker":"Robert Rauschenberg, 1925–2008; born Port Arthur, TX; died Captiva Island, FL; active New York, NY, and Captiva Island | Printed by Daniel Freeman | Printed at Gemini G.E.L., Los Angeles | Published by Gemini G.E.L., Los Angeles",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert Rauschenberg (1925–2008; born Port Arthur, TX; died Captiva Island, FL; active New York, NY, and Captiva Island), Printed by Daniel Freeman, Printed at Gemini G.E.L., Los Angeles, Published by Gemini G.E.L., Los Angeles, Sack, 1969. Color lithograph on Arjomari paper; 101.5 x 71 cm, 109 × 79.5 × 3.6 cm (frame). Gift of Paul F. Walter (x1975-390)",
+    "captionhtml":"Robert Rauschenberg (1925–2008; born Port Arthur, TX; died Captiva Island, FL; active New York, NY, and Captiva Island), Printed by Daniel Freeman, Printed at Gemini G.E.L., Los Angeles, Published by Gemini G.E.L., Los Angeles, <i>Sack</i>, 1969. Color lithograph on Arjomari paper; 101.5 x 71 cm, 109 × 79.5 × 3.6 cm (frame). Gift of Paul F. Walter (x1975-390)",
+    "published_date":"2025-10-16 11:48:42.422686",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

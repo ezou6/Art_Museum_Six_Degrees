@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":48844,
+    "objectnumber":"y1950-128.30",
+    "sortnumber":"1950  128y   30",
+    "displaytitle":"Stelae with cornice with painted on strokes and head molding",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Sculpture",
+    "datebegin":-2024,
+    "dateend":-1700,
+    "datecomputed":-1862,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Limestone",
+    "dimensions":"67.5 x 38.5 x 6.0 cm (26 9/16 x 15 3/16 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of The Metropolitan Museum of Art",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1950-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stelae with cornice with painted on strokes and head molding",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Uncovered during the Metropolitan Museum of Art excavations at Lisht in 1908-1909; given to the Princeton Museum in 1950 by the Met.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":162415,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00979",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Special Inventory Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Egypt, Lisht, Upper Egypt",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":"Upper Egypt",
+            "state":null,
+            "city":"Lisht",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"possibly North Pyramid",
+            "geoname":"http://www.geonames.org/maps/google_29.575_31.226.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Africa, Egypt, possibly Dendera, Upper Egypt",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":"Upper Egypt",
+            "state":null,
+            "city":"possibly Dendera",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_26.168_32.658.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place excavated: Africa, Egypt, Lisht, Upper Egypt",
+            "code":"Place excavated",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":"Upper Egypt",
+            "state":null,
+            "city":"Lisht",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_29.575_31.226.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2036961,
+            "term":"Middle Kingdom",
+            "aatid":300020315,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037042,
+            "term":"Late period (Egyptian)",
+            "aatid":300107253,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2083384,
+            "term":"stelae",
+            "aatid":300007023,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2107406,
+            "term":"architectural elements",
+            "aatid":300000885,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2163916,
+            "term":"limestone",
+            "aatid":300011286,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2107406,
+            "classification":"architectural elements"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12856,
+            "period":"Middle Kingdom",
+            "alphasort":"Middle Kingdom",
+            "begindate":-2030,
+            "enddate":-1640,
+            "displayperiod":"Middle Kingdom to Late Period, ca. 2030–1640 BCE",
+            "displaydate":"ca. 2030–1640 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036961,
+            "period":"Middle Kingdom"
+        },
+        {
+            "id":2037042,
+            "period":"Late period (Egyptian)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"67.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/STU00979"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"Middle Kingdom to Late Period, ca. 2030–1640 BCE",
+    "caption":"Egyptian, Middle Kingdom to Late Period (ca. 2030–1640 BCE), Lisht, Upper Egypt, Egypt, Stelae with cornice with painted on strokes and head molding. Limestone; 67.5 x 38.5 x 6 cm. Gift of The Metropolitan Museum of Art (y1950-128.30)",
+    "captionhtml":"Egyptian, Middle Kingdom to Late Period (ca. 2030–1640 BCE), Lisht, Upper Egypt, Egypt, <i>Stelae with cornice with painted on strokes and head molding</i>. Limestone; 67.5 x 38.5 x 6 cm. Gift of The Metropolitan Museum of Art (y1950-128.30)",
+    "published_date":"2025-10-16 15:02:54.686054",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

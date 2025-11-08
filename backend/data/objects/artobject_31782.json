@@ -1,0 +1,184 @@
+{
+    "type":"artobject",
+    "objectid":31782,
+    "objectnumber":"y1974-13",
+    "sortnumber":"1974   13y",
+    "displaytitle":"Stand",
+    "department":"European Painting and Sculpture ",
+    "classification":"Metal",
+    "datebegin":1780,
+    "dateend":1781,
+    "datecomputed":1780,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1780–1",
+    "medium":"Silver",
+    "dimensions":"10 × diam. 26 cm (3 15/16 × 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Max Adler",
+    "markings":"Four hall-marks on bottom of lamp [lion passant, crowned leopard, initals of Burrage Davenport, and lion repeated]",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1974-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stand",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5517,
+            "displayname":"Burrage Davenport",
+            "displaydate":"British, 18th century",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Burrage Davenport, British, 18th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":139306,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61434",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139307,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61435",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1974\", <em>Record of the Art Museum, Princeton University</em> 34, no. 1 (1975): p. 22-30.",
+            "citation":"\"Acquisitions of the Art Museum 1974\", <em>Record of the Art Museum, Princeton University</em> 34, no. 1 (1975): p. 22-30., p. 30",
+            "date":1975,
+            "id":3453,
+            "uri":"https://www.jstor.org/stable/3774476"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: London",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162319,
+            "term":"silver",
+            "aatid":300011029,
+            "termtype":"Subject"
+        },
+        {
+            "id":2069125,
+            "term":"stands (support furniture)",
+            "aatid":300039767,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161775,
+            "classification":"metal"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV61434"
+    ],
+    "displaymaker":"Burrage Davenport, British, 18th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Burrage Davenport (British, 18th century), Stand, 1780–1. Silver; 10 × 26 cm. Gift of Max Adler (y1974-13)",
+    "captionhtml":"Burrage Davenport (British, 18th century), <i>Stand</i>, 1780–1. Silver; 10 × 26 cm. Gift of Max Adler (y1974-13)",
+    "published_date":"2025-10-16 13:26:36.993344",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

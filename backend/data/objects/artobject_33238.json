@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":33238,
+    "objectnumber":"y1989-45.1",
+    "sortnumber":"1989   45y    1",
+    "displaytitle":"Miniature figurine of a tepezcuinte (rodent), from a necklace",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-1500,
+    "dateend":-1500,
+    "datecomputed":-1500,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1500 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 1.9 cm., w. 1.0 cm., d. 1.5 cm. (3/4 x 3/8 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1989-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Miniature figurine of a tepezcuinte (rodent), from a necklace",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Rutilo Ocampo; Purchased on June 27, 1970, by Gillett G. Griffin (1928-2016), Princeton, NJ [1]; gift to the Princeton University Art Museum, 1989.\n\n[1] According to dated notebook entry.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":48289,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV013282",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972).",
+            "citation":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972)., fig. 30 (illus.)",
+            "date":1972,
+            "id":2732,
+            "uri":"http://www.worldcat.org/oclc/382711"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57.",
+            "citation":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57., p. 56",
+            "date":1990,
+            "id":3099,
+            "uri":"https://www.jstor.org/stable/3774747"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero, Central Mexico, Xochipala",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Central Mexico",
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Xochipala",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514444/xochipala.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130736,
+            "term":"necklaces",
+            "aatid":300046001,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035648,
+            "term":"Early Preclassic",
+            "aatid":300016970,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171726,
+            "term":"rats",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2130736,
+            "classification":"necklaces"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13844,
+            "culture":"Xochipala",
+            "alphasort":"Xochipala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Xochipala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24008,
+            "period":"Early Formative Period",
+            "alphasort":"Formative Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035648,
+            "period":"Early Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"1.91"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"1.02"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264566,
+            "name":"VisibleStorage_DenseDisplay_G13_Asia_WorldInMini"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV013282"
+    ],
+    "displaymaker":null,
+    "displayculture":"Xochipala",
+    "displayperiod":"Early Formative Period",
+    "caption":"Xochipala, Early Formative Period, ca. 1500 BCE, Guerrero, Central Mexico, Mexico, Mesoamerica, Miniature figurine of a tepezcuinte (rodent), from a necklace. Ceramic; 1.9 x 1 x 1.5 cm. Gift of Gillett G. Griffin (y1989-45.1)",
+    "captionhtml":"Xochipala, Early Formative Period, ca. 1500 BCE, Guerrero, Central Mexico, Mexico, Mesoamerica, <i>Miniature figurine of a tepezcuinte (rodent), from a necklace</i>. Ceramic; 1.9 x 1 x 1.5 cm. Gift of Gillett G. Griffin (y1989-45.1)",
+    "published_date":"2025-10-29 02:05:09.140777",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,303 @@
+{
+    "type":"artobject",
+    "objectid":48045,
+    "objectnumber":"1995-407 a-b",
+    "sortnumber":"1995  407 a    b",
+    "displaytitle":"Dance panels (yàta)",
+    "department":"African and Oceanic Art",
+    "classification":"Ceremonial Objects",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Glass beads, cotton, leather, dye, and raffia",
+    "dimensions":"each: h. 32.2 cm., w. 45.7 cm. (12 11/16 x 18 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dance panels (yàta)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14188,
+            "displayname":"Yorùbá",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Yorùbá artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Eric Robertson, New York, NY]; Mr. &amp; Mrs. H. Kelley Rollings, Tucson, AZ; Princeton University Art Museum, 1995",
+            "remarks":"info from Dec. 1995 list of gifts, donor file"
+        }
+    ],
+    "media":[
+        {
+            "id":45825,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010901",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":133,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-407_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 74 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"10",
+                "lon":"8"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049151,
+            "term":"beadwork",
+            "aatid":300053647,
+            "termtype":"Classification"
+        },
+        {
+            "id":2115900,
+            "term":"panels (costume components)",
+            "aatid":300255138,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042050,
+            "term":"Yoruba",
+            "aatid":300016031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2089652,
+            "term":"dancers",
+            "aatid":300025653,
+            "termtype":"Subject"
+        },
+        {
+            "id":2090741,
+            "term":"priests",
+            "aatid":300025774,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2157849,
+            "term":"beading (process)",
+            "aatid":300235440,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044421,
+            "term":"cotton (textile)",
+            "aatid":300014067,
+            "termtype":"Materials"
+        },
+        {
+            "id":2048485,
+            "term":"beads",
+            "aatid":300234006,
+            "termtype":"Materials"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043611,
+            "term":"cotton (fiber)",
+            "aatid":300183670,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044505,
+            "term":"cloth",
+            "aatid":300162391,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045543,
+            "term":"leather",
+            "aatid":300011845,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2115900,
+            "classification":"panels (costume components)"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2049151,
+            "classification":"beadwork"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042050,
+            "culture":"Yoruba"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010901"
+    ],
+    "displaymaker":"Yorùbá artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yorùbá artist, Nigeria, Western Africa, Dance panels (yàta), 20th century. Glass beads, cotton, leather, dye, and raffia; 32.2 x 45.7 cm (each). Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-407 a-b)",
+    "captionhtml":"Yorùbá artist, Nigeria, Western Africa, <i>Dance panels (yàta)</i>, 20th century. Glass beads, cotton, leather, dye, and raffia; 32.2 x 45.7 cm (each). Gift of H. Kelley Rollings, class of 1948, and Mrs. Rollings (1995-407 a-b)",
+    "published_date":"2025-10-16 14:55:12.441412",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

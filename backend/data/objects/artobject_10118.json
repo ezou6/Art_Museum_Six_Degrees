@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":10118,
+    "objectnumber":"x1969-152",
+    "sortnumber":"1969  152x",
+    "displaytitle":"Still Hollow",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1936,
+    "dateend":1936,
+    "datecomputed":1936,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1936",
+    "medium":"Etching, aquatint, and sandpaper ground",
+    "dimensions":"plate: 25.8 x 36.8 cm (10 3/16 x 14 1/2 in.)\r\nsheet: 35.2 x 48.7 cm (13 7/8 x 19 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David H. McAlpin, Class of 1920, and Mrs. McAlpin, in memory of Prof. Clifton R. Hall",
+    "markings":null,
+    "inscribed":"In graphite, lower left: Trial proof",
+    "signed":"In graphite, lower right: Kerr Eby imp.",
+    "catalograisonne":"Giardina 185",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Still Hollow",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5745,
+            "displayname":"Kerr Eby",
+            "displaydate":"American, 1889–1946",
+            "datebegin":1889,
+            "dateend":1946,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kerr Eby, American, 1889–1946",
+            "displayorder":1
+        },
+        {
+            "id":5745,
+            "displayname":"Kerr Eby",
+            "displaydate":"American, 1889–1946",
+            "datebegin":1889,
+            "dateend":1946,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Kerr Eby, American, 1889–1946",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104926,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29344",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 25",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Connecticut",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Connecticut",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098560,
+            "term":"winter",
+            "aatid":300133101,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120181,
+            "term":"hollows",
+            "aatid":300008772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29344"
+    ],
+    "displaymaker":"Kerr Eby, American, 1889–1946 | Printed by Kerr Eby, American, 1889–1946",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kerr Eby (American, 1889–1946), Printed by Kerr Eby (American, 1889–1946), Still Hollow, 1936. Etching, aquatint, and sandpaper ground; 25.8 x 36.8 cm (plate), 35.2 x 48.7 cm (sheet). Gift of David H. McAlpin, Class of 1920, and Mrs. McAlpin, in memory of Prof. Clifton R. Hall (x1969-152)",
+    "captionhtml":"Kerr Eby (American, 1889–1946), Printed by Kerr Eby (American, 1889–1946), <i>Still Hollow</i>, 1936. Etching, aquatint, and sandpaper ground; 25.8 x 36.8 cm (plate), 35.2 x 48.7 cm (sheet). Gift of David H. McAlpin, Class of 1920, and Mrs. McAlpin, in memory of Prof. Clifton R. Hall (x1969-152)",
+    "published_date":"2025-10-16 11:19:55.371315",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

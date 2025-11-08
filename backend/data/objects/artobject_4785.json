@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":4785,
+    "objectnumber":"x1944-26 a-b",
+    "sortnumber":"1944   26xa    b",
+    "displaytitle":"Illustration for Dickens' \"Martin Chuzzlewit\": \"Mr. Pecksniff's Courtship,\" etc.",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1799,
+    "dateend":1899,
+    "datecomputed":1849,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate (a): 21.5 x 15.6 cm. (8 7/16 x 6 1/8 in.)\r\nsheet (a): 33.6 x 26.3 cm. (13 1/4 x 10 3/8 in.)\r\nsheet trimmed to plate (b): 19 x 13.7 cm. (7 1/2 x 5 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"Inscribed in plate, center right: V. Balch Sc.\r\nInscribed in plate, center left: John Hibert fecit",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Illustration for Dickens' \"Martin Chuzzlewit\": \"Mr. Pecksniff's Courtship,\" etc.",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":213,
+            "displayname":"V. Balch",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"V. Balch",
+            "displayorder":1
+        },
+        {
+            "id":1393,
+            "displayname":"John Gilbert",
+            "displaydate":"1817–1897",
+            "datebegin":1817,
+            "dateend":1897,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after John Gilbert, 1817–1897",
+            "displayorder":3
+        },
+        {
+            "id":5507,
+            "displayname":"Felix Octavious Carr Darley",
+            "displaydate":"American, 1822–1888",
+            "datebegin":1822,
+            "dateend":1888,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Felix Octavious Carr Darley, American, 1822–1888",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":106729,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31061",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":106730,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31062",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096851,
+            "term":"Nature",
+            "aatid":300179372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.60"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31062"
+    ],
+    "displaymaker":"V. Balch | after Felix Octavious Carr Darley, American, 1822–1888 | after John Gilbert, 1817–1897",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"V. Balch, after Felix Octavious Carr Darley (American, 1822–1888), after John Gilbert (1817–1897), Illustration for Dickens' \"Martin Chuzzlewit\": \"Mr. Pecksniff's Courtship,\" etc. Engraving; 21.5 x 15.6 cm (plate, a), 33.6 x 26.3 cm (sheet, a), 19 x 13.7 cm (plate, b). Mather Collection (x1944-26 a-b)",
+    "captionhtml":"V. Balch, after Felix Octavious Carr Darley (American, 1822–1888), after John Gilbert (1817–1897), <i>Illustration for Dickens' \"Martin Chuzzlewit\": \"Mr. Pecksniff's Courtship,\" etc.</i>. Engraving; 21.5 x 15.6 cm (plate, a), 33.6 x 26.3 cm (sheet, a), 19 x 13.7 cm (plate, b). Mather Collection (x1944-26 a-b)",
+    "published_date":"2025-10-23 16:45:11.751742",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

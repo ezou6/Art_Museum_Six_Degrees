@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":19357,
+    "objectnumber":"y1929-81",
+    "sortnumber":"1929   81y",
+    "displaytitle":"Jug",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":50,
+    "dateend":150,
+    "datecomputed":100,
+    "daterange":"A.D. 1-500",
+    "displaydate":"50–150 CE",
+    "medium":"Terra sigillata ceramic",
+    "dimensions":"h. 17.4 cm, diam. 11.8 cm (6 7/8 x 4 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jug",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":35190,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002686",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P><EM>Enciclopedia dell’Arte Antica, classica e orientale,</EM> (Roma: Istituto della Enciclopedia Italiana, 1985).</P>",
+            "citation":"<P><EM>Enciclopedia dell’Arte Antica, classica e orientale,</EM> (Roma: Istituto della Enciclopedia Italiana, 1985).</P>, Vol. 2: p.89-90",
+            "date":1981,
+            "id":2910,
+            "uri":"http://www.worldcat.org/oclc/559022"
+        },
+        {
+            "boilertext":"<P>Alessandro Palma di Cesnola, <EM>Cyprus antiquities: excavated by Major Alexander Palma di Cesnola, member of the Biblical Archaeological Society...1876-1879</EM>, (London: W. Holmes &amp; Son, 1881).</P>",
+            "citation":"<P>Alessandro Palma di Cesnola, <EM>Cyprus antiquities: excavated by Major Alexander Palma di Cesnola, member of the Biblical Archaeological Society...1876-1879</EM>, (London: W. Holmes &amp; Son, 1881).</P>, pl. 15, top, second from right",
+            "date":1881,
+            "id":6642,
+            "uri":"http://www.worldcat.org/oclc/8705637"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Eastern Mediterranean, likely Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Eastern Mediterranean, likely Cyprus",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188456,
+            "term":"Cypriot sigillata",
+            "aatid":null,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073254,
+            "term":"jugs",
+            "aatid":300045685,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073254,
+            "classification":"jugs"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2188456,
+            "period":"Cypriot sigillata"
+        },
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.40"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"11.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002686"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), 50–150 CE, Jug. Terra sigillata ceramic; 17.4 x 11.8 cm. Gift of Allan Marquand, Class of 1874 (y1929-81)",
+    "captionhtml":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), 50–150 CE, <i>Jug</i>. Terra sigillata ceramic; 17.4 x 11.8 cm. Gift of Allan Marquand, Class of 1874 (y1929-81)",
+    "published_date":"2025-10-16 12:27:48.020195",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

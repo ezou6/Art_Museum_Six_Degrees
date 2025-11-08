@@ -1,0 +1,57 @@
+{
+    "makerid":4815,
+    "published_date":"2025-10-23 17:39:55.756017",
+    "type":"maker",
+    "displayname":"John Marin",
+    "makertype":"Individual",
+    "alphasort":"Marin John",
+    "lastname":"Marin",
+    "firstname":"John",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"American, 1870–1953",
+    "begindate":1870,
+    "enddate":1953,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"John Marin",
+            "alphasort":"Marin John",
+            "lastname":"Marin",
+            "firstname":"John",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500115368"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/74649315"
+        }
+    ],
+    "audio":[],
+    "video":[],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"668da641d5441e3e2214cb37"
+            },
+            "title":"A Generous Legacy: Transformative Gifts Continue to Shape Princeton's Collections",
+            "body":"",
+            "essay_uri":"https://artmuseum.princeton.edu/story/generous-legacy-transformative-gifts-continue-shape-princeton%E2%80%99s-collections",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "type":"artobject",
+    "objectid":133231,
+    "objectnumber":"2017-196",
+    "sortnumber":"2017  196",
+    "displaytitle":"Tiger and Bamboo",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1756,
+    "dateend":1839,
+    "datecomputed":1798,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"Painting: 146 × 81.4 cm (57 1/2 × 32 1/16 in.)\r\nMount: 220 × 98.5 cm (86 5/8 × 38 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Mary Trumbull Adams Art Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed: Echizen no suke Ganku” 越前介岸駒\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tiger and Bamboo",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6059,
+            "displayname":"Ganku 岸駒",
+            "displaydate":"1749 or 1756–1839",
+            "datebegin":1749,
+            "dateend":1839,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ganku 岸駒, 1749 or 1756–1839",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Ganku was known for his representations of tigers—he was so interested in them that he asked a Chinese merchant to obtain a tiger skull, legs, and pelt for him. Through close observation of these specimens, he perfected his depiction. Placing the skull under the tiger pelt, Ganku noticed that tigers have flatter heads than domestic cats do. The artist painstakingly painted each hair of the tiger to evoke the softness of its fur, a detail he no doubt noticed by handling his treasured pelt.&nbsp; ",
+            "remarks":"Asian rotation May 2019"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"–2017&nbsp;Seikado Gallery (Kyoto, Japan), sold to the Princeton University Art Museum, 2017.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":213711,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46954",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":213712,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46959",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":213713,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46962",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":213714,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46966",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127399,
+            "term":"tigers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2168319,
+            "term":"colorant",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2153366,
+            "term":"painting (image-making)",
+            "aatid":300054216,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044466,
+            "term":"silk (textile)",
+            "aatid":300243428,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"220.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"98.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"146.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"81.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":162933,
+            "name":"web_2019_Asian_May_rotation"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_46966"
+    ],
+    "displaymaker":"Ganku 岸駒, 1749 or 1756–1839",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Ganku 岸駒 (1749 or 1756–1839), Tiger and Bamboo. Hanging scroll; ink and color on silk; 146 × 81.4 cm (Painting). Museum purchase, Mary Trumbull Adams Art Fund (2017-196)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Ganku 岸駒 (1749 or 1756–1839), <i>Tiger and Bamboo</i>. Hanging scroll; ink and color on silk; 146 × 81.4 cm (Painting). Museum purchase, Mary Trumbull Adams Art Fund (2017-196)",
+    "published_date":"2025-10-16 18:40:53.365587",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

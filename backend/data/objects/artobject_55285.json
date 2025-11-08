@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":55285,
+    "objectnumber":"2008-5",
+    "sortnumber":"2008    5",
+    "displaytitle":"Untitled",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1962,
+    "dateend":1969,
+    "datecomputed":1966,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1965",
+    "medium":"Mixed media on canvas",
+    "dimensions":"161 × 129 cm (63 3/8 × 50 13/16 in.)\r\nframe: 163 × 131.4 × 4.8 cm (64 3/16 × 51 3/4 × 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Toshiko Takaezu",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed lower left: Sawada",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Sawada Tetsuro",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":22687,
+            "displayname":"Sawada Tetsurō 沢田哲郎",
+            "displaydate":"1933–1998; born Hokkaido, Japan; died Japan",
+            "datebegin":1933,
+            "dateend":1998,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sawada Tetsurō 沢田哲郎, 1933–1998; born Hokkaido, Japan; died Japan",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1970s-2008 Toshiko Takaezu, 1922-2011,&nbsp;(Quakertown, NJ), by gift to the Princeton University Art Museum, 2008. <br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":262331,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250425_21221",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 109",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2166886,
+            "term":"mixed media",
+            "aatid":300163347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033927,
+            "term":"Showa",
+            "aatid":300018568,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2044653,
+            "term":"canvas",
+            "aatid":300014078,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        },
+        {
+            "id":2166886,
+            "classification":"mixed media"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2033927,
+            "period":"Showa"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"163.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"131.44"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.76"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"161.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"129.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":32357,
+            "name":"web_japanese_2014-12"
+        },
+        {
+            "packageid":214963,
+            "name":"Gallery_01-Welcome"
+        },
+        {
+            "packageid":8770,
+            "name":"Web_Japanese_2014-6"
+        },
+        {
+            "packageid":29673,
+            "name":"web_2014_takaezu"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX25_250425_21221"
+    ],
+    "displaymaker":"Sawada Tetsurō 沢田哲郎, 1933–1998; born Hokkaido, Japan; died Japan",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sawada Tetsurō 沢田哲郎 (1933–1998; born Hokkaido, Japan; died Japan), Untitled, ca. 1965. Mixed media on canvas; 161 × 129 cm, 163 × 131.4 × 4.8 cm (frame). Gift of Toshiko Takaezu (2008-5)",
+    "captionhtml":"Sawada Tetsurō 沢田哲郎 (1933–1998; born Hokkaido, Japan; died Japan), <i>Untitled</i>, ca. 1965. Mixed media on canvas; 161 × 129 cm, 163 × 131.4 × 4.8 cm (frame). Gift of Toshiko Takaezu (2008-5)",
+    "published_date":"2025-10-16 15:24:31.021635",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":23731,
+    "objectnumber":"y1949-100",
+    "sortnumber":"1949  100y",
+    "displaytitle":"Landscape with Temple, in Qing style",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1575,
+    "dateend":1725,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 160.5 x 39 cm. (63 3/16 x 15 3/8 in.)\r\nmount: 246 x 56.6 cm\r\nwith knobs: 65.5 cm",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Characters and one seal in ink on label adhered to edge of rolled scroll ",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape with Temple, in Qing style",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1665,
+            "displayname":"Wang Shimin 王時敏",
+            "displaydate":"1592 - 1680",
+            "datebegin":1592,
+            "dateend":1680,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wang Shimin 王時敏, 1592 - 1680",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1949 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":70634,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-100",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61903,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08233",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084828,
+            "term":"temples",
+            "aatid":300007595,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"early Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        },
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"late Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        },
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"160.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-100"
+    ],
+    "displaymaker":"Wang Shimin 王時敏, 1592 - 1680",
+    "displayculture":"Chinese",
+    "displayperiod":"late Ming dynasty, 1368–1644 | early Qing dynasty, 1644–1912",
+    "caption":"Chinese, late Ming dynasty (1368–1644), early Qing dynasty (1644–1912), Wang Shimin 王時敏 (1592 - 1680), Landscape with Temple, in Qing style, undated. Hanging scroll; ink on paper; 160.5 x 39 cm (Painting). Gift of DuBois Schanck Morris, Class of 1893   (y1949-100)",
+    "captionhtml":"Chinese, late Ming dynasty (1368–1644), early Qing dynasty (1644–1912), Wang Shimin 王時敏 (1592 - 1680), <i>Landscape with Temple, in Qing style</i>, undated. Hanging scroll; ink on paper; 160.5 x 39 cm (Painting). Gift of DuBois Schanck Morris, Class of 1893   (y1949-100)",
+    "published_date":"2025-10-16 12:54:32.445962",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

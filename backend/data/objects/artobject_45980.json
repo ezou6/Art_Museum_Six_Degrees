@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":45980,
+    "objectnumber":"x1934-1142.85",
+    "sortnumber":"1934 1142x   85",
+    "displaytitle":"Tactus",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1618,
+    "dateend":1637,
+    "datecomputed":1628,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 22.1 x 16.3 cm. (8 11/16 x 6 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tactus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4172,
+            "displayname":"Crispijn van de Passe II the Younger",
+            "displaydate":"Dutch, ca. 1597 - 1670",
+            "datebegin":1597,
+            "dateend":1670,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Crispijn van de Passe II the Younger, Dutch, ca. 1597 - 1670",
+            "displayorder":2
+        },
+        {
+            "id":4173,
+            "displayname":"Willem de Passe",
+            "displaydate":"Dutch, 1598–1637",
+            "datebegin":1598,
+            "dateend":1637,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Willem de Passe, Dutch, 1598–1637",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103205,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27944",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":7968,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1934-1142-85_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Netherlands",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Netherlands",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159231,
+            "term":"putti",
+            "aatid":300250465,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27944"
+    ],
+    "displaymaker":"Willem de Passe, Dutch, 1598–1637 | after Crispijn van de Passe II the Younger, Dutch, ca. 1597 - 1670",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Willem de Passe (Dutch, 1598–1637), after Crispijn van de Passe II the Younger (Dutch, ca. 1597 - 1670), Tactus. Engraving; 22.1 x 16.3 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1142.85)",
+    "captionhtml":"Willem de Passe (Dutch, 1598–1637), after Crispijn van de Passe II the Younger (Dutch, ca. 1597 - 1670), <i>Tactus</i>. Engraving; 22.1 x 16.3 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1142.85)",
+    "published_date":"2025-10-16 14:34:10.409956",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

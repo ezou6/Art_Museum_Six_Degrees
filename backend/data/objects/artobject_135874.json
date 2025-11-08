@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":135874,
+    "objectnumber":"2019-199",
+    "sortnumber":"2019  199",
+    "displaytitle":"Couple on front porch, West Oakland",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1965,
+    "dateend":1965,
+    "datecomputed":1965,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1965",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 16.4 × 16.6 cm (6 7/16 × 6 9/16 in.)\r\nsheet: 25.2 × 20.2 cm (9 15/16 × 7 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist",
+    "markings":null,
+    "inscribed":"in graphite on verso: West Oakland",
+    "signed":"Signed and dated in graphite on verso: Joanne, 1965",
+    "catalograisonne":null,
+    "creditlinerepro":"© Joanne Leonard",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Couple on front porch, West Oakland",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21718,
+            "displayname":"Joanne Leonard",
+            "displaydate":"born 1940, Los Angeles, CA; active Ann Arbor, MI",
+            "datebegin":1940,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joanne Leonard, born 1940, Los Angeles, CA; active Ann Arbor, MI",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist; gifted to Princeton University Art Museum, July 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":235642,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1161",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Oakland",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Oakland",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5378538/oakland.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106423,
+            "term":"porches",
+            "aatid":300004132,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1161"
+    ],
+    "displaymaker":"Joanne Leonard, born 1940, Los Angeles, CA; active Ann Arbor, MI",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joanne Leonard (born 1940, Los Angeles, CA; active Ann Arbor, MI), Couple on front porch, West Oakland, 1965. Gelatin silver print; 16.4 × 16.6 cm (image), 25.2 × 20.2 cm (sheet). Gift of the artist (2019-199)",
+    "captionhtml":"Joanne Leonard (born 1940, Los Angeles, CA; active Ann Arbor, MI), <i>Couple on front porch, West Oakland</i>, 1965. Gelatin silver print; 16.4 × 16.6 cm (image), 25.2 × 20.2 cm (sheet). Gift of the artist (2019-199)",
+    "published_date":"2025-10-16 18:51:42.043252",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":33297,
+    "objectnumber":"y1990-22",
+    "sortnumber":"1990   22y",
+    "displaytitle":"Wadjet",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Faience",
+    "datebegin":-304,
+    "dateend":-30,
+    "datecomputed":-167,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Faience",
+    "dimensions":"6.5 x 1.6 x 1.7 cm (2 9/16 x 5/8 x 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wadjet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Edward Sampson",
+            "remarks":"Batch edit for Provenance publiation project 10/2023; created in project follow-up - FLB"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tAncient Egyptians often wore amulets like these in the hopes of safeguarding themselves against disease, misfortune, and ill will. In Egypt, the magical properties associated with amulets were derived from their shape, color, decoration, inscription, material, and associated prayers. Many of the objects displayed here were pierced to make room for a loop, so that the owners could wear them as necklaces, ensuring that the amulets’ protection accompanied them wherever they went, including the Underworld.\n</p>",
+            "remarks":"MED_22_ADJ-3_CLA-Day 1 Cataloguing (group chat for y1934-50, y1990-22, y1961-189, y1959-161, 1996-16, y496, y1961-109) "
+        }
+    ],
+    "media":[
+        {
+            "id":35238,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002806",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2037078,
+            "term":"Ptolemaic",
+            "aatid":300020432,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055438,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131826,
+            "term":"headdresses",
+            "aatid":300046023,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049250,
+            "term":"faience",
+            "aatid":300010668,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048734,
+            "term":"amulets",
+            "aatid":300230823,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048789,
+            "term":"religious objects",
+            "aatid":300234098,
+            "termtype":"Classification"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188491,
+            "term":"faience",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048789,
+            "classification":"religious objects"
+        },
+        {
+            "id":2049250,
+            "classification":"faience"
+        },
+        {
+            "id":2055438,
+            "classification":"figurines"
+        },
+        {
+            "id":2048734,
+            "classification":"amulets"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":13454,
+            "period":"Ptolemaic Period",
+            "alphasort":"Ptolemaic Period",
+            "begindate":-304,
+            "enddate":-30,
+            "displayperiod":"Ptolemaic Period, 304–30 BCE",
+            "displaydate":"304–30 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037078,
+            "period":"Ptolemaic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"1.64"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.67"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182064,
+            "name":"web_2020_ancient_egyptian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002806"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"Ptolemaic Period, 304–30 BCE",
+    "caption":"Egyptian, Ptolemaic Period (304–30 BCE), Wadjet. Faience; 6.5 x 1.6 x 1.7 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1990-22)",
+    "captionhtml":"Egyptian, Ptolemaic Period (304–30 BCE), <i>Wadjet</i>. Faience; 6.5 x 1.6 x 1.7 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1990-22)",
+    "published_date":"2025-10-16 13:34:58.044438",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

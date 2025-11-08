@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":5280,
+    "objectnumber":"x1947-202",
+    "sortnumber":"1947  202x",
+    "displaytitle":"Cuyler Hall (West Wing)",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1896,
+    "dateend":1947,
+    "datecomputed":1922,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Charcoal and watercolor",
+    "dimensions":"45.5 x 60.8 cm (17 15/16 x 23 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mr. and Mrs. Stuart Borchard",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower left: Jane Peterson",
+    "catalograisonne":null,
+    "creditlinerepro":"© Jane Peterson",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cuyler Hall (West Wing)",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3004,
+            "displayname":"Jane Peterson",
+            "displaydate":"American, 1876–1965",
+            "datebegin":1876,
+            "dateend":1965,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jane Peterson, American, 1876–1965",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":16459,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1947_202_aa",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":108499,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV32295",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 340, checklist no. 849 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Princeton, Cuyler Hall, Princeton University",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Cuyler Hall, Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.346_-74.657.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112470,
+            "term":"archways",
+            "aatid":300002771,
+            "termtype":"Subject"
+        },
+        {
+            "id":2113101,
+            "term":"chimneys (architectural elements)",
+            "aatid":300003933,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083069,
+            "term":"universities",
+            "aatid":300006617,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041362,
+            "term":"Collegiate Gothic",
+            "aatid":300260497,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045804,
+            "term":"charcoal",
+            "aatid":300012862,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1947_202_aa"
+    ],
+    "displaymaker":"Jane Peterson, American, 1876–1965",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jane Peterson (American, 1876–1965), Cuyler Hall (West Wing). Charcoal and watercolor; 45.5 x 60.8 cm. Gift of Mr. and Mrs. Stuart Borchard (x1947-202)",
+    "captionhtml":"Jane Peterson (American, 1876–1965), <i>Cuyler Hall (West Wing)</i>. Charcoal and watercolor; 45.5 x 60.8 cm. Gift of Mr. and Mrs. Stuart Borchard (x1947-202)",
+    "published_date":"2025-10-16 10:37:13.704505",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

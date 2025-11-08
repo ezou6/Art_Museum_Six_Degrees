@@ -1,0 +1,233 @@
+{
+    "type":"artobject",
+    "objectid":85719,
+    "objectnumber":"2012-149",
+    "sortnumber":"2012  149",
+    "displaytitle":"#4",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2009,
+    "dateend":2009,
+    "datecomputed":2009,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2009, printed 2011",
+    "medium":"Chromogenic print from a digital file",
+    "dimensions":"image: 49.9 x 40.2 cm. (19 5/8 x 15 13/16 in.)\r\nsheet (irregular): 54 x 43.3 cm. (21 1/4 x 17 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Welling",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 2011, James Welling",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"GA 04, 2009-12",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1454,
+            "displayname":"James Welling",
+            "displaydate":"American, born 1951",
+            "datebegin":1951,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James Welling, American, born 1951",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":111004,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34186",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 128, illustrated p. 129",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098434,
+            "term":"line",
+            "aatid":300056279,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34186"
+    ],
+    "displaymaker":"James Welling, American, born 1951",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James Welling (American, born 1951), #4, 2009, printed 2011. Chromogenic print from a digital file; 49.9 x 40.2 cm (image), 54 x 43.3 cm (sheet, irregular). Gift of James Welling (2012-149)",
+    "captionhtml":"James Welling (American, born 1951), <i>#4</i>, 2009, printed 2011. Chromogenic print from a digital file; 49.9 x 40.2 cm (image), 54 x 43.3 cm (sheet, irregular). Gift of James Welling (2012-149)",
+    "published_date":"2025-10-16 17:05:30.605543",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

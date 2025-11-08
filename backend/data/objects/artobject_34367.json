@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":34367,
+    "objectnumber":"y493",
+    "sortnumber":"493     y",
+    "displaytitle":"Rosette",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Faience",
+    "datebegin":-3000,
+    "dateend":395,
+    "datecomputed":-1302,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Faience",
+    "dimensions":"diam. 1.5 cm (9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Rosette",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Originally belonged to the collection of Mr. Prime; part of the Old Collection\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":37685,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004493",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049250,
+            "term":"faience",
+            "aatid":300010668,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159470,
+            "term":"rosettes",
+            "aatid":300009972,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188491,
+            "term":"faience",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049250,
+            "classification":"faience"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"1.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004493"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":null,
+    "caption":"Egyptian, Rosette. Faience; 1.5 cm. Prime Collection (y493)",
+    "captionhtml":"Egyptian, <i>Rosette</i>. Faience; 1.5 cm. Prime Collection (y493)",
+    "published_date":"2025-10-23 17:12:24.851413",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

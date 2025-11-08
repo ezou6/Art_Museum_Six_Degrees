@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":4216,
+    "objectnumber":"x1942-7",
+    "sortnumber":"1942    7x",
+    "displaytitle":"Old Menton",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1927,
+    "dateend":1927,
+    "datecomputed":1927,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1927",
+    "medium":"Drypoint",
+    "dimensions":"plate: 17.7 x 12.8 cm (6 15/16 x 5 1/16 in.)\r\nsheet: 35.5 x 27.9 cm (14 x 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":"In graphite, lower left below plate: 26/75\r\nIn graphite, lower left: \"OLD MENTON\"\r\nIn graphite, lower center: From my personal collection / Samuel Chamberlain",
+    "signed":"In graphite, lower right below plate: Samuel Chamberlain",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Old Menton",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6391,
+            "displayname":"Samuel Chamberlain",
+            "displaydate":"American, 1895–1975",
+            "datebegin":1895,
+            "dateend":1975,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Samuel Chamberlain, American, 1895–1975",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":105030,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29480",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105031,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29481",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Menton",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Menton",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054535,
+            "term":"drypoints",
+            "aatid":300041349,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2108501,
+            "term":"arches",
+            "aatid":300000994,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054535,
+            "classification":"drypoints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29481"
+    ],
+    "displaymaker":"Samuel Chamberlain, American, 1895–1975",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Samuel Chamberlain (American, 1895–1975), Old Menton, 1927. Drypoint; 17.7 x 12.8 cm (plate), 35.5 x 27.9 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-7)",
+    "captionhtml":"Samuel Chamberlain (American, 1895–1975), <i>Old Menton</i>, 1927. Drypoint; 17.7 x 12.8 cm (plate), 35.5 x 27.9 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-7)",
+    "published_date":"2025-10-16 10:29:44.986929",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

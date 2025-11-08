@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":13538,
+    "objectnumber":"x1976-206",
+    "sortnumber":"1976  206x",
+    "displaytitle":"David Mooney",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1880,
+    "dateend":1880,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"February 24, 1880",
+    "medium":"Albumen print",
+    "dimensions":"image: 7 x 5.5 cm. (2 3/4 x 2 3/16 in.)\r\nsheet: 26.5 x 20.5 cm. (10 7/16 x 8 1/16 in.)\r\nmat: 27.9 x 35.6 cm. (11 x 14 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, David H. McAlpin, Class of 1920, Fund",
+    "markings":null,
+    "inscribed":"In graphite, center left: Captured in Greenbush\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1976-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"David Mooney",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"photographer",
+            "role":"Artist",
+            "displaymaker":"American photographer",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66474,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09042",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40., p. 38",
+            "date":1977,
+            "id":3365,
+            "uri":"https://www.jstor.org/stable/3774447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Massachusetts, Boston",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Massachusetts",
+            "city":"Boston",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4930956/boston.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2126844,
+            "term":"posters",
+            "aatid":300027221,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094196,
+            "term":"criminals",
+            "aatid":300025837,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.93"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.55"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09042"
+    ],
+    "displaymaker":"American photographer",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"American photographer, David Mooney, February 24, 1880. Albumen print; 7 x 5.5 cm (image), 26.5 x 20.5 cm (sheet), 27.9 x 35.6 cm (mat). Museum purchase, David H. McAlpin, Class of 1920, Fund (x1976-206)",
+    "captionhtml":"American photographer, <i>David Mooney</i>, February 24, 1880. Albumen print; 7 x 5.5 cm (image), 26.5 x 20.5 cm (sheet), 27.9 x 35.6 cm (mat). Museum purchase, David H. McAlpin, Class of 1920, Fund (x1976-206)",
+    "published_date":"2025-10-16 11:49:54.228461",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

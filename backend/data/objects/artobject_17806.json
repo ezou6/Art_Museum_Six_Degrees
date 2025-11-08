@@ -1,0 +1,297 @@
+{
+    "type":"artobject",
+    "objectid":17806,
+    "objectnumber":"x1991-214",
+    "sortnumber":"1991  214x",
+    "displaytitle":"Henri Monnier",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1860,
+    "dateend":1870,
+    "datecomputed":1865,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1865, printed 1877",
+    "medium":"Woodburytype",
+    "dimensions":"image: 23.9 x 19.2 cm (9 7/16 x 7 9/16 in.)\r\nmount: 34.2 x 25.5 cm (13 7/16 x 10 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the Florence Gould Foundation",
+    "markings":null,
+    "inscribed":"Printed on mount below image, over all: HENRI MONNIER / GALERIE CONTEMPORAINE, 126, boulevard de Magenta. / Phot Goupil et Ce. / Cliché CARJAT , 10, rue Notre-Dame-de-Lorette.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":6283,
+            "displayname":"Etienne Carjat",
+            "displaydate":"French, 1828–1906",
+            "datebegin":1828,
+            "dateend":1906,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Etienne Carjat, French, 1828–1906",
+            "displayorder":1
+        },
+        {
+            "id":19842,
+            "displayname":"Goupil et Cie",
+            "displaydate":"French, active 1827–1879",
+            "datebegin":1827,
+            "dateend":1879,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Goupil et Cie, French, active 1827–1879",
+            "displayorder":2
+        },
+        {
+            "id":19881,
+            "displayname":"Ludovic Baschet",
+            "displaydate":"French, 1834–1909",
+            "datebegin":1834,
+            "dateend":1909,
+            "prefix":"Editor",
+            "suffix":null,
+            "role":"Editor",
+            "displaymaker":"Editor Ludovic Baschet, French, 1834–1909",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The playwright, artist, and comic actor Henri-Bonaventure Monnier (1799–1877) created the fictional characters Monsieur et Madamme Prud’homme (honest man) to lampoon prototypical members of the Parisian petitesbourgeois. Throughout the 1830s to 1850s, Monnier satirized French middle-class manners in numerous theatrical reviews and lithographic caricatures that featured Monsieur et Madamme Prud’homme, much to the delight of the literary and artistic circles of his day.",
+            "remarks":"K5-6_Sept2012.pdf"
+        }
+    ],
+    "media":[
+        {
+            "id":121056,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41301",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":121057,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41302",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 50",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        },
+        {
+            "boilertext":"Peter C. Bunnell, \"The Florence Gould Foundation Collection of Nineteenth-Century French Photographs at Princeton\" (Princeton: Art Museum, 1994).",
+            "citation":"Peter C. Bunnell, \"The Florence Gould Foundation Collection of Nineteenth-Century French Photographs at Princeton\" (Princeton: Art Museum, 1994).",
+            "date":1994,
+            "id":5272,
+            "uri":"http://www.worldcat.org/oclc/31929822"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris, rue Notre-Dame-de-Lorette, 10",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":"rue Notre-Dame-de-Lorette, 10",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089633,
+            "term":"actors",
+            "aatid":300025658,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054171,
+            "term":"studio portraits",
+            "aatid":300223022,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054254,
+            "term":"Woodburytypes",
+            "aatid":300154389,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154812,
+            "term":"Woodburytype",
+            "aatid":300053509,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054254,
+            "classification":"woodburytypes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":89550,
+            "name":"web_wopsr_stage_2016_10"
+        },
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41301"
+    ],
+    "displaymaker":"Etienne Carjat, French, 1828–1906 | Published by Goupil et Cie, French, active 1827–1879 | Editor Ludovic Baschet, French, 1834–1909",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Etienne Carjat (French, 1828–1906), Published by Goupil et Cie (French, active 1827–1879), Editor Ludovic Baschet (French, 1834–1909), Henri Monnier, ca. 1865, printed 1877. Woodburytype; 23.9 x 19.2 cm (image). Museum purchase, gift of the Florence Gould Foundation (x1991-214)",
+    "captionhtml":"Etienne Carjat (French, 1828–1906), Published by Goupil et Cie (French, active 1827–1879), Editor Ludovic Baschet (French, 1834–1909), <i>Henri Monnier</i>, ca. 1865, printed 1877. Woodburytype; 23.9 x 19.2 cm (image). Museum purchase, gift of the Florence Gould Foundation (x1991-214)",
+    "published_date":"2025-10-16 12:19:14.628110",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

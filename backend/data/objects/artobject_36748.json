@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":36748,
+    "objectnumber":"1998-666",
+    "sortnumber":"1998  666",
+    "displaytitle":"Bracelet",
+    "department":"African and Oceanic Art",
+    "classification":"Ornament",
+    "datebegin":1800,
+    "dateend":1998,
+    "datecomputed":1899,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1998",
+    "medium":"Ivory",
+    "dimensions":"1.7 cm x 12.4 cm x 11.3 cm (11/16 x 4 7/8 x 4 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bracelet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15605,
+            "displayname":"Igbo",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"possibly",
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"possibly Igbo artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43845,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009197",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 82",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/203312/democratic-republic-of-the-congo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Africa",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2130588,
+            "term":"jewelry",
+            "aatid":300209286,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130789,
+            "term":"bracelets (jewelry)",
+            "aatid":300045991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158109,
+            "term":"oval",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042477,
+            "term":"Central and Equatorial African styles",
+            "aatid":300016168,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2166225,
+            "term":"ivory",
+            "aatid":300011857,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130789,
+            "classification":"bracelets (jewelry)"
+        },
+        {
+            "id":2130588,
+            "classification":"jewelry"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2042477,
+            "period":"Central and Equatorial African styles"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"1.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"11.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009197"
+    ],
+    "displaymaker":"possibly Igbo artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Possibly Igbo artist, Democratic Republic of the Congo, Central Africa, Bracelet, before 1998. Ivory; 1.7 x 12.4 x 11.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-666)",
+    "captionhtml":"Possibly Igbo artist, Democratic Republic of the Congo, Central Africa, <i>Bracelet</i>, before 1998. Ivory; 1.7 x 12.4 x 11.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-666)",
+    "published_date":"2025-10-16 13:54:59.638660",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

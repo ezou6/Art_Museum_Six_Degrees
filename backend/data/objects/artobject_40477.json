@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":40477,
+    "objectnumber":"2001-200",
+    "sortnumber":"2001  200",
+    "displaytitle":"Deichmanske Bibliothek Oslo III",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2000,
+    "dateend":2000,
+    "datecomputed":2000,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2000",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 116.7 x 117 cm (45 15/16 x 46 1/16 in.)\r\nsheet: 154.8 x 154.7 cm (60 15/16 x 60 7/8 in.)\r\nframe: 154.9 × 154.9 × 5.7 cm (61 × 61 × 2 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Mr. and Mrs. Donald G. Fisher",
+    "markings":null,
+    "inscribed":"Signed in ink, verso of mount upper right corner: Candida Höfer\r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Candida Höfer / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Deichmanske Bibliothek Oslo III",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1144,
+            "displayname":"Candida Höfer",
+            "displaydate":"German, born 1944",
+            "datebegin":1944,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Candida Höfer, German, born 1944",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":19055,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-200",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Candida Höfer, \"Candida Höfer, Photographie\" (München: Schirmer/Mosel, 1998).",
+            "citation":"Candida Höfer, \"Candida Höfer, Photographie\" (München: Schirmer/Mosel, 1998).",
+            "date":1998,
+            "id":5518,
+            "uri":"http://www.worldcat.org/oclc/41997513"
+        },
+        {
+            "boilertext":"Lucinda Devlin, \"Räume\" (Köln: W. König, 1999).",
+            "citation":"Lucinda Devlin, \"Räume\" (Köln: W. König, 1999).",
+            "date":1999,
+            "id":5519,
+            "uri":"http://www.worldcat.org/oclc/41444887"
+        },
+        {
+            "boilertext":"Edward Leffingwell, \"Candida Hofer\" <EM>Art in America </EM>89, no. 6 (Jun. 1, 2001): p.&nbsp;128.",
+            "citation":"Edward Leffingwell, \"Candida Hofer\" <EM>Art in America </EM>89, no. 6 (Jun. 1, 2001): p.&nbsp;128., p. 128",
+            "date":2001,
+            "id":5520,
+            "uri":"http://www.worldcat.org/oclc/1514286"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 124",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Norway, Oslo, Oslo Public Library",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Norway",
+            "region":null,
+            "state":null,
+            "city":"Oslo",
+            "county":null,
+            "subregion":null,
+            "locale":"Oslo Public Library",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6453366/oslo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2081756,
+            "term":"libraries (buildings)",
+            "aatid":300006824,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087850,
+            "term":"people",
+            "aatid":300024979,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"117.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"116.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"154.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"154.80"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"154.90"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"154.90"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2001-200"
+    ],
+    "displaymaker":"Candida Höfer, German, born 1944",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Candida Höfer (German, born 1944), Deichmanske Bibliothek Oslo III, 2000. Chromogenic print; 116.7 x 117 cm (image), 154.8 x 154.7 cm (sheet), 154.9 × 154.9 × 5.7 cm (frame). Museum purchase, gift of Mr. and Mrs. Donald G. Fisher (2001-200)",
+    "captionhtml":"Candida Höfer (German, born 1944), <i>Deichmanske Bibliothek Oslo III</i>, 2000. Chromogenic print; 116.7 x 117 cm (image), 154.8 x 154.7 cm (sheet), 154.9 × 154.9 × 5.7 cm (frame). Museum purchase, gift of Mr. and Mrs. Donald G. Fisher (2001-200)",
+    "published_date":"2025-10-16 14:10:21.384033",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

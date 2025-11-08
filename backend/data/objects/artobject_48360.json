@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":48360,
+    "objectnumber":"x1936-5 a",
+    "sortnumber":"1936    5xa",
+    "displaytitle":"Swordsman, Profile",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1612,
+    "dateend":1635,
+    "datecomputed":1624,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Black chalk on cream wove paper",
+    "dimensions":"8.8 x 5.5 cm. (3 7/16 x 2 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alexander P. Morgan, Class of 1922, and Sarah Breese",
+    "markings":"Collector's stamp, lower right: John, Earl of Spencer (Lugt 1530)",
+    "inscribed":"Inscribed on verso, lower left: Ld Spencer's Collection, 1811",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1936-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Swordsman, Profile",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6244,
+            "displayname":"Jacques Callot",
+            "displaydate":"French, 1592–1635",
+            "datebegin":1592,
+            "dateend":1635,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jacques Callot, French, 1592–1635",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">\n<p align=\"LEFT\" dir=\"LTR\">\n<span lang=\"EN\">\n<p>\n\tJohn, Earl of Spencer [1734-1783, Lugt 1530]; by descent to George John, 2nd Earl of Spencer [1758-1834]; sale of his collection, London, June 10, 1811, lot 114. Junius S. Morgan [1867-1932]; by descent to Alexander P. Morgan [1900-1968] and Sarah Breese [1893-1949]; gifted to Princeton University Art Museum, 1936.</p>\n</span>\n\n</p>\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22209,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1936-5A",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":110737,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33968",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Barbara T. Ross, \"Notes on selected French old master drawings from the permanent collection,\" <i>Record of the Art Museum, Princeton University </i>42, no. 1 (1983): p. 4-42.",
+            "citation":"Barbara T. Ross, \"Notes on selected French old master drawings from the permanent collection,\" <i>Record of the Art Museum, Princeton University </i>42, no. 1 (1983): p. 4-42., p. 8 (illus.)",
+            "date":1983,
+            "id":883,
+            "uri":"https://www.jstor.org/stable/3774636"
+        },
+        {
+            "boilertext":"\"Sixteenth-to eighteenth-century French drawings from the permanent collection: a checklist of the exhibition,\" <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 43-49.",
+            "citation":"\"Sixteenth-to eighteenth-century French drawings from the permanent collection: a checklist of the exhibition,\" <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 43-49., p. 43",
+            "date":1983,
+            "id":3148,
+            "uri":"https://www.jstor.org/stable/3774637"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188680,
+            "term":"chalk drawings",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2050143,
+            "term":"swords",
+            "aatid":300037048,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2146985,
+            "term":"standing",
+            "aatid":300239500,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2188680,
+            "classification":"chalk drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":16124,
+            "name":"Web_Callot_2014"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33968"
+    ],
+    "displaymaker":"Jacques Callot, French, 1592–1635",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jacques Callot (French, 1592–1635), Swordsman, Profile. Black chalk on cream wove paper; 8.8 x 5.5 cm. Gift of Alexander P. Morgan, Class of 1922, and Sarah Breese (x1936-5 a)",
+    "captionhtml":"Jacques Callot (French, 1592–1635), <i>Swordsman, Profile</i>. Black chalk on cream wove paper; 8.8 x 5.5 cm. Gift of Alexander P. Morgan, Class of 1922, and Sarah Breese (x1936-5 a)",
+    "published_date":"2025-10-16 14:59:12.140286",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

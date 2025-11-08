@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":62339,
+    "objectnumber":"2007-121 c",
+    "sortnumber":"2007  121 c",
+    "displaytitle":"Landscapes",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1983,
+    "dateend":1983,
+    "datecomputed":1983,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1983",
+    "medium":"Album leaf; ink and color on paper board",
+    "dimensions":"Painting: 31.8 x 40.9 cm (12 1/2 x 16 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jerome Silbergeld and Michelle DeKlyen",
+    "markings":"Written on verso: EL 87/3",
+    "inscribed":"one dated 1983",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":"© Li Huasheng",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscapes",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1441,
+            "displayname":"Li Huasheng 李華生",
+            "displaydate":"1944–2018; born Yibin, China; died Chengdu, China",
+            "datebegin":1944,
+            "dateend":2018,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Li Huasheng 李華生, 1944–2018; born Yibin, China; died Chengdu, China",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1983–1987&nbsp;Li Huasheng, born 1944, to Jerome Silbergeld and Michelle DeKlyen (Seattle, WA), 1987.<br>1987–2007&nbsp;Jerome Silbergeld and Michelle DeKlyen (Princeton, NJ), by gift to the Princeton University Art Museum, 2007.<br>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":15585,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L2004-37-1_C",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119357,
+            "term":"villages",
+            "aatid":300008372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2135468,
+            "term":"revolutions",
+            "aatid":300055312,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172874,
+            "term":"cliffs",
+            "aatid":300008749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048528,
+            "term":"boards (flat objects)",
+            "aatid":300014616,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.80"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/L2004-37-1_C"
+    ],
+    "displaymaker":"Li Huasheng 李華生, 1944–2018; born Yibin, China; died Chengdu, China",
+    "displayculture":"Chinese",
+    "displayperiod":"Modern period, 1912–present",
+    "caption":"Chinese, Modern period (1912–present), Li Huasheng 李華生 (1944–2018; born Yibin, China; died Chengdu, China), Landscapes, 1983. Album leaf; ink and color on paper board; 31.8 x 40.9 cm, 31.8 x 40.9 cm (Painting). Gift of Jerome Silbergeld and Michelle DeKlyen (2007-121 c)",
+    "captionhtml":"Chinese, Modern period (1912–present), Li Huasheng 李華生 (1944–2018; born Yibin, China; died Chengdu, China), <i>Landscapes</i>, 1983. Album leaf; ink and color on paper board; 31.8 x 40.9 cm, 31.8 x 40.9 cm (Painting). Gift of Jerome Silbergeld and Michelle DeKlyen (2007-121 c)",
+    "published_date":"2025-10-16 16:08:59.989830",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

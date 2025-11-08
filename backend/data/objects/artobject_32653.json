@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":32653,
+    "objectnumber":"y1981-2",
+    "sortnumber":"1981    2y",
+    "displaytitle":"Mask (hemba)",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1900,
+    "dateend":1975,
+    "datecomputed":1938,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"20th century, before 1975",
+    "medium":"Wood, raffia, paint, kaolin, and cane",
+    "dimensions":"h. 42.0 cm., w. 36.5 cm., d. 37.0 cm. (16 9/16 x 14 3/8 x 14 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Perry E. H. Smith, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1981-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask (hemba)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15607,
+            "displayname":"Suku",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Suku artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by Perry E.H. Smith, Zaire (present-day Democratic Republic of the Congo) between 1971 and circa 1975; Princeton University Art Museum, 1981",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":42986,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008248",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo, Bandundu Province",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":"Bandundu Province",
+            "city":null,
+            "county":"Masi-Manimba Sector",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2313010/masi-manimba.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2198857,
+            "term":"helmet masks",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134778,
+            "term":"initiations",
+            "aatid":300069180,
+            "termtype":"Subject"
+        },
+        {
+            "id":2042712,
+            "term":"Suku",
+            "aatid":300016270,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185122,
+            "term":"antelopes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043699,
+            "term":"raffia",
+            "aatid":300014051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2198857,
+            "classification":"helmet masks"
+        },
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042712,
+            "culture":"Suku"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"37.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008248"
+    ],
+    "displaymaker":"Suku artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, Mask (hemba), 20th century, before 1975. Wood, raffia, paint, kaolin, and cane; 42 x 36.5 x 37 cm. Gift of Perry E. H. Smith, Class of 1957 (y1981-2)",
+    "captionhtml":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, <i>Mask (hemba)</i>, 20th century, before 1975. Wood, raffia, paint, kaolin, and cane; 42 x 36.5 x 37 cm. Gift of Perry E. H. Smith, Class of 1957 (y1981-2)",
+    "published_date":"2025-10-16 13:31:16.162277",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

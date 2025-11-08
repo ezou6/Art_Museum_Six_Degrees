@@ -1,0 +1,296 @@
+{
+    "type":"artobject",
+    "objectid":33429,
+    "objectnumber":"y1990-5",
+    "sortnumber":"1990    5y",
+    "displaytitle":"Stand",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-600,
+    "dateend":-571,
+    "datecomputed":-586,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"early 6th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 27.0 cm, diam. 17.6 cm (10 5/8 x 6 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stand",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by the Museum from Robin Symes, London, in 1990.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":21857,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0135",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21858,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0136",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21859,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0137",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21860,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0138",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 60",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Apulia (southern Italy)",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Apulia (southern Italy)",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_41.002_16.734.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098308,
+            "term":"circles (plane figures)",
+            "aatid":300055627,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2069125,
+            "term":"stands (support furniture)",
+            "aatid":300039767,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036474,
+            "term":"Archaic (Greek)",
+            "aatid":300020086,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036582,
+            "term":"Apulian",
+            "aatid":300020173,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2069125,
+            "classification":"stands (support furniture)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14233,
+            "culture":"South Italian, Apulian",
+            "alphasort":"Apulian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"South Italian, Apulian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036582,
+            "culture":"Apulian"
+        }
+    ],
+    "periods":[
+        {
+            "id":13625,
+            "period":"Archaic Period",
+            "alphasort":"Archaic Period",
+            "begindate":-600,
+            "enddate":-480,
+            "displayperiod":"Archaic Period, ca. 600–480 BCE",
+            "displaydate":"ca. 600–480 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036474,
+            "period":"Archaic (Greek)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"17.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277929,
+            "name":"EW-Artwalk_Figuration_CaseC"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv0135"
+    ],
+    "displaymaker":null,
+    "displayculture":"South Italian, Apulian",
+    "displayperiod":"Archaic Period, ca. 600–480 BCE",
+    "caption":"South Italian, Apulian, Archaic Period (ca. 600–480 BCE), Italy, early 6th century BCE, Stand. Ceramic; 27 x 17.6 cm. Museum purchase, gift of John B. Elliott, Class of 1951 (y1990-5)",
+    "captionhtml":"South Italian, Apulian, Archaic Period (ca. 600–480 BCE), Italy, early 6th century BCE, <i>Stand</i>. Ceramic; 27 x 17.6 cm. Museum purchase, gift of John B. Elliott, Class of 1951 (y1990-5)",
+    "published_date":"2025-10-16 13:35:44.373506",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

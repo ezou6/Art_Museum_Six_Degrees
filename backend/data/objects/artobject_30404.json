@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":30404,
+    "objectnumber":"y1966-91",
+    "sortnumber":"1966   91y",
+    "displaytitle":"Pendant: Tiger",
+    "department":"Asian Art",
+    "classification":"Jades",
+    "datebegin":-1299,
+    "dateend":-1000,
+    "datecomputed":-1150,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Mottled buff jade",
+    "dimensions":"h. 6.2 cm., w. 2.0 cm., d. 0.4 cm. (2 7/16 x 13/16 x 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":"On object in red ink: SP 9",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pendant: Tiger",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":55157,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV022297",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 31",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        },
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 29",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033414,
+            "term":"Shang",
+            "aatid":300018356,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055224,
+            "term":"jades",
+            "aatid":300184767,
+            "termtype":"Classification"
+        },
+        {
+            "id":2127399,
+            "term":"tigers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2130620,
+            "term":"pendants (jewelry)",
+            "aatid":300046002,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159570,
+            "term":"zodiac symbols",
+            "aatid":300009937,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130620,
+            "classification":"pendants (jewelry)"
+        },
+        {
+            "id":2055224,
+            "classification":"jades"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12500,
+            "period":"Shang dynasty",
+            "alphasort":"Shang Dynasty",
+            "begindate":-1299,
+            "enddate":-1000,
+            "displayperiod":"Shang dynasty, 1299 - 1000 BCE",
+            "displaydate":"1299 - 1000 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033414,
+            "period":"Shang"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV022297"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Shang dynasty, 1299 - 1000 BCE",
+    "caption":"Chinese, Shang dynasty (1299 - 1000 BCE), Pendant: Tiger. Mottled buff jade; 6.2 x 2 x 0.4 cm. Gift of J. Lionberger Davis, Class of 1900 (y1966-91)",
+    "captionhtml":"Chinese, Shang dynasty (1299 - 1000 BCE), <i>Pendant: Tiger</i>. Mottled buff jade; 6.2 x 2 x 0.4 cm. Gift of J. Lionberger Davis, Class of 1900 (y1966-91)",
+    "published_date":"2025-10-23 17:10:13.670051",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

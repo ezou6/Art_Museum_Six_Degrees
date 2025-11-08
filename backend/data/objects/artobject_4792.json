@@ -1,0 +1,210 @@
+{
+    "type":"artobject",
+    "objectid":4792,
+    "objectnumber":"1995-363",
+    "sortnumber":"1995  363",
+    "displaytitle":"Mantle",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1200,
+    "dateend":1532,
+    "datecomputed":1366,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1532",
+    "medium":"Cotton and wool",
+    "dimensions":"l. 132.1 cm., w. 80.0 cm. (52 x 31 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mantle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":45822,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010754",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 70",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, South coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"South coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Classification"
+        },
+        {
+            "id":2128540,
+            "term":"mantles",
+            "aatid":300212298,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036065,
+            "term":"Late horizon",
+            "aatid":300017332,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044482,
+            "term":"wool (textile)",
+            "aatid":300243430,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151290,
+            "classification":"dyeing"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        },
+        {
+            "id":2128540,
+            "classification":"mantles"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":13501,
+            "period":"Late Horizon Period",
+            "alphasort":"Horizon, Late",
+            "begindate":1438,
+            "enddate":1534,
+            "displayperiod":"Late Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036065,
+            "period":"Late horizon"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"132.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"80.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010754"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Late Horizon Period",
+    "caption":"Late Horizon Period, 1200–1532, South coast, Peru, Andes, Mantle. Cotton and wool; 132.1 x 80 cm. Anonymous gift (1995-363)",
+    "captionhtml":"Late Horizon Period, 1200–1532, South coast, Peru, Andes, <i>Mantle</i>. Cotton and wool; 132.1 x 80 cm. Anonymous gift (1995-363)",
+    "published_date":"2025-10-16 10:33:35.044950",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

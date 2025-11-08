@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":36400,
+    "objectnumber":"1998-596",
+    "sortnumber":"1998  596",
+    "displaytitle":"Shield",
+    "department":"African and Oceanic Art",
+    "classification":"Weapons and Armor",
+    "datebegin":1850,
+    "dateend":1998,
+    "datecomputed":1924,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"19th-20th century",
+    "medium":"Rawhide, paint, and wood",
+    "dimensions":"l. 102.5 cm., w. 54.2 cm., d. 13.5 cm. (40 3/8 x 21 5/16 x 5 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Shield",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16426,
+            "displayname":"Maasai",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Maasai artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY by 1989; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43820,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009272",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 67",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Kenya",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Eastern Africa",
+            "country":"Kenya",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/192950/republic-of-kenya.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048999,
+            "term":"regalia",
+            "aatid":300185696,
+            "termtype":"Classification"
+        },
+        {
+            "id":2129929,
+            "term":"shields (armor)",
+            "aatid":300036869,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134760,
+            "term":"rites of passage",
+            "aatid":300247989,
+            "termtype":"Subject"
+        },
+        {
+            "id":2043222,
+            "term":"Masai",
+            "aatid":300016514,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045670,
+            "term":"rawhide",
+            "aatid":300193293,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048999,
+            "classification":"regalia"
+        },
+        {
+            "id":2129929,
+            "classification":"shields (armor)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2043222,
+            "culture":"Masai"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"102.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"54.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009272"
+    ],
+    "displaymaker":"Maasai artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Maasai artist, Kenya, Eastern Africa, Shield, 19th-20th century. Rawhide, paint, and wood; 102.5 x 54.2 x 13.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-596)",
+    "captionhtml":"Maasai artist, Kenya, Eastern Africa, <i>Shield</i>, 19th-20th century. Rawhide, paint, and wood; 102.5 x 54.2 x 13.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-596)",
+    "published_date":"2025-10-16 13:52:58.514994",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

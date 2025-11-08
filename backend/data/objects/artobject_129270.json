@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":129270,
+    "objectnumber":"2010-102.13 a",
+    "sortnumber":"2010  102    13a",
+    "displaytitle":"Villa Falconieri",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1900,
+    "dateend":1900,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1900",
+    "medium":"Photogravure",
+    "dimensions":"plate: 23.8 × 12.8 cm (9 3/8 × 5 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frederick Quellmalz, Class of 1934",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Villa Falconieri",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":17121,
+            "displayname":"Hugo Henneberg",
+            "displaydate":"Austrian, 1863–1918",
+            "datebegin":1863,
+            "dateend":1918,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hugo Henneberg, Austrian, 1863–1918",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90751,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16497",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 99",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997).",
+            "citation":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997)., p. 256 (illus.)",
+            "date":1997,
+            "id":6765,
+            "uri":"http://www.worldcat.org/oclc/38005333"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Italy, Frascati, Villa Falconieri",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Frascati",
+            "county":null,
+            "subregion":null,
+            "locale":"Villa Falconieri",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/10376748/villa-falconieri.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2080979,
+            "term":"fountains",
+            "aatid":300006179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098998,
+            "term":"reflections",
+            "aatid":300056034,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119852,
+            "term":"pools",
+            "aatid":300008692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085708,
+            "term":"villas",
+            "aatid":300005517,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031576,
+            "term":"Austrian",
+            "aatid":300111153,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031576,
+            "culture":"Austrian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16497"
+    ],
+    "displaymaker":"Hugo Henneberg, Austrian, 1863–1918",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hugo Henneberg (Austrian, 1863–1918), Villa Falconieri, 1900. Photogravure; 23.8 × 12.8 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.13 a)",
+    "captionhtml":"Hugo Henneberg (Austrian, 1863–1918), <i>Villa Falconieri</i>, 1900. Photogravure; 23.8 × 12.8 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.13 a)",
+    "published_date":"2025-10-16 18:35:27.597039",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

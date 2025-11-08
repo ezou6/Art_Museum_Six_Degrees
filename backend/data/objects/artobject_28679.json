@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":28679,
+    "objectnumber":"y1961-41",
+    "sortnumber":"1961   41y",
+    "displaytitle":"Portrait of a Young Boy",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1754,
+    "dateend":1802,
+    "datecomputed":1778,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"64.7 x 51.5 cm (25 1/2 x 20 1/4 in.)\r\nframe: 73 x 70 x 9.2 cm (28 3/4 x 27 9/16 x 3 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Samuel J. Aronsohn",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1961-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a Young Boy",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3317,
+            "displayname":"George Romney",
+            "displaydate":"1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+            "datebegin":1734,
+            "dateend":1802,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to George Romney, 1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs. Samuel J. Aronsohn; 1961 gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":21800,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv1041",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27, p. 25",
+            "date":1962,
+            "id":3379,
+            "uri":"https://www.jstor.org/stable/3774376"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.16_-0.703.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"51.50"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"73.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"70.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv1041"
+    ],
+    "displaymaker":"formerly attributed to George Romney, 1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Formerly attributed to George Romney (1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom), Portrait of a Young Boy. Oil on canvas; 64.7 x 51.5 cm, 73 × 70 × 5 cm (frame). Gift of Mrs. Samuel J. Aronsohn (y1961-41)",
+    "captionhtml":"Formerly attributed to George Romney (1734–1802; born Dalton-in-Furness, United Kingdom; died Kendal, United Kingdom), <i>Portrait of a Young Boy</i>. Oil on canvas; 64.7 x 51.5 cm, 73 × 70 × 5 cm (frame). Gift of Mrs. Samuel J. Aronsohn (y1961-41)",
+    "published_date":"2025-10-16 13:09:19.404902",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

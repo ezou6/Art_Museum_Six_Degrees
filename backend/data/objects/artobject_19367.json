@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":19367,
+    "objectnumber":"y1929-94",
+    "sortnumber":"1929   94y",
+    "displaytitle":"Figure pendant",
+    "department":"Art of the Ancient Americas",
+    "classification":"Metal",
+    "datebegin":1,
+    "dateend":700,
+    "datecomputed":350,
+    "daterange":"A.D. 1-500",
+    "displaydate":"1–700 CE",
+    "medium":"Gold",
+    "dimensions":"h. 14.8 cm., w. 8.2 cm., d. 0.8 cm. (5 13/16 x 3 1/4 x 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Elroy Curtis, Class of 1900",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Figure pendant",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1929, gift of Elroy Curtis (1879-1943), Class of 1900, New York, to the Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":51554,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV018136",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P>\"F. Vinton Lawrence, Jr. '26 Gallery of Pre-Columbian and Native Arts given by his brother, James F. Lawrence, Class of 1929,\" <EM>Record of the Art Museum, Princeton University </EM>25, no. 1/2 (1966): 49.</P>",
+            "citation":"<P>\"F. Vinton Lawrence, Jr. '26 Gallery of Pre-Columbian and Native Arts given by his brother, James F. Lawrence, Class of 1929,\" <EM>Record of the Art Museum, Princeton University </EM>25, no. 1/2 (1966): 49.</P>, p. 49 (illus.)",
+            "date":1966,
+            "id":7777,
+            "uri":"https://www.jstor.org/stable/23211687"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Colombia, Mid-Magdalena Valley",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Intermediate area",
+            "country":"Colombia",
+            "region":"Mid-Magdalena Valley",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/7543302/rio-magdalena.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130620,
+            "term":"pendants (jewelry)",
+            "aatid":300046002,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035931,
+            "term":"Tolima",
+            "aatid":300017429,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162191,
+            "term":"gold",
+            "aatid":300011021,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130620,
+            "classification":"pendants (jewelry)"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13924,
+            "culture":"Tolima",
+            "alphasort":"Tolima",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Tolima",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035931,
+            "culture":"Tolima"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.77"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264573,
+            "name":"VisibleStorage_DenseDisplay_G20_AAA_Gold+Jade"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        },
+        {
+            "packageid":181974,
+            "name":"web_2020_AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV018136"
+    ],
+    "displaymaker":null,
+    "displayculture":"Tolima",
+    "displayperiod":null,
+    "caption":"Tolima, 1–700 CE, Mid-Magdalena Valley, Colombia, Intermediate area, Figure pendant. Gold; 14.8 x 8.2 x 0.8 cm. Gift of Elroy Curtis, Class of 1900 (y1929-94)",
+    "captionhtml":"Tolima, 1–700 CE, Mid-Magdalena Valley, Colombia, Intermediate area, <i>Figure pendant</i>. Gold; 14.8 x 8.2 x 0.8 cm. Gift of Elroy Curtis, Class of 1900 (y1929-94)",
+    "published_date":"2025-10-16 12:27:51.681199",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":129815,
+    "objectnumber":"2017-66",
+    "sortnumber":"2017   66",
+    "displaytitle":"Adoration of the Magi",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1598,
+    "dateend":1598,
+    "datecomputed":1598,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1598",
+    "medium":"Engraving",
+    "dimensions":"plate: 27 × 20.8 cm (10 5/8 × 8 3/16 in.)\r\nsheet: 27.4 × 21 cm (10 13/16 × 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Adoration of the Magi",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":267,
+            "displayname":"Jacopo Bassano",
+            "displaydate":"Italian, ca. 1515–1592",
+            "datebegin":1515,
+            "dateend":1592,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jacopo Bassano, Italian, ca. 1515–1592",
+            "displayorder":2
+        },
+        {
+            "id":3412,
+            "displayname":"Raphael Sadeler",
+            "displaydate":"Flemish, 1560/61–1628/32",
+            "datebegin":1560,
+            "dateend":1632,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Raphael Sadeler, Flemish, 1560/61–1628/32",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collection of Franco Mormando",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":217408,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931115",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031640,
+            "term":"Flemish",
+            "aatid":300111184,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171368,
+            "term":"Mary",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088162,
+            "term":"infants",
+            "aatid":300189561,
+            "termtype":"Subject"
+        },
+        {
+            "id":2091891,
+            "term":"shepherds",
+            "aatid":300025617,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154917,
+            "term":"engraving (printing process)",
+            "aatid":300053225,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031640,
+            "culture":"Flemish"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1931115"
+    ],
+    "displaymaker":"Raphael Sadeler, Flemish, 1560/61–1628/32 | after Jacopo Bassano, Italian, ca. 1515–1592",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Raphael Sadeler (Flemish, 1560/61–1628/32), after Jacopo Bassano (Italian, ca. 1515–1592), Adoration of the Magi, 1598. Engraving; 27 × 20.8 cm (plate), 27.4 × 21 cm (sheet). Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977 (2017-66)",
+    "captionhtml":"Raphael Sadeler (Flemish, 1560/61–1628/32), after Jacopo Bassano (Italian, ca. 1515–1592), <i>Adoration of the Magi</i>, 1598. Engraving; 27 × 20.8 cm (plate), 27.4 × 21 cm (sheet). Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977 (2017-66)",
+    "published_date":"2025-10-16 18:39:02.817482",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

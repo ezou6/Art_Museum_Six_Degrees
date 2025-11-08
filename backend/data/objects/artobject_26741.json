@@ -1,0 +1,218 @@
+{
+    "type":"artobject",
+    "objectid":26741,
+    "objectnumber":"y1959-213",
+    "sortnumber":"1959  213y",
+    "displaytitle":"Flask",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":700,
+    "dateend":799,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"8th century CE",
+    "medium":"Ceramic and slip",
+    "dimensions":"19 × 15.3 × 11.6 cm (7 1/2 × 6 × 4 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":"Written in ink on label adhered to bottom: Bought at auction in New York. Sold as Peruvian. \r\nPrinted on sticker adhered to side: 8",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":49559,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015921",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":49560,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015920",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158075,
+            "term":"serpents",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133996,
+            "term":"monkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036029,
+            "term":"Huari",
+            "aatid":300017283,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13511,
+            "culture":"Wari",
+            "alphasort":"Wari",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Wari ?",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036029,
+            "culture":"Huari"
+        }
+    ],
+    "periods":[
+        {
+            "id":13507,
+            "period":"Middle Horizon Period",
+            "alphasort":"Horizon, Middle",
+            "begindate":550,
+            "enddate":1000,
+            "displayperiod":"Middle Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"15.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015920"
+    ],
+    "displaymaker":null,
+    "displayculture":"Wari ?",
+    "displayperiod":"Middle Horizon Period",
+    "caption":"Wari?, Middle Horizon Period, 8th century CE, Peru, Andes, Flask. Ceramic and slip; 19 × 15.3 × 11.6 cm. Trumbull-Prime Collection (y1959-213)",
+    "captionhtml":"Wari?, Middle Horizon Period, 8th century CE, Peru, Andes, <i>Flask</i>. Ceramic and slip; 19 × 15.3 × 11.6 cm. Trumbull-Prime Collection (y1959-213)",
+    "published_date":"2025-10-16 13:02:40.217041",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

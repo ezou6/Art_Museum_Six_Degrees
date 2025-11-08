@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":30371,
+    "objectnumber":"y1967-27",
+    "sortnumber":"1967   27y",
+    "displaytitle":"Ribbed bowl",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":-50,
+    "dateend":50,
+    "datecomputed":0,
+    "daterange":"",
+    "displaydate":"ca. 50 BCE–ca. 50 CE",
+    "medium":"Transparent blue-green glass",
+    "dimensions":"h. 5.8 cm, diam. rim 12.5 cm (2 5/16 x 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of E. L. and F. B. Godwin, daughters of Harold Godwin, Class of 1879",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ribbed bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by E. L. and F. B. Godwin; thought by the donors to have been from the collection of Henry Marquand\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74442,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-27_2",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 22 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Eastern Mediterranean",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036390,
+            "term":"Mediterranean (Early Western World)",
+            "aatid":300020058,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159805,
+            "term":"reeding",
+            "aatid":300010246,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036491,
+            "term":"Hellenistic",
+            "aatid":300020101,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161538,
+            "term":"pressed glass",
+            "aatid":300210941,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036390,
+            "culture":"Mediterranean (Early Western World)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12865,
+            "period":"Hellenistic Period",
+            "alphasort":"Hellenistic Period",
+            "begindate":-323,
+            "enddate":-30,
+            "displayperiod":"Hellenistic Period to Roman Imperial Period, ca. 30 BCE–476 CE, ca. 323–30 BCE",
+            "displaydate":"ca. 323–30 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036491,
+            "period":"Hellenistic"
+        },
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264578,
+            "name":"VisibleStorage_DenseDisplay_G22_ABI_RomanGlass"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1967-27_2"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Hellenistic Period to Roman Imperial Period, ca. 30 BCE–476 CE, ca. 323–30 BCE",
+    "caption":"Hellenistic Period to Roman Imperial Period, ca. 30 BCE–476 CE (ca. 323–30 BCE), ca. 50 BCE–ca. 50 CE, Ribbed bowl. Transparent blue-green glass; 5.8 x 12.5 cm. Gift of E. L. and F. B. Godwin, daughters of Harold Godwin, Class of 1879 (y1967-27)",
+    "captionhtml":"Hellenistic Period to Roman Imperial Period, ca. 30 BCE–476 CE (ca. 323–30 BCE), ca. 50 BCE–ca. 50 CE, <i>Ribbed bowl</i>. Transparent blue-green glass; 5.8 x 12.5 cm. Gift of E. L. and F. B. Godwin, daughters of Harold Godwin, Class of 1879 (y1967-27)",
+    "published_date":"2025-10-18 02:03:38.190110",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

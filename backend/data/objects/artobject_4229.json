@@ -1,0 +1,176 @@
+{
+    "type":"artobject",
+    "objectid":4229,
+    "objectnumber":"x1942-78",
+    "sortnumber":"1942   78x",
+    "displaytitle":"Connoisseurs of Prints",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1905,
+    "dateend":1905,
+    "datecomputed":1905,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 12.5 x 17.5 cm (4 15/16 x 6 7/8 in.)\r\nsheet: 24.2 x 32.3 cm (9 1/2 x 12 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":"Signed in pencil, lower right: John Sloan 1905",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Connoisseurs of Prints",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2427,
+            "displayname":"John Sloan",
+            "displaydate":"1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+            "datebegin":1871,
+            "dateend":1951,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Sloan, 1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":104434,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28856",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":104435,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28857",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28856"
+    ],
+    "displaymaker":"John Sloan, 1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Sloan (1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY), Connoisseurs of Prints. Etching; 12.5 x 17.5 cm (plate), 24.2 x 32.3 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-78)",
+    "captionhtml":"John Sloan (1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY), <i>Connoisseurs of Prints</i>. Etching; 12.5 x 17.5 cm (plate), 24.2 x 32.3 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-78)",
+    "published_date":"2025-10-23 16:44:11.519842",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

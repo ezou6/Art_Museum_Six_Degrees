@@ -1,0 +1,223 @@
+{
+    "type":"artobject",
+    "objectid":7447,
+    "objectnumber":"x1948-1826",
+    "sortnumber":"1948 1826x",
+    "displaytitle":"Sheet of Figure Sketches",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1842,
+    "dateend":1844,
+    "datecomputed":1843,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1842–1844",
+    "medium":"Graphite and charcoal",
+    "dimensions":"31.9 x 40.4 cm. (12 9/16 x 15 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"in graphite, lower left: Augusta, Maine, Paul Chandler",
+    "signed":"Signed in graphite, upper left: Johnson | Johnson Johnson",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sheet of Figure Sketches",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5475,
+            "displayname":"Eastman Johnson",
+            "displaydate":"1824–1906; born Lovell, ME; died New York, NY",
+            "datebegin":1824,
+            "dateend":1906,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eastman Johnson, 1824–1906; born Lovell, ME; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert Rosenthal",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":6110,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-1826_REC",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":6111,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-1826_VER",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John I. H. Baur, <em>An American genre painter: Eastman Johnson, 1824-1906</em>, (New York: Brooklyn Museum, 1940).",
+            "citation":"John I. H. Baur, <em>An American genre painter: Eastman Johnson, 1824-1906</em>, (New York: Brooklyn Museum, 1940)., p. 30, no. 449",
+            "date":1940,
+            "id":3415,
+            "uri":"http://www.worldcat.org/oclc/886376650"
+        },
+        {
+            "boilertext":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976).",
+            "citation":"Barbara T. Ross, <i>American Drawings in the Art Museum, Princeton University: 130 Selected Examples</i> (Princeton: Art Museum, Princeton University, 1976)., p. 54, no. 52 (illus.)",
+            "date":1976,
+            "id":5635,
+            "uri":"http://www.worldcat.org/oclc/2681117"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 321, checklist no. 507 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":2314,
+            "citation":"American Drawings In The Art Museum, Princeton University (October 3, 1976 - November 28, 1976)\r\n",
+            "isvirtual":true,
+            "begindate":"1976-10-03",
+            "enddate":"1976-11-28",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/2314"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2118543,
+            "term":"figures (illustrations)",
+            "aatid":300188975,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055517,
+            "term":"sketches",
+            "aatid":300015617,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045804,
+            "term":"charcoal",
+            "aatid":300012862,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2055517,
+            "classification":"sketches"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-1826_REC"
+    ],
+    "displaymaker":"Eastman Johnson, 1824–1906; born Lovell, ME; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eastman Johnson (1824–1906; born Lovell, ME; died New York, NY), Sheet of Figure Sketches, 1842–1844. Graphite and charcoal; 31.9 x 40.4 cm. Gift of Frank Jewett Mather Jr. (x1948-1826)",
+    "captionhtml":"Eastman Johnson (1824–1906; born Lovell, ME; died New York, NY), <i>Sheet of Figure Sketches</i>, 1842–1844. Graphite and charcoal; 31.9 x 40.4 cm. Gift of Frank Jewett Mather Jr. (x1948-1826)",
+    "published_date":"2025-10-16 10:57:24.081913",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

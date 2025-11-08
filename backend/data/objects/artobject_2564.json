@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":2564,
+    "objectnumber":"x1937-84",
+    "sortnumber":"1937   84x",
+    "displaytitle":"Madame Roland",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1837,
+    "dateend":1937,
+    "datecomputed":1887,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 29.7 × 20.7 cm (11 11/16 × 8 1/8 in.)\r\nsheet: 42.8 × 30.4 cm (16 7/8 × 11 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Madame Roland",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5567,
+            "displayname":"Ferd. Delannoy",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ferd. Delannoy",
+            "displayorder":1
+        },
+        {
+            "id":12840,
+            "displayname":"Pierre Gustave Eugene Staal",
+            "displaydate":"French, 1817 - 1882",
+            "datebegin":1817,
+            "dateend":1882,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Pierre Gustave Eugene Staal, French, 1817 - 1882",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118581,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40842",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118582,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40843",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40842"
+    ],
+    "displaymaker":"Ferd. Delannoy | after Pierre Gustave Eugene Staal, French, 1817 - 1882",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ferd. Delannoy, after Pierre Gustave Eugene Staal (French, 1817 - 1882), Madame Roland. Engraving; 29.7 × 20.7 cm (plate), 42.8 × 30.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-84)",
+    "captionhtml":"Ferd. Delannoy, after Pierre Gustave Eugene Staal (French, 1817 - 1882), <i>Madame Roland</i>. Engraving; 29.7 × 20.7 cm (plate), 42.8 × 30.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-84)",
+    "published_date":"2025-10-16 10:18:38.192748",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

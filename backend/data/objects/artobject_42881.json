@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":42881,
+    "objectnumber":"2006-13",
+    "sortnumber":"2006   13",
+    "displaytitle":"Sterling, Alberta",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2004,
+    "dateend":2004,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2004",
+    "medium":"Photogravure",
+    "dimensions":"plate: 34.7 x 22.9 cm. (13 11/16 x 9 in.) \r\nsheet: 51.0 x 37.5 cm. (20 1/16 x 14 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of William J. Salman, Class of 1955",
+    "markings":null,
+    "inscribed":"Titled and numbered in graphite, lower left: Sterling, Alberta 4//6\r\n\r\nSigned and dated in graphite, lower right: Karl Koenig 2004",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Karl Koenig",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sterling, Alberta",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":948,
+            "displayname":"Karl Koenig",
+            "displaydate":"American, 1938–2012",
+            "datebegin":1938,
+            "dateend":2012,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Karl Koenig, American, 1938–2012",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110342,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33708",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":110343,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33709",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 53",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, Canada, Alberta, Stirling",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Canada",
+            "region":null,
+            "state":"Alberta",
+            "city":"Stirling",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6156823/stirling.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2104570,
+            "term":"rails (transit system elements)",
+            "aatid":300248207,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2154825,
+            "classification":"photogravure"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33709"
+    ],
+    "displaymaker":"Karl Koenig, American, 1938–2012",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Karl Koenig (American, 1938–2012), Sterling, Alberta, 2004. Photogravure; 34.7 x 22.9 cm (plate), 51 x 37.5 cm (sheet). Museum purchase, gift of William J. Salman, Class of 1955 (2006-13)",
+    "captionhtml":"Karl Koenig (American, 1938–2012), <i>Sterling, Alberta</i>, 2004. Photogravure; 34.7 x 22.9 cm (plate), 51 x 37.5 cm (sheet). Museum purchase, gift of William J. Salman, Class of 1955 (2006-13)",
+    "published_date":"2025-10-16 14:21:53.911032",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":45368,
+    "objectnumber":"PP7",
+    "sortnumber":"P         7P",
+    "displaytitle":"Ebenezer Pemberton (1705–1777), D.D. 1770, Trustee (1746–54)",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1746,
+    "dateend":1910,
+    "datecomputed":1828,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"sight: 57.5 x 44.6 cm (22 5/8 x 17 9/16 in.)\r\nframe: 86.4 x 73.7 cm (34 x 29 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Henry Fairfield Osborn, Class of 1877",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ebenezer Pemberton (1705–1777), D.D. 1770, Trustee (1746–54)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Unknown",
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Unknown American artist",
+            "displayorder":1
+        },
+        {
+            "id":22110,
+            "displayname":"Benjamin Blyth",
+            "displaydate":"American, 1746–1811",
+            "datebegin":1746,
+            "dateend":1811,
+            "prefix":"copy after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"copy after Benjamin Blyth, American, 1746–1811",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":29173,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP7",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Karl Kusserow et al., <EM>Inner sanctum: memory and meaning in Princeton’s Faculty Room at Nassau Hall</EM>, (Princeton,&nbsp;NJ: Princeton University Art Museum, &nbsp;2010).",
+            "citation":"Karl Kusserow et al., <EM>Inner sanctum: memory and meaning in Princeton’s Faculty Room at Nassau Hall</EM>, (Princeton,&nbsp;NJ: Princeton University Art Museum, &nbsp;2010).",
+            "date":2010,
+            "id":849,
+            "uri":"http://www.worldcat.org/oclc/645678813"
+        },
+        {
+            "boilertext":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947).",
+            "citation":"Donald D. Egbert, <i>Princeton Portraits,</i> (Princeton, NJ: Princeton University Press, 1947)., fig. 7; p. 28-30",
+            "date":1947,
+            "id":475,
+            "uri":"http://www.worldcat.org/oclc/740984936"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089024,
+            "term":"trustees",
+            "aatid":300025881,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"86.35"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.65"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.46"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP7"
+    ],
+    "displaymaker":"Unknown American artist | copy after Benjamin Blyth, American, 1746–1811",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown American artist, copy after Benjamin Blyth (American, 1746–1811), Ebenezer Pemberton (1705–1777), D.D. 1770, Trustee (1746–54). Oil on canvas; 57.5 x 44.6 cm (sight), 86.4 x 73.7 cm (frame). Princeton University, gift of Henry Fairfield Osborn, Class of 1877 (PP7)",
+    "captionhtml":"Unknown American artist, copy after Benjamin Blyth (American, 1746–1811), <i>Ebenezer Pemberton (1705–1777), D.D. 1770, Trustee (1746–54)</i>. Oil on canvas; 57.5 x 44.6 cm (sight), 86.4 x 73.7 cm (frame). Princeton University, gift of Henry Fairfield Osborn, Class of 1877 (PP7)",
+    "published_date":"2025-10-16 14:29:46.099430",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

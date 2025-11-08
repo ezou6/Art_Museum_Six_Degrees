@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":42327,
+    "objectnumber":"2003-306",
+    "sortnumber":"2003  306",
+    "displaytitle":"Triangular vase",
+    "department":"Asian Art",
+    "classification":"Ceramic",
+    "datebegin":1961,
+    "dateend":2003,
+    "datecomputed":1982,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 26.0 cm., w. 11.8 cm., d. 12.1 cm. (10 1/4 x 4 5/8 x 4 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Earl and Virginia Miner",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Triangular vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1206,
+            "displayname":"Shimizu Ichiji 清水 一二",
+            "displaydate":"born 1961",
+            "datebegin":1961,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shimizu Ichiji 清水 一二, born 1961",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font color=\"#7030a0\">\n</font><font color=\"#7030a0\">\n</font><font color=\"#7030a0\">\n&nbsp;–1993-94&nbsp;Acquired by Earl Miner in Japan.<br>&nbsp;–2003&nbsp;Earl and Virginia Miner (Princeton, NJ), by gift to the Princeton University Art Museum, 2003.<br></font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":56693,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV024293",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":56694,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV024291",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 132",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033927,
+            "term":"Showa",
+            "aatid":300018568,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033965,
+            "term":"Japanese ceramics styles",
+            "aatid":300018591,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2033965,
+            "classification":"japanese ceramics styles"
+        },
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12593,
+            "period":"Shōwa era",
+            "alphasort":"Showa era",
+            "begindate":1926,
+            "enddate":1989,
+            "displayperiod":"Shōwa era, 1926–1989",
+            "displaydate":"1926–1989"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033927,
+            "period":"Showa"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"12.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV024291"
+    ],
+    "displaymaker":"Shimizu Ichiji 清水 一二, born 1961",
+    "displayculture":"Japanese",
+    "displayperiod":"Shōwa era, 1926–1989",
+    "caption":"Japanese, Shōwa era (1926–1989), Shimizu Ichiji 清水 一二 (born 1961), Triangular vase. Ceramic; 26 x 11.8 x 12.1 cm. Gift of Earl and Virginia Miner (2003-306)",
+    "captionhtml":"Japanese, Shōwa era (1926–1989), Shimizu Ichiji 清水 一二 (born 1961), <i>Triangular vase</i>. Ceramic; 26 x 11.8 x 12.1 cm. Gift of Earl and Virginia Miner (2003-306)",
+    "published_date":"2025-10-16 14:18:54.551957",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

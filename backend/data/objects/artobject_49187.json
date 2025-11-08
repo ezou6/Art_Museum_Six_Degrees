@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":49187,
+    "objectnumber":"x1937-519",
+    "sortnumber":"1937  519x",
+    "displaytitle":"Samuel Johnson",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1760,
+    "dateend":1790,
+    "datecomputed":1775,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"mezzotint",
+    "dimensions":"sheet trimmed to plate: 9.5 x 7.8 cm. (3 3/4 x 3 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Samuel Johnson",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Portrait",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":799,
+            "displayname":"James Watson",
+            "displaydate":"Irish, ca. 1740–1790",
+            "datebegin":1740,
+            "dateend":1790,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James Watson, Irish, ca. 1740–1790",
+            "displayorder":1
+        },
+        {
+            "id":3224,
+            "displayname":"Sir Joshua Reynolds",
+            "displaydate":"1723–1792; born Plympton, England; died London, England",
+            "datebegin":1723,
+            "dateend":1792,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Sir Joshua Reynolds, 1723–1792; born Plympton, England; died London, England",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":104070,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28567",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28567"
+    ],
+    "displaymaker":"James Watson, Irish, ca. 1740–1790 | after Sir Joshua Reynolds, 1723–1792; born Plympton, England; died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James Watson (Irish, ca. 1740–1790), after Sir Joshua Reynolds (1723–1792; born Plympton, England; died London, England), Samuel Johnson. Mezzotint; 9.5 x 7.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-519)",
+    "captionhtml":"James Watson (Irish, ca. 1740–1790), after Sir Joshua Reynolds (1723–1792; born Plympton, England; died London, England), <i>Samuel Johnson</i>. Mezzotint; 9.5 x 7.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-519)",
+    "published_date":"2025-10-23 17:24:01.312736",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

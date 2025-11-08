@@ -1,0 +1,270 @@
+{
+    "type":"artobject",
+    "objectid":135805,
+    "objectnumber":"2019-225",
+    "sortnumber":"2019  225",
+    "displaytitle":"Olla",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1875,
+    "dateend":1885,
+    "datecomputed":1880,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1880",
+    "medium":"Ceramic with polychrome slip-paint",
+    "dimensions":"h. 22.9 × diam. 26.7 cm (9 × 10 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Adobe Gallery, Santa Fe (NM), by 2015]; purchased by Jim Maddox, 2015; donated to the Princeton University Art Museum by Jim Maddox and Lucy Maddox, 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":227164,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62894",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":227165,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62892",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Zia Pueblo, Jemez River basin",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Jemez River basin",
+            "state":"New Mexico",
+            "city":"Zia Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5498948/zia-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040536,
+            "term":"Zia",
+            "aatid":300017761,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073397,
+            "term":"ollas",
+            "aatid":300199780,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073397,
+            "classification":"ollas"
+        }
+    ],
+    "cultures":[
+        {
+            "id":24005,
+            "culture":"Zia",
+            "alphasort":"Zia",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Zia",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040536,
+            "culture":"Zia"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.85"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"26.66"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2020_62892"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Zia",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Zia, ca. 1880, Zia Pueblo, New Mexico, Jemez River basin, United States, American southwest, Olla. Ceramic with polychrome slip-paint; 22.9 × 26.7 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-225)",
+    "captionhtml":"Artist unidentified, Zia, ca. 1880, Zia Pueblo, New Mexico, Jemez River basin, United States, American southwest, <i>Olla</i>. Ceramic with polychrome slip-paint; 22.9 × 26.7 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2019-225)",
+    "published_date":"2025-10-30 02:09:31.971797",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

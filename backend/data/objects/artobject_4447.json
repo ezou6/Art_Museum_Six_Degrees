@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":4447,
+    "objectnumber":"x1943-290",
+    "sortnumber":"1943  290x",
+    "displaytitle":"David Hartley, M.A.",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1777,
+    "dateend":1827,
+    "datecomputed":1802,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"sheet trimmed to plate: 24.4 x 30.5 cm. (9 5/8 x 12 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Old collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"David Hartley, M.A.",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":418,
+            "displayname":"William Blake",
+            "displaydate":"1757–1827; born and died London, England",
+            "datebegin":1757,
+            "dateend":1757,
+            "prefix":"possibly",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"possibly William Blake, 1757–1827; born and died London, England",
+            "displayorder":1
+        },
+        {
+            "id":3479,
+            "displayname":"John Schackelton",
+            "displaydate":"British, op.1749–1767",
+            "datebegin":1767,
+            "dateend":1767,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after John Schackelton, British, op.1749–1767",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104121,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28618",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28618"
+    ],
+    "displaymaker":"possibly William Blake, 1757–1827; born and died London, England | after John Schackelton, British, op.1749–1767",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Possibly William Blake (1757–1827; born and died London, England), after John Schackelton (British, op.1749–1767), David Hartley, M.A. Engraving; 24.4 x 30.5 cm (plate). Old collection (x1943-290)",
+    "captionhtml":"Possibly William Blake (1757–1827; born and died London, England), after John Schackelton (British, op.1749–1767), <i>David Hartley, M.A.</i>. Engraving; 24.4 x 30.5 cm (plate). Old collection (x1943-290)",
+    "published_date":"2025-10-23 16:44:29.769419",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

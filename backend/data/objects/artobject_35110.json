@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":35110,
+    "objectnumber":"PU 5280",
+    "sortnumber":"U      5280P",
+    "displaytitle":"Bowl in the form of a seal",
+    "department":"Art of the Ancient Americas",
+    "classification":"Vessels",
+    "datebegin":1860,
+    "dateend":1882,
+    "datecomputed":1871,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1882",
+    "medium":"Alder",
+    "dimensions":"h. 10.9 cm., l. 32.0 cm., w. 15.3 cm. (4 5/16 x 12 5/8 x 6 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl in the form of a seal",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to Princeton Theological Seminary, 1879-1882; Given to E. M. Museum (Princeton Museum of Natural History), 1882 ",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44358,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010051",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, possibly Howkan",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"possibly Howkan",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5553554/howkan-historical.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2099253,
+            "term":"tourist trade",
+            "aatid":300132466,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040056,
+            "term":"Haida",
+            "aatid":300017606,
+            "termtype":"Culture"
+        },
+        {
+            "id":2194621,
+            "term":"zoomorphic",
+            "aatid":300010338,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134661,
+            "term":"feasts",
+            "aatid":300069097,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134746,
+            "term":"potlatches",
+            "aatid":300069169,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2185071,
+            "term":"seals",
+            "aatid":300250867,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075787,
+            "term":"dishes",
+            "aatid":300042973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156545,
+            "term":"engraving (incising)",
+            "aatid":300053829,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045966,
+            "term":"alder",
+            "aatid":300011918,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2075787,
+            "classification":"dishes"
+        },
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2099253,
+            "classification":"tourist trade"
+        },
+        {
+            "id":2134746,
+            "classification":"potlatches"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14106,
+            "culture":"Haida",
+            "alphasort":"Haida",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haida",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040056,
+            "culture":"Haida"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"15.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143772,
+            "name":"CRS_3HaidaBowls"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010051"
+    ],
+    "displaymaker":null,
+    "displayculture":"Haida",
+    "displayperiod":null,
+    "caption":"Haida, before 1882, possibly Howkan, Northwest Coast, Bowl in the form of a seal. Alder; 10.9 x 32 x 15.3 cm. Lent by the Department of Geosciences, Princeton University (PU 5280)",
+    "captionhtml":"Haida, before 1882, possibly Howkan, Northwest Coast, <i>Bowl in the form of a seal</i>. Alder; 10.9 x 32 x 15.3 cm. Lent by the Department of Geosciences, Princeton University (PU 5280)",
+    "published_date":"2025-10-16 13:44:19.830015",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

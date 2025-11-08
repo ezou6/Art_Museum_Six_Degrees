@@ -1,0 +1,276 @@
+{
+    "type":"artobject",
+    "objectid":32994,
+    "objectnumber":"y1986-1",
+    "sortnumber":"1986    1y",
+    "displaytitle":"Seated figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-1200,
+    "dateend":-400,
+    "datecomputed":-800,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"1200–900 BCE",
+    "medium":"Clay with burnished cream slip and traces of red and black pigments",
+    "dimensions":"h. 5.6 cm., w. 4.7 cm., d. 4.1 cm. (2 3/16 x 1 7/8 x 1 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1986-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Seated figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1986, Fine Arts of Ancient Lands, Inc. (Spencer Throckmorton), New York, sold to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":46883,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV012691",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":7822,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1986-1_SL",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Harmer Johnson, ed. <i>Guide to the Arts of the Americas</i> (New York: Rizzoli, 1992)",
+            "citation":"Harmer Johnson, ed. <i>Guide to the Arts of the Americas</i> (New York: Rizzoli, 1992), p. 58 (illus.)",
+            "date":1992,
+            "id":1260,
+            "uri":"http://www.worldcat.org/oclc/25547967"
+        },
+        {
+            "boilertext":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986)",
+            "citation":"Allen Rosenbaum and Francis F. Jones,<em> Selections from The Art Museum, Princeton University, </em>(Princeton,&nbsp;NJ: The Art Museum, Princeton University, 1986), p. 248",
+            "date":1986,
+            "id":1899,
+            "uri":"http://www.worldcat.org/oclc/14244748"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52",
+            "citation":"\"Acquisitions of the Art Museum 1986,\" <em>Record of the Art Museum, Princeton University</em> 46, no. 1 (1987): p. 18–52, p. 50",
+            "date":1987,
+            "id":550,
+            "uri":"https://www.jstor.org/stable/3774580"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Puebla, Las Bocas",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Puebla",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Las Bocas",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3521082/estado-de-puebla.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035648,
+            "term":"Early Preclassic",
+            "aatid":300016970,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035751,
+            "term":"Olmec",
+            "aatid":300017051,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160353,
+            "term":"clay",
+            "aatid":300010439,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168423,
+            "term":"pigment",
+            "aatid":300013109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":12498,
+            "culture":"Olmec",
+            "alphasort":"Olmec",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Olmec",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035751,
+            "culture":"Olmec"
+        }
+    ],
+    "periods":[
+        {
+            "id":24008,
+            "period":"Early Formative Period",
+            "alphasort":"Formative Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035648,
+            "period":"Early Preclassic"
+        },
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.71"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.06"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":223468,
+            "name":"2023_ART365/LAS370/ANT365_02_28"
+        },
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV012691"
+    ],
+    "displaymaker":null,
+    "displayculture":"Olmec",
+    "displayperiod":"Early Formative Period",
+    "caption":"Olmec, Early Formative Period, 1200–900 BCE, Puebla, Mexico, Mesoamerica, Seated figure. Clay with burnished cream slip and traces of red and black pigments; 5.6 x 4.7 x 4.1 cm. Museum purchase (y1986-1)",
+    "captionhtml":"Olmec, Early Formative Period, 1200–900 BCE, Puebla, Mexico, Mesoamerica, <i>Seated figure</i>. Clay with burnished cream slip and traces of red and black pigments; 5.6 x 4.7 x 4.1 cm. Museum purchase (y1986-1)",
+    "published_date":"2025-10-29 02:05:04.815185",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

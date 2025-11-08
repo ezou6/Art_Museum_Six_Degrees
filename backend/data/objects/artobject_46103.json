@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":46103,
+    "objectnumber":"x1934-1206",
+    "sortnumber":"1934 1206x",
+    "displaytitle":"Josua Sylvestre",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1653,
+    "dateend":1667,
+    "datecomputed":1660,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 24.1 x 15.6 cm. (9 1/2 x 6 1/8 in.)\r\nsheet: 26.4 x 17.8 cm. (10 3/8 x 7 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"signed, l.l.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Josua Sylvestre",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6756,
+            "displayname":"Cornelis van Dalen the Younger",
+            "displaydate":"Dutch, 1638 - c. 1664",
+            "datebegin":1638,
+            "dateend":1664,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cornelis van Dalen the Younger, Dutch, 1638 - c. 1664",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103388,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28107",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28107"
+    ],
+    "displaymaker":"Cornelis van Dalen the Younger, Dutch, 1638 - c. 1664",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cornelis van Dalen the Younger (Dutch, 1638 - c. 1664), Josua Sylvestre. Engraving; 24.1 x 15.6 cm (plate), 26.4 x 17.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1206)",
+    "captionhtml":"Cornelis van Dalen the Younger (Dutch, 1638 - c. 1664), <i>Josua Sylvestre</i>. Engraving; 24.1 x 15.6 cm (plate), 26.4 x 17.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1206)",
+    "published_date":"2025-10-23 17:17:21.319310",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":28664,
+    "objectnumber":"y1961-60 a-c",
+    "sortnumber":"1961   60ya    c",
+    "displaytitle":"Box",
+    "department":"Asian Art",
+    "classification":"Lacquerware",
+    "datebegin":1700,
+    "dateend":1799,
+    "datecomputed":1750,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"18th century",
+    "medium":"Lacquer",
+    "dimensions":"h. 7.0 cm., w. 17.0 cm., d. 13.0 cm. (2 3/4 x 6 11/16 x 5 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Horace Mayer",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1961-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Box",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Constrained by both medium and format, the artist has divided the lacquer box into three regions for ornamentation. The exterior is wrapped entirely by crisscrossing blades of grass interspersed with clusters of wisteria. In contrast, in the interior of the box the artist has decided to vary the design by creating a geometric pattern that makes the same grass motif appear more angular.",
+            "remarks":"JapaneseFall2012.pdf"
+        }
+    ],
+    "media":[
+        {
+            "id":56748,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV024345",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":56749,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV024347",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27, p. 27",
+            "date":1962,
+            "id":3379,
+            "uri":"https://www.jstor.org/stable/3774376"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033963,
+            "term":"Japanese lacquer styles",
+            "aatid":300106715,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072562,
+            "term":"boxes (containers)",
+            "aatid":300045643,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072562,
+            "classification":"boxes (containers)"
+        },
+        {
+            "id":2033963,
+            "classification":"japanese lacquer styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV024345"
+    ],
+    "displaymaker":null,
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Box, 18th century. Lacquer; 7 x 17 x 13 cm. Gift of Horace Mayer (y1961-60 a-c)",
+    "captionhtml":"Japanese, Edo period (1603–1868), <i>Box</i>, 18th century. Lacquer; 7 x 17 x 13 cm. Gift of Horace Mayer (y1961-60 a-c)",
+    "published_date":"2025-10-16 13:09:13.908037",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

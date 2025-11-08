@@ -1,0 +1,221 @@
+{
+    "type":"artobject",
+    "objectid":86418,
+    "objectnumber":"2013-9",
+    "sortnumber":"2013    9",
+    "displaytitle":"Face",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ornament",
+    "datebegin":1400,
+    "dateend":1500,
+    "datecomputed":1450,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1400–1500",
+    "medium":"Lightning whelk (Busycon contrarium)",
+    "dimensions":"h. 19.1 cm., w. 13.5 cm. (7 1/2 x 5 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Mary Trumbull Adams Art Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Face",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The natural shape of the shell—which originated in the Gulf of Mexico—contributes substantial volume and apparent mass to this face. The eyes are drilled, and sure incisions embellish the face with decorative motifs, presumably referring to paint or tattoos. The markings recall the facial feather patterning of the peregrine falcon, a predator whose swiftness and aggressiveness were sought by warriors. Alternatively, some scholars have proposed that these marks depict lightning, alluding to the mythological Thunderbird, who could also bestow prowess in battle. In either case, the object seems to focus on military and possibly hunting success and may have been an emblem of the owner's membership in a warrior group. ",
+            "remarks":"2015 AAA Reinstallation WC7 Native North America"
+        }
+    ],
+    "media":[
+        {
+            "id":126203,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2013-9",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 44",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Arkansas",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Southeast",
+            "country":"United States",
+            "region":null,
+            "state":"Arkansas",
+            "city":null,
+            "county":"Lee County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Big Eddy site",
+            "geoname":"http://www.geonames.org/4118578/lee-county.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049066,
+            "term":"archaeological objects",
+            "aatid":300234110,
+            "termtype":"Subject"
+        },
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Subject"
+        },
+        {
+            "id":2129536,
+            "term":"gorgets",
+            "aatid":300036785,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055563,
+            "term":"tattoos",
+            "aatid":300015614,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2035407,
+            "term":"Mississippian",
+            "aatid":300016811,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171693,
+            "term":"snails",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2049090,
+            "term":"fossils",
+            "aatid":300247919,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2129536,
+            "classification":"gorgets"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13835,
+            "culture":"Mississippian",
+            "alphasort":"Mississippian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Late Mississippian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035407,
+            "culture":"Mississippian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":152535,
+            "name":"web_seashells"
+        },
+        {
+            "packageid":181974,
+            "name":"web_2020_AAA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2013-9"
+    ],
+    "displaymaker":null,
+    "displayculture":"Late Mississippian",
+    "displayperiod":null,
+    "caption":"Late Mississippian, 1400–1500, Arkansas, United States, Southeast, Face. Lightning whelk (Busycon contrarium); 19.1 x 13.5 cm. Museum purchase, Mary Trumbull Adams Art Fund (2013-9)",
+    "captionhtml":"Late Mississippian, 1400–1500, Arkansas, United States, Southeast, <i>Face</i>. Lightning whelk (Busycon contrarium); 19.1 x 13.5 cm. Museum purchase, Mary Trumbull Adams Art Fund (2013-9)",
+    "published_date":"2025-10-16 17:07:48.374259",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

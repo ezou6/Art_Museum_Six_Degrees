@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":33135,
+    "objectnumber":"y1989-58",
+    "sortnumber":"1989   58y",
+    "displaytitle":"Fragmentary Pocolom-bowl with cock",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-275,
+    "dateend":-250,
+    "datecomputed":-262,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"275–250 BCE",
+    "medium":"Ceramic",
+    "dimensions":"5.8 x 12.3 x 10.4 cm (2 5/16 x 4 13/16 x 4 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":"Inside, in added color, rooster to left; inscribed: [MENERV]AI.(?)POCOLOM",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1989-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fragmentary Pocolom-bowl with cock",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3120,
+            "displayname":"Volcani Group",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Attributed to the",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Attributed to the Volcani Group",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Musuem in 1989 by Robert Hecht Jr.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34193,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV001871",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":34194,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV001872",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57.",
+            "citation":"\"Acquisitions of the Art Museum 1989,\" <EM>Record of the Art Museum, Princeton University </EM>49, no. 1 (1990): p. 24-57., p. 45",
+            "date":1990,
+            "id":3099,
+            "uri":"https://www.jstor.org/stable/3774747"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159470,
+            "term":"rosettes",
+            "aatid":300009972,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159506,
+            "term":"leaf scrolls",
+            "aatid":300010104,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171854,
+            "term":"deities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036714,
+            "term":"Etruscan",
+            "aatid":300020471,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036714,
+            "culture":"Etruscan"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"10.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV001871"
+    ],
+    "displaymaker":"Attributed to the Volcani Group",
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Attributed to the Volcani Group, 275–250 BCE, Fragmentary Pocolom-bowl with cock. Ceramic; 5.8 x 12.3 x 10.4 cm. Anonymous gift (y1989-58)",
+    "captionhtml":"Roman, Attributed to the Volcani Group, 275–250 BCE, <i>Fragmentary Pocolom-bowl with cock</i>. Ceramic; 5.8 x 12.3 x 10.4 cm. Anonymous gift (y1989-58)",
+    "published_date":"2025-10-16 13:34:00.724015",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

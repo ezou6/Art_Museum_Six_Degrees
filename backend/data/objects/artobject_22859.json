@@ -1,0 +1,273 @@
+{
+    "type":"artobject",
+    "objectid":22859,
+    "objectnumber":"y1946-204",
+    "sortnumber":"1946  204y",
+    "displaytitle":"Horses",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1699,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"undated; 17th century (?)",
+    "medium":"Handscroll; colors on silk",
+    "dimensions":"Painting: 26.7 x 127 cm. (10 1/2 x 50 in.)\r\nMount: h. 32.4 cm. (12 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906",
+    "markings":"seal",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Horses",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6428,
+            "displayname":"Zhao Mengfu 趙孟頫",
+            "displaydate":"1254–1322",
+            "datebegin":1254,
+            "dateend":1322,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Zhao Mengfu 趙孟頫, attributed to, 1254–1322",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22582,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-204_1",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22583,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-204_2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":62350,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08606",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":1579,
+            "citation":"The Carl Otto von Kienbusch, Jr. Memorial Collection (Princeton University Art Museum, June 1956)",
+            "isvirtual":true,
+            "begindate":"1956-06",
+            "enddate":"1956-06",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1579"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033561,
+            "term":"Yüan",
+            "aatid":300018436,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033561,
+            "period":"Yüan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.40"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"127.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-204_1"
+    ],
+    "displaymaker":"Zhao Mengfu 趙孟頫, attributed to, 1254–1322",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Zhao Mengfu 趙孟頫, attributed to (1254–1322), Horses, undated; 17th century (?). Handscroll; colors on silk; 26.7 x 127 cm (Painting), 32.4 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-204)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Zhao Mengfu 趙孟頫, attributed to (1254–1322), <i>Horses</i>, undated; 17th century (?). Handscroll; colors on silk; 26.7 x 127 cm (Painting), 32.4 cm (mount). Gift of Carl Otto von Kienbusch, Class of 1906 (y1946-204)",
+    "published_date":"2025-10-16 12:49:25.789039",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

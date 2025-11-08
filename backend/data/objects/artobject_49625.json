@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":49625,
+    "objectnumber":"2006-252",
+    "sortnumber":"2006  252",
+    "displaytitle":"The Wood Hauler, or Pedro Montoya of Arroyo Hondo, from Alice Corbin's New Mexico Songs",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1912,
+    "dateend":1922,
+    "datecomputed":1917,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1917",
+    "medium":"Woodcut",
+    "dimensions":"block: 10.2 × 12.6 cm (4 × 4 15/16 in.)\r\nsheet: 21.2 × 27.5 cm (8 3/8 × 10 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":12699,
+            "displayname":"William Penhallow Henderson",
+            "displaydate":"American, 1877–1943",
+            "datebegin":1877,
+            "dateend":1943,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Penhallow Henderson, American, 1877–1943",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110688,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33919",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":110689,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33920",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 92",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158070,
+            "term":"donkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.50"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.20"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33920"
+    ],
+    "displaymaker":"William Penhallow Henderson, American, 1877–1943",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Penhallow Henderson (American, 1877–1943), The Wood Hauler, or Pedro Montoya of Arroyo Hondo, from Alice Corbin's New Mexico Songs, ca. 1917. Woodcut; 10.2 × 12.6 cm (block), 21.2 × 27.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-252)",
+    "captionhtml":"William Penhallow Henderson (American, 1877–1943), <i>The Wood Hauler, or Pedro Montoya of Arroyo Hondo, from Alice Corbin's New Mexico Songs</i>, ca. 1917. Woodcut; 10.2 × 12.6 cm (block), 21.2 × 27.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-252)",
+    "published_date":"2025-10-16 15:07:21.231811",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

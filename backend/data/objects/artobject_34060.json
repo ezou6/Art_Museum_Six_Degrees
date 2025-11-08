@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":34060,
+    "objectnumber":"y288",
+    "sortnumber":"288     y",
+    "displaytitle":"Krater (mixing vessel)",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-850,
+    "dateend":-475,
+    "datecomputed":-662,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 850–500 BCE",
+    "medium":"White painted III–V ware: ceramic",
+    "dimensions":"h. 10.0 cm, diam. 12.5 cm (3 15/16 x 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Krater (mixing vessel)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":32300,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42170",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_33.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037302,
+            "term":"white painted (pottery style)",
+            "aatid":300107620,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159184,
+            "term":"Saint Andrew's crosses",
+            "aatid":300010079,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199110,
+            "term":"Cypro-Geometric",
+            "aatid":null,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199111,
+            "term":"Cypro-Archaic",
+            "aatid":null,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073338,
+            "term":"kraters",
+            "aatid":300198855,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073338,
+            "classification":"kraters"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":15655,
+            "period":"Cypro-Geometric III",
+            "alphasort":"Cypro-Geometric III",
+            "begindate":-900,
+            "enddate":-750,
+            "displayperiod":"Cypro-Geometric III, Cypro-Archaic IIA, ca. 750–480 BCE, ca. 900–750 BCE",
+            "displaydate":"ca. 900–750 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037302,
+            "period":"white painted (pottery style)"
+        },
+        {
+            "id":2199110,
+            "period":"Cypro-Geometric"
+        },
+        {
+            "id":2199111,
+            "period":"Cypro-Archaic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"12.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42170"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Cypro-Geometric III, Cypro-Archaic IIA, ca. 750–480 BCE, ca. 900–750 BCE",
+    "caption":"Cypriote, Cypro-Geometric III, Cypro-Archaic IIA, ca. 750–480 BCE (ca. 900–750 BCE), Cyprus, ca. 850–500 BCE, Krater (mixing vessel). White painted III–V ware: ceramic; 10 x 12.5 cm. Gift of Allan Marquand, Class of 1874 (y288)",
+    "captionhtml":"Cypriote, Cypro-Geometric III, Cypro-Archaic IIA, ca. 750–480 BCE (ca. 900–750 BCE), Cyprus, ca. 850–500 BCE, <i>Krater (mixing vessel)</i>. White painted III–V ware: ceramic; 10 x 12.5 cm. Gift of Allan Marquand, Class of 1874 (y288)",
+    "published_date":"2025-10-16 13:39:02.394610",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

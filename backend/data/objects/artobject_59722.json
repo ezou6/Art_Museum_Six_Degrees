@@ -1,0 +1,307 @@
+{
+    "type":"artobject",
+    "objectid":59722,
+    "objectnumber":"2010-134",
+    "sortnumber":"2010  134",
+    "displaytitle":"Dimanche",
+    "department":"Photography",
+    "classification":"Prints",
+    "datebegin":1960,
+    "dateend":1960,
+    "datecomputed":1960,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1960",
+    "medium":"Halftone and letterpress on newsprint",
+    "dimensions":"55.6 × 38.2 cm (21 7/8 × 15 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dimanche",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15276,
+            "displayname":"Yves Klein",
+            "displaydate":"French, 1928–1962",
+            "datebegin":1915,
+            "dateend":1995,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Yves Klein, French, 1928–1962",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":107938,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2010-134_2",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":107939,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2010-134_1",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":92452,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV17997",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 97",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"<i>Princeton University Art Museum: Handbook of the Collections </i>(Princeton, NJ: Princeton University Art Museum,&nbsp;2013)",
+            "citation":"<i>Princeton University Art Museum: Handbook of the Collections </i>(Princeton, NJ: Princeton University Art Museum,&nbsp;2013), p. 394",
+            "date":2013,
+            "id":1994,
+            "uri":"http://www.worldcat.org/oclc/865020505"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1360,
+            "citation":"Midcentury: Princeton University Art Museum (October 23, 2010–February 20, 2011)",
+            "isvirtual":true,
+            "begindate":"2010-10-23",
+            "enddate":"2011-02-20",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1360"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Saint-Étienne",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Saint-Étienne",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2980291/saint-etienne.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089857,
+            "term":"conceptual artists",
+            "aatid":300131101,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054221,
+            "term":"relief halftones",
+            "aatid":300154372,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125693,
+            "term":"newspapers",
+            "aatid":300026656,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155076,
+            "term":"letterpress printing",
+            "aatid":300178926,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154875,
+            "term":"relief halftone",
+            "aatid":300155640,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043863,
+            "term":"newsprint",
+            "aatid":300014137,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054221,
+            "classification":"relief halftones"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"55.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":197269,
+            "name":"web_highlights -revised 2021"
+        },
+        {
+            "packageid":181934,
+            "name":"CRS_2020_ART477/FRE477_03_30"
+        },
+        {
+            "packageid":268066,
+            "name":"Web_CA_2025_ModCon"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2010-134_2"
+    ],
+    "displaymaker":"Yves Klein, French, 1928–1962",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yves Klein (French, 1928–1962), Dimanche, 1960. Halftone and letterpress on newsprint; 55.6 × 38.2 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n (2010-134)",
+    "captionhtml":"Yves Klein (French, 1928–1962), <i>Dimanche</i>, 1960. Halftone and letterpress on newsprint; 55.6 × 38.2 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund\r\n (2010-134)",
+    "published_date":"2025-10-16 15:50:13.712369",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

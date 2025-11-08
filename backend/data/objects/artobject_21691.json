@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":21691,
+    "objectnumber":"y1941-25",
+    "sortnumber":"1941   25y",
+    "displaytitle":"Flask",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1100,
+    "dateend":1450,
+    "datecomputed":1275,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1100–1450",
+    "medium":"Grayware ceramic",
+    "dimensions":"h. 27.0 cm., diam. 22.2 cm. (10 5/8 x 8 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":49553,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015982",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":49554,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015983",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Max Schmidt, <I>Kunst und Kultur von Peru</I> (Berlin: Propyläen-Verlag G. M. B. H., 1929).",
+            "citation":"Max Schmidt, <I>Kunst und Kultur von Peru</I> (Berlin: Propyläen-Verlag G. M. B. H., 1929)., p. 224",
+            "date":1929,
+            "id":2684,
+            "uri":"http://www.worldcat.org/oclc/2236963"
+        },
+        {
+            "boilertext":"Bruno John Wassermann-San Blas, <I>Ceramicas del antiguo Peru</I> (Buenos Aires: B. J. Wasserman, 1938).",
+            "citation":"Bruno John Wassermann-San Blas, <I>Ceramicas del antiguo Peru</I> (Buenos Aires: B. J. Wasserman, 1938)., p. 19",
+            "date":1938,
+            "id":2758,
+            "uri":"http://www.worldcat.org/oclc/796352551"
+        },
+        {
+            "boilertext":"Ernst Fuhrmann, <I>Peru II </I>(Hagen: Volkwang-Verlag, 1922).",
+            "citation":"Ernst Fuhrmann, <I>Peru II </I>(Hagen: Volkwang-Verlag, 1922)., pl. 80",
+            "date":1922,
+            "id":2759,
+            "uri":"http://www.worldcat.org/oclc/3288081"
+        },
+        {
+            "boilertext":"Ernst Fuhrmann, <I>Reich der Inka </I>(Hagen: Foilkwang, 1922).",
+            "citation":"Ernst Fuhrmann, <I>Reich der Inka </I>(Hagen: Foilkwang, 1922)., pls. 7ff",
+            "date":1922,
+            "id":2761,
+            "uri":"http://www.worldcat.org/oclc/2085a948"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, North coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"North coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199064,
+            "term":"gray ware (visual works)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036045,
+            "term":"Late Intermediate period",
+            "aatid":300017313,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036054,
+            "term":"Chimú",
+            "aatid":300017316,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2199064,
+            "classification":"gray ware (visual works)"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13513,
+            "culture":"Chimú",
+            "alphasort":"Chimú",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chimú",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036054,
+            "culture":"Chimú"
+        }
+    ],
+    "periods":[
+        {
+            "id":13508,
+            "period":"Late Intermediate Period",
+            "alphasort":"Intermediate, Late",
+            "begindate":900,
+            "enddate":1450,
+            "displayperiod":"Late Intermediate Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036045,
+            "period":"Late Intermediate period"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"22.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015982"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chimú",
+    "displayperiod":"Late Intermediate Period",
+    "caption":"Chimú, Late Intermediate Period, 1100–1450, North coast, Peru, Andes, Flask. Grayware ceramic; 27 x 22.2 cm. Museum purchase (y1941-25)",
+    "captionhtml":"Chimú, Late Intermediate Period, 1100–1450, North coast, Peru, Andes, <i>Flask</i>. Grayware ceramic; 27 x 22.2 cm. Museum purchase (y1941-25)",
+    "published_date":"2025-10-16 12:41:34.957968",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

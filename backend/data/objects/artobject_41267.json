@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":41267,
+    "objectnumber":"x1949-256 a",
+    "sortnumber":"1949  256xa",
+    "displaytitle":"Study for Yangtze at Mt. Omei",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1949,
+    "dateend":1949,
+    "datecomputed":1949,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1949",
+    "medium":"Graphite",
+    "dimensions":"14 x 21.6 cm (5 1/2 x 8 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"in graphite, throughout: [notations]",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Hereward Lester Cooke",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Study for Yangtze at Mt. Omei",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6632,
+            "displayname":"Hereward Lester Cooke",
+            "displaydate":"American, 1916–1973",
+            "datebegin":1916,
+            "dateend":1973,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hereward Lester Cooke, American, 1916–1973",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Woodmere Art Gall., Chestnut Hill, Pa",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":107354,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31669",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 302, checklist no. 152",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: China, Sichuan, Emei Shan",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":"Sichuan",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Emei Shan",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/1811733/emei-shan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: Asia, China",
+            "code":"Place depicted",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":"Yangtze",
+            "excavation":null,
+            "geoname":"https://www.geonames.org/1815696/yangtze-river.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051797,
+            "term":"studies (visual works)",
+            "aatid":300081053,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2051797,
+            "classification":"studies (visual works)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31669"
+    ],
+    "displaymaker":"Hereward Lester Cooke, American, 1916–1973",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hereward Lester Cooke (American, 1916–1973), Study for Yangtze at Mt. Omei, 1949. Graphite; 14 x 21.6 cm. Gift of Frank Jewett Mather Jr. (x1949-256 a)",
+    "captionhtml":"Hereward Lester Cooke (American, 1916–1973), <i>Study for Yangtze at Mt. Omei</i>, 1949. Graphite; 14 x 21.6 cm. Gift of Frank Jewett Mather Jr. (x1949-256 a)",
+    "published_date":"2025-10-16 14:13:49.912968",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

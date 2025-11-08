@@ -1,0 +1,291 @@
+{
+    "type":"artobject",
+    "objectid":34186,
+    "objectnumber":"y266",
+    "sortnumber":"266     y",
+    "displaytitle":"Flask",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1800,
+    "dateend":-1600,
+    "datecomputed":-1700,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1800–1600 BCE",
+    "medium":"White-painted III–V ware: ceramic",
+    "dimensions":"17.0 x 7.5 x 6.0 cm (6 11/16 x 2 15/16 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Formerly in the Cesnola Collection; given to the Museum by Allan Marquand in 1929",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34533,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002056",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Europe, Cyprus",
+            "code":"Place collected",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_33.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160078,
+            "term":"wave pattern",
+            "aatid":300009936,
+            "termtype":"Subject"
+        },
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037275,
+            "term":"Middle Cypriote",
+            "aatid":300107599,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037302,
+            "term":"white painted (pottery style)",
+            "aatid":300107620,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2057221,
+            "term":"brown",
+            "aatid":300127490,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057980,
+            "term":"cream",
+            "aatid":300127985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199192,
+            "term":"Middle Bronze Age",
+            "aatid":300019277,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199194,
+            "term":"Late Bronze Age",
+            "aatid":300019278,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":20985,
+            "period":"Middle Cypriote II",
+            "alphasort":"Middle Cypriote II",
+            "begindate":-1850,
+            "enddate":-1750,
+            "displayperiod":"Middle to Late Bronze Age, ca. 1900–1050 BCE Middle Cypriote II – III",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037275,
+            "period":"Middle Cypriote"
+        },
+        {
+            "id":2199192,
+            "period":"Middle Bronze Age"
+        },
+        {
+            "id":2199194,
+            "period":"Late Bronze Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.48"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"6.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002056"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Middle to Late Bronze Age, ca. 1900–1050 BCE Middle Cypriote II – III",
+    "caption":"Cypriote, Middle to Late Bronze Age, ca. 1900–1050 BCE Middle Cypriote II – III, Cyprus, ca. 1800–1600 BCE, Flask. White-painted III–V ware: ceramic; 17 x 7.5 x 6 cm. Gift of Allan Marquand, Class of 1874 (y266)",
+    "captionhtml":"Cypriote, Middle to Late Bronze Age, ca. 1900–1050 BCE Middle Cypriote II – III, Cyprus, ca. 1800–1600 BCE, <i>Flask</i>. White-painted III–V ware: ceramic; 17 x 7.5 x 6 cm. Gift of Allan Marquand, Class of 1874 (y266)",
+    "published_date":"2025-10-16 13:39:34.618989",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

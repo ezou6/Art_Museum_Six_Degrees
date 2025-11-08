@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":23072,
+    "objectnumber":"y1946-350",
+    "sortnumber":"1946  350y",
+    "displaytitle":"Aryballos",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":1,
+    "dateend":199,
+    "datecomputed":100,
+    "daterange":"A.D. 1-500",
+    "displaydate":"1st–2nd century CE",
+    "medium":"Transparent green glass",
+    "dimensions":"h. 8 cm, diam. rim 3.3 cm, max. diam. 7.5 cm (3 1/8 x 1 5/16 x 2 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Aryballos",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Mrs. Platt from bequest of Dan Fellows Platt",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Horizontal rim, folded out, down, and up, with an overhanging flange; short cylindrical neck; thick-walled, spherical body; convex bottom. Pair of coil handles from shoulder to neck.",
+            "remarks":"Fire and Sand (2012)"
+        }
+    ],
+    "media":[
+        {
+            "id":74332,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-350",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 410 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia Minor ?",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Asia Minor ?",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39_35.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Cyprus ?, Pergamon",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Cyprus ?",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Pergamon",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.406_33.777.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2074381,
+            "term":"aryballoi",
+            "aatid":300198885,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2074381,
+            "classification":"aryballoi"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        },
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"7.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"3.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1946-350"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman Imperial Period (ca. 30 BCE–476 CE), Asia Minor ?, 1st–2nd century CE, Aryballos. Transparent green glass; 8 x 3.3 x 7.5 cm. Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895 (y1946-350)",
+    "captionhtml":"Roman Imperial Period (ca. 30 BCE–476 CE), Asia Minor ?, 1st–2nd century CE, <i>Aryballos</i>. Transparent green glass; 8 x 3.3 x 7.5 cm. Gift of Mrs. Platt from the bequest of Dan Fellows Platt, Class of 1895 (y1946-350)",
+    "published_date":"2025-10-16 12:50:53.421944",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

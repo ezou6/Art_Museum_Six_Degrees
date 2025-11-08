@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":24003,
+    "objectnumber":"y1953-14",
+    "sortnumber":"1953   14y",
+    "displaytitle":"Head of John the Baptist",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1860,
+    "dateend":1917,
+    "datecomputed":1888,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"25.5 x 20.5 x 14 cm (10 1/16 x 8 1/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":"Marked on left: Alexis Rudier, Fondeur, Paris",
+    "inscribed":"\r\n",
+    "signed":"Signed on right side: A. Rodin",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1953-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Head of John the Baptist",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3296,
+            "displayname":"Auguste Rodin",
+            "displaydate":"1840–1917; born Paris, France; died Meudon, France",
+            "datebegin":1840,
+            "dateend":1917,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Rodin, 1840–1917; born Paris, France; died Meudon, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"(Mathias Komor); purchased September 30, 1949 by J. Lionberger Davis.",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":1173,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1953-14",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63.",
+            "citation":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63., p. 62",
+            "date":1954,
+            "id":848,
+            "uri":"https://www.jstor.org/stable/3774286"
+        },
+        {
+            "boilertext":"David J. Goa, <span class=\"subfieldData\">Linda Distad and Matthew Wangler, <em>Anno Domini: Jesus through the Centuries,</em> (Edmonton: <span class=\"subfieldData\">Provincial Museum of Alberta, 2000),</span></span>",
+            "citation":"David J. Goa, <span class=\"subfieldData\">Linda Distad and Matthew Wangler, <em>Anno Domini: Jesus through the Centuries,</em> (Edmonton: <span class=\"subfieldData\">Provincial Museum of Alberta, 2000),</span></span>",
+            "date":2000,
+            "id":5959,
+            "uri":"http://www.worldcat.org/oclc/44495139"
+        },
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 25",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_46_2.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2097045,
+            "term":"Christianity",
+            "aatid":300073711,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171371,
+            "term":"John the Baptist",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1953-14"
+    ],
+    "displaymaker":"Auguste Rodin, 1840–1917; born Paris, France; died Meudon, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Rodin (1840–1917; born Paris, France; died Meudon, France), Head of John the Baptist. Bronze; 25.5 × 20.5 × 14 cm. Gift of J. Lionberger Davis, Class of 1900 (y1953-14)",
+    "captionhtml":"Auguste Rodin (1840–1917; born Paris, France; died Meudon, France), <i>Head of John the Baptist</i>. Bronze; 25.5 × 20.5 × 14 cm. Gift of J. Lionberger Davis, Class of 1900 (y1953-14)",
+    "published_date":"2025-10-16 12:56:03.963749",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

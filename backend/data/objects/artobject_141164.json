@@ -1,0 +1,190 @@
+{
+    "type":"artobject",
+    "objectid":141164,
+    "objectnumber":"2023-78",
+    "sortnumber":"2023   78",
+    "displaytitle":"Head",
+    "department":"African and Oceanic Art",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1925,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. early 20th century",
+    "medium":"Wood and leather",
+    "dimensions":"h. 8.9 cm (3 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Noriko Ohta in memory of Austin Newton, Professor Emeritus, Molecular Biology",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted Download - Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2023-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Head",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22875,
+            "displayname":"Artist unrecorded",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unrecorded",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Jacques Blanckaert (1925–1995), Brussels, Belgium; private collection, by descent, 1995; [Sotheby's, Paris, December 11, 2013, Lot 84]; purchased by Austin Newton (1937-2022), Princeton, NJ, via the above auction; estate of Austin Newton, 2022; donated to the Princeton University Art Museum, Princeton, NJ, 2023.",
+            "remarks":"See documents in OnBase"
+        }
+    ],
+    "media":[
+        {
+            "id":248090,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231212_10091",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":248091,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231212_10121",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":248092,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231212_10136",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055271,
+            "classification":"sculptures"
+        }
+    ],
+    "cultures":[
+        {
+            "id":22868,
+            "culture":"Buyu",
+            "alphasort":"Buyu",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Buyu",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.88"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231212_10091"
+    ],
+    "displaymaker":"Artist unrecorded",
+    "displayculture":"Buyu",
+    "displayperiod":null,
+    "caption":"Artist unrecorded, Buyu, Democratic Republic of the Congo, Western Africa, Head, ca. early 20th century. Wood and leather; 8.9 cm. Gift of Noriko Ohta in memory of Austin Newton, Professor Emeritus, Molecular Biology (2023-78)",
+    "captionhtml":"Artist unrecorded, Buyu, Democratic Republic of the Congo, Western Africa, <i>Head</i>, ca. early 20th century. Wood and leather; 8.9 cm. Gift of Noriko Ohta in memory of Austin Newton, Professor Emeritus, Molecular Biology (2023-78)",
+    "published_date":"2025-10-16 19:07:25.961381",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

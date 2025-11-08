@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":36458,
+    "objectnumber":"1998-435",
+    "sortnumber":"1998  435",
+    "displaytitle":"Corpus from a cross",
+    "department":"European Painting and Sculpture ",
+    "classification":"Metal",
+    "datebegin":1100,
+    "dateend":1199,
+    "datecomputed":1150,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"12th century",
+    "medium":"Bronze with gilding",
+    "dimensions":"h. 15.2 cm, max. w. 13.7 cm, max. d. 2.0 cm (6 x 5 3/8 x 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Corpus from a cross",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ratton Collection, Paris. John B. Elliott; bequest to Princeton University Art Museum.",
+            "remarks":"not vetted"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"\r\nBronze corpora, sculpted bodies of the crucified Christ, survive in large numbers. They were made to attach to the crosses that stood on Roman Catholic altars or were carried in procession. Corpora were preserved, even after they had been detached from their crosses, because they were valued as sacred images. The selection here includes earlier examples depicting the Triumphant Christ upright on the cross, standing on a platform, and crowned as victorious over death. Later images represent Christ suffering, as the Passion (Jesus’s torture and death) was emphasized as part of an effort to make Biblical events more immediate for worshipers.</P></SPAN>",
+            "remarks":"Medieval Gallery Reinstallation"
+        }
+    ],
+    "media":[
+        {
+            "id":395,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-435",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 58",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031747,
+            "term":"Medieval",
+            "aatid":300020756,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2133990,
+            "term":"crucifixion",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048566,
+            "term":"crosses (objects)",
+            "aatid":300235443,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048811,
+            "term":"devotional objects",
+            "aatid":300234144,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048811,
+            "classification":"devotional objects"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13825,
+            "culture":"German",
+            "alphasort":"German",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"German or Spanish",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031747,
+            "period":"Medieval"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-435"
+    ],
+    "displaymaker":null,
+    "displayculture":"German or Spanish",
+    "displayperiod":null,
+    "caption":"German or Spanish, Corpus from a cross, 12th century. Bronze with gilding; 15.2 x 13.7 x 2 cm. Bequest of John B. Elliott, Class of 1951 (1998-435)",
+    "captionhtml":"German or Spanish, <i>Corpus from a cross</i>, 12th century. Bronze with gilding; 15.2 x 13.7 x 2 cm. Bequest of John B. Elliott, Class of 1951 (1998-435)",
+    "published_date":"2025-10-16 13:53:17.927577",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

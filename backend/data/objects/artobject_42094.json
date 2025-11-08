@@ -1,0 +1,187 @@
+{
+    "type":"artobject",
+    "objectid":42094,
+    "objectnumber":"2003-212",
+    "sortnumber":"2003  212",
+    "displaytitle":"Flowers",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1995,
+    "dateend":1995,
+    "datecomputed":1995,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1995",
+    "medium":"Brush and black ink",
+    "dimensions":"31 x 47.5 cm. (12 3/16 x 18 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower right: George",
+    "catalograisonne":null,
+    "creditlinerepro":"©1995, Thomas George",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flowers",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6096,
+            "displayname":"Thomas George",
+            "displaydate":"American, 1918–2014",
+            "datebegin":1918,
+            "dateend":2014,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas George, American, 1918–2014",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gift of the artist",
+            "remarks":"Published in Bib 4416"
+        }
+    ],
+    "media":[
+        {
+            "id":97237,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22822",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 111",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 315, checklist no. 396",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"47.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22822"
+    ],
+    "displaymaker":"Thomas George, American, 1918–2014",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas George (American, 1918–2014), Flowers, 1995. Brush and black ink; 31 x 47.5 cm. Gift of the artist (2003-212)",
+    "captionhtml":"Thomas George (American, 1918–2014), <i>Flowers</i>, 1995. Brush and black ink; 31 x 47.5 cm. Gift of the artist (2003-212)",
+    "published_date":"2025-10-16 14:17:51.073008",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

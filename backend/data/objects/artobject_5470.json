@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":5470,
+    "objectnumber":"x1946-162",
+    "sortnumber":"1946  162x",
+    "displaytitle":"Circus",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1928,
+    "dateend":1928,
+    "datecomputed":1928,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1928",
+    "medium":"Lithograph",
+    "dimensions":"image: 39 x 29.5 cm. (15 3/8 x 11 5/8 in.)\r\nsheet: 50.2 x 36 cm. (19 3/4 x 14 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Laura P. Hall Memorial Collection",
+    "markings":null,
+    "inscribed":"In graphite, lower left below image: 33-15",
+    "signed":"In plate, lower left: John Carroll\r\nIn graphite, lower right below image: John Carroll",
+    "catalograisonne":null,
+    "creditlinerepro":"© John Carroll",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Circus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6311,
+            "displayname":"John Carroll",
+            "displaydate":"American, 1892–1959",
+            "datebegin":1892,
+            "dateend":1959,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Carroll, American, 1892–1959",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101931,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26683",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188619,
+            "term":"acrobats",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089641,
+            "term":"clowns",
+            "aatid":300025660,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26683"
+    ],
+    "displaymaker":"John Carroll, American, 1892–1959",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Carroll (American, 1892–1959), Circus, 1928. Lithograph; 39 x 29.5 cm (image), 50.2 x 36 cm (sheet). Laura P. Hall Memorial Collection (x1946-162)",
+    "captionhtml":"John Carroll (American, 1892–1959), <i>Circus</i>, 1928. Lithograph; 39 x 29.5 cm (image), 50.2 x 36 cm (sheet). Laura P. Hall Memorial Collection (x1946-162)",
+    "published_date":"2025-10-16 10:38:37.677924",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,137 @@
+{
+    "type":"artobject",
+    "objectid":50327,
+    "objectnumber":"x1937-462",
+    "sortnumber":"1937  462x",
+    "displaytitle":"William Barriffe",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1643,
+    "dateend":1643,
+    "datecomputed":1643,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":null,
+    "dimensions":"sheet trimmed to plate: 16.7 x 11.7 cm. (6 9/16 x 4 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"William Barriffe",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[
+        {
+            "id":12887,
+            "displayname":"William Bariffe",
+            "displaydate":"British, 1601 - 1643",
+            "datebegin":1601,
+            "dateend":1643,
+            "prefix":"Person depicted:",
+            "suffix":null,
+            "role":"Depicted",
+            "displaymaker":"Person depicted: William Bariffe, British, 1601 - 1643",
+            "displayorder":1
+        }
+    ],
+    "texts":[],
+    "media":[
+        {
+            "id":101882,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26638",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26638"
+    ],
+    "displaymaker":"Person depicted: William Bariffe, British, 1601 - 1643",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Person depicted: William Bariffe (British, 1601 - 1643), William Barriffe. 16.7 x 11.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-462)",
+    "captionhtml":"Person depicted: William Bariffe (British, 1601 - 1643), <i>William Barriffe</i>. 16.7 x 11.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-462)",
+    "published_date":"2025-10-23 17:24:19.070587",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

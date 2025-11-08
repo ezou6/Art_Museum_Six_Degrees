@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":30396,
+    "objectnumber":"y1966-42",
+    "sortnumber":"1966   42y",
+    "displaytitle":"Head of a young man",
+    "department":"Asian Art",
+    "classification":"Sculpture",
+    "datebegin":300,
+    "dateend":499,
+    "datecomputed":400,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th century–5th century CE",
+    "medium":"Stucco",
+    "dimensions":"h. 15.5 cm., w. 11.7 cm., d. 9.1 cm. (6 1/8 x 4 5/8 x 3 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":"Painted on back of head: A-N-H 51 / CAM 35:61",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Head of a young man",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"J. Lionberger Davis, Class of 1900 (1895–1968) by 1966; given to the Princeton University Art Museum, 1966.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":57184,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV02480",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 24",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        },
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 29",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Afghanistan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Afghanistan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2032910,
+            "term":"Afghan and Bactrian historic styles and periods",
+            "aatid":300244533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2034354,
+            "term":"Indian",
+            "aatid":300018863,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055416,
+            "classification":"statues"
+        },
+        {
+            "id":2158086,
+            "classification":"heads"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13817,
+            "culture":"Indian",
+            "alphasort":"Indian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Indian Hadda",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2034354,
+            "culture":"Indian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2032910,
+            "period":"Afghan and Bactrian historic styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"9.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181967,
+            "name":"web_2020_Asian"
+        },
+        {
+            "packageid":214207,
+            "name":"Gallery_16-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV02480"
+    ],
+    "displaymaker":null,
+    "displayculture":"Indian Hadda",
+    "displayperiod":null,
+    "caption":"Indian Hadda, Head of a young man, 4th century–5th century CE. Stucco; 15.5 x 11.7 x 9.1 cm. Gift of J. Lionberger Davis, Class of 1900 (y1966-42)",
+    "captionhtml":"Indian Hadda, <i>Head of a young man</i>, 4th century–5th century CE. Stucco; 15.5 x 11.7 x 9.1 cm. Gift of J. Lionberger Davis, Class of 1900 (y1966-42)",
+    "published_date":"2025-10-23 17:10:12.429598",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

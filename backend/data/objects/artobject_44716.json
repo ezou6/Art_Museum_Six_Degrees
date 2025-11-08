@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":44716,
+    "objectnumber":"PP358",
+    "sortnumber":"P       358P",
+    "displaytitle":"The Eagle Prominence",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1918,
+    "dateend":1918,
+    "datecomputed":1918,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1918",
+    "medium":"Oil on canvas",
+    "dimensions":"sight: 61.2 × 74 cm (24 1/8 × 29 1/8 in.)\r\nframe: 78.7 × 91.8 × 5.1 cm (31 × 36 1/8 × 2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of H. Russell Butler Jr.",
+    "markings":null,
+    "inscribed":"Inscribed: Baker, Oregon, June 8, 1918",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Eagle Prominence",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6212,
+            "displayname":"Howard Russell Butler",
+            "displaydate":"1856–1934; born New York City, NY; died Princeton, NJ",
+            "datebegin":1856,
+            "dateend":1934,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Howard Russell Butler, 1856–1934; born New York City, NY; died Princeton, NJ",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":126019,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV48764",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":126020,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV48765",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Oregon",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Oregon",
+            "city":null,
+            "county":"Baker County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_44.709_-117.675.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171650,
+            "term":"moons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171653,
+            "term":"suns",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"61.20"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"91.75"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"78.73"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.07"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV48764"
+    ],
+    "displaymaker":"Howard Russell Butler, 1856–1934; born New York City, NY; died Princeton, NJ",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Howard Russell Butler (1856–1934; born New York City, NY; died Princeton, NJ), The Eagle Prominence, 1918. Oil on canvas; 61.2 × 74 cm (sight), 78.7 × 91.8 × 5.1 cm (frame). Princeton University, gift of H. Russell Butler Jr. (PP358)",
+    "captionhtml":"Howard Russell Butler (1856–1934; born New York City, NY; died Princeton, NJ), <i>The Eagle Prominence</i>, 1918. Oil on canvas; 61.2 × 74 cm (sight), 78.7 × 91.8 × 5.1 cm (frame). Princeton University, gift of H. Russell Butler Jr. (PP358)",
+    "published_date":"2025-10-16 14:26:22.651292",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

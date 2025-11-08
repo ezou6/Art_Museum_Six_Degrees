@@ -1,0 +1,265 @@
+{
+    "type":"artobject",
+    "objectid":56332,
+    "objectnumber":"2009-48",
+    "sortnumber":"2009   48",
+    "displaytitle":"Landscape near Hattem, Gelderland",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1663,
+    "dateend":1712,
+    "datecomputed":1688,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Pen and brown ink and grey wash over red chalk",
+    "dimensions":"10.9 x 19.7 cm (4 5/16 x 7 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Joseph F. McCrindle Collection",
+    "markings":null,
+    "inscribed":"in ink, along bottom edge: Het Dorp Heerd in Gelderland op de Velu [illegible] bÿ de Stad Hattem",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2009-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape near Hattem, Gelderland",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15003,
+            "displayname":"Josua de Grave",
+            "displaydate":"Dutch, 1643–1712",
+            "datebegin":1643,
+            "dateend":1712,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Josua de Grave, Dutch, 1643–1712",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22083,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2009-48",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22084,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2009-47_VER",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2009,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 69 (2010): p. 51-85., p. 68",
+            "date":2010,
+            "id":1248,
+            "uri":"https://www.jstor.org/stable/41757697"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, Netherlands, Gelderland, Hattem",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Netherlands",
+            "region":null,
+            "state":"Gelderland",
+            "city":"Hattem",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.475_6.064.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2172711,
+            "term":"hills",
+            "aatid":300008777,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2107255,
+            "term":"spires",
+            "aatid":300002360,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        },
+        {
+            "id":2160334,
+            "term":"red chalk",
+            "aatid":300080064,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2009-48"
+    ],
+    "displaymaker":"Josua de Grave, Dutch, 1643–1712",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Josua de Grave (Dutch, 1643–1712), Landscape near Hattem, Gelderland. Pen and brown ink and grey wash over red chalk; 10.9 x 19.7 cm. Gift of the Joseph F. McCrindle Collection (2009-48)",
+    "captionhtml":"Josua de Grave (Dutch, 1643–1712), <i>Landscape near Hattem, Gelderland</i>. Pen and brown ink and grey wash over red chalk; 10.9 x 19.7 cm. Gift of the Joseph F. McCrindle Collection (2009-48)",
+    "published_date":"2025-10-16 15:27:49.256899",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

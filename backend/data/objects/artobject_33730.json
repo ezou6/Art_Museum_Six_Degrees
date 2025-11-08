@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":33730,
+    "objectnumber":"y1993-143",
+    "sortnumber":"1993  143y",
+    "displaytitle":"Temple",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":-500,
+    "dateend":-200,
+    "datecomputed":-350,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"500–200 BCE",
+    "medium":"Grey stone",
+    "dimensions":"h. 16.1 cm., w. 9.2 cm., d. 2.4 cm. (6 5/16 x 3 5/8 x 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Esther Bronstein",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Temple",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":3690,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1993-143_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":50571,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV017489",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 86",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3527213/estado-de-guerrero.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2084828,
+            "term":"temples",
+            "aatid":300007595,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035843,
+            "term":"Mezcala",
+            "aatid":300017193,
+            "termtype":"Culture"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2084828,
+            "classification":"temples"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13850,
+            "culture":"Mezcala",
+            "alphasort":"Mezcala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mezcala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035843,
+            "culture":"Mezcala"
+        }
+    ],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        },
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.42"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV017489"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mezcala",
+    "displayperiod":"Late Formative Period",
+    "caption":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, Temple. Grey stone; 16.1 x 9.2 x 2.4 cm. Gift of Esther Bronstein (y1993-143)",
+    "captionhtml":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, <i>Temple</i>. Grey stone; 16.1 x 9.2 x 2.4 cm. Gift of Esther Bronstein (y1993-143)",
+    "published_date":"2025-10-29 02:05:21.839476",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

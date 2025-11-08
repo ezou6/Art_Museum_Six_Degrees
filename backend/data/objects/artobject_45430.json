@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":45430,
+    "objectnumber":"PP350",
+    "sortnumber":"P       350P",
+    "displaytitle":"Approach of the Moon's Shadow",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1918,
+    "dateend":1918,
+    "datecomputed":1918,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1918",
+    "medium":"Oil on canvas",
+    "dimensions":"50.8 × 63.7 cm (20 × 25 1/16 in.)\r\nframe: 66 × 78.7 × 2.5 cm (26 × 31 × 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Mrs. Howard Russell Butler, Presented at Commencement 1938",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, titled and dated, lower left: H. R. Butler, Baker, Oregon, June 8, 1918",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Approach of the Moon's Shadow",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6212,
+            "displayname":"Howard Russell Butler",
+            "displaydate":"1856–1934; born New York City, NY; died Princeton, NJ",
+            "datebegin":1856,
+            "dateend":1934,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Howard Russell Butler, 1856–1934; born New York City, NY; died Princeton, NJ",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":18531,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP350",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Oregon",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Oregon",
+            "city":null,
+            "county":"Baker County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_44.709_-117.675.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2119862,
+            "term":"streams",
+            "aatid":300008699,
+            "termtype":"Subject"
+        },
+        {
+            "id":2057998,
+            "term":"orange yellow",
+            "aatid":300128002,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2059407,
+            "term":"blue",
+            "aatid":300129361,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171650,
+            "term":"moons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061306,
+            "term":"black",
+            "aatid":300130920,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158114,
+            "term":"evening",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"66.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.70"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.53"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP350"
+    ],
+    "displaymaker":"Howard Russell Butler, 1856–1934; born New York City, NY; died Princeton, NJ",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Howard Russell Butler (1856–1934; born New York City, NY; died Princeton, NJ), Approach of the Moon's Shadow, 1918. Oil on canvas; 50.8 × 63.7 cm, 66 × 78.7 × 2.5 cm (frame). Princeton University, gift of Mrs. Howard Russell Butler, Presented at Commencement 1938 (PP350)",
+    "captionhtml":"Howard Russell Butler (1856–1934; born New York City, NY; died Princeton, NJ), <i>Approach of the Moon's Shadow</i>, 1918. Oil on canvas; 50.8 × 63.7 cm, 66 × 78.7 × 2.5 cm (frame). Princeton University, gift of Mrs. Howard Russell Butler, Presented at Commencement 1938 (PP350)",
+    "published_date":"2025-10-16 14:30:23.079431",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

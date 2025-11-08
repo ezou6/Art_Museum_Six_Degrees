@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":34828,
+    "objectnumber":"y746",
+    "sortnumber":"746     y",
+    "displaytitle":"Summer",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1771,
+    "dateend":1799,
+    "datecomputed":1785,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"late 18th century",
+    "medium":"Porcelain",
+    "dimensions":"oval: 15.5 x 8 cm (6 1/8 x 3 1/8 in.)\r\nframe (oval): 19.5 x 12.3 x 2.5 cm (7 11/16 x 4 13/16 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Prime Fund",
+    "markings":"In underglaze blue: mark [see accession card for reproduction];\r\nOn back: label numbered 16.25",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Summer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"N. Hathaway Collection (New Bedford, MA)",
+            "remarks":"Not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":137368,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59679",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137369,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59680",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Naples",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Naples",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.852_14.268.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098557,
+            "term":"summer",
+            "aatid":300133099,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199043,
+            "term":"sickles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095232,
+            "term":"personification",
+            "aatid":300055905,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048643,
+            "term":"plaques",
+            "aatid":300010262,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2048643,
+            "classification":"plaques"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13456,
+            "culture":"Italian",
+            "alphasort":"Italian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Italian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.30"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59679"
+    ],
+    "displaymaker":null,
+    "displayculture":"Italian",
+    "displayperiod":null,
+    "caption":"Italian, Summer, late 18th century. Porcelain; 15.5 × 8 cm (oval), 19.5 × 12.3 × 2.5 cm (frame, oval). Prime Fund (y746)",
+    "captionhtml":"Italian, <i>Summer</i>, late 18th century. Porcelain; 15.5 × 8 cm (oval), 19.5 × 12.3 × 2.5 cm (frame, oval). Prime Fund (y746)",
+    "published_date":"2025-10-16 13:42:52.121759",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

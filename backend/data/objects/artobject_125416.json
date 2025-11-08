@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":125416,
+    "objectnumber":"2016-19",
+    "sortnumber":"2016   19",
+    "displaytitle":"The Painter Louis Mayer",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1901,
+    "dateend":1901,
+    "datecomputed":1901,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1901",
+    "medium":"Platinum print",
+    "dimensions":"10.9 × 7.7 cm (4 5/16 × 3 1/16 in.)\r\ngrey mount: 11.5 × 8.3 cm (4 1/2 × 3 1/4 in.)\r\ngreen mount: 29.6 × 23.6 cm (11 5/8 × 9 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Painter Louis Mayer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2537,
+            "displayname":"Edward Steichen",
+            "displaydate":"1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+            "datebegin":1879,
+            "dateend":1973,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edward Steichen, 1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Louis Mayer; acquired by Sandro Mayer, son of Louis Mayer; given to the Museum of Modern Art, New York; [Sotheby's, New York, NY, Photographs from the Museum of Modern Art, April 25, 2001, lot 105]; acquired by unknown agent; [Christie's, New York, NY, Modern Visions: Exceptional Photographs, February 17, 2016, lot 242]; purchased by the Princeton University Art Museum, 2016. </p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":204774,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_CS_ART_16624",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":204775,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_CS_ART_16620",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":204776,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_CS_ART_16618",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 143 (illus.)",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053593,
+            "term":"platinum prints",
+            "aatid":300127145,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162312,
+            "term":"platinum",
+            "aatid":300011031,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154270,
+            "term":"black-and-white photography",
+            "aatid":300162056,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053593,
+            "classification":"platinum prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.60"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_CS_ART_16620"
+    ],
+    "displaymaker":"Edward Steichen, 1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edward Steichen (1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY), The Painter Louis Mayer, 1901. Platinum print; 10.9 × 7.7 cm. Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell (2016-19)",
+    "captionhtml":"Edward Steichen (1879–1973; born Bivange, Luxembourg; died Redding, CT; active New York, NY), <i>The Painter Louis Mayer</i>, 1901. Platinum print; 10.9 × 7.7 cm. Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell (2016-19)",
+    "published_date":"2025-10-16 18:23:55.897658",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

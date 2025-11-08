@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":9341,
+    "objectnumber":"x1955-43",
+    "sortnumber":"1955   43x",
+    "displaytitle":"Abraham and Hagar",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1741,
+    "dateend":1792,
+    "datecomputed":1766,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 39.9 x 48.8 cm (15 11/16 x 19 3/16 in.)\r\nsheet: 48.5 x 62.8 cm (19 1/8 x 24 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888 (?)",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1955-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Abraham and Hagar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2592,
+            "displayname":"Robert Strange",
+            "displaydate":"British, 1721 - 1792",
+            "datebegin":1721,
+            "dateend":1792,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert Strange, British, 1721 - 1792",
+            "displayorder":1
+        },
+        {
+            "id":2788,
+            "displayname":"Titian",
+            "displaydate":"1480/90–1576; born Pieve di Cadore, Italy; died Venice, Italy",
+            "datebegin":1480,
+            "dateend":1576,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Titian, 1480/90–1576; born Pieve di Cadore, Italy; died Venice, Italy",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":81812,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10002",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10002"
+    ],
+    "displaymaker":"Robert Strange, British, 1721 - 1792 | after Titian, 1480/90–1576; born Pieve di Cadore, Italy; died Venice, Italy",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert Strange (British, 1721 - 1792), after Titian (1480/90–1576; born Pieve di Cadore, Italy; died Venice, Italy), Abraham and Hagar. Engraving; 39.9 x 48.8 cm (plate), 48.5 x 62.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1955-43)",
+    "captionhtml":"Robert Strange (British, 1721 - 1792), after Titian (1480/90–1576; born Pieve di Cadore, Italy; died Venice, Italy), <i>Abraham and Hagar</i>. Engraving; 39.9 x 48.8 cm (plate), 48.5 x 62.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1955-43)",
+    "published_date":"2025-10-23 16:51:23.318762",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

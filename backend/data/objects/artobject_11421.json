@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":11421,
+    "objectnumber":"x1969-38",
+    "sortnumber":"1969   38x",
+    "displaytitle":"\"Peupin\"",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1843,
+    "dateend":1853,
+    "datecomputed":1848,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"lithograph; Les Repr‚sentans Repr‚sent‚s. Assembl‚e L‚gislative 11.",
+    "dimensions":"image: 26.7 x 20.3 cm. (10 1/2 x 8 in.)\r\nsheet: 32 x 22.2 cm. (12 5/8 x 8 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Harry A. Brooks, Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"\"Peupin\"",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5514,
+            "displayname":"Honoré Daumier",
+            "displaydate":"1808–1879; born Valmondois, France; died Marseille, France",
+            "datebegin":1808,
+            "dateend":1879,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Honoré Daumier, 1808–1879; born Valmondois, France; died Marseille, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":100323,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25193",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 26",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        },
+        {
+            "boilertext":"Loys Delteil and Nicolas-Auguste Hazard, <em>Catalogue Raisonne de L’Oeuvre Lithographie de Honore Daumier</em> (France: Hachette Livre-BNF, 2013).",
+            "citation":"Loys Delteil and Nicolas-Auguste Hazard, <em>Catalogue Raisonne de L’Oeuvre Lithographie de Honore Daumier</em> (France: Hachette Livre-BNF, 2013).",
+            "date":1904,
+            "id":6111,
+            "uri":"http://www.worldcat.org/oclc/231784692"
+        },
+        {
+            "boilertext":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; COLOR: black; mso-fareast-font-family: \"Times New Roman\"'>Loys Delteil, \"Volume 26,\" <I>Le peintre-graveur illustré </I>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>",
+            "citation":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; COLOR: black; mso-fareast-font-family: \"Times New Roman\"'>Loys Delteil, \"Volume 26,\" <I>Le peintre-graveur illustré </I>(Paris: Chez&nbsp;l'Auteur,&nbsp;1906-1930).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>",
+            "date":1906,
+            "id":6118,
+            "uri":"http://www.worldcat.org/oclc/11858030"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25193"
+    ],
+    "displaymaker":"Honoré Daumier, 1808–1879; born Valmondois, France; died Marseille, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Honoré Daumier (1808–1879; born Valmondois, France; died Marseille, France), \"Peupin\". Lithograph; Les Repr‚sentans Repr‚sent‚s. Assembl‚e L‚gislative 11.; 26.7 x 20.3 cm (image), 32 x 22.2 cm (sheet). Gift of Harry A. Brooks, Class of 1935 (x1969-38)",
+    "captionhtml":"Honoré Daumier (1808–1879; born Valmondois, France; died Marseille, France), <i>\"Peupin\"</i>. Lithograph; Les Repr‚sentans Repr‚sent‚s. Assembl‚e L‚gislative 11.; 26.7 x 20.3 cm (image), 32 x 22.2 cm (sheet). Gift of Harry A. Brooks, Class of 1935 (x1969-38)",
+    "published_date":"2025-10-23 16:55:51.634845",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

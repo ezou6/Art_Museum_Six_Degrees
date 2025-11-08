@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":43923,
+    "objectnumber":"x1934-1220",
+    "sortnumber":"1934 1220x",
+    "displaytitle":"Philippe de Marnix",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1599,
+    "dateend":1599,
+    "datecomputed":1599,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1599",
+    "medium":"Engraving",
+    "dimensions":"plate: 9.9 x 7.8 cm. (3 7/8 x 3 1/16 in.)\r\nsheet: 10.5 x 8.5 cm. (4 1/8 x 3 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed: D. Gheyn fe 1599; Philippe de Marnix seifr du Monte ste Aldegonde aetat LVIII",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Philippe de Marnix",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1340,
+            "displayname":"Jacob de Gheyn II",
+            "displaydate":"Dutch, 1565–1629",
+            "datebegin":1565,
+            "dateend":1629,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jacob de Gheyn II, Dutch, 1565–1629",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103755,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28272",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.90"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28272"
+    ],
+    "displaymaker":"Jacob de Gheyn II, Dutch, 1565–1629",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jacob de Gheyn II (Dutch, 1565–1629), Philippe de Marnix, 1599. Engraving; 9.9 x 7.8 cm (plate), 10.5 x 8.5 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1220)",
+    "captionhtml":"Jacob de Gheyn II (Dutch, 1565–1629), <i>Philippe de Marnix</i>, 1599. Engraving; 9.9 x 7.8 cm (plate), 10.5 x 8.5 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1220)",
+    "published_date":"2025-10-16 14:24:17.210771",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

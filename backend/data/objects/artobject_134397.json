@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":134397,
+    "objectnumber":"2018-99",
+    "sortnumber":"2018   99",
+    "displaytitle":"Self-portrait",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1778,
+    "dateend":1778,
+    "datecomputed":1778,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1778",
+    "medium":"Etching",
+    "dimensions":"plate: 15.4 × 10.4 cm (6 1/16 × 4 1/8 in.)\r\nsheet: 16.5 × 11.4 cm (6 1/2 × 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Donato Esposito",
+    "markings":null,
+    "inscribed":"Inscribed upper left: Gorblin f. 1778.",
+    "signed":null,
+    "catalograisonne":"Hillemacher 2",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2018-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Self-portrait",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4034,
+            "displayname":"Jean Pierre Norblin de la Gourdaine",
+            "displaydate":"French, 1745–1830",
+            "datebegin":1745,
+            "dateend":1830,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Pierre Norblin de la Gourdaine, French, 1745–1830",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Eric G. Carlson (1940-2016); by whom given to the owner in 2013.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":221167,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_34461",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>",
+            "citation":"<p>&quot;Acquisitions of the Princeton University Art Museum 2018,&quot; <i>Record of the Art Museum, Princeton University</i> 77/78 (2017-18)</p>, p. 188",
+            "date":2017,
+            "id":9760,
+            "uri":"https://www.jstor.org/stable/45401204"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Poland",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Poland",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/798544/republic-of-poland.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055785,
+            "term":"self-portraits",
+            "aatid":300124534,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU_E_2019_34461"
+    ],
+    "displaymaker":"Jean Pierre Norblin de la Gourdaine, French, 1745–1830",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Pierre Norblin de la Gourdaine (French, 1745–1830), Self-portrait, 1778. Etching; 15.4 × 10.4 cm (plate), 16.5 × 11.4 cm (sheet). Gift of Donato Esposito (2018-99)",
+    "captionhtml":"Jean Pierre Norblin de la Gourdaine (French, 1745–1830), <i>Self-portrait</i>, 1778. Etching; 15.4 × 10.4 cm (plate), 16.5 × 11.4 cm (sheet). Gift of Donato Esposito (2018-99)",
+    "published_date":"2025-10-16 18:43:40.275631",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

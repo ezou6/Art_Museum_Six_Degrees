@@ -1,0 +1,274 @@
+{
+    "type":"artobject",
+    "objectid":17576,
+    "objectnumber":"x1991-89",
+    "sortnumber":"1991   89x",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1990,
+    "dateend":1991,
+    "datecomputed":1990,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1990–91",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 43.3 x 27.8 cm (17 1/16 x 10 15/16 in.)\r\nsheet: 50.8 x 40.6 cm (20 x 16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Signed, numbered, and dated in ink, verso center: Cindy Sherman / 40//125  1990-91",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Cindy Sherman",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2360,
+            "displayname":"Cindy Sherman",
+            "displaydate":"born 1954, Glen Ridge, NJ; active New York, NY",
+            "datebegin":1954,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cindy Sherman, born 1954, Glen Ridge, NJ; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Since the late 1970s, Sherman has taken photographs of herself as various feminine personae, from film heroines to fashion plates, to expose the cultural clichés in representations of women. In this photograph, a prosthetically pregnant Sherman renders grotesque the styling conventions of magazine cover girls, including tousled hair, dramatic makeup, and bronzed skin, while also exaggerating tropes used by these publications to display and sexualize the models’ bodies, such as torn or wet clothing. By simultaneously evoking two gendered stereotypes—the vixen and the mother—Sherman has complicated simplistic ideas about the roles of women in contemporary society.",
+            "remarks":"Franz HOP rotation March 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":83713,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10417",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 55, illustrated p. 57",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2061154,
+            "term":"white (color)",
+            "aatid":300129784,
+            "termtype":"Subject"
+        },
+        {
+            "id":2061162,
+            "term":"gray (color)",
+            "aatid":300130811,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2056370,
+            "term":"red",
+            "aatid":300126225,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058168,
+            "term":"pale orange yellow",
+            "aatid":300128084,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        },
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":212333,
+            "name":"2022_VIS231_04_18"
+        },
+        {
+            "packageid":196698,
+            "name":"MoCo-Feminism"
+        },
+        {
+            "packageid":229455,
+            "name":"2023_VIS411_04_12"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        },
+        {
+            "packageid":229383,
+            "name":"2023_VIS231_04_04"
+        },
+        {
+            "packageid":228579,
+            "name":"2023_ART490/GSS490/VIS490_11_20"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10417"
+    ],
+    "displaymaker":"Cindy Sherman, born 1954, Glen Ridge, NJ; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cindy Sherman (born 1954, Glen Ridge, NJ; active New York, NY), Untitled, 1990–91. Chromogenic print; 43.3 x 27.8 cm (image), 50.8 x 40.6 cm (sheet). Museum purchase, anonymous gift (x1991-89)",
+    "captionhtml":"Cindy Sherman (born 1954, Glen Ridge, NJ; active New York, NY), <i>Untitled</i>, 1990–91. Chromogenic print; 43.3 x 27.8 cm (image), 50.8 x 40.6 cm (sheet). Museum purchase, anonymous gift (x1991-89)",
+    "published_date":"2025-10-22 02:01:09.442665",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

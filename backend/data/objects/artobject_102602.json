@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":102602,
+    "objectnumber":"CHW S3520 dd",
+    "sortnumber":"HW    S    C 3520dd",
+    "displaytitle":"Portrait of a girl",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1926,
+    "dateend":1926,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1925",
+    "medium":"Gelatin silver print?",
+    "dimensions":"image: 11.9 × 9.2 cm (4 11/16 × 3 5/8 in.)\r\nsheet: 13.5 × 10.3 cm (5 5/16 × 4 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Archives of the Clarence H. White School of Photography, Princeton University Art Museum",
+    "markings":null,
+    "inscribed":"Signed in graphite on sheet below image, lower right: K. T. Ulogue",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of a girl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":20896,
+            "displayname":"Kristy Theodosius Ulogue",
+            "displaydate":"American, active early 20th century",
+            "datebegin":1900,
+            "dateend":1925,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kristy Theodosius Ulogue, American, active early 20th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tCreated by Kristy Theodosius Ulogue, the artist.; ownership assumed by Clarence H. White School of Photography, between 1914 to 1942; ownership assumed by Clarence H. White Jr., 1942 [1]; by descent to Clarence H. White Jr.’s widow, Ruth Royer White, 1978 [2]; bequest, to Princeton University Art Museum, 1983 [3].\n</p>\n<p>\n\tNotes:\n</p>\n<p>\n\t[1] On the occasion of the closing of the School.\n\t<br />\n\t[2] On the occasion of Clarence H. White Jr.’s death.\n\t<br />\n\t[3] Carried out by Ruth Royer White on behalf of Clarence H. White Jr.\n\t<br />\n</p>",
+            "remarks":"as per research by Grace Xiao & Cecilia Moore - Summer 2024"
+        }
+    ],
+    "media":[
+        {
+            "id":141284,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63093",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051561,
+            "term":"interior views",
+            "aatid":300124520,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151461,
+            "term":"tipping in",
+            "aatid":300135036,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154270,
+            "term":"black-and-white photography",
+            "aatid":300162056,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":137183,
+            "name":"web_chw_review"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63093"
+    ],
+    "displaymaker":"Kristy Theodosius Ulogue, American, active early 20th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kristy Theodosius Ulogue (American, active early 20th century), Portrait of a girl, 1925. Gelatin silver print?; 11.9 × 9.2 cm (image), 13.5 × 10.3 cm (sheet). Archives of the Clarence H. White School of Photography, Princeton University Art Museum (CHW S3520 dd)",
+    "captionhtml":"Kristy Theodosius Ulogue (American, active early 20th century), <i>Portrait of a girl</i>, 1925. Gelatin silver print?; 11.9 × 9.2 cm (image), 13.5 × 10.3 cm (sheet). Archives of the Clarence H. White School of Photography, Princeton University Art Museum (CHW S3520 dd)",
+    "published_date":"2025-10-16 18:11:14.061849",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":18553,
+    "objectnumber":"y117",
+    "sortnumber":"117     y",
+    "displaytitle":"Lamp with frog motif and inscription",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":400,
+    "dateend":599,
+    "datecomputed":500,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"5th–6th century",
+    "medium":"Red earthenware with red slip",
+    "dimensions":"14 x 10 x 6.3 cm (5 1/2 x 3 15/16 x 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":"Around the edge, an inscription in relief. [See accession card for reproduction]",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Lamp with frog motif and inscription",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":147887,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65647",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":147888,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65648",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Slobodan Curcic and Archer St. Clair,<em> Byzantium at Princeton: Byzantine art and archaeology at Princeton University: catalogue of an exhibition at Firestone Library, Princeton University, August 1 through October 26, 1986</em>, (Princeton, NJ: Dept. of Art and Archaeology, Princeton University, The Art Museum, Princeton University, Princeton University Library, Dept. of Rare Books and Special Collections, 1986).",
+            "citation":"Slobodan Curcic and Archer St. Clair,<em> Byzantium at Princeton: Byzantine art and archaeology at Princeton University: catalogue of an exhibition at Firestone Library, Princeton University, August 1 through October 26, 1986</em>, (Princeton, NJ: Dept. of Art and Archaeology, Princeton University, The Art Museum, Princeton University, Princeton University Library, Dept. of Rare Books and Special Collections, 1986)., p. 114",
+            "date":1986,
+            "id":2216,
+            "uri":"http://www.worldcat.org/oclc/16649090"
+        },
+        {
+            "boilertext":"William C. Prime, <EM>Pottery and porcelain of all times and nations</EM>, (New York: Harper &amp; Brothers, 1879). ",
+            "citation":"William C. Prime, <EM>Pottery and porcelain of all times and nations</EM>, (New York: Harper &amp; Brothers, 1879). , p. 83",
+            "date":1879,
+            "id":2661,
+            "uri":"http://www.worldcat.org/oclc/1402094"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Egypt",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_27_30.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031687,
+            "term":"Early Christian",
+            "aatid":300020665,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171667,
+            "term":"frogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2071641,
+            "term":"oil lamps",
+            "aatid":300037630,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2071641,
+            "classification":"oil lamps"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031687,
+            "period":"Early Christian"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV65648"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":null,
+    "caption":"Egyptian, Egypt, 5th–6th century, Lamp with frog motif and inscription. Red earthenware with red slip; 14 × 10 × 6.3 cm. Trumbull-Prime Collection (y117)",
+    "captionhtml":"Egyptian, Egypt, 5th–6th century, <i>Lamp with frog motif and inscription</i>. Red earthenware with red slip; 14 × 10 × 6.3 cm. Trumbull-Prime Collection (y117)",
+    "published_date":"2025-10-16 12:23:33.462769",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

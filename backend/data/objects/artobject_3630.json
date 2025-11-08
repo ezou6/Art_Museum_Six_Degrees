@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":3630,
+    "objectnumber":"x1941-148",
+    "sortnumber":"1941  148x",
+    "displaytitle":"The Church at Gréville (L'Église de Gréville)",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1871,
+    "dateend":1871,
+    "datecomputed":1871,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1871",
+    "medium":"Pen and brown ink, stumped black chalk, with touches of green chalk",
+    "dimensions":"18 x 25.4 cm. (7 1/16 x 10 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":"lower right: J.\r\nin graphite, on verso lower left: Vente Millet | No 52 (?)",
+    "signed":"Artist stamp, lower left: J.F.M. [Lugt 1460]",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3766,
+            "displayname":"Jean-François Millet",
+            "displaydate":"1814–1875; born Gruchy, France; died Barbizon, France",
+            "datebegin":1814,
+            "dateend":1875,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean-François Millet, 1814–1875; born Gruchy, France; died Barbizon, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>1875, Millet Sale, no. 253.</p><p><br></p>",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":8064,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1941-148_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":111205,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34349",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfred Sensier, <em>La vie et l’oeuvre de J.-F. Millet</em>, (Paris: A. Quintin, 1881).",
+            "citation":"Alfred Sensier, <em>La vie et l’oeuvre de J.-F. Millet</em>, (Paris: A. Quintin, 1881)., p. 350 (illus.)",
+            "date":1881,
+            "id":5702,
+            "uri":"http://www.worldcat.org/oclc/2226115"
+        },
+        {
+            "boilertext":"Louis Soullie,<em> Peintures, aquarelles, pastels, dessins de Jean-François Millet, relevés dans les catalogues de ventes de 1849 à 1900</em>, (Paris: L. Soullié, 1900).",
+            "citation":"Louis Soullie,<em> Peintures, aquarelles, pastels, dessins de Jean-François Millet, relevés dans les catalogues de ventes de 1849 à 1900</em>, (Paris: L. Soullié, 1900)., p. 229",
+            "date":1900,
+            "id":4692,
+            "uri":"http://www.worldcat.org/oclc/1948546"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Gréville-Hague",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Gréville-Hague",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3014690/greville-hague.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2160318,
+            "term":"chalk",
+            "aatid":300011727,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2153317,
+            "term":"stumping",
+            "aatid":300053412,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":206378,
+            "name":"x-COMPLETE-image_descriptions_SP"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34349"
+    ],
+    "displaymaker":"Jean-François Millet, 1814–1875; born Gruchy, France; died Barbizon, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean-François Millet (1814–1875; born Gruchy, France; died Barbizon, France), The Church at Gréville (L'Église de Gréville), 1871. Pen and brown ink, stumped black chalk, with touches of green chalk; 18 x 25.4 cm. Gift of Frank Jewett Mather Jr. (x1941-148)",
+    "captionhtml":"Jean-François Millet (1814–1875; born Gruchy, France; died Barbizon, France), <i>The Church at Gréville (L'Église de Gréville)</i>, 1871. Pen and brown ink, stumped black chalk, with touches of green chalk; 18 x 25.4 cm. Gift of Frank Jewett Mather Jr. (x1941-148)",
+    "published_date":"2025-10-16 10:25:34.450375",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

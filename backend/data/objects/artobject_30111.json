@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":30111,
+    "objectnumber":"y1966-216",
+    "sortnumber":"1966  216y",
+    "displaytitle":"Phoenix on Rock",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1821,
+    "dateend":1850,
+    "datecomputed":1836,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 162 x 74 cm. (63 3/4 x 29 1/8 in.)\r\nMount: 223 x 86.7 cm. (87 13/16 x 34 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David H. McAlpin, Class of 1920",
+    "markings":"Five characters in graphite on label adhered to edge of rolled scroll ",
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Phoenix on Rock",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66366,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1966-216",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61810,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08272",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 20",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171660,
+            "term":"phoenixes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033630,
+            "term":"Daoguang",
+            "aatid":300018490,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":16781,
+            "period":"Daoguang reign period",
+            "alphasort":"Daoguang reign period",
+            "begindate":1821,
+            "enddate":1850,
+            "displayperiod":"Qing dynasty, Daoguang reign period, 1821–1850",
+            "displaydate":"1821–1850"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033630,
+            "period":"Daoguang"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"223.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"86.70"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"162.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"74.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1966-216"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, Daoguang reign period, 1821–1850",
+    "caption":"Chinese, Qing dynasty, Daoguang reign period (1821–1850), Phoenix on Rock. Hanging scroll; ink on paper; 162 x 74 cm (Painting), 223 x 86.7 cm (mount). Gift of David H. McAlpin, Class of 1920 (y1966-216)",
+    "captionhtml":"Chinese, Qing dynasty, Daoguang reign period (1821–1850), <i>Phoenix on Rock</i>. Hanging scroll; ink on paper; 162 x 74 cm (Painting), 223 x 86.7 cm (mount). Gift of David H. McAlpin, Class of 1920 (y1966-216)",
+    "published_date":"2025-10-16 13:18:36.232210",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

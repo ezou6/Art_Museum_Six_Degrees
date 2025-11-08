@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":10862,
+    "objectnumber":"x1967-82",
+    "sortnumber":"1967   82x",
+    "displaytitle":"Little London",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1896,
+    "dateend":1904,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1896 printed 1904",
+    "medium":"Lithograph",
+    "dimensions":"31.5 x 18.6 cm. (12 3/8 x 7 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. Lionberger Davis, Class of 1900",
+    "markings":"center, watermark:[two rampant lions representing the Arms of Amsterdam]",
+    "inscribed":"In graphite, lower right: w.121/ K 8588/ Little London\r\nIn graphite, lower left: W.5744",
+    "signed":"In stone, center right: Artist monogram [butterfly]",
+    "catalograisonne":"Way 121; Levy 173; Chicago 158",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1967-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Little London",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1787,
+            "displayname":"James McNeill Whistler",
+            "displaydate":"1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "datebegin":1834,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "displayorder":1
+        },
+        {
+            "id":22685,
+            "displayname":"Frederick Goulding",
+            "displaydate":"English, 1842–1909",
+            "datebegin":1842,
+            "dateend":1909,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Frederick Goulding, English, 1842–1909",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104596,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29019",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1967,\" <i>Record of the Art Museum, Princeton University </i>27, no. 1 (1968): p. 35-41., p. 40",
+            "date":1968,
+            "id":884,
+            "uri":"https://www.jstor.org/stable/3774425"
+        },
+        {
+            "boilertext":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30.",
+            "citation":"\"Gifts by J. Lionberger Davis, Class of 1900, to the Art Museum\", <em>Record of the Art Museum, Princeton University</em> 33, no. 2 (1974): p. 24-30., p. 25",
+            "date":1974,
+            "id":6012,
+            "uri":"https://www.jstor.org/stable/3774533"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, London",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051532,
+            "term":"aerial views",
+            "aatid":300015527,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120555,
+            "term":"skylines",
+            "aatid":300075416,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29019"
+    ],
+    "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France | Printed by Frederick Goulding, English, 1842–1909",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), Printed by Frederick Goulding (English, 1842–1909), Little London, 1896 printed 1904. Lithograph; 31.5 x 18.6 cm. Gift of J. Lionberger Davis, Class of 1900 (x1967-82)",
+    "captionhtml":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), Printed by Frederick Goulding (English, 1842–1909), <i>Little London</i>, 1896 printed 1904. Lithograph; 31.5 x 18.6 cm. Gift of J. Lionberger Davis, Class of 1900 (x1967-82)",
+    "published_date":"2025-10-16 11:24:21.073420",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

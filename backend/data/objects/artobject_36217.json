@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":36217,
+    "objectnumber":"PU 8258",
+    "sortnumber":"U      8258P",
+    "displaytitle":"Model skin dresser",
+    "department":"Art of the Ancient Americas",
+    "classification":"Model",
+    "datebegin":1875,
+    "dateend":1903,
+    "datecomputed":1889,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1903",
+    "medium":"Fossilized ivory",
+    "dimensions":"h. 3.9 cm., w. 2.3 cm., d. 0.7 cm. (1 9/16 x 7/8 x 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Model skin dresser",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Lt. George Thornton Emmons; Given to E. M. Museum (Princeton Museum of Natural History) in 1903",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44036,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009382",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Alaska, Port Clarence, North Alaska",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Arctic",
+            "country":"United States",
+            "region":"North Alaska",
+            "state":"Alaska",
+            "city":"Port Clarence",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5871912/port-clarence.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: North America, Kinugmut (Port Clarence)",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Arctic",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Kinugmut (Port Clarence)",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5871912/port-clarence.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055189,
+            "term":"ivories",
+            "aatid":300047325,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155734,
+            "term":"model-making",
+            "aatid":300053619,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156659,
+            "term":"skinning",
+            "aatid":300053720,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2039536,
+            "term":"Alaskan Native styles",
+            "aatid":300102451,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2039540,
+            "term":"Inupiaq",
+            "aatid":300102454,
+            "termtype":"Culture"
+        },
+        {
+            "id":2092862,
+            "term":"dressers (leatherworkers)",
+            "aatid":300025291,
+            "termtype":"Classification"
+        },
+        {
+            "id":2166225,
+            "term":"ivory",
+            "aatid":300011857,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2156659,
+            "classification":"skinning"
+        },
+        {
+            "id":2092862,
+            "classification":"dressers (leatherworkers)"
+        },
+        {
+            "id":2055189,
+            "classification":"ivories"
+        },
+        {
+            "id":2155734,
+            "classification":"model-making"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14459,
+            "culture":"Iñupiaq",
+            "alphasort":"Iñupiaq",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Iñupiaq",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2039540,
+            "culture":"Inupiaq"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2039536,
+            "period":"Alaskan Native styles"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.91"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.28"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009382"
+    ],
+    "displaymaker":null,
+    "displayculture":"Iñupiaq",
+    "displayperiod":null,
+    "caption":"Iñupiaq, before 1903, Kinugmut (Port Clarence), Arctic, Model skin dresser. Fossilized ivory; 3.9 x 2.3 x 0.7 cm. Lent by the Department of Geosciences, Princeton University (PU 8258)",
+    "captionhtml":"Iñupiaq, before 1903, Kinugmut (Port Clarence), Arctic, <i>Model skin dresser</i>. Fossilized ivory; 3.9 x 2.3 x 0.7 cm. Lent by the Department of Geosciences, Princeton University (PU 8258)",
+    "published_date":"2025-10-16 13:51:58.905457",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

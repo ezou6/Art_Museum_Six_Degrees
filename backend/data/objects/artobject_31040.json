@@ -1,0 +1,179 @@
+{
+    "type":"artobject",
+    "objectid":31040,
+    "objectnumber":"2016-1264",
+    "sortnumber":"2016 1264",
+    "displaytitle":"Mace head",
+    "department":"Art of the Ancient Americas",
+    "classification":"Weapons and Armor",
+    "datebegin":1000,
+    "dateend":1000,
+    "datecomputed":1000,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1000 CE",
+    "medium":"Stone (marble?)",
+    "dimensions":"h. 6.0 cm., w. 6.2 cm., d. 8.5 cm. (2 3/8 x 2 7/16 x 3 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mace head",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tBy 1989, Gillett G. Griffin (1928-2016), Princeton, NJ [1]; 2016, bequeathed to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] Griffin first lent the work to the Princeton University Art Museum in 1989 (L.1989.56).\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":52022,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV018577",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":18759,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1989-56",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Costa Rica",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Intermediate area",
+            "country":"Costa Rica",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3624060/republic-of-costa-rica.html",
+            "location":{
+                "lat":"10",
+                "lon":"-84"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2050434,
+            "term":"maces",
+            "aatid":300037214,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035852,
+            "term":"Pre-Columbian Central American styles and periods",
+            "aatid":300108078,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2050434,
+            "classification":"maces"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2035852,
+            "period":"Pre-Columbian Central American styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV018577"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"1000 CE, Costa Rica, Intermediate area, Mace head. Stone (marble?); 6 x 6.2 x 8.5 cm. Bequest of Gillett G. Griffin (2016-1264)",
+    "captionhtml":"1000 CE, Costa Rica, Intermediate area, <i>Mace head</i>. Stone (marble?); 6 x 6.2 x 8.5 cm. Bequest of Gillett G. Griffin (2016-1264)",
+    "published_date":"2025-10-16 13:22:30.686773",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

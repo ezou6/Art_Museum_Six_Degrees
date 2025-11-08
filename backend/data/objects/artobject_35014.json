@@ -1,0 +1,273 @@
+{
+    "type":"artobject",
+    "objectid":35014,
+    "objectnumber":"y945 a-b",
+    "sortnumber":"945a    yb",
+    "displaytitle":"Cup and Saucer",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1800,
+    "dateend":1899,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Hard-paste porcelain",
+    "dimensions":"cup (a): 10.8 x 10.2 x 8.4 cm (4 1/4 x 4 x 3 5/16 in.)\r\nsaucer (b) : 3.2 x diam. 15.5 cm (1 1/4 x 6 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cup and Saucer",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3478,
+            "displayname":"Sceaux-Penthievre",
+            "displaydate":"French, 19th century",
+            "datebegin":1800,
+            "dateend":1899,
+            "prefix":null,
+            "suffix":null,
+            "role":"Manufactory",
+            "displaymaker":"Sceaux-Penthievre, French, 19th century",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":21915,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0198",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21916,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0199",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21917,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0200",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21918,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0201",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":21919,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/inv0202",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_48.853_2.349.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160764,
+            "term":"porcelain",
+            "aatid":300010662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147423,
+            "term":"griffins",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075939,
+            "term":"saucers",
+            "aatid":300195535,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160793,
+            "term":"hard paste porcelain",
+            "aatid":300010663,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2075939,
+            "classification":"saucers"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2160764,
+            "classification":"porcelain"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"10.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/inv0201"
+    ],
+    "displaymaker":"Sceaux-Penthievre, French, 19th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sceaux-Penthievre (French, 19th century), Cup and Saucer. Hard-paste porcelain; 10.8 × 10.2 × 8.4 cm (cup (a)), 3.2 × 15.5 cm (saucer (b) ). Trumbull-Prime Collection (y945 a-b)",
+    "captionhtml":"Sceaux-Penthievre (French, 19th century), <i>Cup and Saucer</i>. Hard-paste porcelain; 10.8 × 10.2 × 8.4 cm (cup (a)), 3.2 × 15.5 cm (saucer (b) ). Trumbull-Prime Collection (y945 a-b)",
+    "published_date":"2025-10-16 13:43:48.999375",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

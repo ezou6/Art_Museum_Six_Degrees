@@ -1,0 +1,267 @@
+{
+    "type":"artobject",
+    "objectid":40479,
+    "objectnumber":"2001-172",
+    "sortnumber":"2001  172",
+    "displaytitle":"Julius Caesar",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1856,
+    "dateend":1857,
+    "datecomputed":1856,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1856–57",
+    "medium":"Salted paper print",
+    "dimensions":"31.6 × 23 cm (12 7/16 × 9 1/16 in.)\r\nmount: 44.1 x 36.6 cm (17 3/8 x 14 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Printed on mount below image: Photographed by R. Fenton / Julius Caesar / II / Ht. lft. 6 3/4 in. / London, Published by the Trustees of the British Museum.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Julius Caesar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5872,
+            "displayname":"Roger Fenton",
+            "displaydate":"1819–1869; born Heywood, United Kingdom; died London, United Kingdom, active United Kingdom and Crimea, Russian Empire (Ukraine)",
+            "datebegin":1819,
+            "dateend":1869,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Roger Fenton, 1819–1869; born Heywood, United Kingdom; died London, United Kingdom, active United Kingdom and Crimea, Russian Empire (Ukraine)",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85228,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11782",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 124",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6269131/england.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Classification"
+        },
+        {
+            "id":2079935,
+            "term":"museums",
+            "aatid":300005768,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088273,
+            "term":"man",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055417,
+            "term":"statue",
+            "aatid":300047600,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089187,
+            "term":"emperor",
+            "aatid":300025480,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055664,
+            "term":"bust",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053600,
+            "term":"salted paper prints",
+            "aatid":300127149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053600,
+            "classification":"salted paper prints"
+        },
+        {
+            "id":2154159,
+            "classification":"salted paper processes"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.60"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11782"
+    ],
+    "displaymaker":"Roger Fenton, 1819–1869; born Heywood, United Kingdom; died London, United Kingdom, active United Kingdom and Crimea, Russian Empire (Ukraine)",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Roger Fenton (1819–1869; born Heywood, United Kingdom; died London, United Kingdom, active United Kingdom and Crimea, Russian Empire (Ukraine)), Julius Caesar, 1856–57. Salted paper print; 31.6 × 23 cm. Museum purchase, anonymous gift (2001-172)",
+    "captionhtml":"Roger Fenton (1819–1869; born Heywood, United Kingdom; died London, United Kingdom, active United Kingdom and Crimea, Russian Empire (Ukraine)), <i>Julius Caesar</i>, 1856–57. Salted paper print; 31.6 × 23 cm. Museum purchase, anonymous gift (2001-172)",
+    "published_date":"2025-10-16 14:10:22.205701",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

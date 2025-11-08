@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":45901,
+    "objectnumber":"x1934-1121 a",
+    "sortnumber":"1934 1121xa",
+    "displaytitle":"Count de Gondomar",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1622,
+    "dateend":1622,
+    "datecomputed":1622,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1622",
+    "medium":"Engraving; first state",
+    "dimensions":"plate: 19.9 x 12.2 cm. (7 13/16 x 4 13/16 in.)\r\nsheet: 22.1 x 13.9 cm (8 11/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Ao 1622 insculptum a Simone Passaeo eidumque Comiti D.D.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Count de Gondomar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4171,
+            "displayname":"Simon de Passe",
+            "displaydate":"Dutch, 1595–1647",
+            "datebegin":1595,
+            "dateend":1647,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Simon de Passe, Dutch, 1595–1647",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102076,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26827",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26827"
+    ],
+    "displaymaker":"Simon de Passe, Dutch, 1595–1647",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Simon de Passe (Dutch, 1595–1647), Count de Gondomar, 1622. Engraving; first state; 19.9 x 12.2 cm (plate), 22.1 x 13.9 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1121 a)",
+    "captionhtml":"Simon de Passe (Dutch, 1595–1647), <i>Count de Gondomar</i>, 1622. Engraving; first state; 19.9 x 12.2 cm (plate), 22.1 x 13.9 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-1121 a)",
+    "published_date":"2025-10-16 14:33:40.350152",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,193 @@
+{
+    "type":"artobject",
+    "objectid":36774,
+    "objectnumber":"1998-668",
+    "sortnumber":"1998  668",
+    "displaytitle":"Bracelet",
+    "department":"African and Oceanic Art",
+    "classification":"Ornament",
+    "datebegin":1800,
+    "dateend":1998,
+    "datecomputed":1899,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1998",
+    "medium":"Ivory",
+    "dimensions":"h. 2.8 cm., diam. 9.3 cm. (1 1/8 x 3 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bracelet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":14889,
+            "displayname":"African",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"African artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":42738,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008101",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2130588,
+            "term":"jewelry",
+            "aatid":300209286,
+            "termtype":"Classification"
+        },
+        {
+            "id":2130789,
+            "term":"bracelets (jewelry)",
+            "aatid":300045991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2166225,
+            "term":"ivory",
+            "aatid":300011857,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2130789,
+            "classification":"bracelets (jewelry)"
+        },
+        {
+            "id":2130588,
+            "classification":"jewelry"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"9.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008101"
+    ],
+    "displaymaker":"African artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"African artist, Bracelet, before 1998. Ivory; 2.8 x 9.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-668)",
+    "captionhtml":"African artist, <i>Bracelet</i>, before 1998. Ivory; 2.8 x 9.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-668)",
+    "published_date":"2025-10-16 13:55:11.023790",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

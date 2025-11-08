@@ -1,0 +1,187 @@
+{
+    "type":"artobject",
+    "objectid":42357,
+    "objectnumber":"y1023",
+    "sortnumber":"1023     y",
+    "displaytitle":"Saint Matthew",
+    "department":"Prints and Drawings",
+    "classification":"Manuscripts",
+    "datebegin":1295,
+    "dateend":1305,
+    "datecomputed":1300,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 1300",
+    "medium":"Miniature on parchment",
+    "dimensions":"10.7 x 17 cm. (4 3/16 x 6 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint Matthew",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ferrer (dealer?), Strasbourg; purchased by Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":230855,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1023a",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":2820,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1023",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":228739,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1023_ML",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053016,
+            "term":"miniatures (paintings)",
+            "aatid":300033936,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031717,
+            "term":"Late Byzantine",
+            "aatid":300020676,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        },
+        {
+            "id":2053016,
+            "classification":"miniatures (paintings)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13630,
+            "culture":"Byzantine",
+            "alphasort":"Byzantine",
+            "begindate":641,
+            "enddate":1453,
+            "displayculture":"Late Byzantine",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031717,
+            "period":"Late Byzantine"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":217094,
+            "name":"Web_test"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1023"
+    ],
+    "displaymaker":null,
+    "displayculture":"Late Byzantine",
+    "displayperiod":null,
+    "caption":"Late Byzantine, Saint Matthew, ca. 1300. Miniature on parchment; 10.7 x 17 cm. Museum purchase (y1023)",
+    "captionhtml":"Late Byzantine, <i>Saint Matthew</i>, ca. 1300. Miniature on parchment; 10.7 x 17 cm. Museum purchase (y1023)",
+    "published_date":"2025-10-22 02:02:31.434028",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

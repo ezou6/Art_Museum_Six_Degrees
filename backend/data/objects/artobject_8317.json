@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":8317,
+    "objectnumber":"x1951-19 a-bb",
+    "sortnumber":"1951   19xa    bb",
+    "displaytitle":"Album with 28 sketches",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1837,
+    "dateend":1864,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Green leather album with heavy, gold-edged leaves",
+    "dimensions":"album: 16.2 × 25.7 × 4.8 cm (6 3/8 × 10 1/8 × 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1951-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":4521,
+            "displayname":"John Leech",
+            "displaydate":"1817–1864; born and died London, England",
+            "datebegin":1817,
+            "dateend":1864,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Leech, 1817–1864; born and died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ex. Baron Leverhulme, W.H. Lever",
+            "remarks":"moved from proveance field"
+        }
+    ],
+    "media":[
+        {
+            "id":118733,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41083",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118811,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41161",
+            "isprimary":1,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118812,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41162",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118813,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41163",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118814,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41164",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23., p. 23",
+            "date":1951,
+            "id":862,
+            "uri":"https://www.jstor.org/stable/3774224"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055517,
+            "term":"sketches",
+            "aatid":300015617,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045543,
+            "term":"leather",
+            "aatid":300011845,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2055517,
+            "classification":"sketches"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.19"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.71"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.76"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41161"
+    ],
+    "displaymaker":"John Leech, 1817–1864; born and died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Leech (1817–1864; born and died London, England), Album with 28 sketches. Green leather album with heavy, gold-edged leaves; 16.2 × 25.7 × 4.8 cm (album). Gift of Frank Jewett Mather Jr. (x1951-19 a-bb)",
+    "captionhtml":"John Leech (1817–1864; born and died London, England), Album with 28 sketches. Green leather album with heavy, gold-edged leaves; 16.2 × 25.7 × 4.8 cm (album). Gift of Frank Jewett Mather Jr. (x1951-19 a-bb)",
+    "published_date":"2025-10-16 11:07:37.068020",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

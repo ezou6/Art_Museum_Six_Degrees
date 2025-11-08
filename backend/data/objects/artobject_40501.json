@@ -1,0 +1,191 @@
+{
+    "type":"artobject",
+    "objectid":40501,
+    "objectnumber":"2001-207",
+    "sortnumber":"2001  207",
+    "displaytitle":"Mulholland Drive",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":2000,
+    "dateend":2000,
+    "datecomputed":2000,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2000",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 72.7 x 88.1 cm (28 5/8 x 34 11/16 in.)\r\nframe: 76.2 × 91.5 × 3.8 cm (30 × 36 × 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Larry Sultan",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mulholland Drive",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1304,
+            "displayname":"Larry Sultan",
+            "displaydate":"American, 1946–2009",
+            "datebegin":1946,
+            "dateend":2009,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Larry Sultan, American, 1946–2009",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2061,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-207",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 130",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2067519,
+            "term":"couches",
+            "aatid":300038583,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"91.50"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"88.10"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"72.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2001-207"
+    ],
+    "displaymaker":"Larry Sultan, American, 1946–2009",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Larry Sultan (American, 1946–2009), Mulholland Drive, 2000. Chromogenic print; 72.7 x 88.1 cm (image), 76.2 × 91.5 × 3.8 cm (frame). Museum purchase, anonymous gift (2001-207)",
+    "captionhtml":"Larry Sultan (American, 1946–2009), <i>Mulholland Drive</i>, 2000. Chromogenic print; 72.7 x 88.1 cm (image), 76.2 × 91.5 × 3.8 cm (frame). Museum purchase, anonymous gift (2001-207)",
+    "published_date":"2025-10-16 14:10:28.003289",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

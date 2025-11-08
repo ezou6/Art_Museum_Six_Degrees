@@ -1,0 +1,308 @@
+{
+    "type":"artobject",
+    "objectid":23277,
+    "objectnumber":"y1947-260",
+    "sortnumber":"1947  260y",
+    "displaytitle":"Plum",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1644,
+    "dateend":1912,
+    "datecomputed":1778,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"undated",
+    "medium":"Handscroll; color on silk",
+    "dimensions":"Painting: 30.5 x 200 cm. (12 x 78 3/4 in.)\r\nMount: h. 32 cm. (12 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plum",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15494,
+            "displayname":"Ma Lin 馬麟",
+            "displaydate":"active ca. 1180–after 1256",
+            "datebegin":1180,
+            "dateend":1256,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Ma Lin 馬麟, attributed to, active ca. 1180–after 1256",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":67033,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_1",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":67034,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":67035,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_3",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":67036,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_4",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":67037,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_5",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":62375,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08612",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171788,
+            "term":"plum blossoms",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        },
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"200.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":43777,
+            "name":"web_2015-05_Chinese"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-260_1"
+    ],
+    "displaymaker":"Ma Lin 馬麟, attributed to, active ca. 1180–after 1256",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912 | Modern period, 1912–present",
+    "caption":"Chinese, Qing dynasty (1644–1912), Modern period (1912–present), Ma Lin 馬麟, attributed to (active ca. 1180–after 1256), Plum, undated. Handscroll; color on silk; 30.5 x 200 cm (Painting), 32 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-260)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Modern period (1912–present), Ma Lin 馬麟, attributed to (active ca. 1180–after 1256), <i>Plum</i>, undated. Handscroll; color on silk; 30.5 x 200 cm (Painting), 32 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-260)",
+    "published_date":"2025-10-16 12:51:59.743448",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,214 @@
+{
+    "type":"artobject",
+    "objectid":40073,
+    "objectnumber":"2001-61",
+    "sortnumber":"2001   61",
+    "displaytitle":"Untitled",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1970,
+    "dateend":1979,
+    "datecomputed":1974,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1970s",
+    "medium":"Colored pencil",
+    "dimensions":"70 x 50.5 cm (27 9/16 x 19 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Rafael Coronel",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":800,
+            "displayname":"Pedro Coronel",
+            "displaydate":"Mexican, 1923–1985",
+            "datebegin":1923,
+            "dateend":1985,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pedro Coronel, Mexican, 1923–1985",
+            "displayorder":1
+        },
+        {
+            "id":6655,
+            "displayname":"Rafael Coronel",
+            "displaydate":"Mexican, 1932–2019",
+            "datebegin":1932,
+            "dateend":2019,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Rafael Coronel, Mexican, 1932–2019",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"As part of a group of artists known as the Generación de la Ruptura (Breakaway Generation), Coronel rejected the style of the earlier Mexican muralists, who combined Indigenous and colonial imagery in an effort to develop a new national style of art. In contrast, Coronel and other Breakaway artists attempted to create a universal aesthetic language through abstract shapes and bold colors that allude to pre-Columbian Indigenous art.",
+            "remarks":"PBL Rotation January 2020"
+        }
+    ],
+    "media":[
+        {
+            "id":223224,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1936224",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 107",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140905,
+            "term":"colored pencils",
+            "aatid":300022441,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"70.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1936224"
+    ],
+    "displaymaker":"Pedro Coronel, Mexican, 1923–1985 | formerly attributed to Rafael Coronel, Mexican, 1932–2019",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pedro Coronel (Mexican, 1923–1985), formerly attributed to Rafael Coronel (Mexican, 1932–2019), Untitled, 1970s. Colored pencil; 70 x 50.5 cm. Bequest of David L. Meginnity, Class of 1958 (2001-61)",
+    "captionhtml":"Pedro Coronel (Mexican, 1923–1985), formerly attributed to Rafael Coronel (Mexican, 1932–2019), <i>Untitled</i>, 1970s. Colored pencil; 70 x 50.5 cm. Bequest of David L. Meginnity, Class of 1958 (2001-61)",
+    "published_date":"2025-10-16 14:08:56.495966",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

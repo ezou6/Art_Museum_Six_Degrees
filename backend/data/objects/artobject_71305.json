@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":71305,
+    "objectnumber":"x1980-336",
+    "sortnumber":"1980  336x",
+    "displaytitle":"Prairie Dog Run Over (Vicinity of Cove and La Grande, Oregon)",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1941,
+    "dateend":1941,
+    "datecomputed":1941,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"Summer 1941",
+    "medium":"Gelatin silver print",
+    "dimensions":"mount: 27.8 × 35.6 cm (10 15/16 × 14 in.)\r\nimage: 18 × 22.7 cm (7 1/16 × 8 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"Handwritten in graphite on verso, lower left: GRV Group #15 / Prairie Dog Run Over 1941",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 41-80-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Prairie Dog Run Over (Vicinity of Cove and La Grande, Oregon)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":163152,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled181.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        },
+        {
+            "id":168954,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA02857",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Oregon, vicinity of Cove and La Grande, Grande Ronde Valley",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Oregon",
+            "city":"vicinity of Cove and La Grande",
+            "county":"Union County",
+            "subregion":null,
+            "locale":"Grande Ronde Valley",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5721027/cove.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158054,
+            "term":"mammals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171378,
+            "term":"roads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135437,
+            "term":"deaths",
+            "aatid":300151836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2184998,
+            "term":"rural areas",
+            "aatid":300229355,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.70"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA02857"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Prairie Dog Run Over (Vicinity of Cove and La Grande, Oregon), Summer 1941. Gelatin silver print; 18 × 22.7 cm (image). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-336)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Prairie Dog Run Over (Vicinity of Cove and La Grande, Oregon)</i>, Summer 1941. Gelatin silver print; 18 × 22.7 cm (image). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-336)",
+    "published_date":"2025-10-16 16:53:41.371966",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

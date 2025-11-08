@@ -1,0 +1,280 @@
+{
+    "type":"artobject",
+    "objectid":50898,
+    "objectnumber":"2013-34",
+    "sortnumber":"2013   34",
+    "displaytitle":"Mask (hemba)",
+    "department":"African and Oceanic Art",
+    "classification":"Masks",
+    "datebegin":1900,
+    "dateend":1940,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century",
+    "medium":"Wood, paint, and kaolin",
+    "dimensions":"47.8 x 23.7 x 26.0 cm (18 13/16 x 9 5/16 x 10 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Perry E. H. Smith, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mask (hemba)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15607,
+            "displayname":"Suku",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Suku artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"purchased by&nbsp;Perry E.H. Smith&nbsp;in Zaire (present-day Democratic Republic of the Congo) between 1971 and circa 1975; Princeton University Art Museum, 2013",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":52210,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV019068",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":52211,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV019070",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":19825,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-53_RGT",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 40",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Democratic Republic of the Congo, Bandundu Province",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Central Africa",
+            "country":"Democratic Republic of the Congo",
+            "region":null,
+            "state":"Bandundu Province",
+            "city":null,
+            "county":"Masi-Manimba Sector",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2313010/masi-manimba.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134778,
+            "term":"initiations",
+            "aatid":300069180,
+            "termtype":"Subject"
+        },
+        {
+            "id":2042712,
+            "term":"Suku",
+            "aatid":300016270,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135237,
+            "term":"masquerades",
+            "aatid":300254016,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156714,
+            "term":"incising",
+            "aatid":300053847,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160373,
+            "term":"kaolin",
+            "aatid":300010445,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2129353,
+            "classification":"masks (costume)"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042712,
+            "culture":"Suku"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"47.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"26.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/L1980-15-53_RGT"
+    ],
+    "displaymaker":"Suku artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, Mask (hemba), early 20th century. Wood, paint, and kaolin; 47.8 x 23.7 x 26 cm. Gift of Perry E. H. Smith, Class of 1957 (2013-34)",
+    "captionhtml":"Suku artist, Bandundu Province, Democratic Republic of the Congo, Central Africa, <i>Mask (hemba)</i>, early 20th century. Wood, paint, and kaolin; 47.8 x 23.7 x 26 cm. Gift of Perry E. H. Smith, Class of 1957 (2013-34)",
+    "published_date":"2025-10-16 15:12:37.148892",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

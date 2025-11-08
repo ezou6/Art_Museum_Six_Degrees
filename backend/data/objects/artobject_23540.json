@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":23540,
+    "objectnumber":"2004-337",
+    "sortnumber":"2004  337",
+    "displaytitle":"Figuier",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1919,
+    "dateend":1921,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1919–21, printed 1930s",
+    "medium":"Gelatin silver print",
+    "dimensions":"23.1 x 17.3 cm. (9 1/8 x 6 13/16 in.)\r\nmount: 36.4 x 28.7 cm. (14 5/16 x 11 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":"In negative, lower right of print: [backwards] 936",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Figuier",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":156,
+            "displayname":"Eugène Atget",
+            "displaydate":"French, 1857–1927",
+            "datebegin":1857,
+            "dateend":1927,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Atget, French, 1857–1927",
+            "displayorder":1
+        },
+        {
+            "id":8,
+            "displayname":"Berenice Abbott",
+            "displaydate":"American, 1898–1991",
+            "datebegin":1898,
+            "dateend":1991,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Printed by Berenice Abbott, American, 1898–1991",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85914,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12360",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 110",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: North America, United States, New York, Manhattan, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5125771/manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2171663,
+            "term":"leaves",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        },
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.40"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12360"
+    ],
+    "displaymaker":"Eugène Atget, French, 1857–1927 | Printed by Berenice Abbott, American, 1898–1991",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Atget (French, 1857–1927), Printed by Berenice Abbott (American, 1898–1991), Figuier, 1919–21, printed 1930s. Gelatin silver print; 23.1 x 17.3 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-337)",
+    "captionhtml":"Eugène Atget (French, 1857–1927), Printed by Berenice Abbott (American, 1898–1991), <i>Figuier</i>, 1919–21, printed 1930s. Gelatin silver print; 23.1 x 17.3 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-337)",
+    "published_date":"2025-10-16 12:53:30.465358",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":22645,
+    "objectnumber":"y1945-200",
+    "sortnumber":"1945  200y",
+    "displaytitle":"Near Yellow Springs, Ohio",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1849,
+    "dateend":1875,
+    "datecomputed":1862,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Oil on canvas",
+    "dimensions":"25 x 45 cm (9 13/16 x 17 11/16 in.)\r\nframe: 39.4 x 59.6 x 2.8 cm (15 1/2 x 23 7/16 x 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of J. O. Eaton",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1945-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Near Yellow Springs, Ohio",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5743,
+            "displayname":"Joseph Oriel Eaton",
+            "displaydate":"American, 1829–1875",
+            "datebegin":1829,
+            "dateend":1875,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joseph Oriel Eaton, American, 1829–1875",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":89813,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1945-200",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<EM>Exhibition of paintings by Joseph Oriel Eaton and sculpture by Hiram Powers, March 12 through April 8, 1934</EM>, (Cincinnati, OH: Cincinnati art museum, 1934).",
+            "citation":"<EM>Exhibition of paintings by Joseph Oriel Eaton and sculpture by Hiram Powers, March 12 through April 8, 1934</EM>, (Cincinnati, OH: Cincinnati art museum, 1934)., no. 49",
+            "date":1934,
+            "id":7653,
+            "uri":"http://www.worldcat.org/oclc/67592455"
+        },
+        {
+            "boilertext":"\"Recent acquisitions\", <EM>Record of the Museum of Historic Art, Princeton University</EM> 4, no. 1 (1945): p. 11.",
+            "citation":"\"Recent acquisitions\", <EM>Record of the Museum of Historic Art, Princeton University</EM> 4, no. 1 (1945): p. 11., p. 5",
+            "date":1945,
+            "id":3728,
+            "uri":"https://www.jstor.org/stable/3774151"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Ohio, Yellow Springs",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Ohio",
+            "city":"Yellow Springs",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.806_-83.887.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188572,
+            "term":"livestock",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119916,
+            "term":"springs (bodies of water)",
+            "aatid":300008697,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103922,
+            "term":"cows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2184998,
+            "term":"rural areas",
+            "aatid":300229355,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.40"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.60"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":190619,
+            "name":"x-COMPLETE-Image_descriptions_HB"
+        },
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1945-200"
+    ],
+    "displaymaker":"Joseph Oriel Eaton, American, 1829–1875",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joseph Oriel Eaton (American, 1829–1875), Near Yellow Springs, Ohio. Oil on canvas; 25 x 45 cm, 39.4 × 59.6 × 2.8 cm (frame). Gift of J. O. Eaton (y1945-200)",
+    "captionhtml":"Joseph Oriel Eaton (American, 1829–1875), <i>Near Yellow Springs, Ohio</i>. Oil on canvas; 25 x 45 cm, 39.4 × 59.6 × 2.8 cm (frame). Gift of J. O. Eaton (y1945-200)",
+    "published_date":"2025-10-16 12:48:02.805311",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

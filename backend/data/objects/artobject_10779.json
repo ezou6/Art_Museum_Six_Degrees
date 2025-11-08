@@ -1,0 +1,164 @@
+{
+    "type":"artobject",
+    "objectid":10779,
+    "objectnumber":"x1966-45",
+    "sortnumber":"1966   45x",
+    "displaytitle":"Gerard Honthorst",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1623,
+    "dateend":1658,
+    "datecomputed":1640,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 24 x 17 cm. (9 7/16 x 6 11/16 in.)\r\nsheet: 38 x 24.4 cm (14 15/16 x 9 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"caption: GERARDVS HONTHORST HAGAE...; Ant. van Dyck pinxit/Paul du Pont sculp; Cum priuilegio",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Gerard Honthorst",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3080,
+            "displayname":"Paul Pontius",
+            "displaydate":"Flemish, 1603–1658",
+            "datebegin":1603,
+            "dateend":1658,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paul Pontius, Flemish, 1603–1658",
+            "displayorder":1
+        },
+        {
+            "id":5731,
+            "displayname":"Anthony van Dyck",
+            "displaydate":"1599–1641; born Antwerp, Belgium; died London, England",
+            "datebegin":1599,
+            "dateend":1641,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Anthony van Dyck, 1599–1641; born Antwerp, Belgium; died London, England",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":102905,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27637",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 28",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27637"
+    ],
+    "displaymaker":"Paul Pontius, Flemish, 1603–1658 | after Anthony van Dyck, 1599–1641; born Antwerp, Belgium; died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paul Pontius (Flemish, 1603–1658), after Anthony van Dyck (1599–1641; born Antwerp, Belgium; died London, England), Gerard Honthorst. Engraving; 24 x 17 cm (plate), 38 x 24.4 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1966-45)",
+    "captionhtml":"Paul Pontius (Flemish, 1603–1658), after Anthony van Dyck (1599–1641; born Antwerp, Belgium; died London, England), <i>Gerard Honthorst</i>. Engraving; 24 x 17 cm (plate), 38 x 24.4 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1966-45)",
+    "published_date":"2025-10-23 16:54:03.758763",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

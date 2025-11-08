@@ -1,0 +1,188 @@
+{
+    "type":"artobject",
+    "objectid":28423,
+    "objectnumber":"y1959-99",
+    "sortnumber":"1959   99y",
+    "displaytitle":"Deep Dish",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1500,
+    "dateend":1599,
+    "datecomputed":1550,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"16th century",
+    "medium":"Glazed earthenware",
+    "dimensions":"5.6 × diam. 40.3 cm (2 3/16 × 15 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gilbert S. McClintock, Class of 1908",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Deep Dish",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gilbert S. McClintock; 1959 bequest to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":137690,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59969",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137691,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV59970",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2151556,
+            "term":"glazing (coating)",
+            "aatid":300053914,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031673,
+            "term":"Spanish",
+            "aatid":300111215,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031993,
+            "term":"Hispano-Moresque",
+            "aatid":300021014,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075787,
+            "term":"dishes",
+            "aatid":300042973,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2075787,
+            "classification":"dishes"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13832,
+            "culture":"Spanish",
+            "alphasort":"Spanish",
+            "begindate":-600,
+            "enddate":0,
+            "displayculture":"Spanish",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031673,
+            "culture":"Spanish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031993,
+            "period":"Hispano-Moresque"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"40.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264565,
+            "name":"VisibleStorage_DenseDisplay_G2_EuroDecArts"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV59969"
+    ],
+    "displaymaker":null,
+    "displayculture":"Spanish",
+    "displayperiod":null,
+    "caption":"Spanish, Deep Dish, 16th century. Glazed earthenware; 5.6 × 40.3 cm. Bequest of Gilbert S. McClintock, Class of 1908 (y1959-99)",
+    "captionhtml":"Spanish, <i>Deep Dish</i>, 16th century. Glazed earthenware; 5.6 × 40.3 cm. Bequest of Gilbert S. McClintock, Class of 1908 (y1959-99)",
+    "published_date":"2025-10-16 13:07:49.940659",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

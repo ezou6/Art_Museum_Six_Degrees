@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":32242,
+    "objectnumber":"y1990-98",
+    "sortnumber":"1990   98y",
+    "displaytitle":"Hudson River at Bear Mountain",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1830,
+    "dateend":1840,
+    "datecomputed":1835,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"ca. 1835",
+    "medium":"Oil on canvas",
+    "dimensions":"Overall: 45.5 x 61.5 cm (17 15/16 x 24 3/16 in.)\r\nframe: 61 x 77.1 x 6.4 cm (24 x 35.4 x 2.5 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Margaret M. Dodds\r\n",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hudson River at Bear Mountain",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5658,
+            "displayname":"Thomas Doughty",
+            "displaydate":"1793–1856; born Philadelphia, PA; died New York, NY",
+            "datebegin":1793,
+            "dateend":1856,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Doughty, 1793–1856; born Philadelphia, PA; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Most of Doughty’s languidly poetic compositions of American scenery along the Eastern Seaboard share a preoccupation with the pictorial conventions of the picturesque—images carefully structured to guide the viewer’s gaze through a series of landscape elements that project inward from left and right, successively overlapping within the composition. This strategy allowed Doughty to render the natural world—much of it still a threatening wilderness from the perspective of Euro-American settlers—as appealingly rational and controlled. View toward the Hudson River presents scenery that artists of the Hudson River School were already beginning to portray as sublimely grand. Doughty’s painting remains, distinctly, more contained, focusing not on the great river but on a modest tributary, domesticated by three diminutive figures and, on the distant Hudson itself, a handful of placid sailboats.\n",
+            "remarks":"AMER2_23-27_WLA  Day 1 Cataloguing Group Chat for y1969-93 and y1990-98"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Margaret M. Dodds, by 1990; bequeathed to the Princeton University Art Museum, 1990.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":253679,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_15481",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253683,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_15695",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":253694,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_15476",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Bear Mountain",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Bear Mountain",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_41.313_-74.006.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":213904,
+            "name":"Gallery_23-27(Pavilion7)-American"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_15476"
+    ],
+    "displaymaker":"Thomas Doughty, 1793–1856; born Philadelphia, PA; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Doughty (1793–1856; born Philadelphia, PA; died New York, NY), Hudson River at Bear Mountain, ca. 1835. Oil on canvas; 45.5 x 61.5 cm. Bequest of Margaret M. Dodds\r\n (y1990-98)",
+    "captionhtml":"Thomas Doughty (1793–1856; born Philadelphia, PA; died New York, NY), <i>Hudson River at Bear Mountain</i>, ca. 1835. Oil on canvas; 45.5 x 61.5 cm. Bequest of Margaret M. Dodds\r\n (y1990-98)",
+    "published_date":"2025-10-30 02:05:40.750996",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":21700,
+    "objectnumber":"y1940-433",
+    "sortnumber":"1940  433y",
+    "displaytitle":"Two Women",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1699,
+    "datecomputed":1650,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"17th century",
+    "medium":"Colors on paper",
+    "dimensions":"56.5 x 35.2 cm. (22 1/4 x 13 7/8 in.)\r\nmount: 57.7 x 36.5 cm. (22 11/16 x 14 3/8 in.)\r\nframe: 78.7 x 50.5 cm. (31 x 19 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"[Anonymous gift (Mather ?)]",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Two Women",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3639,
+            "displayname":"Iwasa Matabei 岩佐 又兵衛",
+            "displaydate":"1578–1650",
+            "datebegin":1578,
+            "dateend":1650,
+            "prefix":null,
+            "suffix":", in the manner of",
+            "role":"Artist",
+            "displaymaker":"Iwasa Matabei 岩佐 又兵衛, in the manner of, 1578–1650",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":58021,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03148",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.20"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"78.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.70"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03148"
+    ],
+    "displaymaker":"Iwasa Matabei 岩佐 又兵衛, in the manner of, 1578–1650",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Iwasa Matabei 岩佐 又兵衛, in the manner of (1578–1650), Two Women, 17th century. Colors on paper; 56.5 x 35.2 cm, 78.7 x 50.5 cm (frame). [Anonymous gift (Mather ?)] (y1940-433)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Iwasa Matabei 岩佐 又兵衛, in the manner of (1578–1650), <i>Two Women</i>, 17th century. Colors on paper; 56.5 x 35.2 cm, 78.7 x 50.5 cm (frame). [Anonymous gift (Mather ?)] (y1940-433)",
+    "published_date":"2025-10-16 12:41:38.047931",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

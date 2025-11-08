@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":2763,
+    "objectnumber":"x1943-123",
+    "sortnumber":"1943  123x",
+    "displaytitle":"The Argonauts",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":0,
+    "dateend":1943,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 8.7 x 35.4 cm. (3 7/16 x 13 15/16 in.)\r\nsheet: 13.6 x 40 cm. (5 3/8 x 15 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Argonauts",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3160,
+            "displayname":"Charles Rahl",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Charles Rahl",
+            "displayorder":2
+        },
+        {
+            "id":4311,
+            "displayname":"J. Klaus",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"J. Klaus",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":103528,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28247",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28247"
+    ],
+    "displaymaker":"J. Klaus | after Charles Rahl",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"J. Klaus, after Charles Rahl, The Argonauts. Engraving; 8.7 x 35.4 cm (plate), 13.6 x 40 cm (sheet). Museum purchase (x1943-123)",
+    "captionhtml":"J. Klaus, after Charles Rahl, <i>The Argonauts</i>. Engraving; 8.7 x 35.4 cm (plate), 13.6 x 40 cm (sheet). Museum purchase (x1943-123)",
+    "published_date":"2025-10-23 16:41:47.558915",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

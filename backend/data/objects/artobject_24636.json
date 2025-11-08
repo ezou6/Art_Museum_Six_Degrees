@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":24636,
+    "objectnumber":"y1954-126",
+    "sortnumber":"1954  126y",
+    "displaytitle":"Shrimps",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1955,
+    "dateend":1955,
+    "datecomputed":1955,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1955 ?",
+    "medium":"Ink on paper",
+    "dimensions":"Painting: 68.6 x 33.5 cm. (27 x 13 3/16 in.)\r\nmount: 80.5 x 39.2 cm.",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong",
+    "markings":null,
+    "inscribed":"inscription: \"Jiu shi er sui ren chen Baishi laoren yi hui\"",
+    "signed":"signed \"Baishi laoren\"",
+    "catalograisonne":null,
+    "creditlinerepro":"© Qi Baishi",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Shrimps",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6375,
+            "displayname":"Qi Baishi 齊白石",
+            "displaydate":"Chinese, 1863–1957",
+            "datebegin":1863,
+            "dateend":1957,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":13113,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1954-126_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":58172,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03296",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 17",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2134000,
+            "term":"shrimp",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033651,
+            "term":"modern Chinese styles and periods",
+            "aatid":300106420,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":13587,
+            "period":"Modern period",
+            "alphasort":"Modern",
+            "begindate":1912,
+            "enddate":2100,
+            "displayperiod":"Modern period, 1912–present",
+            "displaydate":"1912–present"
+        },
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"late Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        },
+        {
+            "id":2033651,
+            "period":"modern Chinese styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"68.60"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"80.50"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03296"
+    ],
+    "displaymaker":"Qi Baishi 齊白石, Chinese, 1863–1957",
+    "displayculture":"Chinese",
+    "displayperiod":"late Qing dynasty, 1644–1912 | Modern period, 1912–present",
+    "caption":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), Shrimps, 1955 ?. Ink on paper; 68.6 x 33.5 cm (Painting), 80.5 x 38.5 cm (mat). Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong (y1954-126)",
+    "captionhtml":"Chinese, late Qing dynasty (1644–1912), Modern period (1912–present), Qi Baishi 齊白石 (Chinese, 1863–1957), <i>Shrimps</i>, 1955 ?. Ink on paper; 68.6 x 33.5 cm (Painting), 80.5 x 38.5 cm (mat). Gift of Wen C. Fong, Class of 1951 and Graduate School Class of 1958, and Constance Tang Fong (y1954-126)",
+    "published_date":"2025-10-16 12:59:08.632403",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

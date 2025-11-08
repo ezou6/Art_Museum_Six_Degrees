@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":40240,
+    "objectnumber":"2001-131",
+    "sortnumber":"2001  131",
+    "displaytitle":"Gato con manzanas (Cat with Apples)",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1975,
+    "dateend":1975,
+    "datecomputed":1975,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1975",
+    "medium":"Aquatint",
+    "dimensions":"plate (sight): 48.5 × 99 cm (19 1/8 × 39 in.)\r\nframe: 75.3 × 123.2 × 4 cm (29 5/8 × 48 1/2 × 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, lower right: P.A.",
+    "signed":"Signed in graphite, lower left: Toledo.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Francisco Toledo",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Gato con manzanas",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":2793,
+            "displayname":"Francisco Toledo",
+            "displaydate":"1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "datebegin":1940,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123637,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46625",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":123638,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46626",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 118",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Oaxaca, Oaxaca City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Oaxaca",
+            "city":"Oaxaca City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3522507/oaxaca.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2157891,
+            "term":"needlepoint (needleworking)",
+            "aatid":300061985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158029,
+            "term":"apples",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103920,
+            "term":"cats",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048697,
+            "term":"spools",
+            "aatid":300023528,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"99.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"123.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46625"
+    ],
+    "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), Gato con manzanas (Cat with Apples), 1975. Aquatint; 48.5 x 99 cm, 48.5 × 99 cm (plate, sight), 75.3 × 123.2 × 4 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-131)",
+    "captionhtml":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), <i>Gato con manzanas (Cat with Apples)</i>, 1975. Aquatint; 48.5 x 99 cm, 48.5 × 99 cm (plate, sight), 75.3 × 123.2 × 4 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-131)",
+    "published_date":"2025-10-16 14:09:39.407367",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

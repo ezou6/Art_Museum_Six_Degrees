@@ -1,0 +1,261 @@
+{
+    "type":"artobject",
+    "objectid":40829,
+    "objectnumber":"2002-33",
+    "sortnumber":"2002   33",
+    "displaytitle":"Finial in the form of the Master of Animals",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ornament",
+    "datebegin":-850,
+    "dateend":-650,
+    "datecomputed":-750,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"19.8 x 7.8 x 2.3 cm (7 13/16 x 3 1/16 x 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Finial in the form of the Master of Animals",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Formerly in the collection of Gilette Griffin; subsequently given to the Museum",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":34560,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002089",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":40020,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/P9300031",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":779,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2002-33",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 154",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Asia, Iran, likely Luristan",
+            "code":"Place excavated",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Iran",
+            "region":"likely Luristan",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_33.5_48.667.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Asia, Iran",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Iran",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112718,
+            "term":"hip knobs",
+            "aatid":300125738,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199235,
+            "term":"Late Iron Age",
+            "aatid":300106745,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199256,
+            "term":"Iranian",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2112718,
+            "classification":"hip knobs"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13445,
+            "culture":"Iranian",
+            "alphasort":"Iranian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Iranian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199256,
+            "culture":"Iranian"
+        }
+    ],
+    "periods":[
+        {
+            "id":23915,
+            "period":"Luristan Late Iron Age",
+            "alphasort":"Luristan Late Iron Age",
+            "begindate":-1000,
+            "enddate":-650,
+            "displayperiod":"Luristan Late Iron Age likely period II–III, ca. 850–650 BCE, ca. 1000–650 BCE",
+            "displaydate":"ca. 1000–650 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2199235,
+            "period":"Late Iron Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.32"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002089"
+    ],
+    "displaymaker":null,
+    "displayculture":"Iranian",
+    "displayperiod":"Luristan Late Iron Age likely period II–III, ca. 850–650 BCE, ca. 1000–650 BCE",
+    "caption":"Iranian, Luristan Late Iron Age likely period II–III, ca. 850–650 BCE (ca. 1000–650 BCE), likely Luristan, Iran, Finial in the form of the Master of Animals. Bronze; 19.8 x 7.8 x 2.3 cm. Gift of Gillett G. Griffin (2002-33)",
+    "captionhtml":"Iranian, Luristan Late Iron Age likely period II–III, ca. 850–650 BCE (ca. 1000–650 BCE), likely Luristan, Iran, <i>Finial in the form of the Master of Animals</i>. Bronze; 19.8 x 7.8 x 2.3 cm. Gift of Gillett G. Griffin (2002-33)",
+    "published_date":"2025-10-16 14:11:50.176283",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":40068,
+    "objectnumber":"2001-65",
+    "sortnumber":"2001   65",
+    "displaytitle":"Painter with Hat",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1966,
+    "dateend":1966,
+    "datecomputed":1966,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1966",
+    "medium":"Oil on cardboard",
+    "dimensions":"sight: 32.5 x 25 cm (12 13/16 x 9 13/16 in.)\r\nframe: 42 × 35.5 × 2.8 cm (16 9/16 × 14 × 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated in oil, upper right: Francisco Corzas | 66'",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Francisco Corzas",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Painter with Hat",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":664,
+            "displayname":"Francisco Corzas",
+            "displaydate":"Mexican, 1936–1983",
+            "datebegin":1936,
+            "dateend":1983,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francisco Corzas, Mexican, 1936–1983",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123865,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46809",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 102",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3530597/mexico-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089955,
+            "term":"painters (artists)",
+            "aatid":300025136,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2043984,
+            "term":"cardboard",
+            "aatid":300014224,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46809"
+    ],
+    "displaymaker":"Francisco Corzas, Mexican, 1936–1983",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francisco Corzas (Mexican, 1936–1983), Painter with Hat, 1966. Oil on cardboard; 32.5 x 25 cm (sight), 42 × 35.5 × 2.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-65)",
+    "captionhtml":"Francisco Corzas (Mexican, 1936–1983), <i>Painter with Hat</i>, 1966. Oil on cardboard; 32.5 x 25 cm (sight), 42 × 35.5 × 2.8 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-65)",
+    "published_date":"2025-10-16 14:08:55.056745",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

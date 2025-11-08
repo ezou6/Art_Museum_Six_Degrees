@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":49427,
+    "objectnumber":"2006-429",
+    "sortnumber":"2006  429",
+    "displaytitle":"Los Angeles",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1976,
+    "dateend":1980,
+    "datecomputed":1978,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1976–80",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 49.1 x 33.5 cm. (19 5/16 x 13 3/16 in.)\r\nsheet: 50.5 x 40.5 cm. (19 7/8 x 15 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":"Numbered, titled, dated, and signed in graphite, verso lower left, center, and right: 28//75 / Los Angeles 1976-80 / Grant Mudford",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Grant Mudford",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Los Angeles",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":848,
+            "displayname":"Grant Mudford",
+            "displaydate":"Australian, born 1944",
+            "datebegin":1944,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Grant Mudford, Australian, born 1944",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84305,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10940",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 102",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, California, Los Angeles",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Los Angeles",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5368361/los-angeles.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2156895,
+            "term":"shipping",
+            "aatid":300053899,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171389,
+            "term":"Australian",
+            "aatid":300021861,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2101103,
+            "term":"trucks",
+            "aatid":300022371,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120572,
+            "term":"urban landscapes",
+            "aatid":300132447,
+            "termtype":"Subject"
+        },
+        {
+            "id":2108460,
+            "term":"posts",
+            "aatid":300001609,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2171389,
+            "culture":"Australian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10940"
+    ],
+    "displaymaker":"Grant Mudford, Australian, born 1944",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Grant Mudford (Australian, born 1944), Los Angeles, 1976–80. Gelatin silver print; 49.1 x 33.5 cm (image), 50.5 x 40.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-429)",
+    "captionhtml":"Grant Mudford (Australian, born 1944), <i>Los Angeles</i>, 1976–80. Gelatin silver print; 49.1 x 33.5 cm (image), 50.5 x 40.5 cm (sheet). Gift of James Kraft, Class of 1957 (2006-429)",
+    "published_date":"2025-10-16 15:06:16.270779",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

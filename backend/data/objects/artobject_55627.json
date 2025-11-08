@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":55627,
+    "objectnumber":"2008-85",
+    "sortnumber":"2008   85",
+    "displaytitle":"Baghdad, from Prints for Phoenix House",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1972,
+    "dateend":1972,
+    "datecomputed":1972,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1972",
+    "medium":"Color screenprint and photo-screenprint",
+    "dimensions":"50.2 × 35.6 cm (19 3/4 × 14 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Barnabas McHenry, Class of 1952, and Bannon McHenry in honor of Joel Smith",
+    "markings":null,
+    "inscribed":"Signed and numbered in white colored pencil, upper right corner: Kitaj [edition number illegible in media]",
+    "signed":null,
+    "catalograisonne":"British Museum 162; Kelpra 7977; Kinsman 53 \r\n",
+    "creditlinerepro":"© Estate of Ronald B. Kitaj",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Baghdad",
+            "titletype":"Primary Title",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":4304,
+            "displayname":"R. B. Kitaj",
+            "displaydate":"American, 1932–2007",
+            "datebegin":1932,
+            "dateend":2007,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"R. B. Kitaj, American, 1932–2007",
+            "displayorder":1
+        },
+        {
+            "id":14023,
+            "displayname":"Marlborough Graphics",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Marlborough Graphics",
+            "displayorder":3
+        },
+        {
+            "id":14107,
+            "displayname":"Kelpra Studios, Ltd.",
+            "displaydate":"British, founded 1957",
+            "datebegin":1957,
+            "dateend":0,
+            "prefix":"Printed at",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed at Kelpra Studios, Ltd., British, founded 1957",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110365,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33731",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 85",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England, London",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2643743/london.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098350,
+            "term":"squares (geometric figures)",
+            "aatid":300055637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.16"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.55"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33731"
+    ],
+    "displaymaker":"R. B. Kitaj, American, 1932–2007 | Printed at Kelpra Studios, Ltd., British, founded 1957 | Published by Marlborough Graphics",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"R. B. Kitaj (American, 1932–2007), Printed at Kelpra Studios, Ltd. (British, founded 1957), Published by Marlborough Graphics, Baghdad, from Prints for Phoenix House, 1972. Color screenprint and photo-screenprint; 50.2 × 35.6 cm. Gift of Barnabas McHenry, Class of 1952, and Bannon McHenry in honor of Joel Smith (2008-85)",
+    "captionhtml":"R. B. Kitaj (American, 1932–2007), Printed at Kelpra Studios, Ltd. (British, founded 1957), Published by Marlborough Graphics, <i>Baghdad, from Prints for Phoenix House</i>, 1972. Color screenprint and photo-screenprint; 50.2 × 35.6 cm. Gift of Barnabas McHenry, Class of 1952, and Bannon McHenry in honor of Joel Smith (2008-85)",
+    "published_date":"2025-10-16 15:25:12.875702",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

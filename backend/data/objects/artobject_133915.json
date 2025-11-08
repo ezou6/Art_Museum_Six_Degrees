@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":133915,
+    "objectnumber":"2017-253",
+    "sortnumber":"2017  253",
+    "displaytitle":"Man in Green Shirt: Front View",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1975,
+    "dateend":1975,
+    "datecomputed":1975,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1975",
+    "medium":"Aquatint and softground etching",
+    "dimensions":"plate: 99.1 × 41.3 cm (39 × 16 1/4 in.)\r\nframe: 123.2 × 55.2 × 3.8 cm (48 1/2 × 21 3/4 × 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Forbes family in memory of Malcolm S. Forbes, Class of 1941",
+    "markings":"Workshop blindstamp, lower left corner: 2RC",
+    "inscribed":"Numbered in graphite, below plate at left: 53-64",
+    "signed":"Signed and dated in graphite, below plate at right: George Segal '75",
+    "catalograisonne":null,
+    "creditlinerepro":"© The George & Helen Segal Foundation / Licensed by VAGA at Artists Rights Society (ARS), New York",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Man in Green Shirt: Front View",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3555,
+            "displayname":"George Segal",
+            "displaydate":"1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick",
+            "datebegin":1924,
+            "dateend":2000,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"George Segal, 1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick",
+            "displayorder":1
+        },
+        {
+            "id":18118,
+            "displayname":"2RC Editrice, Rome",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Printed and published by 2RC Editrice, Rome",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Malcolm S. Forbes from the Sidney Janis Gallery in March of 1977",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":218643,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932611",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Rome",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Rome",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3169071/roma-capitale.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054584,
+            "term":"soft-ground etchings",
+            "aatid":300041376,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2155003,
+            "term":"soft-ground etching",
+            "aatid":300053251,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054584,
+            "classification":"soft-ground etchings"
+        },
+        {
+            "id":2154980,
+            "classification":"aquatint"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"123.18"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"55.24"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"99.05"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"41.27"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196700,
+            "name":"MoCo-Pop art"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":214385,
+            "name":"web_Forbes"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1932611"
+    ],
+    "displaymaker":"George Segal, 1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick | Printed and published by 2RC Editrice, Rome",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"George Segal (1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick), Printed and published by 2RC Editrice, Rome, Man in Green Shirt: Front View, 1975. Aquatint and softground etching; 99.1 × 41.3 cm (plate), 123.2 × 55.2 × 3.8 cm (frame). Gift of the Forbes family in memory of Malcolm S. Forbes, Class of 1941 (2017-253)",
+    "captionhtml":"George Segal (1924–2000; born New York, NY; died South Brunswick, NJ; active South Brunswick), Printed and published by 2RC Editrice, Rome, <i>Man in Green Shirt: Front View</i>, 1975. Aquatint and softground etching; 99.1 × 41.3 cm (plate), 123.2 × 55.2 × 3.8 cm (frame). Gift of the Forbes family in memory of Malcolm S. Forbes, Class of 1941 (2017-253)",
+    "published_date":"2025-10-16 18:41:13.512080",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,250 @@
+{
+    "type":"artobject",
+    "objectid":51637,
+    "objectnumber":"y1977-65",
+    "sortnumber":"1977   65y",
+    "displaytitle":"Jar",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1919,
+    "dateend":1940,
+    "datecomputed":1930,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1920s",
+    "medium":"Blackware ceramic",
+    "dimensions":"h. 14.3 × diam. 19 cm (5 5/8 × 7 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. William Howard Fisher",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed on base: Marie",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13032,
+            "displayname":"Maria Montoya Martinez",
+            "displaydate":"Po-woh-ge-oweenge (San Ildefonso), 1887–1980; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM",
+            "datebegin":1887,
+            "dateend":1980,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Maria Montoya Martinez, Po-woh-ge-oweenge (San Ildefonso), 1887–1980; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM",
+            "displayorder":1
+        },
+        {
+            "id":13033,
+            "displayname":"Julian Martinez",
+            "displaydate":"Po-woh-ge-oweenge (San Ildefonso), 1885–1943; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM",
+            "datebegin":1885,
+            "dateend":1943,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Julian Martinez, Po-woh-ge-oweenge (San Ildefonso), 1885–1943; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by Elizabeth (Brown) Fisher in the 1930s from the potter; donated to the Princeton University Art Museum, 1977.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":49333,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015226",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 40",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Po-woh-ge-oweenge (San Ildefonso) Pueblo, Rio Grande",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Rio Grande",
+            "state":"New Mexico",
+            "city":"Po-woh-ge-oweenge (San Ildefonso) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5489602/san-ildefonso-pueblo.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040527,
+            "term":"San Ildefonso",
+            "aatid":300017754,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040527,
+            "culture":"San Ildefonso"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"19.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":225740,
+            "name":"VisibleStorage_GHC-G_Southwest2"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":217994,
+            "name":"2022_VIS331_11_18"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015226"
+    ],
+    "displaymaker":"Maria Montoya Martinez, Po-woh-ge-oweenge (San Ildefonso), 1887–1980; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM | Julian Martinez, Po-woh-ge-oweenge (San Ildefonso), 1885–1943; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Maria Montoya Martinez (Po-woh-ge-oweenge (San Ildefonso), 1887–1980; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM), Julian Martinez (Po-woh-ge-oweenge (San Ildefonso), 1885–1943; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM), 1920s, Po-woh-ge-oweenge (San Ildefonso) Pueblo, New Mexico, Rio Grande, United States, American southwest, Jar. Blackware ceramic; 14.3 × 19 cm. Gift of Mrs. William Howard Fisher (y1977-65)",
+    "captionhtml":"Maria Montoya Martinez (Po-woh-ge-oweenge (San Ildefonso), 1887–1980; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM), Julian Martinez (Po-woh-ge-oweenge (San Ildefonso), 1885–1943; born and died Po-woh-ge-oweenge (San Ildefonso) Pueblo, NM), 1920s, Po-woh-ge-oweenge (San Ildefonso) Pueblo, New Mexico, Rio Grande, United States, American southwest, <i>Jar</i>. Blackware ceramic; 14.3 × 19 cm. Gift of Mrs. William Howard Fisher (y1977-65)",
+    "published_date":"2025-10-30 02:07:04.144214",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

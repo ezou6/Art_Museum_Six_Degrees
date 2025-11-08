@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":62512,
+    "objectnumber":"ui.2010.149",
+    "sortnumber":"i      2010u  149",
+    "displaytitle":"Model canoe",
+    "department":"Art of the Ancient Americas",
+    "classification":"Model",
+    "datebegin":1870,
+    "dateend":1882,
+    "datecomputed":1876,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1882",
+    "medium":"Wood, red and black paint",
+    "dimensions":"h. 27.7 × w. 23.6 × d. 120.8 cm (10 7/8 × 9 5/16 × 47 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":"$300 written in pencil on bottom",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Model canoe",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to Princeton Theological Seminary, 1879-1882; Given to E. M. Museum (Princeton Museum of Natural History), 1882",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":61448,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PCS11052009_00005",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, Sheet'ká Ḵwáan (Sitka)",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Sheet'ká Ḵwáan (Sitka)",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5557293/sitka.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2155734,
+            "term":"model-making",
+            "aatid":300053619,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2099253,
+            "term":"tourist trade",
+            "aatid":300132466,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158088,
+            "term":"eyes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2040133,
+            "term":"Lingít",
+            "aatid":300017629,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133994,
+            "term":"eagles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102407,
+            "term":"canoes",
+            "aatid":300212688,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171800,
+            "term":"wolves",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051630,
+            "term":"models (representations)",
+            "aatid":300047753,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2030038,
+            "term":"Wood",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2099253,
+            "classification":"tourist trade"
+        },
+        {
+            "id":2155734,
+            "classification":"model-making"
+        },
+        {
+            "id":2051630,
+            "classification":"models (representations)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13962,
+            "culture":"Lingít",
+            "alphasort":"Lingít",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Lingít",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040133,
+            "culture":"Lingít"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"120.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":271812,
+            "name":"-- Indigenous North American Art in New Building - NWC consent list"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":143830,
+            "name":"CRS_TlingitModels"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PCS11052009_00005"
+    ],
+    "displaymaker":null,
+    "displayculture":"Lingít",
+    "displayperiod":null,
+    "caption":"Lingít, before 1882, Sheet'ká Ḵwáan (Sitka), Northwest Coast, Model canoe. Wood, red and black paint; 27.7 × 23.6 × 120.8 cm. Museum Collection (ui.2010.149)",
+    "captionhtml":"Lingít, before 1882, Sheet'ká Ḵwáan (Sitka), Northwest Coast, <i>Model canoe</i>. Wood, red and black paint; 27.7 × 23.6 × 120.8 cm. Museum Collection (ui.2010.149)",
+    "published_date":"2025-10-16 16:10:06.293983",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

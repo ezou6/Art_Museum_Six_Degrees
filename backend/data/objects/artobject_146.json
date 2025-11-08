@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":146,
+    "objectnumber":"2016-1319",
+    "sortnumber":"2016 1319",
+    "displaytitle":"Standing figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":-500,
+    "dateend":-200,
+    "datecomputed":-350,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"500–200 BCE",
+    "medium":"Greenstone",
+    "dimensions":"h. 6.4 cm., w. 2.4 cm., d. 1.6 cm. (2 1/2 x 15/16 x 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Standing figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ; bequest to the Princeton University Art Museum, 2016.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":46787,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV012511",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3527213/estado-de-guerrero.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199062,
+            "term":"greenstone (rock)",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035643,
+            "term":"Preclassic",
+            "aatid":300016967,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035843,
+            "term":"Mezcala",
+            "aatid":300017193,
+            "termtype":"Culture"
+        },
+        {
+            "id":2199062,
+            "term":"greenstone (rock)",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2199062,
+            "classification":"greenstone (rock)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13850,
+            "culture":"Mezcala",
+            "alphasort":"Mezcala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Mezcala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035843,
+            "culture":"Mezcala"
+        }
+    ],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035643,
+            "period":"Preclassic"
+        },
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.38"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.57"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV012511"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mezcala",
+    "displayperiod":"Late Formative Period",
+    "caption":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, Standing figure. Greenstone; 6.4 x 2.4 x 1.6 cm. Bequest of Gillett G. Griffin (2016-1319)",
+    "captionhtml":"Mezcala, Late Formative Period, 500–200 BCE, Guerrero, Mexico, Mesoamerica, <i>Standing figure</i>. Greenstone; 6.4 x 2.4 x 1.6 cm. Bequest of Gillett G. Griffin (2016-1319)",
+    "published_date":"2025-10-29 02:00:08.608266",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

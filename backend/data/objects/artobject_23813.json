@@ -1,0 +1,203 @@
+{
+    "type":"artobject",
+    "objectid":23813,
+    "objectnumber":"y1950-22",
+    "sortnumber":"1950   22y",
+    "displaytitle":"Doorway",
+    "department":"European Painting and Sculpture ",
+    "classification":"Architectural Elements",
+    "datebegin":1455,
+    "dateend":1515,
+    "datecomputed":1485,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"mid-15th to early 16th century",
+    "medium":"Stone",
+    "dimensions":"h. 380 cm (149 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Mrs. Allan Marquand",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1950-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Doorway",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4662,
+            "displayname":"Pietro Lombardo",
+            "displaydate":"Italian, Venetian, 1435 –1515",
+            "datebegin":1435,
+            "dateend":1515,
+            "prefix":"formerly attributed to",
+            "suffix":null,
+            "role":"Former Attribution",
+            "displaymaker":"formerly attributed to Pietro Lombardo, Italian, Venetian, 1435 –1515",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Venice, Italy (various buildings); Arturo Biondetti [1]; ca. 1892-1893 purchase by Allan Marquand [2]; 1950 bequest of Mrs. Allan Marquand\nto Princeton University Art Museum.</p><p>[1]  Dealer and restorer of marble, with studio on Campo S. Vio</p><p>[2]  Allan Marquand, &quot;A Venetian Doorway by Pietro Lombardo,&quot; Art in America IV, no. 3 (April 1916): 142-146: &quot;During the winter of 1892-1893, my attention was called to a photograph of a doorway for sale in Venice. It attracted me so much that I soon began negotiations for it, purchased it, and had it set up in my house at Princeton, where it has been a source of interest and joy to me ever since. I purchased it indirectly from an artist dealer, Biondetti, whose studio, and collection of antiques, was, I believe, in the Cmapo San Vio. When I came later to inquire into the provenance of the doorway, Biondetti was dead and his successor had no record of it.&quot; Marquand installed the doorway in Guernsey Hall, Princeton. A photograph is published in Art in America. See also: Arthur Page Brown (American, 1859–1896), Alteration of Vestibule for Allan Marquand. Graphite and watercolor, 75.5 x 56.6 cm. Gift of the Estate of Allan Marquand, Class of 1874 (x1963-42)\n<span lang=\"EN\">\n</span>\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":17430,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1950-22",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Betsy Rosasco, \"The teaching of art and the museum tradition: Joseph Henry to Allan Marquand,\"&nbsp; in \"An art museum for Princeton: the early years\", special issue, <EM>Record of the Art Museum, Princeton University</EM> 55, no. 1/2 (1996): p. 7-52.",
+            "citation":"Betsy Rosasco, \"The teaching of art and the museum tradition: Joseph Henry to Allan Marquand,\"&nbsp; in \"An art museum for Princeton: the early years\", special issue, <EM>Record of the Art Museum, Princeton University</EM> 55, no. 1/2 (1996): p. 7-52., p. 35, fig. 19",
+            "date":1996,
+            "id":3052,
+            "uri":"https://www.jstor.org/stable/3774779"
+        },
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 2 (1950): p. 15.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 9, no. 2 (1950): p. 15., p. 16",
+            "date":1950,
+            "id":3749,
+            "uri":"https://www.jstor.org/stable/3774242"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Venice",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Venice",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2110777,
+            "term":"tympana",
+            "aatid":300002736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2111658,
+            "term":"doorways",
+            "aatid":300002767,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055270,
+            "term":"carvings",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159384,
+            "term":"plant-derived motifs",
+            "aatid":300164599,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2111658,
+            "classification":"doorways"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"380.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1950-22"
+    ],
+    "displaymaker":"formerly attributed to Pietro Lombardo, Italian, Venetian, 1435 –1515",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Formerly attributed to Pietro Lombardo (Italian, Venetian, 1435 –1515), Doorway, mid-15th to early 16th century. Stone; 380 cm. Bequest of Mrs. Allan Marquand (y1950-22)",
+    "captionhtml":"Formerly attributed to Pietro Lombardo (Italian, Venetian, 1435 –1515), <i>Doorway</i>, mid-15th to early 16th century. Stone; 380 cm. Bequest of Mrs. Allan Marquand (y1950-22)",
+    "published_date":"2025-10-16 12:55:00.430770",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

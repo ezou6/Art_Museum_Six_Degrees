@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":55875,
+    "objectnumber":"2008-1039",
+    "sortnumber":"2008 1039",
+    "displaytitle":"The Dory",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1893,
+    "dateend":1895,
+    "datecomputed":1894,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1893–95",
+    "medium":"Color woodcut on off-white Japanese paper",
+    "dimensions":"block: 12.8 x 5.8 cm. (5 1/16 x 2 5/16 in.)\r\nsheet: 15.8 x 8.9 cm. (6 1/4 x 3 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Dory",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2190,
+            "displayname":"Arthur Wesley Dow",
+            "displaydate":"1857–1922; born Ipswich, MA; died New York, NY",
+            "datebegin":1857,
+            "dateend":1922,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Arthur Wesley Dow, 1857–1922; born Ipswich, MA; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":19394,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1039",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 85, illustrated",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043924,
+            "term":"Japanese paper",
+            "aatid":300014143,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.90"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.80"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-1039"
+    ],
+    "displaymaker":"Arthur Wesley Dow, 1857–1922; born Ipswich, MA; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Arthur Wesley Dow (1857–1922; born Ipswich, MA; died New York, NY), The Dory, 1893–95. Color woodcut on off-white Japanese paper; 12.8 × 5.8 cm (block), 15.8 x 8.9 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1039)",
+    "captionhtml":"Arthur Wesley Dow (1857–1922; born Ipswich, MA; died New York, NY), <i>The Dory</i>, 1893–95. Color woodcut on off-white Japanese paper; 12.8 × 5.8 cm (block), 15.8 x 8.9 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1039)",
+    "published_date":"2025-10-16 15:26:04.021277",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

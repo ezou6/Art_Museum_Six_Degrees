@@ -1,0 +1,236 @@
+{
+    "type":"artobject",
+    "objectid":36888,
+    "objectnumber":"1998-657",
+    "sortnumber":"1998  657",
+    "displaytitle":"Sword (possibly afena)",
+    "department":"African and Oceanic Art",
+    "classification":"Weapons and Armor",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Iron",
+    "dimensions":"l. 100.5 cm., w. 17.9 cm., d. 1.4 cm. (39 9/16 x 7 1/16 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sword (possibly afena)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15594,
+            "displayname":"Akan",
+            "displaydate":null,
+            "datebegin":1400,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Akan artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"John B. Elliott, New York, NY; Princeton University Art Museum, 1998",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":43823,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009307",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1871,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-657_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 60",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Ghana",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Ghana",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2300660/republic-of-ghana.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048999,
+            "term":"regalia",
+            "aatid":300185696,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158076,
+            "term":"snakes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050143,
+            "term":"swords",
+            "aatid":300037048,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042070,
+            "term":"Akan",
+            "aatid":300016000,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185121,
+            "term":"Akan Art",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2157448,
+            "term":"forging (metal forming)",
+            "aatid":300054033,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Materials"
+        },
+        {
+            "id":2161787,
+            "term":"iron",
+            "aatid":300011002,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2050143,
+            "classification":"swords"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042070,
+            "culture":"Akan"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"100.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":13288,
+            "name":"web_Akan_Art_all"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009307"
+    ],
+    "displaymaker":"Akan artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Akan artist, Ghana, Western Africa, Sword (possibly afena), 20th century. Iron; 100.5 x 17.9 x 1.4 cm. Bequest of John B. Elliott, Class of 1951 (1998-657)",
+    "captionhtml":"Akan artist, Ghana, Western Africa, <i>Sword (possibly afena)</i>, 20th century. Iron; 100.5 x 17.9 x 1.4 cm. Bequest of John B. Elliott, Class of 1951 (1998-657)",
+    "published_date":"2025-10-16 13:55:55.289163",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

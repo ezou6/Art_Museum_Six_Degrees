@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":34123,
+    "objectnumber":"y215",
+    "sortnumber":"215     y",
+    "displaytitle":"Jug",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":300,
+    "dateend":399,
+    "datecomputed":350,
+    "daterange":"A.D. 1-500",
+    "displaydate":"4th century CE",
+    "medium":"Transparent light green and blue-green glass; no impurities",
+    "dimensions":"h. 18.4 cm, diam. rim 6.1 cm, diam. base 6 cm (7 1/4 x 2 3/8 x 2 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of W. L. Bogert",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jug",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Rounded, fire-polished, flaring rim; short cylindrical neck, widening into a bag-shaped body; pushed-in base forming a spreading foot; slightly convex bottom. Ribbed strap handle of blue-green glass from shoulder to rim. Two threads of the same material wound below the rim and at the neck. At the center of the bottom is a solid, circular pontil mark, 1.2 cm. wide.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by W.L. Bogert as part of the Old Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74496,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y215_1",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 245 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        },
+        {
+            "boilertext":"<P>Vessberg, Olof, \"roman glass in Cyprus\", <EM>Opuscula Archaeologica</EM> 7 (1952).</P>",
+            "citation":"<P>Vessberg, Olof, \"roman glass in Cyprus\", <EM>Opuscula Archaeologica</EM> 7 (1952).</P>, p. 109ff; p. 130, pl. 6, 15",
+            "date":1952,
+            "id":3117,
+            "uri":"http://www.worldcat.org/oclc/732353917"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean, Mount Carmel",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Mount Carmel",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_32.721_35.031.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2073185,
+            "term":"ewers",
+            "aatid":300045666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2117162,
+            "term":"pontil marks",
+            "aatid":300203283,
+            "termtype":"Subject"
+        },
+        {
+            "id":2058680,
+            "term":"light green",
+            "aatid":300128475,
+            "termtype":"Subject"
+        },
+        {
+            "id":2161427,
+            "term":"free-blown glass",
+            "aatid":300233425,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2073185,
+            "classification":"ewers"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":17030,
+            "period":"Late Antiquity",
+            "alphasort":"Late  Antiquity",
+            "begindate":476,
+            "enddate":700,
+            "displayperiod":"Late Antiquity, ca. 476–700 CE",
+            "displaydate":"ca. 476–700 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"6.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264578,
+            "name":"VisibleStorage_DenseDisplay_G22_ABI_RomanGlass"
+        },
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y215_1"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Late Antiquity, ca. 476–700 CE",
+    "caption":"Late Antiquity (ca. 476–700 CE), Eastern Mediterranean, 4th century CE, Jug. Transparent light green and blue-green glass; no impurities; 18.4 x 6.1 x 6 cm. Gift of W. L. Bogert (y215)",
+    "captionhtml":"Late Antiquity (ca. 476–700 CE), Eastern Mediterranean, 4th century CE, <i>Jug</i>. Transparent light green and blue-green glass; no impurities; 18.4 x 6.1 x 6 cm. Gift of W. L. Bogert (y215)",
+    "published_date":"2025-10-18 02:04:05.018511",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

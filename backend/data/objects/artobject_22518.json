@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":22518,
+    "objectnumber":"y1944-78 e",
+    "sortnumber":"1944   78ye",
+    "displaytitle":"George Washington",
+    "department":"American Art",
+    "classification":"Medals and Medallions",
+    "datebegin":1776,
+    "dateend":1819,
+    "datecomputed":1798,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"diam. 6.9 cm (2 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Robert L. Stuart",
+    "markings":null,
+    "inscribed":"Circular inscription, surrounding profile of Washington, in relief: GEORGIO WASHINGTON SUPREMO DUCI EXERCITUUM ADSERTORI LIBERTATIS / COMITIA AMERICANA;\r\n\r\nInscriptions, verso, at top and bottom, in relief: HOSTIBUS PRIMO FUGATIS / BOSTONIUM RECUPERATIUM / XVII. MARTII / MDCCLXXVI.;\r\n\r\n\r\n",
+    "signed":"In relief, lower left of Washington: DUVIVIER / PARIS.F.;\r\nVerso, lower left, on cannon, in relief: DU VIV.;",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1944-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"George Washington",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5683,
+            "displayname":"Benjamin Duvivier",
+            "displaydate":"French, 1730–1819",
+            "datebegin":1730,
+            "dateend":1819,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Benjamin Duvivier, French, 1730–1819",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":23637,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43756",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":23638,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43754",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.76_-98.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: North America, United States, Massachusetts, Boston",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Massachusetts",
+            "city":"Boston",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.358_-71.06.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171359,
+            "term":"cities",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102367,
+            "term":"ships",
+            "aatid":300082981,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088735,
+            "term":"soldiers",
+            "aatid":300185678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088801,
+            "term":"presidents",
+            "aatid":300025470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134545,
+            "term":"battles",
+            "aatid":300185692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2050520,
+            "term":"artillery",
+            "aatid":300036931,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051423,
+            "term":"medals",
+            "aatid":300046025,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051582,
+            "term":"profiles (figures)",
+            "aatid":300123319,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051423,
+            "classification":"medals"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"6.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43754"
+    ],
+    "displaymaker":"Benjamin Duvivier, French, 1730–1819",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Benjamin Duvivier (French, 1730–1819), George Washington. Bronze; 6.9 cm. Gift of Mrs. Robert L. Stuart (y1944-78 e)",
+    "captionhtml":"Benjamin Duvivier (French, 1730–1819), <i>George Washington</i>. Bronze; 6.9 cm. Gift of Mrs. Robert L. Stuart (y1944-78 e)",
+    "published_date":"2025-10-30 02:02:24.050065",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

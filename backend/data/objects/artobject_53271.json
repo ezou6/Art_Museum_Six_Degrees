@@ -1,0 +1,268 @@
+{
+    "type":"artobject",
+    "objectid":53271,
+    "objectnumber":"2007-76",
+    "sortnumber":"2007   76",
+    "displaytitle":"Rio de Janeiro",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1920,
+    "dateend":1920,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"September 1920",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 15.8 x 21.6 cm. (6 1/4 x 8 1/2 in.)\r\nsheet: 16 x 22 cm. (6 5/16 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Forrest D. Colburn",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Carlos Bippus",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Rio de Janeiro",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":13739,
+            "displayname":"Carlos Bippus",
+            "displaydate":"Brazilian, active 1910s–1930s",
+            "datebegin":1910,
+            "dateend":1939,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Carlos Bippus, Brazilian, active 1910s–1930s",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"This romantic moonlit view of Rio de Janeiro’s Botafogo Bay was featured in the September 1920 issue of <em>National Geographic</em>. Founded in 1888 as a specialist journal, <em>National Geographic</em> quickly evolved into a pictorial periodical that offered a mixture of informal and official education. In imaginative travelogues, such as the one dedicated to Rio de Janeiro that this photograph was featured in, readers were presented with a combination of historical narratives and compelling pictures.",
+            "remarks":"HOP rotation June 2019"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Forrest D. Colburn, New York, NY, by 2007; gift to Princeton University Art Museum, 2007.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":66413,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09084",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, p. 108",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Brazil, Rio de Janeiro, Botafogo Bay",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":null,
+            "country":"Brazil",
+            "region":null,
+            "state":null,
+            "city":"Rio de Janeiro",
+            "county":null,
+            "subregion":null,
+            "locale":"Botafogo Bay",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3473663/botafogo.html",
+            "location":{
+                "lat":"-22.95092",
+                "lon":"-43.18232"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2154511,
+            "term":"toning (photography)",
+            "aatid":300053423,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038525,
+            "term":"Brazilian",
+            "aatid":300107967,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098951,
+            "term":"darkness",
+            "aatid":300056031,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119887,
+            "term":"bays (bodies of water)",
+            "aatid":300132316,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171650,
+            "term":"moons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154511,
+            "term":"toning (photography)",
+            "aatid":300053423,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2154511,
+            "classification":"toning (photography)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038525,
+            "culture":"Brazilian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09084"
+    ],
+    "displaymaker":"Carlos Bippus, Brazilian, active 1910s–1930s",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Carlos Bippus (Brazilian, active 1910s–1930s), Rio de Janeiro, September 1920. Gelatin silver print; 15.8 x 21.6 cm (image), 16 x 22 cm (sheet). Gift of Forrest D. Colburn (2007-76)",
+    "captionhtml":"Carlos Bippus (Brazilian, active 1910s–1930s), <i>Rio de Janeiro</i>, September 1920. Gelatin silver print; 15.8 x 21.6 cm (image), 16 x 22 cm (sheet). Gift of Forrest D. Colburn (2007-76)",
+    "published_date":"2025-10-16 15:17:18.519541",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

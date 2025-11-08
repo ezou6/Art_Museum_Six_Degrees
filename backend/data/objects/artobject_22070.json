@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":22070,
+    "objectnumber":"2004-288",
+    "sortnumber":"2004  288",
+    "displaytitle":"Intérieur de Monsieur F. Négociant, Agent de change, rue Montaigne",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1910,
+    "dateend":1910,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1910",
+    "medium":"Albumen print",
+    "dimensions":"22.1 × 17.6 cm (8 11/16 × 6 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell",
+    "markings":"In negative, upper left of print: [reversed] 764",
+    "inscribed":"Numbered in graphite, verso upper right: 764",
+    "signed":null,
+    "catalograisonne":"Nesbit 764",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":156,
+            "displayname":"Eugène Atget",
+            "displaydate":"French, 1857–1927",
+            "datebegin":1857,
+            "dateend":1927,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Atget, French, 1857–1927",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85897,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12343",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Molly Nesbit, <EM>Atget's Seven Albums </EM>(New Haven: Yale University Press, 1992).",
+            "citation":"Molly Nesbit, <EM>Atget's Seven Albums </EM>(New Haven: Yale University Press, 1992)., p. 764",
+            "date":1992,
+            "id":7101,
+            "uri":"http://www.worldcat.org/oclc/59906299"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 109",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1558,
+            "citation":"Two Views: Atget & Friedlander (December 15, 2012–March 10, 2013)",
+            "isvirtual":true,
+            "begindate":"2012-12-15",
+            "enddate":"2013-03-10",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1558"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris, Avenue Elisée Reclus, Champs des Mars",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":"Avenue Elisée Reclus, Champs des Mars",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111658,
+            "term":"doorways",
+            "aatid":300002767,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2069104,
+            "term":"easels",
+            "aatid":300079638,
+            "termtype":"Subject"
+        },
+        {
+            "id":2069511,
+            "term":"tables (support furniture)",
+            "aatid":300039548,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106503,
+            "term":"apartments",
+            "aatid":300004063,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        },
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12343"
+    ],
+    "displaymaker":"Eugène Atget, French, 1857–1927",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Atget (French, 1857–1927), Intérieur de Monsieur F. Négociant, Agent de change, rue Montaigne, 1910. Albumen print; 22.1 × 17.6 cm. Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell (2004-288)",
+    "captionhtml":"Eugène Atget (French, 1857–1927), <i>Intérieur de Monsieur F. Négociant, Agent de change, rue Montaigne</i>, 1910. Albumen print; 22.1 × 17.6 cm. Museum purchase, gift of the Friends of the Princeton University Art Museum in honor of Peter C. Bunnell (2004-288)",
+    "published_date":"2025-10-16 12:44:14.254665",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

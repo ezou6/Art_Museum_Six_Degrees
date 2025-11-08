@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":135559,
+    "objectnumber":"2019-149",
+    "sortnumber":"2019  149",
+    "displaytitle":"Untitled (Repellent Fence / Valla Repelente)",
+    "department":"Photography",
+    "classification":"Prints",
+    "datebegin":2015,
+    "dateend":2015,
+    "datecomputed":2015,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2015, printed 2019",
+    "medium":"Inkjet print",
+    "dimensions":"121.9 × 182.9 cm (48 × 72 in.)\r\nframe: 125.1 × 186.1 × 4.4 cm (49 1/4 × 73 1/4 × 1 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Postcommodity",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled (Repellent Fence / Valla Repelente)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":21026,
+            "displayname":"Postcommodity",
+            "displaydate":"active 2007-",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Postcommodity, active 2007-",
+            "displayorder":1
+        },
+        {
+            "id":21786,
+            "displayname":"Color Space Art and Imaging, Minneapolis",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by Benjamin Brown at",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Benjamin Brown at Color Space Art and Imaging, Minneapolis",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist; [Bockley Gallery, Minneapolis, MN]; purchased by the Princeton University Art Museum, 2019.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":231685,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2021_64068",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[
+        {
+            "exhibitionid":3649,
+            "citation":"Object Lessons in American Art: Selections from the Princeton University Art Museum Saturday, February 4, 2023 - Sunday, January 7, 2024",
+            "isvirtual":true,
+            "begindate":"2023-02-04",
+            "enddate":"2024-01-07",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3649"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Arizona, vicinity of Douglas",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Arizona",
+            "city":"vicinity of Douglas",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: North America, Mexico, Sonora, vicinity of Agua Prieta",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Sonora",
+            "city":"vicinity of Agua Prieta",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188610,
+            "term":"inkjet prints",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154537,
+            "term":"inkjet printing",
+            "aatid":300235748,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2188610,
+            "classification":"inkjet prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"121.91"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"182.87"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"125.09"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"186.05"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.44"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":203266,
+            "name":"web_ObjectLessons_Sections_19-26_Environment"
+        },
+        {
+            "packageid":205696,
+            "name":"exh_tour_Object_Lessons"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2021_64068"
+    ],
+    "displaymaker":"Postcommodity, active 2007- | Printed by Benjamin Brown at Color Space Art and Imaging, Minneapolis",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Postcommodity (active 2007-), Printed by Benjamin Brown at Color Space Art and Imaging, Minneapolis, Untitled (Repellent Fence / Valla Repelente), 2015, printed 2019. Inkjet print; 121.9 × 182.9 cm, 125.1 × 186.1 × 4.4 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund (2019-149)",
+    "captionhtml":"Postcommodity (active 2007-), Printed by Benjamin Brown at Color Space Art and Imaging, Minneapolis, <i>Untitled (Repellent Fence / Valla Repelente)</i>, 2015, printed 2019. Inkjet print; 121.9 × 182.9 cm, 125.1 × 186.1 × 4.4 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund (2019-149)",
+    "published_date":"2025-10-16 18:48:52.863578",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

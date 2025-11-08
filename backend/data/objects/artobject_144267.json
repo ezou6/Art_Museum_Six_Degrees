@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":144267,
+    "objectnumber":"2024-166",
+    "sortnumber":"2024  166",
+    "displaytitle":"Ideal City",
+    "department":"Modern and Contemporary Art",
+    "classification":"Mixed Media",
+    "datebegin":1988,
+    "dateend":1989,
+    "datecomputed":1988,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1988–89",
+    "medium":"Watercolor and gold leaf on prepared acetate",
+    "dimensions":"206.7 × 145.7 cm (81 3/8 × 57 3/8 in.)\r\nframe: 221 × 152.4 × 7.5 cm (87 × 60 × 2 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Alexandra F. Johnston",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Titled, signed and dated on recto: Ideal City, Rockburne 88/89",
+    "catalograisonne":null,
+    "creditlinerepro":"© Dorothea Rockburne",
+    "restrictions":"Restricted Download - Under Copyright and Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2024-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Ideal City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":984,
+            "displayname":"Dorothea Rockburne",
+            "displaydate":"born 1932, Montréal, Canada; active New York, NY",
+            "datebegin":1932,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Dorothea Rockburne, born 1932, Montréal, Canada; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Gift of Alexandra F. Johnston, 2024; By transfer to Alexandra F. Johnston; Robert F. Johnston and Lynn D. Johnston, purchase by 1994\n",
+            "remarks":"as per acquisition justification"
+        }
+    ],
+    "media":[
+        {
+            "id":253016,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-55-4_ref",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright and Reference Image",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":null,
+            "citation":null,
+            "date":0,
+            "id":10044,
+            "uri":"https://search.worldcat.org/en/title/21792724"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2098284,
+            "term":"geometry",
+            "aatid":300055619,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2038501,
+            "term":"Canadian",
+            "aatid":300107962,
+            "termtype":"Culture"
+        },
+        {
+            "id":2166886,
+            "term":"mixed media",
+            "aatid":300163347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2091764,
+            "term":"mathematics",
+            "aatid":300025786,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188677,
+            "term":"gold leaf",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043474,
+            "term":"acetate",
+            "aatid":300255863,
+            "termtype":"Materials"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        },
+        {
+            "id":2166886,
+            "classification":"mixed media"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        },
+        {
+            "id":2038501,
+            "culture":"Canadian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"220.97"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"152.39"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"206.69"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"145.73"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264438,
+            "name":"CFA-since-1-1-2024"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-55-4_ref"
+    ],
+    "displaymaker":"Dorothea Rockburne, born 1932, Montréal, Canada; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Dorothea Rockburne (born 1932, Montréal, Canada; active New York, NY), Ideal City, 1988–89. Watercolor and gold leaf on prepared acetate; 206.7 × 145.7 cm, 221 × 152.4 × 7.5 cm (frame). Gift of Alexandra F. Johnston (2024-166)",
+    "captionhtml":"Dorothea Rockburne (born 1932, Montréal, Canada; active New York, NY), <i>Ideal City</i>, 1988–89. Watercolor and gold leaf on prepared acetate; 206.7 × 145.7 cm, 221 × 152.4 × 7.5 cm (frame). Gift of Alexandra F. Johnston (2024-166)",
+    "published_date":"2025-10-16 19:15:02.533693",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

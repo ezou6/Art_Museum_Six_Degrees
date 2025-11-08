@@ -1,0 +1,169 @@
+{
+    "type":"artobject",
+    "objectid":39784,
+    "objectnumber":"2001-42",
+    "sortnumber":"2001   42",
+    "displaytitle":"Portrait of Carolus Clusius",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1600,
+    "dateend":1601,
+    "datecomputed":1600,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1600 – 1601",
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 22 x 18.3 cm (8 11/16 x 7 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Dr. and Mrs. Harvey Rothberg",
+    "markings":null,
+    "inscribed":"Signed, lower center: IDGheÿn fecit",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Carolus Clusius",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1340,
+            "displayname":"Jacob de Gheyn II",
+            "displaydate":"Dutch, 1565–1629",
+            "datebegin":1565,
+            "dateend":1629,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jacob de Gheyn II, Dutch, 1565–1629",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":6699,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-42_SL",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":103748,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28259",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":2119,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-42_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 116",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28259"
+    ],
+    "displaymaker":"Jacob de Gheyn II, Dutch, 1565–1629",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jacob de Gheyn II (Dutch, 1565–1629), Portrait of Carolus Clusius, 1600 – 1601. Engraving; 22 x 18.3 cm (plate). Museum purchase, gift of Dr. and Mrs. Harvey Rothberg (2001-42)",
+    "captionhtml":"Jacob de Gheyn II (Dutch, 1565–1629), <i>Portrait of Carolus Clusius</i>, 1600 – 1601. Engraving; 22 x 18.3 cm (plate). Museum purchase, gift of Dr. and Mrs. Harvey Rothberg (2001-42)",
+    "published_date":"2025-10-16 14:07:41.274274",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

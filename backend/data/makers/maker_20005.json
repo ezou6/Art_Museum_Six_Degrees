@@ -1,0 +1,76 @@
+{
+    "makerid":20005,
+    "published_date":"2022-03-28 16:09:56.783294",
+    "type":"maker",
+    "displayname":"Maya Lin",
+    "makertype":"Individual",
+    "alphasort":"Lin, Maya Ying",
+    "lastname":"Lin",
+    "firstname":"Maya",
+    "nametitle":null,
+    "middlename":"Ying",
+    "suffix":null,
+    "displaybio":"born 1959, Athens, OH; active New York and Colorado",
+    "begindate":1959,
+    "enddate":0,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Maya Lin",
+            "alphasort":"Lin, Maya Ying",
+            "lastname":"Lin",
+            "firstname":"Maya",
+            "nametitle":null,
+            "middlename":"Ying",
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500001306"
+        },
+        {
+            "source":"VIAF",
+            "id":"https://viaf.org/viaf/49460689"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d81414f69514e00166d8df0"
+            },
+            "title":"Maya Lin | 2018 Friends Annual Mary Pitcairn Keating Lecture",
+            "description":"Internationally acclaimed artist Maya Lin presented details about the site-specific artwork commissioned by the Art Museum for the space adjacent to the Lewis Arts Complex. Drawing inspiration from the natural world and forming her work in conversation with the environment, Lin here shapes the landscape to create a work that invites and engages the campus community.",
+            "speaker_type":"Artist",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_4isod2wj",
+            "transcript":"",
+            "source_project":"Campus Art",
+            "displaydate":"May 3, 2018",
+            "sort_date":"2018-05-03",
+            "video_type":"Lectures, Artist Talks",
+            "caption_file":[]
+        },
+        {
+            "_id":{
+                "$oid":"5ddee2ea836a270016e6f834"
+            },
+            "title":"Campus Art Video: A Visit With Maya Lin",
+            "description":"",
+            "speaker_type":"Artist",
+            "file_uri":"https://mediacentral.princeton.edu/id/1_k5noinzw",
+            "transcript":"",
+            "source_project":"Campus Art",
+            "displaydate":"November 5, 2019",
+            "sort_date":"2019-11-05",
+            "video_type":"Artist Talks",
+            "caption_file":[]
+        }
+    ],
+    "essay":[]
+}

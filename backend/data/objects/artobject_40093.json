@@ -1,0 +1,268 @@
+{
+    "type":"artobject",
+    "objectid":40093,
+    "objectnumber":"2001-75",
+    "sortnumber":"2001   75",
+    "displaytitle":"Gorila (Gorilla)",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1998,
+    "dateend":1998,
+    "datecomputed":1998,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1998",
+    "medium":"Oil and sand on linen",
+    "dimensions":"sight: 75 x 109 cm (29 1/2 x 42 15/16 in.)\r\nframe: 79.5 × 115 × 5 cm (31 5/16 × 45 1/4 × 1 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in black crayon, on verso upper left: “Gorila” | Oleo / Lino | .75 cm x 1.10 cms | 1998",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Sergio Hernández",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":1554,
+            "displayname":"Sergio Hernández",
+            "displaydate":"Mexican, born 1957",
+            "datebegin":1957,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sergio Hernández, Mexican, born 1957",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123869,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46813",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 102",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127397,
+            "term":"lions",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188578,
+            "term":"hippopotamus",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188579,
+            "term":"gorillas",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158054,
+            "term":"mammals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133996,
+            "term":"monkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135008,
+            "term":"circuses (performances)",
+            "aatid":300069235,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2135765,
+            "term":"whips (animal equipment)",
+            "aatid":300255555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095233,
+            "term":"satire",
+            "aatid":300055934,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044653,
+            "term":"canvas",
+            "aatid":300014078,
+            "termtype":"Materials"
+        },
+        {
+            "id":2166391,
+            "term":"sand",
+            "aatid":300014341,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"79.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"115.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"109.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46813"
+    ],
+    "displaymaker":"Sergio Hernández, Mexican, born 1957",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sergio Hernández (Mexican, born 1957), Gorila (Gorilla), 1998. Oil and sand on linen; 75 x 109 cm (sight), 79.5 × 115 × 5 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-75)",
+    "captionhtml":"Sergio Hernández (Mexican, born 1957), <i>Gorila (Gorilla)</i>, 1998. Oil and sand on linen; 75 x 109 cm (sight), 79.5 × 115 × 5 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-75)",
+    "published_date":"2025-10-16 14:09:02.213917",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

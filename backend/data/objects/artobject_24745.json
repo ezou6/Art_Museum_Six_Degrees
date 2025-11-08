@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":24745,
+    "objectnumber":"y1954-83",
+    "sortnumber":"1954   83y",
+    "displaytitle":"Portrait of Alessandro de Medici",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1531,
+    "dateend":1954,
+    "datecomputed":1742,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Tempera on wood panel",
+    "dimensions":"64.5 x 50.5 cm (25 3/8 x 19 7/8 in.)\r\nframe: 96 x 83 x 14 cm (37 13/16 x 32 11/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Caroline G. Mather Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Alessandro de Medici",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2930,
+            "displayname":"Giorgio Vasari",
+            "displaydate":"Italian, 1511–1574",
+            "datebegin":1511,
+            "dateend":1574,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Giorgio Vasari, Italian, 1511–1574",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Possibly Florence, Collection von Hadeln, and later Munich, Galerie Fleischmann, 1929. F. Dolius Giese, New York.;\nRichard Ederheimer, New York; 1954 museum purchase.",
+            "remarks":"not vetted"
+        }
+    ],
+    "media":[
+        {
+            "id":124795,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47700",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":124796,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47701",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 17",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087929,
+            "term":"nobility",
+            "aatid":300025942,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188653,
+            "term":"tempera paintings",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2047925,
+            "term":"panel (wood)",
+            "aatid":300014657,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167890,
+            "term":"tempera",
+            "aatid":300015062,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2188653,
+            "classification":"tempera paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.50"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"96.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"83.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"14.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47701"
+    ],
+    "displaymaker":"after Giorgio Vasari, Italian, 1511–1574",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After Giorgio Vasari (Italian, 1511–1574), Portrait of Alessandro de Medici. Tempera on wood panel; 64.5 x 50.5 cm, 96 × 83 × 14 cm (frame). Museum purchase, Caroline G. Mather Fund (y1954-83)",
+    "captionhtml":"After Giorgio Vasari (Italian, 1511–1574), <i>Portrait of Alessandro de Medici</i>. Tempera on wood panel; 64.5 x 50.5 cm, 96 × 83 × 14 cm (frame). Museum purchase, Caroline G. Mather Fund (y1954-83)",
+    "published_date":"2025-10-30 02:03:23.098633",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":19776,
+    "objectnumber":"y1930-482",
+    "sortnumber":"1930  482y",
+    "displaytitle":"Bowl, Black-topped Pottery",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-6000,
+    "dateend":-4000,
+    "datecomputed":-5000,
+    "daterange":"15000-2000 B.C.",
+    "displaydate":null,
+    "medium":"Ceramic",
+    "dimensions":"h. 9.0 cm, diam. 13.5 cm (3 9/16 x 5 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of William C. Hayes, Class of 1924",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1930-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl, Black-topped Pottery",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"From Badari, Egypt; acquired by William C. Hayes, Class of 1924, possibly during the Metropolitan Museum of Art excavations at Thebes (Hayes active 1927-1931); given to the Musum in 1930 by Hayes.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34585,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002326",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"William Christopher Hayes, <EM>The scepter of Egypt: a background for the study of the Egyptian antiquities in the Metropolitan Museum of Art</EM>, (New York: Metropolitan Museum of Art, 1953-1959).",
+            "citation":"William Christopher Hayes, <EM>The scepter of Egypt: a background for the study of the Egyptian antiquities in the Metropolitan Museum of Art</EM>, (New York: Metropolitan Museum of Art, 1953-1959)., p. 14, fig. 5",
+            "date":1953,
+            "id":6481,
+            "uri":"http://www.worldcat.org/oclc/7427345"
+        },
+        {
+            "boilertext":"Helene J Kantor, \"Prehistoric Egyptian pottery in the Art Museum,\" <em>Record of the Art Museum, Princeton University </em>XII, no. 2 (1953): p. 67-83&nbsp;",
+            "citation":"Helene J Kantor, \"Prehistoric Egyptian pottery in the Art Museum,\" <em>Record of the Art Museum, Princeton University </em>XII, no. 2 (1953): p. 67-83&nbsp;, fig. a, p. 67 (illus.)",
+            "date":1953,
+            "id":5753,
+            "uri":"https://www.jstor.org/stable/3774314"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Egypt, Al Badārī",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Al Badārī",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_26.993_31.416.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036891,
+            "term":"Badarian",
+            "aatid":300020256,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037088,
+            "term":"black-topped",
+            "aatid":300107286,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2152702,
+            "term":"burnishing (polishing)",
+            "aatid":300053869,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12852,
+            "period":"Predynastic Period",
+            "alphasort":"Predynastic Period",
+            "begindate":-5400,
+            "enddate":-3100,
+            "displayperiod":"Predynastic Period, Badarian, ca. 5400–3100 BCE",
+            "displaydate":"ca. 5400–3100 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036891,
+            "period":"Badarian"
+        },
+        {
+            "id":2037088,
+            "period":"black-topped"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"13.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182064,
+            "name":"web_2020_ancient_egyptian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002326"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"Predynastic Period, Badarian, ca. 5400–3100 BCE",
+    "caption":"Egyptian, Predynastic Period, Badarian (ca. 5400–3100 BCE), Egypt, Bowl, Black-topped Pottery. Ceramic; 9 x 13.5 cm. Gift of William C. Hayes, Class of 1924 (y1930-482)",
+    "captionhtml":"Egyptian, Predynastic Period, Badarian (ca. 5400–3100 BCE), Egypt, <i>Bowl, Black-topped Pottery</i>. Ceramic; 9 x 13.5 cm. Gift of William C. Hayes, Class of 1924 (y1930-482)",
+    "published_date":"2025-10-16 12:30:12.715955",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

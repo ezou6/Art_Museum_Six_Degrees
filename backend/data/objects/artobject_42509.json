@@ -1,0 +1,165 @@
+{
+    "type":"artobject",
+    "objectid":42509,
+    "objectnumber":"2004-64",
+    "sortnumber":"2004   64",
+    "displaytitle":"The Forge",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1581,
+    "dateend":1581,
+    "datecomputed":1581,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1581",
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 20.1 x 32.7 cm. (7 15/16 x 12 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Forge",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6078,
+            "displayname":"Léonard Gaultier",
+            "displaydate":"French, 1561–ca. 1635",
+            "datebegin":1561,
+            "dateend":1635,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Léonard Gaultier, French, 1561–ca. 1635",
+            "displayorder":1
+        },
+        {
+            "id":6674,
+            "displayname":"Jean Cousin",
+            "displaydate":"French, ca. 1500–1560",
+            "datebegin":1500,
+            "dateend":1560,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jean Cousin, French, ca. 1500–1560",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2230,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-64",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 103 (illus.)",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-64"
+    ],
+    "displaymaker":"Léonard Gaultier, French, 1561–ca. 1635 | after Jean Cousin, French, ca. 1500–1560",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Léonard Gaultier (French, 1561–ca. 1635), after Jean Cousin (French, ca. 1500–1560), The Forge, 1581. Engraving; 20.1 x 32.7 cm (plate). Museum purchase, Laura P. Hall Memorial Fund (2004-64)",
+    "captionhtml":"Léonard Gaultier (French, 1561–ca. 1635), after Jean Cousin (French, ca. 1500–1560), <i>The Forge</i>, 1581. Engraving; 20.1 x 32.7 cm (plate). Museum purchase, Laura P. Hall Memorial Fund (2004-64)",
+    "published_date":"2025-10-16 14:19:54.747720",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

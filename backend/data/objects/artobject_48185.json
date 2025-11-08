@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":48185,
+    "objectnumber":"2005-70",
+    "sortnumber":"2005   70",
+    "displaytitle":"Mother of Kandinsky",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1913,
+    "dateend":1913,
+    "datecomputed":1913,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1913",
+    "medium":"Oil on canvas",
+    "dimensions":"45.2 x 38 cm (17 13/16 x 14 15/16 in.)\r\nframe: 65.3 × 58.8 × 4 cm (25 11/16 × 23 1/8 × 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 2012, Artist Rights Society (ARS), New York / VG Bild-Kunst\r\n .\r\n",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mother of Kandinsky",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3940,
+            "displayname":"Gabriele Münter",
+            "displaydate":"1877–1962; born Berlin, Germany; died Murnau (am Staffelsee), Germany",
+            "datebegin":1877,
+            "dateend":1962,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gabriele Münter, 1877–1962; born Berlin, Germany; died Murnau (am Staffelsee), Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">(Dalzell Hatfield Galleries, Los Angeles). Private collection, Princeton; 2005 gift to Princeton University Art Museum.\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":5946,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2005-70",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P>Reinhold Heller, <EM>Gabriele Münter: the years of expressionism, 1903-1920</EM>, (Munich; New York: Prestel, 1997).</P>",
+            "citation":"<P>Reinhold Heller, <EM>Gabriele Münter: the years of expressionism, 1903-1920</EM>, (Munich; New York: Prestel, 1997).</P>, p. 122; p. 124, cat. no. 69 (illus.); p. 183, checklist no. 69",
+            "date":1997,
+            "id":5138,
+            "uri":"http://www.worldcat.org/oclc/39800890"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 52 (illus.)",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088218,
+            "term":"mothers",
+            "aatid":300025932,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.30"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.80"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":225374,
+            "name":"Gallery_02-05(Pavilion1)-European [3]"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2005-70"
+    ],
+    "displaymaker":"Gabriele Münter, 1877–1962; born Berlin, Germany; died Murnau (am Staffelsee), Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gabriele Münter (1877–1962; born Berlin, Germany; died Murnau (am Staffelsee), Germany), Mother of Kandinsky, 1913. Oil on canvas; 45.2 x 38 cm, 65.3 × 58.8 × 4 cm (frame). Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin (2005-70)",
+    "captionhtml":"Gabriele Münter (1877–1962; born Berlin, Germany; died Murnau (am Staffelsee), Germany), <i>Mother of Kandinsky</i>, 1913. Oil on canvas; 45.2 x 38 cm, 65.3 × 58.8 × 4 cm (frame). Gift in memory of Frank E. Taplin Jr. Class of 1937, from Margaret E. Taplin (2005-70)",
+    "published_date":"2025-10-16 14:57:04.050286",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

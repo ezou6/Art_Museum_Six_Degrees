@@ -1,0 +1,254 @@
+{
+    "type":"artobject",
+    "objectid":23209,
+    "objectnumber":"y1947-166",
+    "sortnumber":"1947  166y",
+    "displaytitle":"Landscape",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1180,
+    "dateend":1256,
+    "datecomputed":1218,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"undated",
+    "medium":"Album leaf; ink and light colors on paper",
+    "dimensions":"Painting: 24.6 x 25.8 cm. (9 11/16 x 10 3/16 in.)\r\nLeaf: 34.8 x 43.5 cm. (13 11/16 x 17 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed (spurious)",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15494,
+            "displayname":"Ma Lin 馬麟",
+            "displaydate":"active ca. 1180–after 1256",
+            "datebegin":1180,
+            "dateend":1256,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Ma Lin 馬麟, attributed to, active ca. 1180–after 1256",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":58057,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV03201",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033550,
+            "term":"Song",
+            "aatid":300018427,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12555,
+            "period":"Song dynasty",
+            "alphasort":"Song dynasty",
+            "begindate":960,
+            "enddate":1279,
+            "displayperiod":"Song dynasty, 960–1279",
+            "displaydate":"960–1279"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033550,
+            "period":"Song"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.60"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.80"
+        },
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.80"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV03201"
+    ],
+    "displaymaker":"Ma Lin 馬麟, attributed to, active ca. 1180–after 1256",
+    "displayculture":"Chinese",
+    "displayperiod":"Song dynasty, 960–1279",
+    "caption":"Chinese, Song dynasty (960–1279), Ma Lin 馬麟, attributed to (active ca. 1180–after 1256), Landscape, undated. Album leaf; ink and light colors on paper; 24.6 x 25.8 cm (Painting), 34.8 x 43.5 cm (Leaf). Gift of DuBois Schanck Morris, Class of 1893   (y1947-166)",
+    "captionhtml":"Chinese, Song dynasty (960–1279), Ma Lin 馬麟, attributed to (active ca. 1180–after 1256), <i>Landscape</i>, undated. Album leaf; ink and light colors on paper; 24.6 x 25.8 cm (Painting), 34.8 x 43.5 cm (Leaf). Gift of DuBois Schanck Morris, Class of 1893   (y1947-166)",
+    "published_date":"2025-10-16 12:51:37.059835",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

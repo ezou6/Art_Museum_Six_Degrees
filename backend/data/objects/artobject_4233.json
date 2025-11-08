@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":4233,
+    "objectnumber":"x1942-81",
+    "sortnumber":"1942   81x",
+    "displaytitle":"Snowstorm in the Village",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1925,
+    "dateend":1925,
+    "datecomputed":1925,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1925",
+    "medium":"Etching",
+    "dimensions":"plate: 17.5 x 12.5 cm (6 7/8 x 4 15/16 in.)\r\nsheet: 32.1 x 23.9 cm (12 5/8 x 9 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":"In plate: John Sloan 1925\r\nSigned in graphite, below plate right: John Sloan\r\nInscribed in graphite, lower left and center: Snowstorm in \"the Village\" / 100 proofs",
+    "signed":null,
+    "catalograisonne":"Morse 216 iii",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Snowstorm in the Village",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2427,
+            "displayname":"John Sloan",
+            "displaydate":"1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+            "datebegin":1871,
+            "dateend":1951,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Sloan, 1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":104430,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28852",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":104431,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28853",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions\", <EM>Record of the Museum of Historic Art, Princeton University </EM>1, no. 1 (1942): p. 19.",
+            "citation":"\"Recent accessions\", <EM>Record of the Museum of Historic Art, Princeton University </EM>1, no. 1 (1942): p. 19., p. 19",
+            "date":1942,
+            "id":3200,
+            "uri":"https://www.jstor.org/stable/3774184"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Manhattan, New York, Greenwich Village",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":"Greenwich Village",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5119418/greenwich-village.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2115928,
+            "term":"trains (costume components)",
+            "aatid":300224243,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098560,
+            "term":"winter",
+            "aatid":300133101,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2135320,
+            "term":"storms",
+            "aatid":300054734,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28853"
+    ],
+    "displaymaker":"John Sloan, 1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Sloan (1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY), Snowstorm in the Village, 1925. Etching; 17.5 x 12.5 cm (plate), 32.1 x 23.9 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-81)",
+    "captionhtml":"John Sloan (1871–1951; born Lock Haven, PA; died Hanover, NH; active Philadelphia and New York, NY), <i>Snowstorm in the Village</i>, 1925. Etching; 17.5 x 12.5 cm (plate), 32.1 x 23.9 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1942-81)",
+    "published_date":"2025-10-16 10:29:51.246319",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

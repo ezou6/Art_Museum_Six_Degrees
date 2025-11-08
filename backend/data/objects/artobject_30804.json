@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":30804,
+    "objectnumber":"y1968-229",
+    "sortnumber":"1968  229y",
+    "displaytitle":"Orchids",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1611,
+    "dateend":1611,
+    "datecomputed":1611,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1611",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 82.2 x 30 cm. (32 3/8 x 11 13/16 in.)\r\nMount: 224.5 x 46.2 cm. (88 3/8 x 18 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Arthur M. Sackler Collection",
+    "markings":"seal of artist\r\nWritten in graphite on label adhered to edge of rolled scroll\r\nSticker adhered on edge of scroll: B11",
+    "inscribed":"dated 1611",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1968-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Orchids",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6472,
+            "displayname":"Chen Yuansu 陳元素",
+            "displaydate":"late 16th–17th century",
+            "datebegin":1570,
+            "dateend":1699,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Chen Yuansu 陳元素, late 16th–17th century",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66503,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-229",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61799,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08264",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105.",
+            "citation":"Alfreda J. Murck, \"Acquisitions 1968\", <EM>Record of the Art Museum, Princeton University</EM> 27, no. 2 (1968): p. 94-105., p. 94",
+            "date":1968,
+            "id":6009,
+            "uri":"https://www.jstor.org/stable/3774498"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033562,
+            "term":"Ming",
+            "aatid":300018438,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2134004,
+            "term":"orchids",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12562,
+            "period":"Ming dynasty",
+            "alphasort":"Ming dynasty",
+            "begindate":1368,
+            "enddate":1644,
+            "displayperiod":"Ming dynasty, 1368–1644",
+            "displaydate":"1368–1644"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033562,
+            "period":"Ming"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"224.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"82.20"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1968-229"
+    ],
+    "displaymaker":"Chen Yuansu 陳元素, late 16th–17th century",
+    "displayculture":"Chinese",
+    "displayperiod":"Ming dynasty, 1368–1644",
+    "caption":"Chinese, Ming dynasty (1368–1644), Chen Yuansu 陳元素 (late 16th–17th century), Orchids, 1611. Hanging scroll; ink on paper; 82.2 x 30 cm (Painting), 224.5 x 46.2 cm (mount). The Arthur M. Sackler Collection (y1968-229)",
+    "captionhtml":"Chinese, Ming dynasty (1368–1644), Chen Yuansu 陳元素 (late 16th–17th century), <i>Orchids</i>, 1611. Hanging scroll; ink on paper; 82.2 x 30 cm (Painting), 224.5 x 46.2 cm (mount). The Arthur M. Sackler Collection (y1968-229)",
+    "published_date":"2025-10-16 13:22:00.887576",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

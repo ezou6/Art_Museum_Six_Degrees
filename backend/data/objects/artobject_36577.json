@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":36577,
+    "objectnumber":"1998-446",
+    "sortnumber":"1998  446",
+    "displaytitle":"Oval bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-400,
+    "dateend":200,
+    "datecomputed":-100,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"400 BCE–200 CE",
+    "medium":"Red slip on buff ceramic",
+    "dimensions":"h. 14.0 cm., w. 35.1 cm., d. 21.3 cm. (5 1/2 x 13 13/16 x 8 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oval bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collection of John B. Elliot; bequest to the Princeton University Art Museum, 1998.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":410,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-446_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":49066,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015026",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":49216,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015026",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 99",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guanajuato or Michoacan",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Guanajuato or Michoacan",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035656,
+            "term":"Late Preclassic",
+            "aatid":300016976,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14882,
+            "culture":"Chupícuaro",
+            "alphasort":"Chupícuaro",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chupícuaro",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24009,
+            "period":"Late Formative Period",
+            "alphasort":"Formative Period, Late",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Late Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035656,
+            "period":"Late Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"21.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":226010,
+            "name":"VisibleStorage_GHC-E_Mesoamerica1"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015026"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chupícuaro",
+    "displayperiod":"Late Formative Period",
+    "caption":"Chupícuaro, Late Formative Period, 400 BCE–200 CE, Guanajuato or Michoacan, Mexico, Mesoamerica, Oval bowl. Red slip on buff ceramic; 14 x 35.1 x 21.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-446)",
+    "captionhtml":"Chupícuaro, Late Formative Period, 400 BCE–200 CE, Guanajuato or Michoacan, Mexico, Mesoamerica, <i>Oval bowl</i>. Red slip on buff ceramic; 14 x 35.1 x 21.3 cm. Bequest of John B. Elliott, Class of 1951 (1998-446)",
+    "published_date":"2025-11-01 02:01:41.901035",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":129927,
+    "objectnumber":"2017-106",
+    "sortnumber":"2017  106",
+    "displaytitle":"Standing woman in dress",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1850,
+    "dateend":1885,
+    "datecomputed":1868,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1855–80",
+    "medium":"Tintype",
+    "dimensions":"8.5 × 5.8 cm (3 3/8 × 2 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":13972,
+            "displayname":"American",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Unknown",
+            "suffix":"photographer",
+            "role":"Artist",
+            "displaymaker":"Unknown American photographer",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"William L. Schaeffer; purchased by the Princeton University Art Museum, 2017.\n",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Didactics",
+            "textentryhtml":"Popular in the 1860s and ’70s, a tintype is a durable and low-cost photograph made by creating a direct positive image on a thin sheet of enameled metal. Due to the affordability of the tintype process, it became popular in the United States as a medium of portraiture. Tintype portraits from the mid- to the late nineteenth century capture a wide range of settings and subjects. Shown in an embroidered jacket against the painted backdrop of a tropical setting, this unidentified, sumptuously dressed woman rests her left arm on a piece of ornate furniture. Her right arm elegantly wraps around her waist, displaying a bracelet that has been hand-tinted yellow, calling attention to her jewelry and suggesting it is made of gold. Looking into the woman’s eyes as she gazes straight into the camera, one cannot help but wonder about the motivations behind this stunning portrait. Did she commission the image herself? For whom was it made, and on what occasion? What does this image tell us about her social status?",
+            "remarks":"Slavery Initiative"
+        }
+    ],
+    "media":[
+        {
+            "id":213709,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_29892",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054171,
+            "term":"studio portraits",
+            "aatid":300223022,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053394,
+            "term":"tintypes",
+            "aatid":300134759,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2153981,
+            "term":"tintype",
+            "aatid":300053531,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053394,
+            "classification":"tintypes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":152536,
+            "name":"web_CivilWar"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":231007,
+            "name":"2023_ART100_11_27-12_01"
+        },
+        {
+            "packageid":212891,
+            "name":"web_SlaveryIntiative"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_29892"
+    ],
+    "displaymaker":"Unknown American photographer",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Unknown American photographer, Standing woman in dress, ca. 1855–80. Tintype; 8.5 × 5.8 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2017-106)",
+    "captionhtml":"Unknown American photographer, Standing woman in dress, ca. 1855–80. Tintype; 8.5 × 5.8 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2017-106)",
+    "published_date":"2025-10-16 18:39:56.108337",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

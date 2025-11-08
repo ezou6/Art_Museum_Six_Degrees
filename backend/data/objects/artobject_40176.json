@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":40176,
+    "objectnumber":"2001-78",
+    "sortnumber":"2001   78",
+    "displaytitle":"Mut",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1994,
+    "dateend":1994,
+    "datecomputed":1994,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1994",
+    "medium":"Thin oil wash with sand",
+    "dimensions":"sight: 88.5 x 108 cm (34 13/16 x 42 1/2 in.)\r\nframe: 93.4 × 113.2 × 3 cm (36 3/4 × 44 9/16 × 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in black marker, on verso: \"mutt\"| [illegible] | 1994.\r\non verso center: 110 x 190 | Hernandez [monogram]",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Sergio Hernández",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mut",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1554,
+            "displayname":"Sergio Hernández",
+            "displaydate":"Mexican, born 1957",
+            "datebegin":1957,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sergio Hernández, Mexican, born 1957",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Galería Quetzalli, Oaxaca City, Mexico (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":123870,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46814",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 102",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Oaxaca, Oaxaca",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Oaxaca",
+            "city":"Oaxaca",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3522507/oaxaca.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2166391,
+            "term":"sand",
+            "aatid":300014341,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"93.40"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"113.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"108.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"88.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46814"
+    ],
+    "displaymaker":"Sergio Hernández, Mexican, born 1957",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Sergio Hernández (Mexican, born 1957), Mut, 1994. Thin oil wash with sand; 88.5 x 108 cm (sight), 93.4 × 113.2 × 3 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-78)",
+    "captionhtml":"Sergio Hernández (Mexican, born 1957), <i>Mut</i>, 1994. Thin oil wash with sand; 88.5 x 108 cm (sight), 93.4 × 113.2 × 3 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-78)",
+    "published_date":"2025-10-16 14:09:17.950266",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":62781,
+    "objectnumber":"ui.2011.194",
+    "sortnumber":"i      2011u  194",
+    "displaytitle":"Hat",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1800,
+    "dateend":1885,
+    "datecomputed":1842,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"before 1885",
+    "medium":"Twined weave, likely with cedar bark",
+    "dimensions":"20.6 × 37.6 cm (8 1/8 × 14 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Hat",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to E. M. Museum (Princeton Museum of Natural History), 1882-1885",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":61160,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015028",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska, probably Southeast Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"probably Southeast Alaska",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/8617633/coastal-waters-of-southeast-alaska-and-british-columbia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127414,
+            "term":"clothing",
+            "aatid":300178802,
+            "termtype":"Classification"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040029,
+            "term":"Northwest Coast Native American styles",
+            "aatid":300017594,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072459,
+            "term":"baskets",
+            "aatid":300194498,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2047261,
+            "term":"cedar",
+            "aatid":300012514,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045675,
+            "term":"bark",
+            "aatid":300011860,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2131442,
+            "classification":"hats"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        },
+        {
+            "id":2072459,
+            "classification":"baskets"
+        },
+        {
+            "id":2127414,
+            "classification":"clothing"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15947,
+            "culture":"Northwest Coast",
+            "alphasort":"Northwest Coast",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Northwest Coast",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040029,
+            "culture":"Northwest Coast Native American styles"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"37.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":132030,
+            "name":"CRS_HaidaNaming"
+        },
+        {
+            "packageid":132031,
+            "name":"CRS_TlingitNaming"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015028"
+    ],
+    "displaymaker":null,
+    "displayculture":"Northwest Coast",
+    "displayperiod":null,
+    "caption":"Northwest Coast, before 1885, Alaska, United States, Northwest Coast, Hat. Twined weave, likely with cedar bark; 20.6 × 37.6 cm. Museum Collection (ui.2011.194)",
+    "captionhtml":"Northwest Coast, before 1885, Alaska, United States, Northwest Coast, <i>Hat</i>. Twined weave, likely with cedar bark; 20.6 × 37.6 cm. Museum Collection (ui.2011.194)",
+    "published_date":"2025-10-16 16:14:12.289620",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

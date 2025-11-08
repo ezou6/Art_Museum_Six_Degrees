@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":20754,
+    "objectnumber":"y1937-135",
+    "sortnumber":"1937  135y",
+    "displaytitle":"Vase",
+    "department":"American Art",
+    "classification":"Ceramics",
+    "datebegin":1600,
+    "dateend":1937,
+    "datecomputed":1768,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Glazed earthenware",
+    "dimensions":"h. 24.6 cm, diam. 14 cm (9 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":"On base: ELC\r\nWritten in graphite on base: $7.50",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":138444,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60563",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138445,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60564",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138446,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60565",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Paul Evans, <EM>Art pottery of the United States: an encyclopedia of producers and their marks</EM>, (New York: Scribner, 1974). ",
+            "citation":"Paul Evans, <EM>Art pottery of the United States: an encyclopedia of producers and their marks</EM>, (New York: Scribner, 1974). , p. 178",
+            "date":1974,
+            "id":7891,
+            "uri":"http://www.worldcat.org/oclc/1125107"
+        },
+        {
+            "boilertext":"Ralph Kovel, <EM>The Kovels’ American art pottery: the collector’s guide to makers, marks, and factory histories</EM>, (New York: Crown Publishers, 1993).",
+            "citation":"Ralph Kovel, <EM>The Kovels’ American art pottery: the collector’s guide to makers, marks, and factory histories</EM>, (New York: Crown Publishers, 1993)., p. 92; p. 93 (illus.)",
+            "date":1993,
+            "id":7892,
+            "uri":"http://www.worldcat.org/oclc/755279831"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Tennessee, Nashville ?",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Tennessee",
+            "city":"Nashville ?",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_36.166_-86.784.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049290,
+            "term":"redware",
+            "aatid":300107374,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171663,
+            "term":"leaves",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159663,
+            "term":"allover patterns",
+            "aatid":300010143,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073530,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2073530,
+            "classification":"vases"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13972,
+            "culture":"American",
+            "alphasort":"American",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"American",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2049290,
+            "period":"redware"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.60"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60563"
+    ],
+    "displaymaker":null,
+    "displayculture":"American",
+    "displayperiod":null,
+    "caption":"American, Nashville ?, Tennessee, Vase. Glazed earthenware; 24.6 cm. Museum Collection (y1937-135)",
+    "captionhtml":"American, Nashville ?, Tennessee, <i>Vase</i>. Glazed earthenware; 24.6 cm. Museum Collection (y1937-135)",
+    "published_date":"2025-10-16 12:36:14.450603",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

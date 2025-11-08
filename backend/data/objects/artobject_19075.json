@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":19075,
+    "objectnumber":"y184",
+    "sortnumber":"184     y",
+    "displaytitle":"Pilaster capital",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Architectural Elements",
+    "datebegin":-30,
+    "dateend":476,
+    "datecomputed":223,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Stone",
+    "dimensions":"18 x 17 x 3.5 cm (7 1/16 x 6 11/16 x 1 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Marquand collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pilaster capital",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Unknown provenance; possibly part of the Marquand Collection; with the Museum by at least 1925",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tThese pilaster capitals are examples of architectural decoration in the Corinthian order, which became popular in the second century BCE. The Corinthian order can be easily identified by the use of acanthus leaf patterns in a building’s column and pilaster capitals, as in these examples. In his architectural treatise, the first-century BCE Roman writer Vitruvius explains the fabled origins of the Corinthian order. According to the story, the Greek sculptor Callimachus came upon a funerary monument in the city of Corinth where a basket with offerings had been placed. Beneath the basket was the root of an acanthus plant, which had begun to grow out from the basket’s sides. The sculptor was so taken with the basket and plant combination that he created a column capital inspired by it. Already ornate by design, Corinthian capitals could be further enhanced through the addition of faces, objects, or animals within the acanthus leaves.\n</p>",
+            "remarks":"MED_22_ADJ-1_CLA-Day 1 Cataloguing (group chat for y184, y1929-60, 2004-203) "
+        }
+    ],
+    "media":[
+        {
+            "id":160525,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV76820",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Roman Empire",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Roman Empire",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2110677,
+            "term":"pilasters",
+            "aatid":300002737,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159385,
+            "term":"acanthus",
+            "aatid":300164902,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159399,
+            "term":"palmettes",
+            "aatid":300009995,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2108112,
+            "term":"capitals",
+            "aatid":300001662,
+            "termtype":"Classification"
+        },
+        {
+            "id":2108236,
+            "term":"volutes",
+            "aatid":300001729,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2108112,
+            "classification":"capitals"
+        },
+        {
+            "id":2110677,
+            "classification":"pilasters"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV76820"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), Roman Empire, Pilaster capital. Stone; 18 × 17 × 3.5 cm. Marquand collection (y184)",
+    "captionhtml":"Roman, Roman Imperial Period (ca. 30 BCE–476 CE), Roman Empire, <i>Pilaster capital</i>. Stone; 18 × 17 × 3.5 cm. Marquand collection (y184)",
+    "published_date":"2025-10-16 12:26:18.099652",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":10001,
+    "objectnumber":"x1959-17",
+    "sortnumber":"1959   17x",
+    "displaytitle":"Pasiphae",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1952,
+    "dateend":1952,
+    "datecomputed":1952,
+    "daterange":"A.D. 1945-present",
+    "displaydate":null,
+    "medium":"engraving and aquatint",
+    "dimensions":"plate: 51 x 66.3 cm (20 1/16 x 26 1/8 in.)\r\nsheet: 42.2 x 61.6 cm (16 5/8 x 24 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"top border, reverse: Pasiphae de Heury de Montherlant 15-IX-1952; bot. border, center: Tremois 1952 1er etat 19/20",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pasiphae",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2817,
+            "displayname":"Pierre Yves Tremois",
+            "displaydate":"French, born 1921",
+            "datebegin":1921,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pierre Yves Tremois, French, born 1921",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":81982,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10148",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 26",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10148"
+    ],
+    "displaymaker":"Pierre Yves Tremois, French, born 1921",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Pierre Yves Tremois (French, born 1921), Pasiphae. Engraving and aquatint; 51 x 66.3 cm (plate), 42.2 x 61.6 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1959-17)",
+    "captionhtml":"Pierre Yves Tremois (French, born 1921), <i>Pasiphae</i>. Engraving and aquatint; 51 x 66.3 cm (plate), 42.2 x 61.6 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (x1959-17)",
+    "published_date":"2025-10-23 16:52:12.075253",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

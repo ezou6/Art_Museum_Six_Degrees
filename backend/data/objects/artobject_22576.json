@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":22576,
+    "objectnumber":"y1945-225",
+    "sortnumber":"1945  225y",
+    "displaytitle":"Patella (bowl)",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":1,
+    "dateend":99,
+    "datecomputed":50,
+    "daterange":"A.D. 1-500",
+    "displaydate":"1st century CE",
+    "medium":"Opaque white glass",
+    "dimensions":"h. 4.3 cm, diam. rim 9.2 cm, diam. base 4 cm (1 11/16 x 3 5/8 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1945-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Patella (bowl)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Bowl (Patella)",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Description",
+            "textentryhtml":"Horizontal rim; carinated body with two convex curves; out-splayed base ring, of\r\nrectangular cross section. On the interior, a fine groove just below the rim.",
+            "remarks":"Fire and Sand (2012)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from John Khayat by Frank Jewett Mather, Jr.; given to the Museum by Frank Jewett Mather, Jr.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74238,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1945-225",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), fig. 27, 19; cat. no. 70 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, possibly Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"possibly Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.833_12.833.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036735,
+            "term":"Imperial (Roman)",
+            "aatid":300020541,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2161554,
+            "term":"rolled glass",
+            "aatid":300010851,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2036723,
+            "culture":"Roman (style or period)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12861,
+            "period":"Roman Imperial Period",
+            "alphasort":"Roman Imperial Period",
+            "begindate":-30,
+            "enddate":467,
+            "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+            "displaydate":"ca. 30 BCE–476 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036735,
+            "period":"Imperial (Roman)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"9.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam. base",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264578,
+            "name":"VisibleStorage_DenseDisplay_G22_ABI_RomanGlass"
+        },
+        {
+            "packageid":182067,
+            "name":"web_2020_ancient_italy-earlyroman"
+        },
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1945-225"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Roman Imperial Period, ca. 30 BCE–476 CE",
+    "caption":"Roman Imperial Period (ca. 30 BCE–476 CE), possibly Italy, 1st century CE, Patella (bowl). Opaque white glass; 4.3 x 9.2 x 4 cm. Gift of Frank Jewett Mather Jr. (y1945-225)",
+    "captionhtml":"Roman Imperial Period (ca. 30 BCE–476 CE), possibly Italy, 1st century CE, <i>Patella (bowl)</i>. Opaque white glass; 4.3 x 9.2 x 4 cm. Gift of Frank Jewett Mather Jr. (y1945-225)",
+    "published_date":"2025-10-16 12:47:36.720709",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

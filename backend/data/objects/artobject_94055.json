@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":94055,
+    "objectnumber":"2013-103",
+    "sortnumber":"2013  103",
+    "displaytitle":"Copy after The Hanging Marsyas",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1650,
+    "dateend":1660,
+    "datecomputed":1655,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"1650–60",
+    "medium":"Engraving",
+    "dimensions":"plate: 35.3 × 18.4 cm (13 7/8 × 7 1/4 in.)\r\nsheet: 40 × 26.5 cm (15 3/4 × 10 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Christopher Moss, Graduate School Class of 1988",
+    "markings":null,
+    "inscribed":"Inscribed in plate on base of sculpture: MARSYAS AB APOLLINE VICIVS / TRVNCO ADLIGATVS",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2013-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Copy after The Hanging Marsyas",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18385,
+            "displayname":"Dominique Barrière",
+            "displaydate":"French, 1618–1678",
+            "datebegin":1618,
+            "dateend":1678,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Dominique Barrière, French, 1618–1678",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":164775,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV78584",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Giovanni Battista Faldi and Dominique Barrière,&nbsp;<EM>Villa Pamphilia : eiusque palatium, cum suis prospectibus, statuae, fontes, vivaria, theatra, areolae, plantarum, viarumque ordines, cum eiusdem villae absoluta delineatione</EM> (Romae: Formis Io. Iacobi de Rubeis, 16--).",
+            "citation":"Giovanni Battista Faldi and Dominique Barrière,&nbsp;<EM>Villa Pamphilia : eiusque palatium, cum suis prospectibus, statuae, fontes, vivaria, theatra, areolae, plantarum, viarumque ordines, cum eiusdem villae absoluta delineatione</EM> (Romae: Formis Io. Iacobi de Rubeis, 16--)., fig. 32 [unpaginated]",
+            "date":1600,
+            "id":5993,
+            "uri":"http://www.worldcat.org/oclc/23636968"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2013,\"<em>&nbsp;Record of the Princeton University Art Museum</em> 73 (2014): p. 37-64., p. 61",
+            "date":2014,
+            "id":2980,
+            "uri":"http://www.worldcat.org/oclc/61312705"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Rome",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Rome",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3169070/rome.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2147427,
+            "term":"satyrs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2096051,
+            "term":"mythology",
+            "aatid":300055985,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154917,
+            "term":"engraving (printing process)",
+            "aatid":300053225,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"26.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV78584"
+    ],
+    "displaymaker":"Dominique Barrière, French, 1618–1678",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Dominique Barrière (French, 1618–1678), Copy after The Hanging Marsyas, 1650–60. Engraving; 35.3 × 18.4 cm (plate), 40 × 26.5 cm (sheet). Gift of Christopher Moss, Graduate School Class of 1988 (2013-103)",
+    "captionhtml":"Dominique Barrière (French, 1618–1678), <i>Copy after The Hanging Marsyas</i>, 1650–60. Engraving; 35.3 × 18.4 cm (plate), 40 × 26.5 cm (sheet). Gift of Christopher Moss, Graduate School Class of 1988 (2013-103)",
+    "published_date":"2025-10-16 17:19:35.465080",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":14849,
+    "objectnumber":"x1982-392",
+    "sortnumber":"1982  392x",
+    "displaytitle":"New Mexico",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1930,
+    "dateend":1930,
+    "datecomputed":1930,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1930",
+    "medium":"Platinum print",
+    "dimensions":"sheet: 9.4 x 12 cm (3 11/16 x 4 3/4 in.)\r\nframe: 35.6 × 27.9 cm (14 × 11 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Saul Reinfeld",
+    "markings":null,
+    "inscribed":"Titled and inscribed in graphite on mount, verso upper left: New Mexico [underlined] by Paul Strand / page 50 / Julien Levy \"Memoire\".",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Aperture Foundation Inc., Paul Strand Archive.",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"New Mexico",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2590,
+            "displayname":"Paul Strand",
+            "displaydate":"American, 1890–1976",
+            "datebegin":1890,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paul Strand, American, 1890–1976",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":84457,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11048",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 66",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New Mexico",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Mexico",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5481136/new-mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053593,
+            "term":"platinum prints",
+            "aatid":300127145,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2162312,
+            "term":"platinum",
+            "aatid":300011031,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154069,
+            "term":"platinum process",
+            "aatid":300053492,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053593,
+            "classification":"platinum prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.93"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.55"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11048"
+    ],
+    "displaymaker":"Paul Strand, American, 1890–1976",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paul Strand (American, 1890–1976), New Mexico, 1930. Platinum print; 9.4 x 12 cm (sheet), 35.6 × 27.9 cm (frame). Gift of Mrs. Saul Reinfeld (x1982-392)",
+    "captionhtml":"Paul Strand (American, 1890–1976), <i>New Mexico</i>, 1930. Platinum print; 9.4 x 12 cm (sheet), 35.6 × 27.9 cm (frame). Gift of Mrs. Saul Reinfeld (x1982-392)",
+    "published_date":"2025-10-16 11:57:31.020911",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

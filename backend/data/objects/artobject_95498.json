@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":95498,
+    "objectnumber":"2014-1",
+    "sortnumber":"2014    1",
+    "displaytitle":"Belfry, Nassau Hall",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":2013,
+    "dateend":2013,
+    "datecomputed":2013,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2013",
+    "medium":"Watercolor, graphite, and gouache",
+    "dimensions":"49.8 × 35.6 cm (19 5/8 × 14 in.)\r\nmat: 64.5 × 49.5 cm (25 3/8 × 19 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower right: A. Van Doren",
+    "catalograisonne":null,
+    "creditlinerepro":"© Adam Van Doren",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2014-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Belfry, Nassau Hall",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":17102,
+            "displayname":"Adam Van Doren",
+            "displaydate":"American, born 1962",
+            "datebegin":1962,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Adam Van Doren, American, born 1962",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":146213,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV64225",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77., p. 75",
+            "date":2016,
+            "id":5958,
+            "uri":"https://www.jstor.org/stable/26388766?seq=1#metadata_info_tab_contents"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Princeton, Nassau Hall, Princeton University",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Nassau Hall, Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.349_-74.659.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127068,
+            "term":"flags",
+            "aatid":300195678,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2083069,
+            "term":"universities",
+            "aatid":300006617,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2086275,
+            "term":"assembly halls",
+            "aatid":300005103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2105823,
+            "term":"belfries",
+            "aatid":300137347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.60"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.45"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.52"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":185691,
+            "name":"web_norightsclearance2000-present"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV64225"
+    ],
+    "displaymaker":"Adam Van Doren, American, born 1962",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Adam Van Doren (American, born 1962), Belfry, Nassau Hall, 2013. Watercolor, graphite, and gouache; 49.8 × 35.6 cm, 64.5 × 49.5 cm (mat). Gift of the artist (2014-1)",
+    "captionhtml":"Adam Van Doren (American, born 1962), <i>Belfry, Nassau Hall</i>, 2013. Watercolor, graphite, and gouache; 49.8 × 35.6 cm, 64.5 × 49.5 cm (mat). Gift of the artist (2014-1)",
+    "published_date":"2025-10-16 17:38:09.490240",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

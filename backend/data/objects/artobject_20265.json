@@ -1,0 +1,184 @@
+{
+    "type":"artobject",
+    "objectid":20265,
+    "objectnumber":"y1936-10",
+    "sortnumber":"1936   10y",
+    "displaytitle":"Bowl",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-2500,
+    "dateend":-2500,
+    "datecomputed":-2500,
+    "daterange":"15000-2000 B.C.",
+    "displaydate":"2500 BCE",
+    "medium":"Clay",
+    "dimensions":"6.3 x diam. 16.2 cm (2 1/2 x 6 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Malcolm Lloyd",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1936-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Malcolm Lloyd\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":148268,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65990",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":148269,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65991",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Iraq",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Iraq",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Ur",
+            "geoname":"http://www.geonames.org/maps/google_30.962_46.104.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037397,
+            "term":"Mesopotamian",
+            "aatid":300019828,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160353,
+            "term":"clay",
+            "aatid":300010439,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13945,
+            "culture":"Mesopotamian",
+            "alphasort":"Mesopotamian",
+            "begindate":-10000,
+            "enddate":637,
+            "displayculture":"possibly Mesopotamian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037397,
+            "culture":"Mesopotamian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"16.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV65991"
+    ],
+    "displaymaker":null,
+    "displayculture":"possibly Mesopotamian",
+    "displayperiod":null,
+    "caption":"Possibly Mesopotamian, Iraq, 2500 BCE, Bowl. Clay; 6.3 × 16.2 cm. Gift of Malcolm Lloyd (y1936-10)",
+    "captionhtml":"Possibly Mesopotamian, Iraq, 2500 BCE, <i>Bowl</i>. Clay; 6.3 × 16.2 cm. Gift of Malcolm Lloyd (y1936-10)",
+    "published_date":"2025-10-16 12:33:09.297946",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

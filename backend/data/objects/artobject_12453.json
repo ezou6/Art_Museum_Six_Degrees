@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":12453,
+    "objectnumber":"x1971-68",
+    "sortnumber":"1971   68x",
+    "displaytitle":"New York at Night",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1927,
+    "dateend":1937,
+    "datecomputed":1932,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1932",
+    "medium":"Gelatin silver print",
+    "dimensions":"34.7 x 27.8 cm (13 11/16 x 10 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David H. McAlpin, Class of 1920",
+    "markings":"Artist's stamp verso",
+    "inscribed":"In graphite, verso lower right: S-589\r\nIn graphite, verso lower right: TR 3032.618",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Berenice Abbott / Commerce Graphics Ltd.",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1971-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"New York at Night",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":8,
+            "displayname":"Berenice Abbott",
+            "displaydate":"American, 1898–1991",
+            "datebegin":1898,
+            "dateend":1991,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Berenice Abbott, American, 1898–1991",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":97330,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22915",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>",
+            "citation":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>, p. 24",
+            "date":1972,
+            "id":882,
+            "uri":"https://www.jstor.org/stable/3774565"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Manhattan, New York, 30 Rockefeller Center",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":"30 Rockefeller Center",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5134209/rockefeller-center.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2112357,
+            "term":"lights",
+            "aatid":300069689,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078286,
+            "term":"skyscrapers",
+            "aatid":300004809,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095601,
+            "term":"perspective-related concepts",
+            "aatid":300065624,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183534,
+            "name":"x-COMPLETE-image_testing_SB"
+        },
+        {
+            "packageid":229644,
+            "name":"web_2023_WomenArtists"
+        },
+        {
+            "packageid":177868,
+            "name":"web_WoPSR_2020_CityRising_EC/GD"
+        },
+        {
+            "packageid":183063,
+            "name":"x-Photography-WomenPhotographers"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22915"
+    ],
+    "displaymaker":"Berenice Abbott, American, 1898–1991",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Berenice Abbott (American, 1898–1991), New York at Night, ca. 1932. Gelatin silver print; 34.7 x 27.8 cm. Gift of David H. McAlpin, Class of 1920 (x1971-68)",
+    "captionhtml":"Berenice Abbott (American, 1898–1991), <i>New York at Night</i>, ca. 1932. Gelatin silver print; 34.7 x 27.8 cm. Gift of David H. McAlpin, Class of 1920 (x1971-68)",
+    "published_date":"2025-10-16 11:41:52.897212",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

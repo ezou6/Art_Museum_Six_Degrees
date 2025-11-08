@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":2373,
+    "objectnumber":"2016-638",
+    "sortnumber":"2016  638",
+    "displaytitle":"Stag",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Sculpture",
+    "datebegin":-1005,
+    "dateend":-995,
+    "datecomputed":-1000,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 1000 BCE",
+    "medium":"Bronze",
+    "dimensions":"9.7 × 4.1 × 6.3 cm (3 13/16 × 1 5/8 × 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"G1950",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stag",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":23918,
+            "displayname":"Middle Assyrian Period",
+            "displaydate":"ca. 14th–10th centuries BCE",
+            "datebegin":-1400,
+            "dateend":-1001,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Middle Assyrian Period, ca. 14th–10th centuries BCE",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Formerly in the collection of Gilette Griffin; subsequently given to the Museum",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":219830,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1954715_stack",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Iran, Amlash, Northern Iran",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Iran",
+            "region":"Northern Iran",
+            "state":null,
+            "city":"Amlash",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2037467,
+            "term":"Middle Assyrian",
+            "aatid":300019622,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2161775,
+            "classification":"metal"
+        }
+    ],
+    "cultures":[
+        {
+            "id":21671,
+            "culture":"Amlash",
+            "alphasort":"Amlash",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Amlash",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2037467,
+            "period":"Middle Assyrian"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.68"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.12"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.34"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        },
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1954715_stack"
+    ],
+    "displaymaker":"Middle Assyrian Period, ca. 14th–10th centuries BCE",
+    "displayculture":"Amlash",
+    "displayperiod":null,
+    "caption":"Amlash, Middle Assyrian Period (ca. 14th–10th centuries BCE), Amlash, Northern Iran, Iran, ca. 1000 BCE, Stag. Bronze; 9.7 × 4.1 × 6.3 cm. Bequest of Gillett G. Griffin (2016-638)",
+    "captionhtml":"Amlash, Middle Assyrian Period (ca. 14th–10th centuries BCE), Amlash, Northern Iran, Iran, ca. 1000 BCE, <i>Stag</i>. Bronze; 9.7 × 4.1 × 6.3 cm. Bequest of Gillett G. Griffin (2016-638)",
+    "published_date":"2025-10-16 10:18:05.641669",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

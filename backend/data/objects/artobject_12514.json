@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":12514,
+    "objectnumber":"x1973-103",
+    "sortnumber":"1973  103x",
+    "displaytitle":"Belle Isle",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1926,
+    "dateend":1926,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1926",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 36.7 x 27 cm. (14 7/16 x 10 5/8 in.)\r\nsheet: 38.6 x 29.1 cm. (15 3/16 x 11 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, David H. McAlpin, Class of 1920, Fund",
+    "markings":null,
+    "inscribed":"In graphite, verso: 69'b / 70a / 1926\r\n\r\nIn ink, verso: L. Moholy-Nagy Belle Isle 1926",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1973-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Belle Isle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3800,
+            "displayname":"László Moholy-Nagy",
+            "displaydate":"1895–1946; born Bácsborsód, Hungary; died Chicago, IL",
+            "datebegin":1895,
+            "dateend":1946,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"László Moholy-Nagy, 1895–1946; born Bácsborsód, Hungary; died Chicago, IL",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85500,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12019",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/6255148/europe.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120272,
+            "term":"beaches",
+            "aatid":300008816,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12019"
+    ],
+    "displaymaker":"László Moholy-Nagy, 1895–1946; born Bácsborsód, Hungary; died Chicago, IL",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"László Moholy-Nagy (1895–1946; born Bácsborsód, Hungary; died Chicago, IL), Belle Isle, 1926. Gelatin silver print; 36.7 x 27 cm (image), 38.6 x 29.1 cm (sheet). Museum purchase, David H. McAlpin, Class of 1920, Fund (x1973-103)",
+    "captionhtml":"László Moholy-Nagy (1895–1946; born Bácsborsód, Hungary; died Chicago, IL), <i>Belle Isle</i>, 1926. Gelatin silver print; 36.7 x 27 cm (image), 38.6 x 29.1 cm (sheet). Museum purchase, David H. McAlpin, Class of 1920, Fund (x1973-103)",
+    "published_date":"2025-10-16 11:42:27.232313",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

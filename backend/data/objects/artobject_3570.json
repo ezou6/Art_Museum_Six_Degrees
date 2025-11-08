@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":3570,
+    "objectnumber":"x1941-1",
+    "sortnumber":"1941    1x",
+    "displaytitle":"Shallow Creek",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1939,
+    "dateend":1939,
+    "datecomputed":1939,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1939",
+    "medium":"Lithograph",
+    "dimensions":"image: 36 x 23.9 cm. (14 3/16 x 9 7/16 in.)\r\nsheet: 40.8 x 30.4 cm. (16 1/16 x 11 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":"In stone, lower right: Benton\r\nIn graphite, lower right: Benton",
+    "catalograisonne":"Fath 84",
+    "creditlinerepro":"Art © T.H. and R.P. Benton Testamentary Trusts/Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Shallow Creek",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":351,
+            "displayname":"Thomas Hart Benton",
+            "displaydate":"1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City",
+            "datebegin":1889,
+            "dateend":1975,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Hart Benton, 1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City",
+            "displayorder":1
+        },
+        {
+            "id":19489,
+            "displayname":"Associated American Artists",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Associated American Artists",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105761,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30130",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States of America, Ozarks",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States of America",
+            "region":"Ozarks",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119875,
+            "term":"creeks",
+            "aatid":300008706,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30130"
+    ],
+    "displaymaker":"Thomas Hart Benton, 1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City | Published by Associated American Artists",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Hart Benton (1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City), Published by Associated American Artists, Shallow Creek, 1939. Lithograph; 36 x 23.9 cm (image), 40.8 x 30.4 cm (sheet). Mather Collection (x1941-1)",
+    "captionhtml":"Thomas Hart Benton (1889–1975; born Neosho, MO; died Kansas City, MO; active Paris, New York, and Kansas City), Published by Associated American Artists, <i>Shallow Creek</i>, 1939. Lithograph; 36 x 23.9 cm (image), 40.8 x 30.4 cm (sheet). Mather Collection (x1941-1)",
+    "published_date":"2025-10-16 10:25:11.745112",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

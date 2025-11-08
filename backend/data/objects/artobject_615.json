@@ -1,0 +1,210 @@
+{
+    "type":"artobject",
+    "objectid":615,
+    "objectnumber":"G959",
+    "sortnumber":"959     G",
+    "displaytitle":"Thunderbird",
+    "department":"Art of the Ancient Americas",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1950,
+    "datecomputed":1925,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1900–50",
+    "medium":"Argillite",
+    "dimensions":"27.6 cm. (10 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Promised bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Thunderbird",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":10107,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/G0959",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"For Reference Only"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Canada, British Columbia",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"Canada",
+            "region":null,
+            "state":"British Columbia",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6115068/queen-charlotte-island.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2099253,
+            "term":"tourist trade",
+            "aatid":300132466,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040056,
+            "term":"Haida",
+            "aatid":300017606,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133994,
+            "term":"eagles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159311,
+            "term":"crests",
+            "aatid":300233389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147420,
+            "term":"mythical or legendary beings",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2163889,
+            "term":"argillite",
+            "aatid":300011276,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2099253,
+            "classification":"tourist trade"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14106,
+            "culture":"Haida",
+            "alphasort":"Haida",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haida",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040056,
+            "culture":"Haida"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.62"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143766,
+            "name":"CRS_1HaidaFigures"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/G0959"
+    ],
+    "displaymaker":null,
+    "displayculture":"Haida",
+    "displayperiod":null,
+    "caption":"Haida, 1900–50, British Columbia, Canada, Northwest Coast, Thunderbird. Argillite; 27.6 cm. Promised bequest of Gillett G. Griffin (G959)",
+    "captionhtml":"Haida, 1900–50, British Columbia, Canada, Northwest Coast, <i>Thunderbird</i>. Argillite; 27.6 cm. Promised bequest of Gillett G. Griffin (G959)",
+    "published_date":"2025-10-16 10:17:23.901505",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

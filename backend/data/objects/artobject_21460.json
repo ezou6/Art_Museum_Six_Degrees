@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":21460,
+    "objectnumber":"y1940-200",
+    "sortnumber":"1940  200y",
+    "displaytitle":"Miniature Goblet",
+    "department":"European Painting and Sculpture ",
+    "classification":"Metal",
+    "datebegin":400,
+    "dateend":1400,
+    "datecomputed":900,
+    "daterange":"A.D. 500-1000",
+    "displaydate":null,
+    "medium":"Lead",
+    "dimensions":"5.3 x 4 x 4 cm (2 1/16 x 1 9/16 x 1 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Miniature Goblet",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Found in collection in 1940 with no accession number.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":143068,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63886",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":143069,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63887",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031747,
+            "term":"Medieval",
+            "aatid":300020756,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2076452,
+            "term":"goblets",
+            "aatid":300043236,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162235,
+            "term":"lead",
+            "aatid":300011022,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076452,
+            "classification":"goblets"
+        },
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":14431,
+            "period":"Medieval",
+            "alphasort":"Medieval",
+            "begindate":400,
+            "enddate":1499,
+            "displayperiod":"Medieval",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2031747,
+            "period":"Medieval"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63887"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Medieval",
+    "caption":"Medieval, Miniature Goblet. Lead; 5.3 × 4 × 4 cm. Museum Collection (y1940-200)",
+    "captionhtml":"Medieval, <i>Miniature Goblet</i>. Lead; 5.3 × 4 × 4 cm. Museum Collection (y1940-200)",
+    "published_date":"2025-10-16 12:40:24.299882",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

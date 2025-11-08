@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":43662,
+    "objectnumber":"2016-1196",
+    "sortnumber":"2016 1196",
+    "displaytitle":"Mirror",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceremonial Objects",
+    "datebegin":-1000,
+    "dateend":-500,
+    "datecomputed":-750,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"1000–500 BCE",
+    "medium":"Magnetite",
+    "dimensions":"h. 9.0 cm., w. 13.2 cm., d. 1.4 cm. (3 9/16 x 5 3/16 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"L.1994.59.11",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mirror",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tBy 1966, John Rhoads [1]; August 12, 1971, sold to Gillett G. Griffin (1928-2016), Princeton, NJ; 2016, bequest Gillett G. Griffin to the Princeton University Art Museum.\n</p>\n<p>\n\tNotes:\n\t<br />\n\t[1] Griffin lent the work to the Museum on Rhoads’ behalf in 1966 (L.1966.137).\n</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":50596,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV017882",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972).",
+            "citation":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972)., fig. 38 (illus.)",
+            "date":1972,
+            "id":2732,
+            "uri":"http://www.worldcat.org/oclc/382711"
+        },
+        {
+            "boilertext":"Michael D. Coe et al., <I>The Olmec World: Ritual and Rulership</I> (Princeton, Princeton University Art Museum, 1996)",
+            "citation":"Michael D. Coe et al., <I>The Olmec World: Ritual and Rulership</I> (Princeton, Princeton University Art Museum, 1996), cat. no. 156, p. 254 (illus.)",
+            "date":1996,
+            "id":2564,
+            "uri":"http://www.worldcat.org/oclc/34103154"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1682,
+            "citation":"The Olmec World: Ritual and Rulership (December 16, 1995 - June 9, 1996)",
+            "isvirtual":true,
+            "begindate":"1995-12-16",
+            "enddate":"1996-06-09",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1682"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Guerrero, Central Mexico, Xochipala",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Central Mexico",
+            "state":"Guerrero",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Xochipala",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514444/xochipala.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2072114,
+            "term":"mirrors",
+            "aatid":300037682,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048754,
+            "term":"ceremonial objects",
+            "aatid":300234117,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2162906,
+            "term":"magnétite",
+            "aatid":300011110,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072114,
+            "classification":"mirrors"
+        },
+        {
+            "id":2048754,
+            "classification":"ceremonial objects"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13844,
+            "culture":"Xochipala",
+            "alphasort":"Xochipala",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Xochipala",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24010,
+            "period":"Middle Formative Period",
+            "alphasort":"Formative Period, Middle",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Middle Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":208846,
+            "name":"2022_ART267_02_02"
+        },
+        {
+            "packageid":223469,
+            "name":"2023_ART365/LAS370/ANT365_03_21"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":225488,
+            "name":"Gallery_20(Pavilion5)-AAA"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV017882"
+    ],
+    "displaymaker":null,
+    "displayculture":"Xochipala",
+    "displayperiod":"Middle Formative Period",
+    "caption":"Xochipala, Middle Formative Period, 1000–500 BCE, Guerrero, Central Mexico, Mexico, Mesoamerica, Mirror. Magnetite; 9 x 13.2 x 1.4 cm. Bequest of Gillett G. Griffin (2016-1196)",
+    "captionhtml":"Xochipala, Middle Formative Period, 1000–500 BCE, Guerrero, Central Mexico, Mexico, Mesoamerica, <i>Mirror</i>. Magnetite; 9 x 13.2 x 1.4 cm. Bequest of Gillett G. Griffin (2016-1196)",
+    "published_date":"2025-10-29 02:06:28.559038",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

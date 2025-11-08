@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":137677,
+    "objectnumber":"2020-325",
+    "sortnumber":"2020  325",
+    "displaytitle":"Adam and Eve",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1917,
+    "dateend":1917,
+    "datecomputed":1917,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1917",
+    "medium":"Drypoint",
+    "dimensions":"plate: 23.7 × 17.5 cm (9 5/16 × 6 7/8 in.)\r\nsheet: 44 × 36 cm (17 5/16 × 14 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund, selected for acquisition by students in ART 354: The Art of the Print",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated lower right, in graphite: Beckmann 17",
+    "catalograisonne":"Glaser 100; Gallwitz 88; Hofmaier 110 III B a.",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Adam and Eve",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":311,
+            "displayname":"Max Beckmann",
+            "displaydate":"1884–1950; born Leipzig, Germany; died New York, NY",
+            "datebegin":1884,
+            "dateend":1950,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Max Beckmann, 1884–1950; born Leipzig, Germany; died New York, NY",
+            "displayorder":1
+        },
+        {
+            "id":22028,
+            "displayname":"I.B. Neumann",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by I.B. Neumann",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Brentano’s Book Shop, Chicago; purchased in 1943 by St. Louis Art Museum (with their stamp on verso); deaccessioned, sold at auction, Sotheby’s New York, November 4, 2003, lot 34 (sold for $5,975); C.G. Boerner, NY.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":225195,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2020-21_2",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":null
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Kristin Makholm, “Prints in Germany 1905–1923,” <em>Bulletin (St. Louis Art Museum)</em>, New Series, 20:4 (Summer 1993)",
+            "citation":"Kristin Makholm, “Prints in Germany 1905–1923,” <em>Bulletin (St. Louis Art Museum)</em>, New Series, 20:4 (Summer 1993), pp. 8-9 (illus.)",
+            "date":1993,
+            "id":9620,
+            "uri":"http://www.worldcat.org/oclc/463006105"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158076,
+            "term":"snakes",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154936,
+            "term":"drypoint",
+            "aatid":300053228,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":197269,
+            "name":"web_highlights -revised 2021"
+        },
+        {
+            "packageid":216463,
+            "name":"image_descriptions_newacquisitions_2020"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2020-21_2"
+    ],
+    "displaymaker":"Max Beckmann, 1884–1950; born Leipzig, Germany; died New York, NY | Published by I.B. Neumann",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Max Beckmann (1884–1950; born Leipzig, Germany; died New York, NY), Published by I.B. Neumann, Adam and Eve, 1917. Drypoint; 23.7 × 17.5 cm (plate), 44 × 36 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund, selected for acquisition by students in ART 354: The Art of the Print (2020-325)",
+    "captionhtml":"Max Beckmann (1884–1950; born Leipzig, Germany; died New York, NY), Published by I.B. Neumann, <i>Adam and Eve</i>, 1917. Drypoint; 23.7 × 17.5 cm (plate), 44 × 36 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund, selected for acquisition by students in ART 354: The Art of the Print (2020-325)",
+    "published_date":"2025-10-16 18:56:27.026131",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

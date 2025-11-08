@@ -1,0 +1,279 @@
+{
+    "type":"artobject",
+    "objectid":35662,
+    "objectnumber":"PU 5240",
+    "sortnumber":"U      5240P",
+    "displaytitle":"Painter's palette",
+    "department":"Art of the Ancient Americas",
+    "classification":"Tools / Equipment / Implements",
+    "datebegin":1850,
+    "dateend":1882,
+    "datecomputed":1866,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1882",
+    "medium":"Hematite",
+    "dimensions":"l. 17.0 cm., w. 9.5 cm., d. 8.0 cm. (6 11/16 x 3 3/4 x 3 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Painter's palette",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collected by Rev. Dr. Sheldon Jackson, in or after 1877; Given to Princeton Theological Seminary, 1879-1882; Given to E. M. Museum (Princeton Museum of Natural History), 1882",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":18496,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PU5240",
+            "isprimary":0,
+            "rank":11,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Reference Image"
+        },
+        {
+            "id":223331,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959379",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":223332,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959384",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":223333,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959386",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Gillett G. Griffin. <I>Art of the Northwest Coast</I> (Princeton University Art Museum, 1969).",
+            "citation":"Gillett G. Griffin. <I>Art of the Northwest Coast</I> (Princeton University Art Museum, 1969)., cat. no. 114, p. 46",
+            "date":1969,
+            "id":1233,
+            "uri":"http://www.worldcat.org/oclc/45578"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1745,
+            "citation":"Art of the Northwest Coast (January 22 - March 2, 1969)",
+            "isvirtual":true,
+            "begindate":"1969-01-22",
+            "enddate":"1969-03-02",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1745"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/11550055/prince-of-wales-hyder-census-area-alaska.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/11550055/prince-of-wales-hyder-census-area-alaska.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2156598,
+            "term":"grinding",
+            "aatid":300053090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040056,
+            "term":"Haida",
+            "aatid":300017606,
+            "termtype":"Culture"
+        },
+        {
+            "id":2194329,
+            "term":"anthropomorphic",
+            "aatid":300010335,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140584,
+            "term":"mortars (grinding tools)",
+            "aatid":300024724,
+            "termtype":"Classification"
+        },
+        {
+            "id":2141244,
+            "term":"palettes",
+            "aatid":300022625,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162882,
+            "term":"hematite",
+            "aatid":300011105,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2141244,
+            "classification":"palettes"
+        },
+        {
+            "id":2156598,
+            "classification":"grinding"
+        },
+        {
+            "id":2140584,
+            "classification":"mortars (grinding tools)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":14106,
+            "culture":"Haida",
+            "alphasort":"Haida",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Haida",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040056,
+            "culture":"Haida"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"8.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143782,
+            "name":"CRS_5HaidaTools [2]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959379"
+    ],
+    "displaymaker":null,
+    "displayculture":"Haida",
+    "displayperiod":null,
+    "caption":"Haida, before 1882, Northwest Coast, Painter's palette. Hematite; 17 x 9.5 x 8 cm. Lent by the Department of Geosciences, Princeton University (PU 5240)",
+    "captionhtml":"Haida, before 1882, Northwest Coast, <i>Painter's palette</i>. Hematite; 17 x 9.5 x 8 cm. Lent by the Department of Geosciences, Princeton University (PU 5240)",
+    "published_date":"2025-10-16 13:49:06.394544",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

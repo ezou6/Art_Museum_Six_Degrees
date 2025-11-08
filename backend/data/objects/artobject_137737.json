@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":137737,
+    "objectnumber":"2020-668",
+    "sortnumber":"2020  668",
+    "displaytitle":"The ‘Adam and Eve’, Old Chelsea",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1878,
+    "dateend":1878,
+    "datecomputed":1878,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1878",
+    "medium":"Etching and drypoint",
+    "dimensions":"plate: 17.5 × 30.3 cm (6 7/8 × 11 15/16 in.)\r\nsheet: 28.9 × 39.7 cm (11 3/8 × 15 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Roger Philips, Class of 1967",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Upper left : artist monogram [butterfly]",
+    "catalograisonne":"Glasgow 182 iii/iii; Kennedy 175; Mansfield 172;",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2020-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The ‘Adam and Eve’, Old Chelsea",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1787,
+            "displayname":"James McNeill Whistler",
+            "displaydate":"1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "datebegin":1834,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Frederick Keppel &amp; Co., NYC; purchased Emile Weitzner, NYC (d. 1966); inherited by his grandson, Roger Phillips.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":239378,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_100072",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, London, Chelsea",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"London",
+            "county":null,
+            "subregion":null,
+            "locale":"Chelsea",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078948,
+            "term":"pubs",
+            "aatid":300005166,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087261,
+            "term":"wharves",
+            "aatid":300120786,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102492,
+            "term":"barges (flat-bottomed watercraft)",
+            "aatid":300232674,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154936,
+            "term":"drypoint",
+            "aatid":300053228,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.89"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.68"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.46"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.32"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX22_100072"
+    ],
+    "displaymaker":"James McNeill Whistler, 1834–1903; born Lowell, MA; died London, England; active England and Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), The ‘Adam and Eve’, Old Chelsea, 1878. Etching and drypoint; 17.5 × 30.3 cm (plate), 28.9 × 39.7 cm (sheet). Gift of Roger Philips, Class of 1967 (2020-668)",
+    "captionhtml":"James McNeill Whistler (1834–1903; born Lowell, MA; died London, England; active England and Paris, France), <i>The ‘Adam and Eve’, Old Chelsea</i>, 1878. Etching and drypoint; 17.5 × 30.3 cm (plate), 28.9 × 39.7 cm (sheet). Gift of Roger Philips, Class of 1967 (2020-668)",
+    "published_date":"2025-10-16 18:56:42.298617",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

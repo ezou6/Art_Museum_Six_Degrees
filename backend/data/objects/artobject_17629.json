@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":17629,
+    "objectnumber":"x1990-63.15",
+    "sortnumber":"1990   63x   15",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1975,
+    "dateend":1975,
+    "datecomputed":1975,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1975",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 19.5 x 24.6 cm (7 11/16 x 9 11/16 in.)\r\nsheet: 20.2 x 25.5 cm (7 15/16 x 10 1/16 in.)\r\nmat: 40.6 x 50.7 cm (16 x 19 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from Merrill Lynch & Co., Inc.",
+    "markings":null,
+    "inscribed":"Signed in black marker, verso lower right: Stephen Shore",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2385,
+            "displayname":"Stephen Shore",
+            "displaydate":"born 1947, New York, NY; active New York, NY",
+            "datebegin":1947,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Stephen Shore, born 1947, New York, NY; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90623,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16369",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 48",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Los Angeles",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Los Angeles",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5368361/los-angeles.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2085195,
+            "term":"houses",
+            "aatid":300005433,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2104592,
+            "term":"power lines",
+            "aatid":300008603,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053503,
+            "term":"chromogenic color prints",
+            "aatid":300236285,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154187,
+            "term":"chromogenic processes",
+            "aatid":300133417,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053503,
+            "classification":"chromogenic color prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.50"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.70"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16369"
+    ],
+    "displaymaker":"Stephen Shore, born 1947, New York, NY; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Stephen Shore (born 1947, New York, NY; active New York, NY), Untitled, 1975. Chromogenic print; 19.5 x 24.6 cm (image), 40.6 x 50.7 cm (mat), 20.2 x 25.5 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from Merrill Lynch & Co., Inc. (x1990-63.15)",
+    "captionhtml":"Stephen Shore (born 1947, New York, NY; active New York, NY), <i>Untitled</i>, 1975. Chromogenic print; 19.5 x 24.6 cm (image), 40.6 x 50.7 cm (mat), 20.2 x 25.5 cm (sheet). Museum purchase, gift of the National Endowment for the Arts, a federal agency, with a matching gift from Merrill Lynch & Co., Inc. (x1990-63.15)",
+    "published_date":"2025-10-16 12:18:08.831909",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

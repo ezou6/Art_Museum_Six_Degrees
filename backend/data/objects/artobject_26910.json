@@ -1,0 +1,205 @@
+{
+    "type":"artobject",
+    "objectid":26910,
+    "objectnumber":"y1959-216",
+    "sortnumber":"1959  216y",
+    "displaytitle":"Bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1400,
+    "dateend":1499,
+    "datecomputed":1450,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"15th century CE",
+    "medium":"Cholula ware",
+    "dimensions":"h. 5.5 cm., diam. 15.5 cm. (2 3/16 x 6 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":52121,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV018810",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":18972,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1959-216_2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Valley of Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Valley of Mexico",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035674,
+            "term":"Postclassic",
+            "aatid":300016987,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035732,
+            "term":"Aztec",
+            "aatid":300017033,
+            "termtype":"Culture"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":12496,
+            "culture":"Aztec",
+            "alphasort":"Aztec",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Aztec",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2035732,
+            "culture":"Aztec"
+        }
+    ],
+    "periods":[
+        {
+            "id":12495,
+            "period":"Postclassic Period",
+            "alphasort":"Postclassic Period",
+            "begindate":1300,
+            "enddate":1521,
+            "displayperiod":"Postclassic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035674,
+            "period":"Postclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"15.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV018810"
+    ],
+    "displaymaker":null,
+    "displayculture":"Aztec",
+    "displayperiod":"Postclassic Period",
+    "caption":"Aztec, Postclassic Period, 15th century CE, Valley of Mexico, Mexico, Mesoamerica, Bowl. Cholula ware; 5.5 x 15.5 cm. Trumbull-Prime Collection (y1959-216)",
+    "captionhtml":"Aztec, Postclassic Period, 15th century CE, Valley of Mexico, Mexico, Mesoamerica, <i>Bowl</i>. Cholula ware; 5.5 x 15.5 cm. Trumbull-Prime Collection (y1959-216)",
+    "published_date":"2025-11-01 02:01:17.262362",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

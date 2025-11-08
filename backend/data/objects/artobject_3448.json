@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":3448,
+    "objectnumber":"x1940-104",
+    "sortnumber":"1940  104x",
+    "displaytitle":"Noah's Ark",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1833,
+    "dateend":1888,
+    "datecomputed":1860,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Lithograph, colored",
+    "dimensions":"image: 20.1 x 30.2 cm. (7 15/16 x 11 7/8 in.)\r\nsheet: 25.7 x 35.4 cm. (10 1/8 x 13 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Noah's Ark",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6730,
+            "displayname":"Nathaniel Currier",
+            "displaydate":"American, 1813–1888",
+            "datebegin":1813,
+            "dateend":1888,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Nathaniel Currier, American, 1813–1888",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105100,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29550",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29550"
+    ],
+    "displaymaker":"Nathaniel Currier, American, 1813–1888",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Nathaniel Currier (American, 1813–1888), Noah's Ark. Lithograph, colored; 20.1 x 30.2 cm (image), 25.7 x 35.4 cm (sheet). Mather Collection (x1940-104)",
+    "captionhtml":"Nathaniel Currier (American, 1813–1888), <i>Noah's Ark</i>. Lithograph, colored; 20.1 x 30.2 cm (image), 25.7 x 35.4 cm (sheet). Mather Collection (x1940-104)",
+    "published_date":"2025-10-16 10:24:23.136706",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

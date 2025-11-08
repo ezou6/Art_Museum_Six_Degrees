@@ -1,0 +1,255 @@
+{
+    "type":"artobject",
+    "objectid":49672,
+    "objectnumber":"2006-296",
+    "sortnumber":"2006  296",
+    "displaytitle":"Stanza: Ships",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1978,
+    "dateend":1978,
+    "datecomputed":1978,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1978",
+    "medium":"Color lithograph on Arches buff wove paper",
+    "dimensions":"sheet: 57 x 76.7 cm. (22 7/16 x 30 3/16 in.)\r\nimage: 45.2 × 65 cm (17 13/16 × 25 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":"Workshop and printer's blindstamps, lower right; workshop number in graphite, verso, lower left: 78-601",
+    "inscribed":"Titled in white colored pencil, lower left: Stanza: Ships\r\n\r\nNumbered in white colored pencil, bottom center: 16//30\r\n\r\nSigned in white colored pencil, lower right: James McGarrell",
+    "signed":null,
+    "catalograisonne":"78-601",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stanza: Ships",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12750,
+            "displayname":"James McGarrell",
+            "displaydate":"American, born 1930",
+            "datebegin":1930,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"James McGarrell, American, born 1930",
+            "displayorder":1
+        },
+        {
+            "id":14235,
+            "displayname":"Tamarind Institute",
+            "displaydate":"founded 1960",
+            "datebegin":1960,
+            "dateend":0,
+            "prefix":"Printed by Stephen Britko at",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Stephen Britko at Tamarind Institute, founded 1960",
+            "displayorder":2
+        },
+        {
+            "id":14235,
+            "displayname":"Tamarind Institute",
+            "displaydate":"founded 1960",
+            "datebegin":1960,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Tamarind Institute, founded 1960",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":143003,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63821",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 100",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New Mexico, Albuquerque",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Mexico",
+            "city":"Albuquerque",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5454711/albuquerque.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2106449,
+            "term":"interior spaces",
+            "aatid":300078790,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"65.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63821"
+    ],
+    "displaymaker":"James McGarrell, American, born 1930 | Printed by Stephen Britko at Tamarind Institute, founded 1960 | Published by Tamarind Institute, founded 1960",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"James McGarrell (American, born 1930), Printed by Stephen Britko at Tamarind Institute (founded 1960), Published by Tamarind Institute (founded 1960), Stanza: Ships, 1978. Color lithograph on Arches buff wove paper; 57 x 76.7 cm (sheet), 45.2 × 65 cm (image). Gift of James Kraft, Class of 1957 (2006-296)",
+    "captionhtml":"James McGarrell (American, born 1930), Printed by Stephen Britko at Tamarind Institute (founded 1960), Published by Tamarind Institute (founded 1960), <i>Stanza: Ships</i>, 1978. Color lithograph on Arches buff wove paper; 57 x 76.7 cm (sheet), 45.2 × 65 cm (image). Gift of James Kraft, Class of 1957 (2006-296)",
+    "published_date":"2025-10-16 15:07:38.873071",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

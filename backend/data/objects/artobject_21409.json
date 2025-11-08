@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":21409,
+    "objectnumber":"y1940-15",
+    "sortnumber":"1940   15y",
+    "displaytitle":"Bottle",
+    "department":"European Painting and Sculpture ",
+    "classification":"Glass",
+    "datebegin":400,
+    "dateend":1499,
+    "datecomputed":950,
+    "daterange":"A.D. 500-1000",
+    "displaydate":null,
+    "medium":"Clear glass",
+    "dimensions":"h. 7.2 cm, diam. 7.2 cm (2 13/16 x 2 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bottle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":37898,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004080",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031747,
+            "term":"Medieval",
+            "aatid":300020756,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072893,
+            "term":"bottles",
+            "aatid":300045627,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159805,
+            "term":"reeding",
+            "aatid":300010246,
+            "termtype":"Subject"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072893,
+            "classification":"bottles"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":14431,
+            "period":"Medieval",
+            "alphasort":"Medieval",
+            "begindate":400,
+            "enddate":1499,
+            "displayperiod":"Medieval",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2031747,
+            "period":"Medieval"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.20"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"7.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004080"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Medieval",
+    "caption":"Medieval, Bottle. Clear glass; 7.2 x 7.2 cm. Museum Collection (y1940-15)",
+    "captionhtml":"Medieval, <i>Bottle</i>. Clear glass; 7.2 x 7.2 cm. Museum Collection (y1940-15)",
+    "published_date":"2025-10-16 12:40:12.607929",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

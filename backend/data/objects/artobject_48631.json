@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":48631,
+    "objectnumber":"x1937-123 tre",
+    "sortnumber":"1937  123xtre",
+    "displaytitle":"François 1er",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1590,
+    "dateend":1634,
+    "datecomputed":1612,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving, partly mezzotint",
+    "dimensions":"plate: 13 × 10 cm (5 1/8 × 3 15/16 in.)\r\nsheet: 22.1 × 13.8 cm (8 11/16 × 5 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"Inscribed in plate below image: François 1er",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"François 1er",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5468,
+            "displayname":"Pieter de Jode I, the Elder",
+            "displaydate":"Flemish, 1570–1634",
+            "datebegin":1570,
+            "dateend":1634,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Pieter de Jode I, the Elder, Flemish, 1570–1634",
+            "displayorder":2
+        },
+        {
+            "id":6572,
+            "displayname":"François Clouet",
+            "displaydate":"French, ca. 1516–1572",
+            "datebegin":1516,
+            "dateend":1572,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after François Clouet, French, ca. 1516–1572",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118546,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40807",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118549,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV40810",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2131442,
+            "term":"hats",
+            "aatid":300046106,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV40810"
+    ],
+    "displaymaker":"after François Clouet, French, ca. 1516–1572 | Pieter de Jode I, the Elder, Flemish, 1570–1634",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After François Clouet (French, ca. 1516–1572), Pieter de Jode I, the Elder (Flemish, 1570–1634), François 1er. Engraving, partly mezzotint; 13 × 10 cm (plate), 22.1 × 13.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-123 tre)",
+    "captionhtml":"After François Clouet (French, ca. 1516–1572), Pieter de Jode I, the Elder (Flemish, 1570–1634), <i>François 1er</i>. Engraving, partly mezzotint; 13 × 10 cm (plate), 22.1 × 13.8 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-123 tre)",
+    "published_date":"2025-10-23 17:22:43.960408",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

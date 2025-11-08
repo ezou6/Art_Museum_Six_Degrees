@@ -1,0 +1,287 @@
+{
+    "type":"artobject",
+    "objectid":52964,
+    "objectnumber":"2007-23",
+    "sortnumber":"2007   23",
+    "displaytitle":"Numbers",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1968,
+    "dateend":1968,
+    "datecomputed":1968,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1968",
+    "medium":"Color screenprint",
+    "dimensions":"image: 22.9 x 19.4 cm. (9 x 7 5/8 in.)\r\nsheet: 25.4 x 20.8 cm. (10 x 8 3/16 in.)\r\ncase: 26 × 21.2 × 1.4 cm (10 1/4 × 8 3/8 × 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John Wilmerding in honor of his students.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":"Sheehan",
+    "creditlinerepro":"© Morgan Art Foundation Ltd. / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2007-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Numbers",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5406,
+            "displayname":"Robert Indiana",
+            "displaydate":"1928–2018; born New Castle, IN; died Vinalhaven, ME",
+            "datebegin":1928,
+            "dateend":2018,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Robert Indiana, 1928–2018; born New Castle, IN; died Vinalhaven, ME",
+            "displayorder":1
+        },
+        {
+            "id":13634,
+            "displayname":"Robert Creeley",
+            "displaydate":"American, 1926–2005",
+            "datebegin":1926,
+            "dateend":2005,
+            "prefix":null,
+            "suffix":null,
+            "role":"Author",
+            "displaymaker":"Robert Creeley, American, 1926–2005",
+            "displayorder":2
+        },
+        {
+            "id":14280,
+            "displayname":"Editions Domberger",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":"and",
+            "role":"Publisher",
+            "displaymaker":"Published by Editions Domberger and",
+            "displayorder":3
+        },
+        {
+            "id":14281,
+            "displayname":"Galerie Schmela",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Galerie Schmela",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":16789,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-23_1",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":16790,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2007-23_5",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":118771,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41121",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2007,\" in \"More than one: photographs in sequence,\" special issue, <em>Record of the Princeton University Art Museum</em> 67 (2008): p. 96-119.<br>, pp. 104–105, illustrated",
+            "date":2008,
+            "id":977,
+            "uri":"https://www.jstor.org/stable/20442639"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"www.geonames.org/2921044/federal-republic-of-germany.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098453,
+            "term":"numbers",
+            "aatid":300055665,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.90"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2007-23_5"
+    ],
+    "displaymaker":"Robert Indiana, 1928–2018; born New Castle, IN; died Vinalhaven, ME | Robert Creeley, American, 1926–2005 | Published by Editions Domberger and | Published by Galerie Schmela",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Robert Indiana (1928–2018; born New Castle, IN; died Vinalhaven, ME), Robert Creeley (American, 1926–2005), Published by Editions Domberger and, Published by Galerie Schmela, Numbers, 1968. Color screenprint; 22.9 x 19.4 cm (image), 25.4 x 20.8 cm (sheet), 26 × 21.2 × 1.4 cm (case). Gift of John Wilmerding in honor of his students. (2007-23)",
+    "captionhtml":"Robert Indiana (1928–2018; born New Castle, IN; died Vinalhaven, ME), Robert Creeley (American, 1926–2005), Published by Editions Domberger and, Published by Galerie Schmela, <i>Numbers</i>, 1968. Color screenprint; 22.9 x 19.4 cm (image), 25.4 x 20.8 cm (sheet), 26 × 21.2 × 1.4 cm (case). Gift of John Wilmerding in honor of his students. (2007-23)",
+    "published_date":"2025-10-16 15:16:36.055163",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

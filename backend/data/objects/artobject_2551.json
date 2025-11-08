@@ -1,0 +1,168 @@
+{
+    "type":"artobject",
+    "objectid":2551,
+    "objectnumber":"x1937-70",
+    "sortnumber":"1937   70x",
+    "displaytitle":"Comte de Tourville",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1764,
+    "dateend":1809,
+    "datecomputed":1786,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 20.4 x 13.2 cm (8 1/16 x 5 3/16 in.)\r\nsheet: 25.4 x 18.4 cm (10 x 7 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Comte de Tourville",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4929,
+            "displayname":"Jeanne Bergeret de Grancourt",
+            "displaydate":"French, ca. 1750–act. 1785",
+            "datebegin":1750,
+            "dateend":1785,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jeanne Bergeret de Grancourt, French, ca. 1750–act. 1785",
+            "displayorder":2
+        },
+        {
+            "id":5359,
+            "displayname":"Francois Hubert",
+            "displaydate":"French, 1744–1809",
+            "datebegin":1744,
+            "dateend":1809,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francois Hubert, French, 1744–1809",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":98314,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23669",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23669"
+    ],
+    "displaymaker":"Francois Hubert, French, 1744–1809 | after Jeanne Bergeret de Grancourt, French, ca. 1750–act. 1785",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francois Hubert (French, 1744–1809), after Jeanne Bergeret de Grancourt (French, ca. 1750–act. 1785), Comte de Tourville. Engraving; 20.4 x 13.2 cm (plate), 25.4 x 18.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-70)",
+    "captionhtml":"Francois Hubert (French, 1744–1809), after Jeanne Bergeret de Grancourt (French, ca. 1750–act. 1785), <i>Comte de Tourville</i>. Engraving; 20.4 x 13.2 cm (plate), 25.4 x 18.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-70)",
+    "published_date":"2025-10-23 16:41:01.638636",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

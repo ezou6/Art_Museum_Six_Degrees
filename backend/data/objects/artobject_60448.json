@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":60448,
+    "objectnumber":"2010-238",
+    "sortnumber":"2010  238",
+    "displaytitle":"Chair of the Spirit . . .",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1999,
+    "dateend":1999,
+    "datecomputed":1999,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1999",
+    "medium":"Soft-ground etching with light gray chine collé",
+    "dimensions":"plate: 121 x 50 cm. (47 5/8 x 19 11/16 in.)\r\nsheet: 141.6 x 68.6 cm. (55 3/4 x 27 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Sam Francis Foundation",
+    "markings":null,
+    "inscribed":"Signed and numbered, lower right: Marina Abramovic 11//21",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Marina Abramovic / Artists Rights Society (ARS), New York / The Design and Artists Copyright Society (DACS), London",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Chair of the Spirit . . .",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16359,
+            "displayname":"Marina Abramovic",
+            "displaydate":"Serbian, born 1946",
+            "datebegin":1946,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Marina Abramovic, Serbian, born 1946",
+            "displayorder":1
+        },
+        {
+            "id":16360,
+            "displayname":"Lapis Press",
+            "displaydate":null,
+            "datebegin":1984,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Lapis Press",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":145685,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV63942",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 103",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, Culver City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Culver City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5341114/culver-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031682,
+            "term":"Yugoslav",
+            "aatid":300111228,
+            "termtype":"Culture"
+        },
+        {
+            "id":2064951,
+            "term":"chairs",
+            "aatid":300037772,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031682,
+            "culture":"Yugoslav"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"141.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"68.57"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"121.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV63942"
+    ],
+    "displaymaker":"Marina Abramovic, Serbian, born 1946 | Published by Lapis Press",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Marina Abramovic (Serbian, born 1946), Published by Lapis Press, Chair of the Spirit . . ., 1999. Soft-ground etching with light gray chine collé; 121 x 50 cm (plate), 141.6 x 68.6 cm (sheet). Gift of the Sam Francis Foundation (2010-238)",
+    "captionhtml":"Marina Abramovic (Serbian, born 1946), Published by Lapis Press, <i>Chair of the Spirit . . .</i>, 1999. Soft-ground etching with light gray chine collé; 121 x 50 cm (plate), 141.6 x 68.6 cm (sheet). Gift of the Sam Francis Foundation (2010-238)",
+    "published_date":"2025-10-16 15:53:06.241233",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

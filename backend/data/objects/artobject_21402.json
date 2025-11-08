@@ -1,0 +1,292 @@
+{
+    "type":"artobject",
+    "objectid":21402,
+    "objectnumber":"y1939-99",
+    "sortnumber":"1939   99y",
+    "displaytitle":"One-handled jug",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1750,
+    "dateend":-1550,
+    "datecomputed":-1650,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"1750–1550 BCE",
+    "medium":"Red-on-black ware: ceramic",
+    "dimensions":"h. 24.0 cm, diam. 13.9 cm (9 7/16 x 5 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1939-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"One-handled jug",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":32375,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43680",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Europe, Cyprus",
+            "code":"Place excavated",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.003_32.988.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037275,
+            "term":"Middle Cypriote",
+            "aatid":300107599,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037294,
+            "term":"red-on-black",
+            "aatid":300107616,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199192,
+            "term":"Middle Bronze Age",
+            "aatid":300019277,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199194,
+            "term":"Late Bronze Age",
+            "aatid":300019278,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159663,
+            "term":"allover patterns",
+            "aatid":300010143,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073254,
+            "term":"jugs",
+            "aatid":300045685,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073254,
+            "classification":"jugs"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":20986,
+            "period":"Middle Cypriote III",
+            "alphasort":"Middle Cypriote III",
+            "begindate":-1750,
+            "enddate":-1650,
+            "displayperiod":"Middle Cypriote III",
+            "displaydate":null
+        },
+        {
+            "id":23919,
+            "period":"Late Bronze Age",
+            "alphasort":"Late Bronze Age",
+            "begindate":-1600,
+            "enddate":-1050,
+            "displayperiod":"Middle to Late Bronze Age, ca. 1600–1050 BCE",
+            "displaydate":"ca. 1600–1050 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037275,
+            "period":"Middle Cypriote"
+        },
+        {
+            "id":2037294,
+            "period":"red-on-black"
+        },
+        {
+            "id":2199192,
+            "period":"Middle Bronze Age"
+        },
+        {
+            "id":2199194,
+            "period":"Late Bronze Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"13.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211736,
+            "name":"VisibleStorage_GHC-F_Ancient"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43680"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Middle to Late Bronze Age, ca. 1600–1050 BCE | Middle Cypriote III",
+    "caption":"Cypriote, Middle to Late Bronze Age, Middle Cypriote III, Cyprus, 1750–1550 BCE, One-handled jug. Red-on-black ware: ceramic; 24 x 13.9 cm. Gift of Allan Marquand, Class of 1874 (y1939-99)",
+    "captionhtml":"Cypriote, Middle to Late Bronze Age, Middle Cypriote III, Cyprus, 1750–1550 BCE, <i>One-handled jug</i>. Red-on-black ware: ceramic; 24 x 13.9 cm. Gift of Allan Marquand, Class of 1874 (y1939-99)",
+    "published_date":"2025-10-16 12:40:09.834194",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

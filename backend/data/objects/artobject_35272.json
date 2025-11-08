@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":35272,
+    "objectnumber":"PU 5348",
+    "sortnumber":"U      5348P",
+    "displaytitle":"Grease bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Containers",
+    "datebegin":0,
+    "dateend":2006,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Wood",
+    "dimensions":"h. 11.4 cm., l. 15.0 cm., w. 14.2 cm. (4 1/2 x 5 7/8 x 5 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":"PU 5348 stamped on bottom",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Grease bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"Times New Roman\" size=\"3\"><span style='line-height: 107%; font-family: \"Arial\",sans-serif; font-size: 10pt;'>Collected by Rev. Dr. Sheldon Jackson, in or after 1877;\nGiven to E. M. Museum (Princeton Museum of Natural History), 1882-1885</span></font><font face=\"Times New Roman\" size=\"3\">\n\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44371,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV009984",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8617633/coastal-waters-of-southeast-alaska-and-british-columbia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2134661,
+            "term":"feasts",
+            "aatid":300069097,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134746,
+            "term":"potlatches",
+            "aatid":300069169,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164994,
+            "term":"oil",
+            "aatid":300014254,
+            "termtype":"Subject"
+        },
+        {
+            "id":2165212,
+            "term":"grease",
+            "aatid":300014268,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040133,
+            "term":"Lingít",
+            "aatid":300017629,
+            "termtype":"Culture"
+        },
+        {
+            "id":2194621,
+            "term":"zoomorphic",
+            "aatid":300010338,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156545,
+            "term":"engraving (incising)",
+            "aatid":300053829,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2134746,
+            "classification":"potlatches"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13962,
+            "culture":"Lingít",
+            "alphasort":"Lingít",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"probably Lingít",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040133,
+            "culture":"Lingít"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143825,
+            "name":"CRS_TlingitBowls/Boxes"
+        },
+        {
+            "packageid":132031,
+            "name":"CRS_TlingitNaming"
+        },
+        {
+            "packageid":143772,
+            "name":"CRS_3HaidaBowls"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        },
+        {
+            "packageid":132030,
+            "name":"CRS_HaidaNaming"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009984"
+    ],
+    "displaymaker":null,
+    "displayculture":"probably Lingít",
+    "displayperiod":null,
+    "caption":"Probably Lingít, Alaska, United States, Northwest Coast, Grease bowl. Wood; 11.4 x 15 x 14.2 cm. Lent by the Department of Geosciences, Princeton University (PU 5348)",
+    "captionhtml":"Probably Lingít, Alaska, United States, Northwest Coast, <i>Grease bowl</i>. Wood; 11.4 x 15 x 14.2 cm. Lent by the Department of Geosciences, Princeton University (PU 5348)",
+    "published_date":"2025-10-23 17:12:36.610429",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,251 @@
+{
+    "type":"artobject",
+    "objectid":11519,
+    "objectnumber":"x1970-123",
+    "sortnumber":"1970  123x",
+    "displaytitle":"The Mirror",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1907,
+    "dateend":1907,
+    "datecomputed":1907,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1907",
+    "medium":"Color linocut",
+    "dimensions":"block: 32.1 x 15.8 cm. (12 5/8 x 6 1/4 in.)\r\nsheet: 33.4 x 17 cm. (13 1/8 x 6 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Exchange (for duplicates from various donors)",
+    "markings":null,
+    "inscribed":"Artist monogram in block, upper right corner",
+    "signed":null,
+    "catalograisonne":"Röthel 49",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1970-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Mirror",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4226,
+            "displayname":"Wassily  Kandinsky",
+            "displaydate":"1866–1944; born Moscow, Russian Empire (Russia); died Neuilly-sur-Seine, France",
+            "datebegin":1866,
+            "dateend":1944,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wassily  Kandinsky, 1866–1944; born Moscow, Russian Empire (Russia); died Neuilly-sur-Seine, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2503,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1970-123",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1970\", <em>Record of the Art Museum, Princeton University</em> 30, no. 1 (1971): p. 22-30.",
+            "citation":"\"Acquisitions 1970\", <em>Record of the Art Museum, Princeton University</em> 30, no. 1 (1971): p. 22-30., p. 28",
+            "date":1971,
+            "id":3440,
+            "uri":"https://www.jstor.org/stable/3774539"
+        },
+        {
+            "boilertext":"Hans Konrad Röthel, <EM>Kandinsky: das graphische Werk</EM> (Köln: Verlag M. Dumont Schauberg, 1970).",
+            "citation":"Hans Konrad Röthel, <EM>Kandinsky: das graphische Werk</EM> (Köln: Verlag M. Dumont Schauberg, 1970)., no. 49",
+            "date":1970,
+            "id":6366,
+            "uri":"http://www.worldcat.org/oclc/551031"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":942,
+            "citation":"Modernist Art: Prints, Drawings, and Photographs (Saturday, September 09, 2006 - Sunday, January 14, 2007)",
+            "isvirtual":true,
+            "begindate":"2006-09-09",
+            "enddate":"2007-01-14",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/942"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6255148/europe.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031652,
+            "term":"Russian",
+            "aatid":300111276,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072114,
+            "term":"mirrors",
+            "aatid":300037682,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2103929,
+            "term":"flowers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054663,
+            "term":"linocuts",
+            "aatid":300041393,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155079,
+            "term":"linoleum-block printing",
+            "aatid":300060720,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054663,
+            "classification":"linocuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031652,
+            "culture":"Russian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.10"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1970-123"
+    ],
+    "displaymaker":"Wassily  Kandinsky, 1866–1944; born Moscow, Russian Empire (Russia); died Neuilly-sur-Seine, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Wassily  Kandinsky (1866–1944; born Moscow, Russian Empire (Russia); died Neuilly-sur-Seine, France), The Mirror, 1907. Color linocut; 32.1 x 15.8 cm (block), 33.4 x 17 cm (sheet). Museum Exchange (for duplicates from various donors) (x1970-123)",
+    "captionhtml":"Wassily  Kandinsky (1866–1944; born Moscow, Russian Empire (Russia); died Neuilly-sur-Seine, France), <i>The Mirror</i>, 1907. Color linocut; 32.1 x 15.8 cm (block), 33.4 x 17 cm (sheet). Museum Exchange (for duplicates from various donors) (x1970-123)",
+    "published_date":"2025-10-16 11:28:26.683493",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

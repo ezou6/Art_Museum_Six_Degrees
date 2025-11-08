@@ -1,0 +1,275 @@
+{
+    "type":"artobject",
+    "objectid":4221,
+    "objectnumber":"1995-174",
+    "sortnumber":"1995  174",
+    "displaytitle":"The Farnese Hercules",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1575,
+    "dateend":1579,
+    "datecomputed":1577,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"late 1570s",
+    "medium":"Engraving",
+    "dimensions":"plate: 36.6 x 21.8 cm (14 7/16 x 8 9/16 in.)\r\nsheet: 38 x 23.5 cm (14 15/16 x 9 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":"Inscribed in ink, upper right corner: 83",
+    "inscribed":"Initialed in plate on tablet, lower left corner: GMF",
+    "signed":null,
+    "catalograisonne":"Bartsch 401.41; Bellini 59; Lewis 58",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Farnese Hercules",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6111,
+            "displayname":"Giorgio Ghisi",
+            "displaydate":"Italian, 1520–1582",
+            "datebegin":1520,
+            "dateend":1582,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Giorgio Ghisi, Italian, 1520–1582",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101309,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25982",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":77,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-174_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 44 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        },
+        {
+            "boilertext":"Michal and R.E. Lewis, <EM>The Engravings of Giorgio Ghisi</EM> (New York: Metropolitan Museum of Art, 1985).",
+            "citation":"Michal and R.E. Lewis, <EM>The Engravings of Giorgio Ghisi</EM> (New York: Metropolitan Museum of Art, 1985)., no. 58",
+            "date":1985,
+            "id":6283,
+            "uri":"http://www.worldcat.org/oclc/11519653"
+        },
+        {
+            "boilertext":"Paul Bellini, <em>L'Opera incisa di Giorgio Ghisi</em> (Bassano del Grappa: Tassotti, 1998).",
+            "citation":"Paul Bellini, <em>L'Opera incisa di Giorgio Ghisi</em> (Bassano del Grappa: Tassotti, 1998)., no. 59",
+            "date":1998,
+            "id":6286,
+            "uri":"http://www.worldcat.org/oclc/39824154"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Mantua",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Mantua",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3174051/mantova.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154917,
+            "term":"engraving (printing process)",
+            "aatid":300053225,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":241081,
+            "name":"TDC-Final [7]"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":234043,
+            "name":"TDC-Final [6]"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":210128,
+            "name":"2022_ART548_04_06"
+        },
+        {
+            "packageid":223835,
+            "name":"TDC-Final [5]"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25982"
+    ],
+    "displaymaker":"Giorgio Ghisi, Italian, 1520–1582",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Giorgio Ghisi (Italian, 1520–1582), The Farnese Hercules, late 1570s. Engraving; 36.6 x 21.8 cm (plate), 38 x 23.5 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (1995-174)",
+    "captionhtml":"Giorgio Ghisi (Italian, 1520–1582), <i>The Farnese Hercules</i>, late 1570s. Engraving; 36.6 x 21.8 cm (plate), 38 x 23.5 cm (sheet). Museum purchase, Laura P. Hall Memorial Fund (1995-174)",
+    "published_date":"2025-10-16 10:29:46.769884",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

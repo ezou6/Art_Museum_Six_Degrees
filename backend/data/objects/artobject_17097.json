@@ -1,0 +1,173 @@
+{
+    "type":"artobject",
+    "objectid":17097,
+    "objectnumber":"x1992-130",
+    "sortnumber":"1992  130x",
+    "displaytitle":"untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1992,
+    "dateend":1992,
+    "datecomputed":1992,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1992",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 78.7 x 78.7 cm (31 x 31 in.)\r\nframe: 79.7 × 79.7 × 3 cm (31 3/8 × 31 3/8 × 1 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Gaylen Gerber",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6100,
+            "displayname":"Gaylen Gerber",
+            "displaydate":"American, born 1955",
+            "datebegin":1955,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gaylen Gerber, American, born 1955",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":122941,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV46045",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 58",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.70"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"79.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"78.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV46045"
+    ],
+    "displaymaker":"Gaylen Gerber, American, born 1955",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gaylen Gerber (American, born 1955), untitled, 1992. Gelatin silver print; 78.7 x 78.7 cm (image), 79.7 × 79.7 × 3 cm (frame). Museum purchase, anonymous gift (x1992-130)",
+    "captionhtml":"Gaylen Gerber (American, born 1955), <i>untitled</i>, 1992. Gelatin silver print; 78.7 x 78.7 cm (image), 79.7 × 79.7 × 3 cm (frame). Museum purchase, anonymous gift (x1992-130)",
+    "published_date":"2025-10-16 12:14:56.012399",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,258 @@
+{
+    "type":"artobject",
+    "objectid":108947,
+    "objectnumber":"2015-6687",
+    "sortnumber":"2015 6687",
+    "displaytitle":"Untitled",
+    "department":"Modern and Contemporary Art",
+    "classification":"Mixed Media",
+    "datebegin":1977,
+    "dateend":1977,
+    "datecomputed":1977,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1977",
+    "medium":"Acrylic, paper, glitter, sequins, and string on canvas",
+    "dimensions":"212.1 x 251.5 cm (83 1/2 x 99 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed and dated, verso",
+    "catalograisonne":null,
+    "creditlinerepro":"© Howardena Pindell",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2015-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12773,
+            "displayname":"Howardena Doreen Pindell",
+            "displaydate":"born 1943, Philadelphia, PA; active New York, NY",
+            "datebegin":1943,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Howardena Doreen Pindell, born 1943, Philadelphia, PA; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The subtle variations of tone and the vibrating, confetti-like texture in this large-scale color field painting result from Pindell’s experiments with materials and process. She punched holes out of a sheet of colorfully painted paper and pressed the resulting dots and paper remnants into the thickly painted surface of an unstretched canvas to create a series of richly encrusted layers. The hole punch, she explained, allowed her to create “very small points of color and light” without relying on paintbrushes. Using everyday craft materials—a hole punch, glitter, and sequins—Pindell subverted the bold, sweeping gestures of twentieth-century large-scale abstract painting, associated primarily with white male artists.",
+            "remarks":"MOD_09-12_WLA – Day 1 Cataloguing"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Howardena Pindell, New York, New York, consigned to; [Garth Greenan Gallery, New York, New York], sold; to Princeton University Art Museum, 2015.",
+            "remarks":"as per invoice in curatorial file. AP."
+        }
+    ],
+    "media":[
+        {
+            "id":215732,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMOSE_00012",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2015,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 102-125., p. 113 (illus.)",
+            "date":2016,
+            "id":9661,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: United States, New York, New York",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.714_-74.006.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2188703,
+            "term":"mixed media works",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159248,
+            "term":"dots",
+            "aatid":300010145,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185092,
+            "term":"Artists of Africa's Diasporas",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185115,
+            "term":"Africa and its Diasporas",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2171301,
+            "term":"glitter",
+            "aatid":300183800,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171325,
+            "term":"sequin",
+            "aatid":300183896,
+            "termtype":"Materials"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043760,
+            "term":"string (fiber product)",
+            "aatid":300014249,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167800,
+            "term":"acrylic paint",
+            "aatid":300015058,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2188703,
+            "classification":"mixed media works"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"212.08"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"251.45"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182945,
+            "name":"web_2020_MM_Jan_Multitudes"
+        },
+        {
+            "packageid":182427,
+            "name":"CRS_2020_ART214_FinalPapersProject"
+        },
+        {
+            "packageid":143052,
+            "name":"web_MM_2018-08"
+        },
+        {
+            "packageid":181691,
+            "name":"CRS_2020_ART326_04_20"
+        },
+        {
+            "packageid":219380,
+            "name":"Gallery_10-12(Pavilion3)-ModernContemporary"
+        },
+        {
+            "packageid":228577,
+            "name":"2023_ART490/GSS490/VIS490_11_06"
+        },
+        {
+            "packageid":181961,
+            "name":"web_2020_MM"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMOSE_00012"
+    ],
+    "displaymaker":"Howardena Doreen Pindell, born 1943, Philadelphia, PA; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Howardena Doreen Pindell (born 1943, Philadelphia, PA; active New York, NY), Untitled, 1977. Acrylic, paper, glitter, sequins, and string on canvas; 212.1 × 251.5 cm. Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund (2015-6687)",
+    "captionhtml":"Howardena Doreen Pindell (born 1943, Philadelphia, PA; active New York, NY), <i>Untitled</i>, 1977. Acrylic, paper, glitter, sequins, and string on canvas; 212.1 × 251.5 cm. Museum purchase, Carl Otto von Kienbusch Jr. Memorial Collection Fund (2015-6687)",
+    "published_date":"2025-10-16 18:14:40.169866",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

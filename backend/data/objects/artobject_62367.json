@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":62367,
+    "objectnumber":"2022-243",
+    "sortnumber":"2022  243",
+    "displaytitle":"Chariot Procession Scenes",
+    "department":"Asian Art",
+    "classification":"Rubbings",
+    "datebegin":1870,
+    "dateend":1930,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"mid-2nd century (stone); late 19th-early 20th century (rubbings)",
+    "medium":"Sheet: ink rubbing on paper",
+    "dimensions":"image: 31.7 × 63.4 cm (12 1/2 × 24 15/16 in.)\r\nsheet: 39.7 × 67.2 cm (15 5/8 × 26 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Chariot Procession Scenes",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Margaret Trowbridge Setton (d. 1987), Princeton, NJ, 1980–1987; inherited by Harold S. Henry, Fall City, WA, 1987–2022; on loan to the Princeton University Art Museum, 1980–2022; gifted to the Princeton University Art Museum by Harold S. Henry, 2022.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":248076,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10026",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":248086,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10025",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China, Shandong province",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":"Shandong province",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033394,
+            "term":"Han (Chinese)",
+            "aatid":300018385,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094283,
+            "term":"equestrians",
+            "aatid":300188602,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054786,
+            "term":"rubbings",
+            "aatid":300103035,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054786,
+            "classification":"rubbings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12606,
+            "period":"Eastern Han dynasty",
+            "alphasort":"Eastern Han dynasty",
+            "begindate":25,
+            "enddate":220,
+            "displayperiod":"Eastern Han dynasty, 25–220 CE",
+            "displaydate":"25–220 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033394,
+            "period":"Han (Chinese)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"67.20"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_231208_10025"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Eastern Han dynasty, 25–220 CE",
+    "caption":"Chinese, Eastern Han dynasty (25–220 CE), Chariot Procession Scenes, mid-2nd century (stone); late 19th-early 20th century (rubbings). Sheet: ink rubbing on paper; 31.7 × 63.4 cm (image), 39.7 × 67.2 cm (sheet). Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton (2022-243)",
+    "captionhtml":"Chinese, Eastern Han dynasty (25–220 CE), <i>Chariot Procession Scenes</i>, mid-2nd century (stone); late 19th-early 20th century (rubbings). Sheet: ink rubbing on paper; 31.7 × 63.4 cm (image), 39.7 × 67.2 cm (sheet). Gift of Harold S. Henry on behalf of Margaret Trowbridge Setton (2022-243)",
+    "published_date":"2025-10-16 16:09:37.202615",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

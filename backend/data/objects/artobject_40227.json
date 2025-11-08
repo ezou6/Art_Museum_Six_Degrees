@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":40227,
+    "objectnumber":"2001-121",
+    "sortnumber":"2001  121",
+    "displaytitle":"Crocodile-Dragon",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1996,
+    "dateend":1996,
+    "datecomputed":1996,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1996",
+    "medium":"Gouache and black ink",
+    "dimensions":"maximum irregular: 57 x 76 cm (22 7/16 x 29 15/16 in.)\r\nframe: 65.8 × 84.1 × 5.2 cm (25 7/8 × 33 1/8 × 2 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite, lower right: Toledo",
+    "catalograisonne":null,
+    "creditlinerepro":"© Francisco Toledo",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Crocodile-Dragon",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2793,
+            "displayname":"Francisco Toledo",
+            "displaydate":"1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "datebegin":1940,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13465,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-121_REC",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "citation":"Howard Campbell and Joachim Homann, <EM>El maestro Francisco Toledo: art from Oaxaca, 1959-2006</EM>, (El Paso, TX: Stanlee and Gerald Rubin Center for the Visual Arts at the University of Texas at El Paso, 2007).",
+            "date":2007,
+            "id":5865,
+            "uri":"http://www.worldcat.org/oclc/225896945"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 111",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Oaxaca, Oaxaca City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":"Oaxaca",
+            "city":"Oaxaca City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3522507/oaxaca.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185067,
+            "term":"crocodiles",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147429,
+            "term":"dragons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053178,
+            "term":"gouaches",
+            "aatid":300078928,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167941,
+            "term":"gouache",
+            "aatid":300070114,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053178,
+            "classification":"gouaches"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.80"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"84.10"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"5.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2001-121_REC"
+    ],
+    "displaymaker":"Francisco Toledo, 1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), Crocodile-Dragon, 1996. Gouache and black ink; 57 x 76 cm (maximum irregular), 65.8 × 84.1 × 5.2 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-121)",
+    "captionhtml":"Francisco Toledo (1940–2019, born Juchitán de Zaragoza, Mexico; died Oaxaca de Juárez, Mexico; active Oaxaca de Juárez), <i>Crocodile-Dragon</i>, 1996. Gouache and black ink; 57 x 76 cm (maximum irregular), 65.8 × 84.1 × 5.2 cm (frame). Bequest of David L. Meginnity, Class of 1958 (2001-121)",
+    "published_date":"2025-10-16 14:09:35.638531",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

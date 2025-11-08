@@ -1,0 +1,154 @@
+{
+    "type":"artobject",
+    "objectid":30157,
+    "objectnumber":"y1966-303",
+    "sortnumber":"1966  303y",
+    "displaytitle":"Table",
+    "department":"American Art",
+    "classification":"Furniture",
+    "datebegin":1900,
+    "dateend":1910,
+    "datecomputed":1905,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1905",
+    "medium":"Fumed oak",
+    "dimensions":"75.2 x 138.1 x 81.6 cm (29 5/8 x 54 3/8 x 32 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Table",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2566,
+            "displayname":"Gustav Stickley",
+            "displaydate":"American, 1857–1942",
+            "datebegin":1857,
+            "dateend":1942,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gustav Stickley, American, 1857–1942",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":125333,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV48506",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2064771,
+            "term":"furniture",
+            "aatid":300037680,
+            "termtype":"Classification"
+        },
+        {
+            "id":2069511,
+            "term":"tables (support furniture)",
+            "aatid":300039548,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2046690,
+            "term":"oak",
+            "aatid":300012264,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2069511,
+            "classification":"tables (support furniture)"
+        },
+        {
+            "id":2064771,
+            "classification":"furniture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"75.24"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"138.11"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"81.59"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV48506"
+    ],
+    "displaymaker":"Gustav Stickley, American, 1857–1942",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gustav Stickley (American, 1857–1942), Table, ca. 1905. Fumed oak; 75.2 x 138.1 x 81.6 cm. Museum Collection (y1966-303)",
+    "captionhtml":"Gustav Stickley (American, 1857–1942), <i>Table</i>, ca. 1905. Fumed oak; 75.2 x 138.1 x 81.6 cm. Museum Collection (y1966-303)",
+    "published_date":"2025-10-16 13:18:50.809943",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

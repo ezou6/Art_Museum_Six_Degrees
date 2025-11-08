@@ -1,0 +1,167 @@
+{
+    "type":"artobject",
+    "objectid":14891,
+    "objectnumber":"x1982-38",
+    "sortnumber":"1982   38x",
+    "displaytitle":"Venus and Mercury",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1591,
+    "dateend":1628,
+    "datecomputed":1610,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed inside plate: 39.8 x 27.4 cm. (15 11/16 x 10 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"Plate, l.l.; B./Sprangers Ant.us inuent.; l.r.: Joan Muller sculp.; lower margin: Ad Veneris...aquis; l.r.; Muller exud. Amster.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Venus and Mercury",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2521,
+            "displayname":"Bartholomeus Spranger",
+            "displaydate":"Flemish, 1546–1611",
+            "datebegin":1546,
+            "dateend":1611,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Bartholomeus Spranger, Flemish, 1546–1611",
+            "displayorder":2
+        },
+        {
+            "id":3916,
+            "displayname":"Jan Harmensz Müller",
+            "displaydate":"Dutch, 1571–1628",
+            "datebegin":1571,
+            "dateend":1628,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jan Harmensz Müller, Dutch, 1571–1628",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":102407,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27144",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":12236,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1982-38_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70.",
+            "citation":"\"Acquisitions of the Art Museum 1982\", <em>Record of the Art Museum, Princeton University</em> 42, no. 1 (1983): p. 50-70., p. 58",
+            "date":1983,
+            "id":3149,
+            "uri":"https://www.jstor.org/stable/3774638"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27144"
+    ],
+    "displaymaker":"Jan Harmensz Müller, Dutch, 1571–1628 | after Bartholomeus Spranger, Flemish, 1546–1611",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jan Harmensz Müller (Dutch, 1571–1628), after Bartholomeus Spranger (Flemish, 1546–1611), Venus and Mercury. Engraving; 39.8 x 27.4 cm (plate). Museum purchase, Laura P. Hall Memorial Fund (x1982-38)",
+    "captionhtml":"Jan Harmensz Müller (Dutch, 1571–1628), after Bartholomeus Spranger (Flemish, 1546–1611), <i>Venus and Mercury</i>. Engraving; 39.8 x 27.4 cm (plate). Museum purchase, Laura P. Hall Memorial Fund (x1982-38)",
+    "published_date":"2025-10-16 11:57:46.255258",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

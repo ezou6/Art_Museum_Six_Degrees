@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":18380,
+    "objectnumber":"x1993-113",
+    "sortnumber":"1993  113x",
+    "displaytitle":"Mother's Love",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1968,
+    "dateend":1968,
+    "datecomputed":1968,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1968",
+    "medium":"Color lithograph",
+    "dimensions":"image: 53.3 x 39.1 cm (21 x 15 3/8 in.)\r\nsheet: 64.4 x 49.7 cm (25 3/8 x 19 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"in graphite, lower left: 265/300",
+    "signed":"Signed in graphite, lower right: D A Siqueiros",
+    "catalograisonne":null,
+    "creditlinerepro":"© Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Mother's Love",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1556,
+            "displayname":"David Alfaro Siqueiros",
+            "displaydate":"1896–1974; born Santa Rosalía de Camargo, Chihuahua, Mexico; died Cuernavaca, Morelos, Mexico",
+            "datebegin":1896,
+            "dateend":1974,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David Alfaro Siqueiros, 1896–1974; born Santa Rosalía de Camargo, Chihuahua, Mexico; died Cuernavaca, Morelos, Mexico",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL, by 1993; gift to the Princeton University Art Museum, 1993.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":223298,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959233",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":2688,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1993-113_GS",
+            "isprimary":0,
+            "rank":11,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 62 (illus.), p. 68",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2099845,
+            "term":"love",
+            "aatid":300055165,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088218,
+            "term":"mothers",
+            "aatid":300025932,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054605,
+            "term":"color lithographs",
+            "aatid":300041383,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155026,
+            "term":"lithographic engraving (printing process)",
+            "aatid":300254782,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054605,
+            "classification":"color lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1959233"
+    ],
+    "displaymaker":"David Alfaro Siqueiros, 1896–1974; born Santa Rosalía de Camargo, Chihuahua, Mexico; died Cuernavaca, Morelos, Mexico",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"David Alfaro Siqueiros (1896–1974; born Santa Rosalía de Camargo, Chihuahua, Mexico; died Cuernavaca, Morelos, Mexico), Mother's Love, 1968. Color lithograph; 53.3 x 39.1 cm (image), 64.4 x 49.7 cm (sheet). Gift of David L. Meginnity, Class of 1958 (x1993-113)",
+    "captionhtml":"David Alfaro Siqueiros (1896–1974; born Santa Rosalía de Camargo, Chihuahua, Mexico; died Cuernavaca, Morelos, Mexico), <i>Mother's Love</i>, 1968. Color lithograph; 53.3 x 39.1 cm (image), 64.4 x 49.7 cm (sheet). Gift of David L. Meginnity, Class of 1958 (x1993-113)",
+    "published_date":"2025-10-16 12:22:37.529201",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":40749,
+    "objectnumber":"2002-46",
+    "sortnumber":"2002   46",
+    "displaytitle":"Cook's Island, Lake George",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1859,
+    "dateend":1859,
+    "datecomputed":1859,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1859",
+    "medium":"Graphite",
+    "dimensions":"31.2 x 45.7 cm (12 5/16 x 18 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the family and friends of Leonard L. Milberg, Class of 1953, in honor of his seventieth birthday",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Titled, dated, and signed in graphite, lower right: Cooks Island Lake George | 59. | D. Johnson",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2002-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Cook's Island, Lake George",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5477,
+            "displayname":"David Johnson",
+            "displaydate":"American, 1827–1908",
+            "datebegin":1827,
+            "dateend":1908,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David Johnson, American, 1827–1908",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Spanierman Gallery, LLC, 45 East 58th Street, NY, NY 1022-1617 [card]",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":6855,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2002-46_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":6856,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2002-46_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":110459,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33825",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2002,\" <em>Record of the Princeton University Art Museum</em> 62 (2003): p. 107-161., p. 122",
+            "date":2003,
+            "id":3022,
+            "uri":"https://www.jstor.org/stable/3774824"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 121, fig. 1; p. 321, checklist no. 500",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New York, Lake George",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Lake George",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5118424/lake-george.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120222,
+            "term":"islands",
+            "aatid":300008791,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2002-46_SL"
+    ],
+    "displaymaker":"David Johnson, American, 1827–1908",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"David Johnson (American, 1827–1908), Cook's Island, Lake George, 1859. Graphite; 31.2 x 45.7 cm. Museum purchase, gift of the family and friends of Leonard L. Milberg, Class of 1953, in honor of his seventieth birthday (2002-46)",
+    "captionhtml":"David Johnson (American, 1827–1908), <i>Cook's Island, Lake George</i>, 1859. Graphite; 31.2 x 45.7 cm. Museum purchase, gift of the family and friends of Leonard L. Milberg, Class of 1953, in honor of his seventieth birthday (2002-46)",
+    "published_date":"2025-10-16 14:11:26.098346",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

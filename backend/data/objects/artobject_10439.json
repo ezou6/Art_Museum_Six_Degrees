@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":10439,
+    "objectnumber":"x1962-80",
+    "sortnumber":"1962   80x",
+    "displaytitle":"Infanta",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1823,
+    "dateend":1886,
+    "datecomputed":1854,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Watercolors and oils over graphite",
+    "dimensions":"14.7 x 10.6 cm (5 13/16 x 4 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Joseph F. McCrindle",
+    "markings":"Stamp in ink, lower right: B [stylized] [Lugt 729b]",
+    "inscribed":"in ink, lower left: EI",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Infanta",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3663,
+            "displayname":"Juan Bautista Martinez del Mazo",
+            "displaydate":"Spanish, c. 1612–1667",
+            "datebegin":0,
+            "dateend":1667,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Juan Bautista Martinez del Mazo, Spanish, c. 1612–1667",
+            "displayorder":2
+        },
+        {
+            "id":5416,
+            "displayname":"Eugène Isabey",
+            "displaydate":"French, 1803–1886",
+            "datebegin":1803,
+            "dateend":1886,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Isabey, French, 1803–1886",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"J.A Boussac [Lugt 729b]; gift of&nbsp;Mr. Joseph McCrindle, New York",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":111085,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34268",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 18",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        },
+        {
+            "boilertext":"<i>19th and 20th century French drawings from the Art Museum, Princeton University: an introduction</i>, (Princeton, NJ: Distributed by Princeton University Press, 1972).",
+            "citation":"<i>19th and 20th century French drawings from the Art Museum, Princeton University: an introduction</i>, (Princeton, NJ: Distributed by Princeton University Press, 1972)., p. 93, cat. no. 52",
+            "date":1972,
+            "id":5277,
+            "uri":"http://www.worldcat.org/oclc/886677081"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2127695,
+            "term":"evening dresses",
+            "aatid":300243843,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089233,
+            "term":"princesses",
+            "aatid":300155241,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2146985,
+            "term":"standing",
+            "aatid":300239500,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34268"
+    ],
+    "displaymaker":"Eugène Isabey, French, 1803–1886 | after Juan Bautista Martinez del Mazo, Spanish, c. 1612–1667",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Isabey (French, 1803–1886), after Juan Bautista Martinez del Mazo (Spanish, c. 1612–1667), Infanta. Watercolors and oils over graphite; 14.7 x 10.6 cm. Gift of Joseph F. McCrindle (x1962-80)",
+    "captionhtml":"Eugène Isabey (French, 1803–1886), after Juan Bautista Martinez del Mazo (Spanish, c. 1612–1667), <i>Infanta</i>. Watercolors and oils over graphite; 14.7 x 10.6 cm. Gift of Joseph F. McCrindle (x1962-80)",
+    "published_date":"2025-10-16 11:21:53.429782",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

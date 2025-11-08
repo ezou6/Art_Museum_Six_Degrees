@@ -1,0 +1,189 @@
+{
+    "type":"artobject",
+    "objectid":18300,
+    "objectnumber":"x1992-254",
+    "sortnumber":"1992  254x",
+    "displaytitle":"untitled",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1991,
+    "dateend":1991,
+    "datecomputed":1991,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1991",
+    "medium":"Lithograph on white wove paper ",
+    "dimensions":"image: 35.4 x 38.4 cm (13 15/16 x 15 1/8 in.)\r\nsheet: 76 x 56.6 cm (29 15/16 x 22 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift through Edward Lucie-Smith",
+    "markings":"Watermark: Arches/France",
+    "inscribed":"",
+    "signed":"Signed dated and numbered in graphite, lower right: Leonard '91. 6/45",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"untitled",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4542,
+            "displayname":"Michael Leonard",
+            "displaydate":"British, born 1933",
+            "datebegin":1933,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Michael Leonard, British, born 1933",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":76297,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09310",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":76298,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09311",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 48",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"56.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"38.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09310"
+    ],
+    "displaymaker":"Michael Leonard, British, born 1933",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Michael Leonard (British, born 1933), untitled, 1991. Lithograph on white wove paper  ; 35.4 x 38.4 cm (image), 76 x 56.6 cm (sheet). Gift through Edward Lucie-Smith (x1992-254)",
+    "captionhtml":"Michael Leonard (British, born 1933), <i>untitled</i>, 1991. Lithograph on white wove paper  ; 35.4 x 38.4 cm (image), 76 x 56.6 cm (sheet). Gift through Edward Lucie-Smith (x1992-254)",
+    "published_date":"2025-10-16 12:22:10.507560",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

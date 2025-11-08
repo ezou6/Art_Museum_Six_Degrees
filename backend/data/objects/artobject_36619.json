@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":36619,
+    "objectnumber":"1998-356",
+    "sortnumber":"1998  356",
+    "displaytitle":"Vessel",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1450,
+    "dateend":-1350,
+    "datecomputed":-1400,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1400 BCE",
+    "medium":"Ceramic",
+    "dimensions":"10.1 x 8.4 x 6.5 cm (4 x 3 5/16 x 2 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vessel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Museum in 1998",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":35322,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV003462",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 51",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"<EM>Hidden heritage: the art of eastern Europe from the Stone Age to the Celts, </EM>(New York: Michael Ward Gallery, 1992).",
+            "citation":"<EM>Hidden heritage: the art of eastern Europe from the Stone Age to the Celts, </EM>(New York: Michael Ward Gallery, 1992)., cat. no. 28",
+            "date":1992,
+            "id":2120,
+            "uri":"http://www.worldcat.org/oclc/192549288"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, possibly Hungary, Northern Balkans",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"possibly Hungary",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Northern Balkans",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_47_20.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036358,
+            "term":"European Bronze Age styles and periods",
+            "aatid":300019358,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":16279,
+            "culture":"Vatin Culture",
+            "alphasort":"Vatin Culture",
+            "begindate":-1550,
+            "enddate":-750,
+            "displayculture":"Vatin Culture",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":23981,
+            "period":"European Bronze Age",
+            "alphasort":"European Bronze Age",
+            "begindate":-2300,
+            "enddate":-500,
+            "displayperiod":"European Bronze Age",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036358,
+            "period":"European Bronze Age styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.36"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"6.54"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV003462"
+    ],
+    "displaymaker":null,
+    "displayculture":"Vatin Culture",
+    "displayperiod":"European Bronze Age",
+    "caption":"Vatin Culture, European Bronze Age, possibly Hungary, ca. 1400 BCE, Vessel. Ceramic; 10.1 x 8.4 x 6.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-356)",
+    "captionhtml":"Vatin Culture, European Bronze Age, possibly Hungary, ca. 1400 BCE, <i>Vessel</i>. Ceramic; 10.1 x 8.4 x 6.5 cm. Bequest of John B. Elliott, Class of 1951 (1998-356)",
+    "published_date":"2025-10-16 13:54:12.578147",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,259 @@
+{
+    "type":"artobject",
+    "objectid":45255,
+    "objectnumber":"x1942-314",
+    "sortnumber":"1942  314x",
+    "displaytitle":"Yayoi no hinagata (弥生の雛形)",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1780,
+    "dateend":1789,
+    "datecomputed":1784,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1780s",
+    "medium":"Woodblock print; ink and color on paper",
+    "dimensions":"sheet: 39.1 x 25.8 cm. (15 3/8 x 10 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"[Source Unknown (possible gift of C.O.V. Kienbusch)]",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Yayoi no hinagata (弥生の雛形)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1129,
+            "displayname":"Katsushika Hokusai 葛飾北斎",
+            "displaydate":"1760–1849; born and died Tokyo, Japan",
+            "datebegin":1760,
+            "dateend":1849,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Katsushika Hokusai 葛飾北斎, 1760–1849; born and died Tokyo, Japan",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":57710,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV02914",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":57711,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV02917",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088539,
+            "term":"courtesans",
+            "aatid":300236521,
+            "termtype":"Subject"
+        },
+        {
+            "id":2034112,
+            "term":"Japanese printmaking styles",
+            "aatid":300106750,
+            "termtype":"Classification"
+        },
+        {
+            "id":2105602,
+            "term":"eating and drinking spaces",
+            "aatid":300004332,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106630,
+            "term":"rooms",
+            "aatid":300004044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2155129,
+            "term":"woodcut",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043820,
+            "term":"paper",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2055845,
+            "term":"color",
+            "aatid":300056130,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2034112,
+            "classification":"japanese printmaking styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV02914"
+    ],
+    "displaymaker":"Katsushika Hokusai 葛飾北斎, 1760–1849; born and died Tokyo, Japan",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Katsushika Hokusai 葛飾北斎 (1760–1849; born and died Tokyo, Japan), Yayoi no hinagata (弥生の雛形), 1780s. Woodblock print; ink and color on paper; 39.1 x 25.8 cm (sheet). [Source Unknown (possible gift of C.O.V. Kienbusch)] (x1942-314)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Katsushika Hokusai 葛飾北斎 (1760–1849; born and died Tokyo, Japan), <i>Yayoi no hinagata (弥生の雛形)</i>, 1780s. Woodblock print; ink and color on paper; 39.1 x 25.8 cm (sheet). [Source Unknown (possible gift of C.O.V. Kienbusch)] (x1942-314)",
+    "published_date":"2025-10-22 02:02:35.200927",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

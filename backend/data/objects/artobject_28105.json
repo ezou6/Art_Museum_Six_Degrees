@@ -1,0 +1,276 @@
+{
+    "type":"artobject",
+    "objectid":28105,
+    "objectnumber":"y1956-92",
+    "sortnumber":"1956   92y",
+    "displaytitle":"Ladies in a Garden",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1800,
+    "dateend":1899,
+    "datecomputed":1850,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"undated; 19th century",
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"148 x 93 cm. (58 1/4 x 36 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Hugh Trumbull Adams, Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1956-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Ladies in a Garden",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":70639,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1956-92",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61845,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08254",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14., p. 12",
+            "date":1957,
+            "id":1830,
+            "uri":"https://www.jstor.org/stable/3774252"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"148.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"93.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":198743,
+            "name":"PUAM_Roots and Blooms: Gardens"
+        },
+        {
+            "packageid":194704,
+            "name":"PUAM_Gardens_Evergreen"
+        },
+        {
+            "packageid":204034,
+            "name":"Teaching Kit Reproductions 16 x 20 and 8 1/2 x 11"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":191705,
+            "name":"PUAM_Exploring Community"
+        },
+        {
+            "packageid":217094,
+            "name":"Web_test"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1956-92"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Anonymous, Ladies in a Garden, undated; 19th century. Hanging scroll; ink and color on silk; 148 x 93 cm. Gift of Hugh Trumbull Adams, Class of 1935 (y1956-92)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Anonymous, <i>Ladies in a Garden</i>, undated; 19th century. Hanging scroll; ink and color on silk; 148 x 93 cm. Gift of Hugh Trumbull Adams, Class of 1935 (y1956-92)",
+    "published_date":"2025-10-16 13:05:41.896400",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

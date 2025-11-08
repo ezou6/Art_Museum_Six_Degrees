@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":40184,
+    "objectnumber":"2001-85",
+    "sortnumber":"2001   85",
+    "displaytitle":"Jaguar",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1962,
+    "dateend":1962,
+    "datecomputed":1962,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1962",
+    "medium":"Bronze",
+    "dimensions":"with base: 19.7 × 40.6 × 14.9 cm (7 3/4 × 16 × 5 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of David L. Meginnity, Class of 1958",
+    "markings":null,
+    "inscribed":"On the back of jaguar's leg: OM 7",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Luis Ortiz Monasterio",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2001-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Jaguar",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1139,
+            "displayname":"Luis Ortiz Monasterio",
+            "displaydate":"Mexican, 1906–1990",
+            "datebegin":1906,
+            "dateend":1990,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Luis Ortiz Monasterio, Mexican, 1906–1990",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Iturralde Gallery, Los Angeles, CA (by 2000; sold to Meginnity); David L. Meginnity, Class of 1958, Santa Monica, CA and New Smyrna Beach, FL (until 2001; bequest to the Princeton University Art Museum).",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":140396,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62486",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140397,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62487",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":140398,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV62488",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2001,\" <EM>Record of the Princeton University Art Museum</EM> 61 (2002): p. 101-142., p. 106",
+            "date":2002,
+            "id":3028,
+            "uri":"https://www.jstor.org/stable/3774768"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Mexico City",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":"Mexico City",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3530597/mexico-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158072,
+            "term":"jaguars",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038506,
+            "term":"Mexican",
+            "aatid":300107963,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        },
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038506,
+            "culture":"Mexican"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"14.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV62487"
+    ],
+    "displaymaker":"Luis Ortiz Monasterio, Mexican, 1906–1990",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Luis Ortiz Monasterio (Mexican, 1906–1990), Jaguar, 1962. Bronze; 19.7 × 40.6 × 14.9 cm (with base). Bequest of David L. Meginnity, Class of 1958 (2001-85)",
+    "captionhtml":"Luis Ortiz Monasterio (Mexican, 1906–1990), <i>Jaguar</i>, 1962. Bronze; 19.7 × 40.6 × 14.9 cm (with base). Bequest of David L. Meginnity, Class of 1958 (2001-85)",
+    "published_date":"2025-10-30 02:06:48.002196",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,247 @@
+{
+    "type":"artobject",
+    "objectid":42652,
+    "objectnumber":"2006-6",
+    "sortnumber":"2006    6",
+    "displaytitle":"Falcon",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Etching in two colors",
+    "dimensions":"plate: 63.4 × 50.4 cm (24 15/16 × 19 13/16 in.)\r\nsheet: 88.5 × 71 cm (34 13/16 × 27 15/16 in.)\r\nmat: 101.6 × 76.2 cm (40 × 30 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art",
+    "markings":null,
+    "inscribed":"Numbered, signed, and dated in graphite, below plate left and right: 19//30 / Kiki Smith 2001",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Kiki Smith",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Falcon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2453,
+            "displayname":"Kiki Smith",
+            "displaydate":"born 1954, Nuremburg, Germany; active New York, NY",
+            "datebegin":1954,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kiki Smith, born 1954, Nuremburg, Germany; active New York, NY",
+            "displayorder":1
+        },
+        {
+            "id":19705,
+            "displayname":"Harlan and Weaver, Inc.",
+            "displaydate":"American, founded 1984",
+            "datebegin":1984,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed and published by Harlan and Weaver, Inc., American, founded 1984",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":78764,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09575",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 54",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158040,
+            "term":"falcons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"63.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"88.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.00"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"101.59"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"76.19"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":196698,
+            "name":"MoCo-Feminism"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09575"
+    ],
+    "displaymaker":"Kiki Smith, born 1954, Nuremburg, Germany; active New York, NY | Printed and published by Harlan and Weaver, Inc., American, founded 1984",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kiki Smith (born 1954, Nuremburg, Germany; active New York, NY), Printed and published by Harlan and Weaver, Inc. (American, founded 1984), Falcon, 2001. Etching in two colors; 63.4 × 50.4 cm (plate), 88.5 × 71 cm (sheet), 101.6 × 76.2 cm (mat). Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2006-6)",
+    "captionhtml":"Kiki Smith (born 1954, Nuremburg, Germany; active New York, NY), Printed and published by Harlan and Weaver, Inc. (American, founded 1984), <i>Falcon</i>, 2001. Etching in two colors; 63.4 × 50.4 cm (plate), 88.5 × 71 cm (sheet), 101.6 × 76.2 cm (mat). Museum purchase, Kathleen Compton Sherrerd Fund for Acquisitions in American Art (2006-6)",
+    "published_date":"2025-10-16 14:20:42.402775",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

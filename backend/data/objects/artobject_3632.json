@@ -1,0 +1,291 @@
+{
+    "type":"artobject",
+    "objectid":3632,
+    "objectnumber":"x1941-15",
+    "sortnumber":"1941   15x",
+    "displaytitle":"Columbus Circle",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1935,
+    "dateend":1945,
+    "datecomputed":1940,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1940",
+    "medium":"Aquatint",
+    "dimensions":"plate: 22.8 x 25.2 cm. (9 x 9 15/16 in.)\r\nsheet: 28.2 x 35.9 cm. (11 1/8 x 14 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Federal Art Project, W.P.A. Loan",
+    "markings":null,
+    "inscribed":"Titled in graphite, lower center: Columbus Circle",
+    "signed":"Signed in graphite, lower right: Botts",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1941-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Columbus Circle",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":523,
+            "displayname":"Hugh Botts",
+            "displaydate":"American, 1903–1964",
+            "datebegin":1903,
+            "dateend":1964,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hugh Botts, American, 1903–1964",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105758,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30127",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105759,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30128",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, New York, Columbus Circle",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":"Columbus Circle",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5113384/columbus-circle.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078286,
+            "term":"skyscrapers",
+            "aatid":300004809,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098538,
+            "term":"night",
+            "aatid":300133095,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188479,
+            "term":"Federal Art Project, Graphic Arts Division",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2098626,
+            "term":"wind",
+            "aatid":300055395,
+            "termtype":"Subject"
+        },
+        {
+            "id":2188484,
+            "term":"Urban Landscapes",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101340,
+            "term":"automobiles",
+            "aatid":300178739,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2072072,
+            "term":"street lighting luminaires",
+            "aatid":300209428,
+            "termtype":"Subject"
+        },
+        {
+            "id":2104375,
+            "term":"traffic circles",
+            "aatid":300003880,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154980,
+            "term":"aquatint",
+            "aatid":300053242,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.90"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":177868,
+            "name":"web_WoPSR_2020_CityRising_EC/GD"
+        },
+        {
+            "packageid":188099,
+            "name":"x-image_descriptions_AL_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30127"
+    ],
+    "displaymaker":"Hugh Botts, American, 1903–1964",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hugh Botts (American, 1903–1964), Columbus Circle, ca. 1940. Aquatint; 22.8 x 25.2 cm (plate), 28.2 x 35.9 cm (sheet). Federal Art Project, W.P.A. Loan (x1941-15)",
+    "captionhtml":"Hugh Botts (American, 1903–1964), <i>Columbus Circle</i>, ca. 1940. Aquatint; 22.8 x 25.2 cm (plate), 28.2 x 35.9 cm (sheet). Federal Art Project, W.P.A. Loan (x1941-15)",
+    "published_date":"2025-10-16 10:25:35.762857",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

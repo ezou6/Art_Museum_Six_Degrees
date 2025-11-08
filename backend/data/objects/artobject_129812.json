@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":129812,
+    "objectnumber":"2017-63",
+    "sortnumber":"2017   63",
+    "displaytitle":"Last Supper in the Scuola di S. Rocco",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1669,
+    "dateend":1740,
+    "datecomputed":1704,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 56.5 × 39.6 cm (22 1/4 × 15 9/16 in.)\r\nsheet: 57.2 × 40.2 cm (22 1/2 × 15 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977",
+    "markings":null,
+    "inscribed":"In graphite, bottom left: 6",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Last Supper in the Scuola di S. Rocco",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1899,
+            "displayname":"Andrea Zucchi",
+            "displaydate":"Italian, 1679–1740",
+            "datebegin":1679,
+            "dateend":1740,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Andrea Zucchi, Italian, 1679–1740",
+            "displayorder":1
+        },
+        {
+            "id":2783,
+            "displayname":"Tintoretto (Jacopo Robusti)",
+            "displaydate":"Italian, 1518–1594",
+            "datebegin":1518,
+            "dateend":1594,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Tintoretto (Jacopo Robusti), Italian, 1518–1594",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Collection of Franco Mormando",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":217341,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1952749",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2069511,
+            "term":"tables (support furniture)",
+            "aatid":300039548,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"40.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1952749"
+    ],
+    "displaymaker":"Andrea Zucchi, Italian, 1679–1740 | after Tintoretto (Jacopo Robusti), Italian, 1518–1594",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Andrea Zucchi (Italian, 1679–1740), after Tintoretto (Jacopo Robusti) (Italian, 1518–1594), Last Supper in the Scuola di S. Rocco. Etching; 56.5 × 39.6 cm (plate), 57.2 × 40.2 cm (sheet). Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977 (2017-63)",
+    "captionhtml":"Andrea Zucchi (Italian, 1679–1740), after Tintoretto (Jacopo Robusti) (Italian, 1518–1594), <i>Last Supper in the Scuola di S. Rocco</i>. Etching; 56.5 × 39.6 cm (plate), 57.2 × 40.2 cm (sheet). Museum purchase, gift of Charles Scribner III, Class of 1973 and Graduate School Class of 1977 (2017-63)",
+    "published_date":"2025-10-16 18:39:00.391829",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

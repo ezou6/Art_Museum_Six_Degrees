@@ -1,0 +1,285 @@
+{
+    "type":"artobject",
+    "objectid":60785,
+    "objectnumber":"2011-25",
+    "sortnumber":"2011   25",
+    "displaytitle":"Thomas Alva Edison",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Platinum print",
+    "dimensions":"sheet (sight): 34 x 25.3 cm. (13 3/8 x 9 15/16 in.)\r\nframe: 53 × 44 cm (20 7/8 × 17 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2011-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Thomas Alva Edison",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16661,
+            "displayname":"Benjamin J. Falk",
+            "displaydate":"American, 1853–1925",
+            "datebegin":1853,
+            "dateend":1925,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Benjamin J. Falk, American, 1853–1925",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Falk was a highly regarded professional photographer known for his inventive portraits of Broadway stars that served as advertisements for the latest stage shows. His early adoption of artificial light, creative staging, and playful posing helped shaped American ideals of personal appearance, glamour, and publicity. Here the assured expression of Thomas Edison, who stands with his hands tucked into his pockets, conveys the confidence of an inventor at the zenith of his career.",
+            "remarks":"HOP rotation June 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":74634,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2011-25",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":74635,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2011-25_FRM",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132., pp. 94–95",
+            "date":2012,
+            "id":2987,
+            "uri":"https://www.jstor.org/stable/24416387"
+        },
+        {
+            "boilertext":"<i>Princeton University Art Museum: Handbook of the Collections </i>(Princeton, NJ: Princeton University Art Museum,&nbsp;2013)",
+            "citation":"<i>Princeton University Art Museum: Handbook of the Collections </i>(Princeton, NJ: Princeton University Art Museum,&nbsp;2013), p. 380",
+            "date":2013,
+            "id":1994,
+            "uri":"http://www.worldcat.org/oclc/865020505"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1573,
+            "citation":"Faces and Facets, Princeton University Art Museum (July 6–August 18, 2013)",
+            "isvirtual":true,
+            "begindate":"2013-07-06",
+            "enddate":"2013-08-18",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1573"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041270,
+            "term":"modern American styles and periods",
+            "aatid":300018115,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053593,
+            "term":"platinum prints",
+            "aatid":300127145,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154069,
+            "term":"platinum process",
+            "aatid":300053492,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053593,
+            "classification":"platinum prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2041270,
+            "period":"modern American styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.25"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":197269,
+            "name":"web_highlights -revised 2021"
+        },
+        {
+            "packageid":3342,
+            "name":"web_Faces+Facets"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2011-25"
+    ],
+    "displaymaker":"Benjamin J. Falk, American, 1853–1925",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Benjamin J. Falk (American, 1853–1925), Thomas Alva Edison, ca. 1900. Platinum print; 34 x 25.3 cm (sheet, sight), 53 × 44 cm (frame). Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell (2011-25)",
+    "captionhtml":"Benjamin J. Falk (American, 1853–1925), <i>Thomas Alva Edison</i>, ca. 1900. Platinum print; 34 x 25.3 cm (sheet, sight), 53 × 44 cm (frame). Museum purchase, gift of David and Kathryn Richardson, parents of Andrew Richardson, Class of 1992, and Matthew Richardson, Class of 1997, in honor of Peter C. Bunnell (2011-25)",
+    "published_date":"2025-10-16 15:53:57.597164",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

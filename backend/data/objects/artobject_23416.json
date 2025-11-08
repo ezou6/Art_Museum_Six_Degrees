@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":23416,
+    "objectnumber":"y1947-51",
+    "sortnumber":"1947   51y",
+    "displaytitle":"Swimming Fish (You yu tu 游魚圖 )",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1302,
+    "dateend":1302,
+    "datecomputed":1302,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1302",
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"Painting: 116.5 x 62 cm. (45 7/8 x 24 7/16 in.)\r\nMount: 20 x 72 cm. (7 7/8 x 28 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Six characters in ink on label adhered to edge of rolled scroll",
+    "inscribed":"inscription by Tang Yin, dated 1498",
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":4139,
+            "displayname":"Bao Jing 鮑敬",
+            "displaydate":"late 13th-early 14th centuries",
+            "datebegin":13,
+            "dateend":14,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Bao Jing 鮑敬, attributed to, late 13th-early 14th centuries",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":61095,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07981",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62527,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-51",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033561,
+            "term":"Yüan",
+            "aatid":300018436,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103924,
+            "term":"fish",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033561,
+            "period":"Yüan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"116.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.00"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"72.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-51"
+    ],
+    "displaymaker":"Bao Jing 鮑敬, attributed to, late 13th-early 14th centuries",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Bao Jing 鮑敬, attributed to (late 13th-early 14th centuries), Swimming Fish (You yu tu 游魚圖 ), 1302. Hanging scroll; ink and color on silk; 116.5 x 62 cm (Painting), 20 x 72 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-51)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Bao Jing 鮑敬, attributed to (late 13th-early 14th centuries), <i>Swimming Fish (You yu tu 游魚圖 )</i>, 1302. Hanging scroll; ink and color on silk; 116.5 x 62 cm (Painting), 20 x 72 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-51)",
+    "published_date":"2025-10-16 12:52:47.537340",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

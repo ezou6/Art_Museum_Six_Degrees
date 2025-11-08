@@ -1,0 +1,162 @@
+{
+    "type":"artobject",
+    "objectid":2567,
+    "objectnumber":"x1937-80",
+    "sortnumber":"1937   80x",
+    "displaytitle":"Pierre Charron",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1603,
+    "dateend":1603,
+    "datecomputed":1603,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 14.7 x 9.5 cm (5 13/16 x 3 3/4 in.)\r\nsheet: 16.8 x 10.7 cm (6 5/8 x 4 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"oval: PIERRE CHARRON PARISIEN AAGE DE 62 ANS. IL DECEDA A PARIS LE 16 NOVEMB 1603",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pierre Charron",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6078,
+            "displayname":"Léonard Gaultier",
+            "displaydate":"French, 1561–ca. 1635",
+            "datebegin":1561,
+            "dateend":1635,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Léonard Gaultier, French, 1561–ca. 1635",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Alfred Gabriel Hubert [1831-1908, Lugt 130]; presumably sale of his collection, Paris, May 25-29, 1909; Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":97024,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22676"
+    ],
+    "displaymaker":"Léonard Gaultier, French, 1561–ca. 1635",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Léonard Gaultier (French, 1561–ca. 1635), Pierre Charron. Engraving; 14.7 x 9.5 cm (plate), 16.8 x 10.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-80)",
+    "captionhtml":"Léonard Gaultier (French, 1561–ca. 1635), <i>Pierre Charron</i>. Engraving; 14.7 x 9.5 cm (plate), 16.8 x 10.7 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-80)",
+    "published_date":"2025-10-23 16:41:05.163365",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,226 @@
+{
+    "type":"artobject",
+    "objectid":15167,
+    "objectnumber":"x1983-115",
+    "sortnumber":"1983  115x",
+    "displaytitle":"Jardin des Tuileries, Pavilion de Flore",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1902,
+    "dateend":1912,
+    "datecomputed":1907,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1907",
+    "medium":"Albumen print",
+    "dimensions":"17.6 x 21.9 cm (6 15/16 x 8 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Saul Reinfeld",
+    "markings":"Numbered in negative, lower left: [reversed] 54[3 or 8?]",
+    "inscribed":"Titled in graphite, verso along left edge: [in one hand] Tuileries / [in another hand] Jardin des / Tuileries \r\n",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":156,
+            "displayname":"Eugène Atget",
+            "displaydate":"French, 1857–1927",
+            "datebegin":1857,
+            "dateend":1927,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eugène Atget, French, 1857–1927",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85880,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12326",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42.",
+            "citation":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42., p. 34",
+            "date":1984,
+            "id":1857,
+            "uri":"https://www.jstor.org/stable/3774671"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1558,
+            "citation":"Two Views: Atget & Friedlander (December 15, 2012–March 10, 2013)",
+            "isvirtual":true,
+            "begindate":"2012-12-15",
+            "enddate":"2013-03-10",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1558"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris, Jardin des Tuileries, the Louvre",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":"Jardin des Tuileries, the Louvre",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6452747/jardin-des-tuileries.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2080979,
+            "term":"fountains",
+            "aatid":300006179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119841,
+            "term":"ponds",
+            "aatid":300008688,
+            "termtype":"Subject"
+        },
+        {
+            "id":2192256,
+            "term":"gardens (open spaces)",
+            "aatid":300008090,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204087,
+            "name":"image_descriptions_Photography-A"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12326"
+    ],
+    "displaymaker":"Eugène Atget, French, 1857–1927",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eugène Atget (French, 1857–1927), Jardin des Tuileries, Pavilion de Flore, ca. 1907. Albumen print; 17.6 x 21.9 cm. Gift of Mrs. Saul Reinfeld (x1983-115)",
+    "captionhtml":"Eugène Atget (French, 1857–1927), <i>Jardin des Tuileries, Pavilion de Flore</i>, ca. 1907. Albumen print; 17.6 x 21.9 cm. Gift of Mrs. Saul Reinfeld (x1983-115)",
+    "published_date":"2025-10-16 11:59:27.400530",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

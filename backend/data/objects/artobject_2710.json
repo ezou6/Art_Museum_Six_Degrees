@@ -1,0 +1,193 @@
+{
+    "type":"artobject",
+    "objectid":2710,
+    "objectnumber":"x1943-112",
+    "sortnumber":"1943  112x",
+    "displaytitle":"The Ploughman's Meal",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":0,
+    "dateend":1943,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Lithograph",
+    "dimensions":"image: 17.7 x 15 cm. (6 15/16 x 5 7/8 in.)\r\nsheet: 48.3 x 35.5 cm. (19 x 14 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":"Printed lower center: 11",
+    "signed":"Monogram in plate, lower right\r\nSigned in plate, lower center: Paterson",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Ploughman's Meal",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4178,
+            "displayname":"Paterson",
+            "displaydate":"American",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Paterson, American",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104679,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29097",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":104680,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29098",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2139076,
+            "term":"plows (agricultural equipment)",
+            "aatid":300233317,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29097"
+    ],
+    "displaymaker":"Paterson, American",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Paterson (American), The Ploughman's Meal. Lithograph; 17.7 x 15 cm (image), 48.3 x 35.5 cm (sheet). Museum purchase (x1943-112)",
+    "captionhtml":"Paterson (American), <i>The Ploughman's Meal</i>. Lithograph; 17.7 x 15 cm (image), 48.3 x 35.5 cm (sheet). Museum purchase (x1943-112)",
+    "published_date":"2025-10-23 16:41:34.794331",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

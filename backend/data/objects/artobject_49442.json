@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":49442,
+    "objectnumber":"2006-125",
+    "sortnumber":"2006  125",
+    "displaytitle":"I Want to Take Picture",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1987,
+    "dateend":1987,
+    "datecomputed":1987,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1987",
+    "medium":"Offset lithographic reproductions of photographs",
+    "dimensions":"38.7 x 29.5 cm. (15 1/4 x 11 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Bill Burke",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"I Want to Take Picture",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12834,
+            "displayname":"Bill Burke",
+            "displaydate":"American, born 1943",
+            "datebegin":1943,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Bill Burke, American, born 1943",
+            "displayorder":1
+        },
+        {
+            "id":14252,
+            "displayname":"Nexus Press",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":null,
+            "role":"Press",
+            "displaymaker":"Printed and published by Nexus Press",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":118940,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41286",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118941,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41287",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118942,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41288",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118943,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41289",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118944,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41290",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 81",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Georgia, Atlanta",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Georgia",
+            "city":"Atlanta",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4180439/atlanta.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155034,
+            "term":"offset lithography",
+            "aatid":300192900,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41286"
+    ],
+    "displaymaker":"Bill Burke, American, born 1943 | Printed and published by Nexus Press",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bill Burke (American, born 1943), Printed and published by Nexus Press, I Want to Take Picture, 1987. Offset lithographic reproductions of photographs; 38.7 x 29.5 cm. Gift of James Kraft, Class of 1957 (2006-125)",
+    "captionhtml":"Bill Burke (American, born 1943), Printed and published by Nexus Press, <i>I Want to Take Picture</i>, 1987. Offset lithographic reproductions of photographs; 38.7 x 29.5 cm. Gift of James Kraft, Class of 1957 (2006-125)",
+    "published_date":"2025-10-16 15:06:21.954315",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

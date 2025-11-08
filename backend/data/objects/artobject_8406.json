@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":8406,
+    "objectnumber":"x1951-55",
+    "sortnumber":"1951   55x",
+    "displaytitle":"Gesturing youth",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1529,
+    "dateend":1571,
+    "datecomputed":1550,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Pen and brown ink and brown wash over black chalk, heightened with white",
+    "dimensions":"24.3 x 13.8 cm. (9 9/16 x 5 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frank Jewett Mather Jr.",
+    "markings":"in black ink, lower right: M [in square] [Lugt 1853a]",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1951-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Gesturing youth",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4,
+            "displayname":"Niccolò dell' Abbate",
+            "displaydate":"1509/1512 – 1571; born Modena, Italy; died Fontainbleau, France",
+            "datebegin":1509,
+            "dateend":1571,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Niccolò dell' Abbate, 1509/1512 – 1571; born Modena, Italy; died Fontainbleau, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":22262,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1951-55",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 10, no. 2 (1951): p. 22-23., p. 23",
+            "date":1951,
+            "id":862,
+            "uri":"https://www.jstor.org/stable/3774224"
+        },
+        {
+            "boilertext":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977).",
+            "citation":"Felton Gibbons, <i>Catalogue of Italian Drawings in The Art Museum, Princeton University</i>, (Princeton, NJ: Princeton University Press, 1977)., Vol. 1: p. 3, no. 1 (illustrated in Vol. 2 under the same catalog number)",
+            "date":1977,
+            "id":263,
+            "uri":"http://www.worldcat.org/oclc/2136968"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2146985,
+            "term":"standing",
+            "aatid":300239500,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        },
+        {
+            "id":2153720,
+            "term":"heightening",
+            "aatid":300053418,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":206377,
+            "name":"image_descriptions_AD"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1951-55"
+    ],
+    "displaymaker":"Niccolò dell' Abbate, 1509/1512 – 1571; born Modena, Italy; died Fontainbleau, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Niccolò dell' Abbate (1509/1512 – 1571; born Modena, Italy; died Fontainbleau, France), Gesturing youth. Pen and brown ink and brown wash over black chalk, heightened with white; 24.3 x 13.8 cm. Gift of Frank Jewett Mather Jr. (x1951-55)",
+    "captionhtml":"Niccolò dell' Abbate (1509/1512 – 1571; born Modena, Italy; died Fontainbleau, France), <i>Gesturing youth</i>. Pen and brown ink and brown wash over black chalk, heightened with white; 24.3 x 13.8 cm. Gift of Frank Jewett Mather Jr. (x1951-55)",
+    "published_date":"2025-10-16 11:08:14.640498",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":9893,
+    "objectnumber":"x1957-70",
+    "sortnumber":"1957   70x",
+    "displaytitle":"Old Rouen",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1927,
+    "dateend":1927,
+    "datecomputed":1927,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1927",
+    "medium":"Etching",
+    "dimensions":"plate: 17.6 x 9.7 cm (6 15/16 x 3 13/16 in.)\r\nsheet: 30.4 x 18.2 cm (11 15/16 x 7 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of John Taylor Arms, Class of 1909, and the Class of 1909",
+    "markings":null,
+    "inscribed":"In plate, lower right: OLD ROUEN\r\nIn graphite: 205 [Bassham CR reference]",
+    "signed":"Signed and dated in graphite, lower right below plate: John Taylor Arms-1927",
+    "catalograisonne":"Fletcher 203",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Old Rouen",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":138,
+            "displayname":"John Taylor Arms",
+            "displaydate":"1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "datebegin":1887,
+            "dateend":1953,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT",
+            "displayorder":1
+        },
+        {
+            "id":22179,
+            "displayname":"Frederick Thomas Reynolds",
+            "displaydate":"1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "datebegin":1882,
+            "dateend":1945,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105812,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30176",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 42",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Rouen",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Rouen",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111658,
+            "term":"doorways",
+            "aatid":300002767,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2113101,
+            "term":"chimneys (architectural elements)",
+            "aatid":300003933,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2109715,
+            "term":"dormers",
+            "aatid":300002232,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30176"
+    ],
+    "displaymaker":"John Taylor Arms, 1887–1953; born Washington, D.C.; died Fairfield, CT | Printed by Frederick Thomas Reynolds, 1882–1945; born London, UK; died Riverton, NJ; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), Old Rouen, 1927. Etching; 17.6 x 9.7 cm (plate), 30.4 x 18.2 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-70)",
+    "captionhtml":"John Taylor Arms (1887–1953; born Washington, D.C.; died Fairfield, CT), Printed by Frederick Thomas Reynolds (1882–1945; born London, UK; died Riverton, NJ; active New York, NY), <i>Old Rouen</i>, 1927. Etching; 17.6 x 9.7 cm (plate), 30.4 x 18.2 cm (sheet). Gift of John Taylor Arms, Class of 1909, and the Class of 1909 (x1957-70)",
+    "published_date":"2025-10-16 11:18:23.976654",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":55346,
+    "objectnumber":"2008-75",
+    "sortnumber":"2008   75",
+    "displaytitle":"Scene from Roman History",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1585,
+    "dateend":1585,
+    "datecomputed":1585,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1585",
+    "medium":"Pen and brown ink and brown wash, heightened with white",
+    "dimensions":"22.7 x 28.3 cm (8 15/16 x 11 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"in ink, lower right: [illegible] Rome | 1585",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Scene from Roman History",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5163,
+            "displayname":"Joseph Heintz the Elder",
+            "displaydate":"Swiss, 1564–1609",
+            "datebegin":1564,
+            "dateend":1609,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Joseph Heintz the Elder, Swiss, 1564–1609",
+            "displayorder":1
+        },
+        {
+            "id":6237,
+            "displayname":"Polidoro Caldara, called Polidoro da Caravaggio",
+            "displaydate":"Italian, 1499 - 1543",
+            "datebegin":1499,
+            "dateend":1543,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Polidoro Caldara, called Polidoro da Caravaggio, Italian, 1499 - 1543",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>William Randolph Hearst, California; </p><p>private collection, New York; </p><p>Monroe Warshaw, New York.</p><p>Purchased by Princeton University Art Museum</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":16599,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2008-9",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":24645,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2008-75",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 77 (illus.)",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031678,
+            "term":"Swiss",
+            "aatid":300111221,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2096234,
+            "term":"historical, theoretical and critical concepts: visual arts",
+            "aatid":300165712,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127566,
+            "term":"robes",
+            "aatid":300046159,
+            "termtype":"Subject"
+        },
+        {
+            "id":2153720,
+            "term":"heightening",
+            "aatid":300053418,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2141104,
+            "term":"artists' brushes",
+            "aatid":300022552,
+            "termtype":"Tools"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031678,
+            "culture":"Swiss"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":224151,
+            "name":"2023_ART209_02_22"
+        },
+        {
+            "packageid":218101,
+            "name":"web_TDC-Final [5]"
+        },
+        {
+            "packageid":212565,
+            "name":"2022_ART442_03_31"
+        },
+        {
+            "packageid":210384,
+            "name":"TDC-Final [4]"
+        },
+        {
+            "packageid":209999,
+            "name":"2022_ART442_03_17"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2008-75"
+    ],
+    "displaymaker":"Joseph Heintz the Elder, Swiss, 1564–1609 | after Polidoro Caldara, called Polidoro da Caravaggio, Italian, 1499 - 1543",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Joseph Heintz the Elder (Swiss, 1564–1609), after Polidoro Caldara, called Polidoro da Caravaggio (Italian, 1499 - 1543), Scene from Roman History, 1585. Pen and brown ink and brown wash, heightened with white; 22.7 x 28.3 cm. Museum purchase, Laura P. Hall Memorial Fund (2008-75)",
+    "captionhtml":"Joseph Heintz the Elder (Swiss, 1564–1609), after Polidoro Caldara, called Polidoro da Caravaggio (Italian, 1499 - 1543), <i>Scene from Roman History</i>, 1585. Pen and brown ink and brown wash, heightened with white; 22.7 x 28.3 cm. Museum purchase, Laura P. Hall Memorial Fund (2008-75)",
+    "published_date":"2025-10-23 17:25:26.579994",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

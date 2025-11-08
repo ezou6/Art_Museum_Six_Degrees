@@ -1,0 +1,161 @@
+{
+    "type":"artobject",
+    "objectid":10183,
+    "objectnumber":"x1960-14",
+    "sortnumber":"1960   14x",
+    "displaytitle":"Omar Talon",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1620,
+    "dateend":1650,
+    "datecomputed":1635,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 32 x 23.5 cm. (12 5/8 x 9 1/4 in.)\r\nsheet: 33 x 24.7 cm. (13 x 9 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gilbert S. McClintock, Class of 1908",
+    "markings":null,
+    "inscribed":"left: P. Champaigne Pin.; right: Morin scul.et ex.; caption: Audomarus Talaeus...",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1960-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Omar Talon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3873,
+            "displayname":"Jean Morin",
+            "displaydate":"French, 1600–1650",
+            "datebegin":1600,
+            "dateend":1650,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Morin, French, 1600–1650",
+            "displayorder":1
+        },
+        {
+            "id":6394,
+            "displayname":"Philippe de Champaigne",
+            "displaydate":"1602–1674; born Brussels, Belgium; died Paris, France",
+            "datebegin":1602,
+            "dateend":1674,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Philippe de Champaigne, 1602–1674; born Brussels, Belgium; died Paris, France",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":98737,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24076",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24076"
+    ],
+    "displaymaker":"Jean Morin, French, 1600–1650 | after Philippe de Champaigne, 1602–1674; born Brussels, Belgium; died Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Morin (French, 1600–1650), after Philippe de Champaigne (1602–1674; born Brussels, Belgium; died Paris, France), Omar Talon. Engraving; 32 x 23.5 cm (plate), 33 x 24.7 cm (sheet). Bequest of Gilbert S. McClintock, Class of 1908 (x1960-14)",
+    "captionhtml":"Jean Morin (French, 1600–1650), after Philippe de Champaigne (1602–1674; born Brussels, Belgium; died Paris, France), <i>Omar Talon</i>. Engraving; 32 x 23.5 cm (plate), 33 x 24.7 cm (sheet). Bequest of Gilbert S. McClintock, Class of 1908 (x1960-14)",
+    "published_date":"2025-10-23 16:52:22.737275",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

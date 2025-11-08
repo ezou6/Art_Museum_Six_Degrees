@@ -1,0 +1,253 @@
+{
+    "type":"artobject",
+    "objectid":16533,
+    "objectnumber":"x1987-19",
+    "sortnumber":"1987   19x",
+    "displaytitle":"Impressa",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1979,
+    "dateend":1979,
+    "datecomputed":1979,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1979, printed 1987",
+    "medium":"Gelatin silver print",
+    "dimensions":"24.1 × 19.4 cm (9 1/2 × 7 5/8 in.)\r\nmount: 38.4 x 33.7 cm. (15 1/8 x 13 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of the Horace W. Goldsmith Foundation",
+    "markings":null,
+    "inscribed":"Signed, titled, and dated in graphite, verso of board and mat back: Thomas Carabasi / Impressa / n. 1979 / p. 1987\r\nIn graphite, verso of mat face lower center: Statue",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 1979, Thomas Carabasi",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1987-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Impressa",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4742,
+            "displayname":"Frederick William MacMonnies",
+            "displaydate":"1863–1937; born and died New York, NY",
+            "datebegin":1863,
+            "dateend":1937,
+            "prefix":"Sculpture by",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sculpture by Frederick William MacMonnies, 1863–1937; born and died New York, NY",
+            "displayorder":2
+        },
+        {
+            "id":6274,
+            "displayname":"Thomas Carabasi",
+            "displaydate":"American, born 1954",
+            "datebegin":1954,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Carabasi, American, born 1954",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85190,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11744",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54.",
+            "citation":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54., p. 40",
+            "date":1988,
+            "id":542,
+            "uri":"https://www.jstor.org/stable/3774608"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New Jersey, Princeton, Princeton Battle Monument",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Princeton Battle Monument",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5102925/princeton-battle-monument.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083123,
+            "term":"war memorials",
+            "aatid":300006957,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156302,
+            "term":"dry mounting",
+            "aatid":300053567,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.40"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11744"
+    ],
+    "displaymaker":"Thomas Carabasi, American, born 1954 | Sculpture by Frederick William MacMonnies, 1863–1937; born and died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Carabasi (American, born 1954), Sculpture by Frederick William MacMonnies (1863–1937; born and died New York, NY), Impressa, 1979, printed 1987. Gelatin silver print; 24.1 × 19.4 cm. Museum purchase, gift of the Horace W. Goldsmith Foundation (x1987-19)",
+    "captionhtml":"Thomas Carabasi (American, born 1954), Sculpture by Frederick William MacMonnies (1863–1937; born and died New York, NY), <i>Impressa</i>, 1979, printed 1987. Gelatin silver print; 24.1 × 19.4 cm. Museum purchase, gift of the Horace W. Goldsmith Foundation (x1987-19)",
+    "published_date":"2025-10-16 12:10:18.844919",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,163 @@
+{
+    "type":"artobject",
+    "objectid":37415,
+    "objectnumber":"y1940-137",
+    "sortnumber":"1940  137y",
+    "displaytitle":"Flask with wheel-cut decoration",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":800,
+    "dateend":899,
+    "datecomputed":850,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"9th century",
+    "medium":"Glass",
+    "dimensions":"h. 8.9 cm, diam. 2.4 cm (3 1/2 x 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flask with wheel-cut decoration",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased from J. Khayat, New York.; <?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p>",
+            "remarks":"From accession card. "
+        }
+    ],
+    "media":[
+        {
+            "id":37418,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004142",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2037670,
+            "term":"Egyptian, Syrian and Iraqi Islamic styles and periods",
+            "aatid":300244014,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072973,
+            "term":"flasks (bottles)",
+            "aatid":300045671,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2072973,
+            "classification":"flasks (bottles)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":21079,
+            "culture":"Egyptian Islamic",
+            "alphasort":"Egyptian Islamic",
+            "begindate":652,
+            "enddate":0,
+            "displayculture":"probably Egyptian Islamic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2037670,
+            "period":"Egyptian, Syrian and Iraqi Islamic styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.90"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"2.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004142"
+    ],
+    "displaymaker":null,
+    "displayculture":"probably Egyptian Islamic",
+    "displayperiod":null,
+    "caption":"Probably Egyptian Islamic, 9th century, Flask with wheel-cut decoration. Glass; 8.9 x 2.4 cm. Museum purchase (y1940-137)",
+    "captionhtml":"Probably Egyptian Islamic, 9th century, <i>Flask with wheel-cut decoration</i>. Glass; 8.9 x 2.4 cm. Museum purchase (y1940-137)",
+    "published_date":"2025-10-16 13:58:53.529574",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

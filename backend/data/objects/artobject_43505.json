@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":43505,
+    "objectnumber":"2004-471",
+    "sortnumber":"2004  471",
+    "displaytitle":"30th Street Station, Philadelphia",
+    "department":"American Art",
+    "classification":"Paintings",
+    "datebegin":1997,
+    "dateend":1997,
+    "datecomputed":1997,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1997",
+    "medium":"Oil on canvas",
+    "dimensions":"30.5 x 30.3 cm (12 x 11 15/16 in.)\r\nframe: 44.8 x 44.8 x 2.5 cm (17 5/8 x 17 5/8 x 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Remak Ramsay, Class of 1958",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"30th Street Station, Philadelphia",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1387,
+            "displayname":"Kevin Beers",
+            "displaydate":"American, born 1952",
+            "datebegin":1952,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kevin Beers, American, born 1952",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121808,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44816",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":121809,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44817",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 93",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Pennsylvania, Philadelphia, 30th Street Station",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Pennsylvania",
+            "city":"Philadelphia",
+            "county":null,
+            "subregion":null,
+            "locale":"30th Street Station",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_39.957_-75.181.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111129,
+            "term":"platforms",
+            "aatid":300132129,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086796,
+            "term":"subway stations",
+            "aatid":300007780,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.50"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.80"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.80"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":204016,
+            "name":"x-COMPLETE-image_descriptions_American_Art_paintings"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44816"
+    ],
+    "displaymaker":"Kevin Beers, American, born 1952",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kevin Beers (American, born 1952), 30th Street Station, Philadelphia, 1997. Oil on canvas; 30.5 x 30.3 cm, 44.8 × 44.8 × 2.5 cm (frame). Gift of Remak Ramsay, Class of 1958 (2004-471)",
+    "captionhtml":"Kevin Beers (American, born 1952), <i>30th Street Station, Philadelphia</i>, 1997. Oil on canvas; 30.5 x 30.3 cm, 44.8 × 44.8 × 2.5 cm (frame). Gift of Remak Ramsay, Class of 1958 (2004-471)",
+    "published_date":"2025-10-16 14:23:44.113480",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,183 @@
+{
+    "type":"artobject",
+    "objectid":5401,
+    "objectnumber":"x1945-76",
+    "sortnumber":"1945   76x",
+    "displaytitle":"Business Neglected",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1851,
+    "dateend":1913,
+    "datecomputed":1882,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 34.5 x 25 cm. (13 9/16 x 9 13/16 in.)\r\nsheet: 46.4 x 35.7 cm. (18 1/4 x 14 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"Inscribed in plate, lower right: J.G. Brown",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1945-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Business Neglected",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6147,
+            "displayname":"John George Brown",
+            "displaydate":"1831–1913; born Durham, England; died New York, NY",
+            "datebegin":1831,
+            "dateend":1913,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John George Brown, 1831–1913; born Durham, England; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":106200,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30563",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2150797,
+            "term":"musical instruments",
+            "aatid":300041620,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30563"
+    ],
+    "displaymaker":"John George Brown, 1831–1913; born Durham, England; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John George Brown (1831–1913; born Durham, England; died New York, NY), Business Neglected. Etching; 34.5 x 25 cm (plate), 46.4 x 35.7 cm (sheet). Mather Collection (x1945-76)",
+    "captionhtml":"John George Brown (1831–1913; born Durham, England; died New York, NY), <i>Business Neglected</i>. Etching; 34.5 x 25 cm (plate), 46.4 x 35.7 cm (sheet). Mather Collection (x1945-76)",
+    "published_date":"2025-10-16 10:38:10.023185",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

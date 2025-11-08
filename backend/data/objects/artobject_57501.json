@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":57501,
+    "objectnumber":"y1957-154",
+    "sortnumber":"1957  154y",
+    "displaytitle":"Relief panels",
+    "department":"Asian Art",
+    "classification":"Rubbings",
+    "datebegin":220,
+    "dateend":589,
+    "datecomputed":404,
+    "daterange":"A.D. 1-500",
+    "displaydate":"undated (stone); late 19th to first half of 20th century (rubbing)",
+    "medium":"Hanging scroll; ink rubbing on paper",
+    "dimensions":"image: 24 x 122 cm. (9 7/16 x 48 1/16 in.)\r\n27.8 x 141 cm. (10 15/16 x 55 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of George Rowley",
+    "markings":"Outer titleslip:\r\npencil: “No date”\r\n",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Relief panels",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":59692,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04919",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":59693,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04953",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43.",
+            "citation":"Frances Follin Jones, \"Recent aquisitions of Ancient Art\", <em>Record of the Art Museum, Princeton University,</em> 17, no. 1 (1958): p. 41–43., p. 43",
+            "date":1958,
+            "id":3191,
+            "uri":"https://www.jstor.org/stable/i291447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2127399,
+            "term":"tigers",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033463,
+            "term":"Six Dynasties",
+            "aatid":300106385,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2101779,
+            "term":"carts",
+            "aatid":300212695,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103922,
+            "term":"cows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054786,
+            "term":"rubbings",
+            "aatid":300103035,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054786,
+            "classification":"rubbings"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12509,
+            "period":"Period of Disunity",
+            "alphasort":"Period of Disunity",
+            "begindate":220,
+            "enddate":589,
+            "displayperiod":"Period of Disunity, 220–589 CE",
+            "displaydate":"220–589 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033463,
+            "period":"Six Dynasties"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"141.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"122.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV04953"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Period of Disunity, 220–589 CE",
+    "caption":"Chinese, Period of Disunity (220–589 CE), Relief panels, undated (stone); late 19th to first half of 20th century (rubbing). Hanging scroll; ink rubbing on paper; 24 x 122 cm (image), 27.8 x 141 cm. Gift of George Rowley (y1957-154)",
+    "captionhtml":"Chinese, Period of Disunity (220–589 CE), <i>Relief panels</i>, undated (stone); late 19th to first half of 20th century (rubbing). Hanging scroll; ink rubbing on paper; 24 x 122 cm (image), 27.8 x 141 cm. Gift of George Rowley (y1957-154)",
+    "published_date":"2025-10-16 15:37:00.134341",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

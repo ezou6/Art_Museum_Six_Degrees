@@ -1,0 +1,76 @@
+{
+    "makerid":4505,
+    "published_date":"2022-03-28 16:06:08.617525",
+    "type":"maker",
+    "displayname":"Julio Le Parc",
+    "makertype":"Individual",
+    "alphasort":"Le Parc Julio",
+    "lastname":"Le Parc",
+    "firstname":"Julio",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"Argentinian, active France, born 1928",
+    "begindate":1928,
+    "enddate":2100,
+    "nationality":"Argentinian",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Julio Le Parc",
+            "alphasort":"Le Parc Julio",
+            "lastname":"Le Parc",
+            "firstname":"Julio",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500086043"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/95197227"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d7be47db2e6710016809939"
+            },
+            "title":"Forme en Contorsion sur Trame Rouge (Contorted Form on Red Web) in motion, view 1",
+            "description":"This video shows Forme en Contorsion sur Trame Rouge (Contorted Form on Red Web) by Julio Le Parc in motion as viewed from the front.",
+            "speaker_type":"",
+            "file_uri":"https://archive.org/details/dr_002_201909",
+            "transcript":"",
+            "source_project":"Other",
+            "displaydate":"2018",
+            "sort_date":"2018-01-01",
+            "video_type":"Collections",
+            "caption_file":[]
+        },
+        {
+            "_id":{
+                "$oid":"5d7be5bdb2e671001680993a"
+            },
+            "title":" Forme en Contorsion sur Trame Rouge (Contorted Form on Red Web) in motion, view 2",
+            "description":"This video shows Forme en Contorsion sur Trame Rouge (Contorted Form on Red Web) by Julio Le Parc in motion as viewed from an angle",
+            "speaker_type":"",
+            "file_uri":"https://archive.org/details/dr_003_201909",
+            "transcript":"",
+            "source_project":"Other",
+            "displaydate":"2018",
+            "sort_date":"2018-01-01",
+            "video_type":"Collections",
+            "caption_file":[]
+        }
+    ],
+    "essay":[]
+}

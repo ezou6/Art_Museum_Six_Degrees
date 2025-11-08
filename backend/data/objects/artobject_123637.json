@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":123637,
+    "objectnumber":"2016-7",
+    "sortnumber":"2016    7",
+    "displaytitle":"Bowl with face",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1275,
+    "dateend":1300,
+    "datecomputed":1288,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1275–1300",
+    "medium":"Ceramic with red, white, and black slips",
+    "dimensions":"10.2 × diam. 21.4 cm (4 × 8 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Peter Jay Sharp, Class of 1952, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bowl with face",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Atlantic Art Partners I, LLC (SH13); 1987  George Shaw, Aspen, CO; &lt;7/13/87 Jerry Collings, Sedona, AZ; Peter Wray, Scottsdale, AZ; Bill Hinkley, Scottsdale, AZ\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":203207,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_40041",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>",
+            "citation":"<p>\"Acquisitions of the Princeton University Art Museum 2016,\" <em>Record of the Art Museum, Princeton University</em> 75/76 (2016-17): 126-157.</p>, p. 134 (illus.)",
+            "date":2016,
+            "id":9662,
+            "uri":"https://www.jstor.org/stable/i40228781"
+        },
+        {
+            "boilertext":"<P>Barbara L. Moulard, <EM>Within the Underworld Sky: Mimbres Ceramic Art in Context</EM> (Pasadena: Twelvetree Press, 1984).</P>",
+            "citation":"<P>Barbara L. Moulard, <EM>Within the Underworld Sky: Mimbres Ceramic Art in Context</EM> (Pasadena: Twelvetree Press, 1984).</P>, pl. 96 (illus.)",
+            "date":1984,
+            "id":3137,
+            "uri":"http://www.worldcat.org/oclc/11594626"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Arizona, Tonto Basin",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American Southwest",
+            "country":"United States",
+            "region":null,
+            "state":"Arizona",
+            "city":"Tonto Basin",
+            "county":"Gila county",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5317749/tonto-basin.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188461,
+            "term":"Salado (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2168506,
+            "term":"black pigment",
+            "aatid":300013135,
+            "termtype":"Materials"
+        },
+        {
+            "id":2169378,
+            "term":"red pigment",
+            "aatid":300013533,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168058,
+            "term":"slip glaze",
+            "aatid":300015110,
+            "termtype":"Materials"
+        },
+        {
+            "id":2169717,
+            "term":"white pigment",
+            "aatid":300013723,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":18650,
+            "culture":"Salado",
+            "alphasort":"Salado",
+            "begindate":1200,
+            "enddate":1450,
+            "displayculture":"Salado",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2188461,
+            "culture":"Salado (culture or style)"
+        }
+    ],
+    "periods":[
+        {
+            "id":19334,
+            "period":"Roosevelt Red Ware, Pinto Polychrome",
+            "alphasort":"Roosevelt Red Ware",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Roosevelt Red Ware, Pinto Polychrome",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.15"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"21.43"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2016_40041"
+    ],
+    "displaymaker":null,
+    "displayculture":"Salado",
+    "displayperiod":"Roosevelt Red Ware, Pinto Polychrome",
+    "caption":"Salado, Roosevelt Red Ware, Pinto Polychrome, 1275–1300, Tonto Basin, Arizona, United States, American Southwest, Bowl with face. Ceramic with red, white, and black slips; 10.2 × 21.4 cm. Museum purchase, Peter Jay Sharp, Class of 1952, Fund (2016-7)",
+    "captionhtml":"Salado, Roosevelt Red Ware, Pinto Polychrome, 1275–1300, Tonto Basin, Arizona, United States, American Southwest, <i>Bowl with face</i>. Ceramic with red, white, and black slips; 10.2 × 21.4 cm. Museum purchase, Peter Jay Sharp, Class of 1952, Fund (2016-7)",
+    "published_date":"2025-10-16 18:22:19.468572",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,229 @@
+{
+    "type":"artobject",
+    "objectid":144550,
+    "objectnumber":"2024-337",
+    "sortnumber":"2024  337",
+    "displaytitle":"Havasu Memory",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2021,
+    "dateend":2021,
+    "datecomputed":2021,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2021",
+    "medium":"Digital print with inset copper",
+    "dimensions":"image: 35.5 × 70.9 cm (14 × 27 15/16 in.)\r\nsheet: 43.2 × 78.5 cm (17 × 30 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. Ferris Olin",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, titled, dated, and editioned: Kay WalkingStick, '21, 96/300, Havasu Memory",
+    "catalograisonne":null,
+    "creditlinerepro":"©Kay WalkingStick",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2024-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Havasu Memory",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"Havasu Revisited",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":11619,
+            "displayname":"New York Foundation for the Arts",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by New York Foundation for the Arts",
+            "displayorder":2
+        },
+        {
+            "id":23364,
+            "displayname":"Kay WalkingStick",
+            "displaydate":"Cherokee, born 1935; Syracuse, NY",
+            "datebegin":1935,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kay WalkingStick, Cherokee, born 1935; Syracuse, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Commissioned by [New York Foundation for the Arts]; acquired by Ferris Olin at NYFA Hall of Fame Benefit (all attendees received an impression), 2022; gift to Princeton University Art Museum, 2024.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":257101,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-76-3_ref",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, Arizona, Lake Havasu metro area",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Arizona",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Lake Havasu metro area",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/12213728/lake-havasu-city-kingman-az-metro-area.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2188610,
+            "term":"inkjet prints",
+            "aatid":null,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188589,
+            "term":"digital prints",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162034,
+            "term":"copper",
+            "aatid":300011020,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2188610,
+            "classification":"inkjet prints"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"78.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"70.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264438,
+            "name":"CFA-since-1-1-2024"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-76-3_ref"
+    ],
+    "displaymaker":"Kay WalkingStick, Cherokee, born 1935; Syracuse, NY | Published by New York Foundation for the Arts",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kay WalkingStick (Cherokee, born 1935; Syracuse, NY), Published by New York Foundation for the Arts, Havasu Memory, 2021. Digital print with inset copper; 35.5 × 70.9 cm (image), 43.2 × 78.5 cm (sheet). Gift of Dr. Ferris Olin (2024-337)",
+    "captionhtml":"Kay WalkingStick (Cherokee, born 1935; Syracuse, NY), Published by New York Foundation for the Arts, <i>Havasu Memory</i>, 2021. Digital print with inset copper; 35.5 × 70.9 cm (image), 43.2 × 78.5 cm (sheet). Gift of Dr. Ferris Olin (2024-337)",
+    "published_date":"2025-10-16 19:15:43.383100",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

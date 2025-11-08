@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":22161,
+    "objectnumber":"y1947-24",
+    "sortnumber":"1947   24y",
+    "displaytitle":"Myna on a Stalk of Bamboo",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1295,
+    "dateend":1305,
+    "datecomputed":1300,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"undated",
+    "medium":"Hanging scroll",
+    "dimensions":"Painting: 126 x 45.5 cm. (49 5/8 x 17 15/16 in.)\r\nMount: 260 x 59.5 cm. (102 3/8 x 23 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Eight characters in ink on label adhered to edge of rolled scroll",
+    "inscribed":null,
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Myna on a Stalk of Bamboo",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2837,
+            "displayname":"Zeng Rui 曾瑞",
+            "displaydate":"died ca. 1300",
+            "datebegin":1250,
+            "dateend":1300,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Zeng Rui 曾瑞, died ca. 1300",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":61071,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07949",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":62515,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-24",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033561,
+            "term":"Yüan",
+            "aatid":300018436,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033561,
+            "period":"Yüan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"126.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"260.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-24"
+    ],
+    "displaymaker":"Zeng Rui 曾瑞, died ca. 1300",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Zeng Rui 曾瑞 (died ca. 1300), Myna on a Stalk of Bamboo, undated. Hanging scroll; 126 x 45.5 cm (Painting), 260 x 59.5 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-24)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Zeng Rui 曾瑞 (died ca. 1300), <i>Myna on a Stalk of Bamboo</i>, undated. Hanging scroll; 126 x 45.5 cm (Painting), 260 x 59.5 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-24)",
+    "published_date":"2025-10-16 12:44:46.390107",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

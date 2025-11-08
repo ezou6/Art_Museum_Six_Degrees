@@ -1,0 +1,184 @@
+{
+    "type":"artobject",
+    "objectid":54455,
+    "objectnumber":"y1977-45",
+    "sortnumber":"1977   45y",
+    "displaytitle":"Pottery - Persian - jar",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":-3000,
+    "dateend":651,
+    "datecomputed":-1174,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Clay",
+    "dimensions":"23.6 x diam. 19 cm (9 5/16 x 7 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest from Melvin Hall",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":148011,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65771",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":148012,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV65772",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Iran, Tus",
+            "code":"Place collected",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Iran",
+            "region":null,
+            "state":null,
+            "city":"Tus",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_36.454_59.567.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037509,
+            "term":"Persian",
+            "aatid":300019933,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160353,
+            "term":"clay",
+            "aatid":300010439,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15653,
+            "culture":"Persian",
+            "alphasort":"Persian",
+            "begindate":-3000,
+            "enddate":651,
+            "displayculture":"Persian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037509,
+            "culture":"Persian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"19.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV65771"
+    ],
+    "displaymaker":null,
+    "displayculture":"Persian",
+    "displayperiod":null,
+    "caption":"Persian, Tus, Iran, Pottery - Persian - jar. Clay; 23.6 × 19 cm. Museum Collection (y1977-45)",
+    "captionhtml":"Persian, Tus, Iran, <i>Pottery - Persian - jar</i>. Clay; 23.6 × 19 cm. Museum Collection (y1977-45)",
+    "published_date":"2025-10-16 15:21:46.387020",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

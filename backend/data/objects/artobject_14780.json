@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":14780,
+    "objectnumber":"x1982-317",
+    "sortnumber":"1982  317x",
+    "displaytitle":"Her Majesty Queen Victoria",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1861,
+    "dateend":1861,
+    "datecomputed":1861,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1861",
+    "medium":"Albumen print",
+    "dimensions":"image (oval): 7.7 x 5.7 cm. (3 1/16 x 2 1/4 in.)\r\nsheet: 19.8 x 15.7 cm. (7 13/16 x 6 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Robert O. Dougan Collection, gift of Warner Communications, Inc.",
+    "markings":null,
+    "inscribed":"Printed in brown ink, lower center: HER MAJESTY QUEEN VICTORIA. / PHOTOGRAPHED BY MAYALL. / for the 1st Number of / \"THE QUEEN.\" / SEPTR 7th 1861",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Her Majesty Queen Victoria",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3655,
+            "displayname":"John Jabez Edwin Mayall",
+            "displaydate":"American, 1810–1901",
+            "datebegin":1810,
+            "dateend":1901,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Jabez Edwin Mayall, American, 1810–1901",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66466,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09133",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":66467,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09134",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087936,
+            "term":"royalty",
+            "aatid":300188750,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089219,
+            "term":"queens (people)",
+            "aatid":300025483,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2125777,
+            "term":"books",
+            "aatid":300028051,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2153946,
+            "classification":"albumen process"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.70"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":45184,
+            "name":"Website - Objects with Multiple parts"
+        },
+        {
+            "packageid":206378,
+            "name":"x-COMPLETE-image_descriptions_SP"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09134"
+    ],
+    "displaymaker":"John Jabez Edwin Mayall, American, 1810–1901",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Jabez Edwin Mayall (American, 1810–1901), Her Majesty Queen Victoria, 1861. Albumen print; 7.7 x 5.7 cm (image, oval), 19.8 x 15.7 cm (sheet). Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-317)",
+    "captionhtml":"John Jabez Edwin Mayall (American, 1810–1901), <i>Her Majesty Queen Victoria</i>, 1861. Albumen print; 7.7 x 5.7 cm (image, oval), 19.8 x 15.7 cm (sheet). Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-317)",
+    "published_date":"2025-10-16 11:57:06.400054",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

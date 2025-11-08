@@ -1,0 +1,166 @@
+{
+    "type":"artobject",
+    "objectid":37199,
+    "objectnumber":"1999-16",
+    "sortnumber":"1999   16",
+    "displaytitle":"L'Ange Heurtebise",
+    "department":"(not assigned)",
+    "classification":"Photographs",
+    "datebegin":1925,
+    "dateend":1925,
+    "datecomputed":1925,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1925",
+    "medium":"Book with rayogram in photogravure",
+    "dimensions":"image (rayogram): 29.5 x 23.5 cm. (11 5/8 x 9 1/4 in.)\r\nbook: 38 x 28.7 x 1.4 cm. (14 15/16 x 11 5/16 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"(Museum purchase)",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1999-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"L'Ange Heurtebise",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2239,
+            "displayname":"Man Ray",
+            "displaydate":"American, 1890–1976",
+            "datebegin":1890,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Man Ray, American, 1890–1976",
+            "displayorder":2
+        },
+        {
+            "id":6583,
+            "displayname":"Jean Cocteau",
+            "displaydate":"French, 1889–1963",
+            "datebegin":1889,
+            "dateend":1963,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Cocteau, French, 1889–1963",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":88360,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV14600",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":88361,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV14601",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":196701,
+            "name":"MoCo-Surrealism"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV14601"
+    ],
+    "displaymaker":"Jean Cocteau, French, 1889–1963 | Man Ray, American, 1890–1976",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Cocteau (French, 1889–1963), Man Ray (American, 1890–1976), L'Ange Heurtebise, 1925. Book with rayogram in photogravure; 29.5 x 23.5 cm (image, rayogram), 38 x 28.7 x 1.4 cm (book). (Museum purchase) (1999-16)",
+    "captionhtml":"Jean Cocteau (French, 1889–1963), Man Ray (American, 1890–1976), <i>L'Ange Heurtebise</i>, 1925. Book with rayogram in photogravure; 29.5 x 23.5 cm (image, rayogram), 38 x 28.7 x 1.4 cm (book). (Museum purchase) (1999-16)",
+    "published_date":"2025-10-16 13:57:53.515874",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

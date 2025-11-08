@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":42146,
+    "objectnumber":"2003-247.6",
+    "sortnumber":"2003  247     6",
+    "displaytitle":"Traffic Jam",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2001,
+    "dateend":2001,
+    "datecomputed":2001,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2001",
+    "medium":"Photogravure with aquatint",
+    "dimensions":"plate: 26 × 19 cm (10 1/4 × 7 1/2 in.)\r\nsheet: 46.4 × 36.8 cm (18 1/4 × 14 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":"Crown Point Press blindstamp, lower right corner",
+    "inscribed":"Numbered, signed, and dated in graphite, lower left and right corners: 2//25 / Shahzia Sikander ‘01",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Shahzia Sikander",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Traffic Jam",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":766,
+            "displayname":"Shahzia Sikander",
+            "displaydate":"born 1969, Lahore, Pakistan; active New York, NY",
+            "datebegin":1969,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Shahzia Sikander, born 1969, Lahore, Pakistan; active New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":113411,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV36450",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":113418,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV36457",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 117",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, California, San Francisco",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"San Francisco",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5391959/san-francisco.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051503,
+            "term":"silhouettes",
+            "aatid":300015423,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171855,
+            "term":"goddesses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171856,
+            "term":"gods",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054573,
+            "term":"aquatints",
+            "aatid":300041366,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        },
+        {
+            "id":2054573,
+            "classification":"aquatints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"46.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV36457"
+    ],
+    "displaymaker":"Shahzia Sikander, born 1969, Lahore, Pakistan; active New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Shahzia Sikander (born 1969, Lahore, Pakistan; active New York, NY), Traffic Jam, 2001. Photogravure with aquatint; 26 × 19 cm (plate), 46.4 × 36.8 cm (sheet). Museum purchase, Felton Gibbons Fund (2003-247.6)",
+    "captionhtml":"Shahzia Sikander (born 1969, Lahore, Pakistan; active New York, NY), <i>Traffic Jam</i>, 2001. Photogravure with aquatint; 26 × 19 cm (plate), 46.4 × 36.8 cm (sheet). Museum purchase, Felton Gibbons Fund (2003-247.6)",
+    "published_date":"2025-10-16 14:18:05.124726",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

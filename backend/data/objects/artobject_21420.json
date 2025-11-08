@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":21420,
+    "objectnumber":"y1940-169",
+    "sortnumber":"1940  169y",
+    "displaytitle":"Finger from a sculpture",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Metal",
+    "datebegin":-146,
+    "dateend":476,
+    "datecomputed":165,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Bronze with silver inlaid fingernail",
+    "dimensions":"1.7 x 6.4 x 2.9 cm (11/16 x 2 1/2 x 1 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of A. Hyatt Mayor, Class of 1922",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Finger from a sculpture",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by A. Hyatt Mayer",
+            "remarks":"Batch edit for Provenance publiaction project"
+        }
+    ],
+    "media":[
+        {
+            "id":105630,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1940-169",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        },
+        {
+            "id":105631,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1940-169_black_ground-2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<P>Carol C. Mattusch, with contributions by Beryl Barr-Sharrar, et. al., <EM>The fire of Hephaistos: large classical bronzes from North American collections</EM>,&nbsp;(Cambridge, MA: Harvard University Art Museums, 1996).</P>",
+            "citation":"<P>Carol C. Mattusch, with contributions by Beryl Barr-Sharrar, et. al., <EM>The fire of Hephaistos: large classical bronzes from North American collections</EM>,&nbsp;(Cambridge, MA: Harvard University Art Museums, 1996).</P>, p. 205, no. 10",
+            "date":1996,
+            "id":2243,
+            "uri":"http://www.worldcat.org/oclc/312207428"
+        },
+        {
+            "boilertext":"Carol C. Mattusch, <EM>Classical bronzes: the art and craft of Greek and Roman statuary</EM>, (Ithaca, NY: Cornell University Press, 1996).",
+            "citation":"Carol C. Mattusch, <EM>Classical bronzes: the art and craft of Greek and Roman statuary</EM>, (Ithaca, NY: Cornell University Press, 1996)., p. 26-27; fig. 1.18",
+            "date":1996,
+            "id":6766,
+            "uri":"http://www.worldcat.org/oclc/32969418"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Greece ?, Athens, Acropolis",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Greece ?",
+            "region":null,
+            "state":null,
+            "city":"Athens",
+            "county":null,
+            "subregion":null,
+            "locale":"Acropolis",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_37.972_23.726.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055271,
+            "term":"sculptures",
+            "aatid":300047203,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049420,
+            "term":"metalwork",
+            "aatid":300015336,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036723,
+            "term":"Roman (style or period)",
+            "aatid":300020533,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162319,
+            "term":"silver",
+            "aatid":300011029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055271,
+            "classification":"sculptures"
+        },
+        {
+            "id":2049420,
+            "classification":"metalwork"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13442,
+            "culture":"Roman",
+            "alphasort":"Roman",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Roman",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036723,
+            "period":"Roman (style or period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"1.69"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"6.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1940-169"
+    ],
+    "displaymaker":null,
+    "displayculture":"Roman",
+    "displayperiod":null,
+    "caption":"Roman, Athens, Greece ?, Finger from a sculpture. Bronze with silver inlaid fingernail; 1.7 x 6.4 x 2.9 cm. Gift of A. Hyatt Mayor, Class of 1922 (y1940-169)",
+    "captionhtml":"Roman, Athens, Greece ?, <i>Finger from a sculpture</i>. Bronze with silver inlaid fingernail; 1.7 x 6.4 x 2.9 cm. Gift of A. Hyatt Mayor, Class of 1922 (y1940-169)",
+    "published_date":"2025-10-16 12:40:16.692324",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

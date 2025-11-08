@@ -1,0 +1,190 @@
+{
+    "type":"artobject",
+    "objectid":31834,
+    "objectnumber":"y1971-8",
+    "sortnumber":"1971    8y",
+    "displaytitle":"Sentinel",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1960,
+    "dateend":1960,
+    "datecomputed":1960,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1960",
+    "medium":"Steel, black paint, plaster",
+    "dimensions":"h. 134 cm (52 3/4 in.)\r\nbase: 56.5 x 30.5 x 7 cm (22 1/4 x 12 x 2 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Arne Ekstrom",
+    "markings":null,
+    "inscribed":"Stamped on flange: E. HIGGINS 60",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Edward Higgins",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1971-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sentinel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5212,
+            "displayname":"Edward Higgins",
+            "displaydate":"American, born 1930",
+            "datebegin":1930,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edward Higgins, American, born 1930",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":197173,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92631",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197174,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92632",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":197175,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV92633",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>",
+            "citation":"<p>\"Acquisitions of the Art Museum 1971,\" <em>Record of the Art Museum, Princeton University,</em> 31 no. 1 (1972): p. 20-32.</p>, p. 29",
+            "date":1972,
+            "id":882,
+            "uri":"https://www.jstor.org/stable/3774565"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2161828,
+            "term":"steel",
+            "aatid":300133751,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167445,
+            "term":"plaster",
+            "aatid":300014922,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"base",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"56.50"
+        },
+        {
+            "element":"base",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.50"
+        },
+        {
+            "element":"base",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"134.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV92633"
+    ],
+    "displaymaker":"Edward Higgins, American, born 1930",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edward Higgins (American, born 1930), Sentinel, 1960. Steel, black paint, plaster; 134 cm, 56.5 x 30.5 x 7 cm (base). Gift of Arne Ekstrom (y1971-8)",
+    "captionhtml":"Edward Higgins (American, born 1930), <i>Sentinel</i>, 1960. Steel, black paint, plaster; 134 cm, 56.5 x 30.5 x 7 cm (base). Gift of Arne Ekstrom (y1971-8)",
+    "published_date":"2025-10-16 13:26:54.322886",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

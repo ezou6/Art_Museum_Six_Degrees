@@ -1,0 +1,154 @@
+{
+    "type":"artobject",
+    "objectid":48018,
+    "objectnumber":"x1935-1485",
+    "sortnumber":"1935 1485x",
+    "displaytitle":"Pygmalion",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1901,
+    "dateend":1919,
+    "datecomputed":1910,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 19.5 x 14.9 cm. (7 11/16 x 5 7/8 in.)\r\nsheet: 38.8 x 29 cm. (15 1/4 x 11 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum collection",
+    "markings":null,
+    "inscribed":"signed",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1935-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pygmalion",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2212,
+            "displayname":"Wilhelm Lehmbruck",
+            "displaydate":"1881–1919",
+            "datebegin":1881,
+            "dateend":1919,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wilhelm Lehmbruck, 1881–1919",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101351,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26119",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":101352,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26120",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"38.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26120"
+    ],
+    "displaymaker":"Wilhelm Lehmbruck, 1881–1919",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Wilhelm Lehmbruck (1881–1919), Pygmalion. Etching; 19.5 x 14.9 cm (plate), 38.8 x 29 cm (sheet). Museum collection (x1935-1485)",
+    "captionhtml":"Wilhelm Lehmbruck (1881–1919), <i>Pygmalion</i>. Etching; 19.5 x 14.9 cm (plate), 38.8 x 29 cm (sheet). Museum collection (x1935-1485)",
+    "published_date":"2025-10-23 17:21:46.045457",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

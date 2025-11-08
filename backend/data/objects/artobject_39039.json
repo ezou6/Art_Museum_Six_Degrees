@@ -1,0 +1,230 @@
+{
+    "type":"artobject",
+    "objectid":39039,
+    "objectnumber":"1999-244",
+    "sortnumber":"1999  244",
+    "displaytitle":"D-K type female figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":-1200,
+    "dateend":-900,
+    "datecomputed":-1050,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"1200–900 BCE",
+    "medium":"Ceramic with red slip",
+    "dimensions":"h. 13.2 cm., w. 7.1 cm., d. 3.1 cm. (5 3/16 x 2 13/16 x 1 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1999-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"D-K type female figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":48257,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV013215",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972).",
+            "citation":"Carlo T. E. Gay, <em>Xochipala: The Beginnings of Olmec Art</em> (Princeton, The Princeton University Art Museum, 1972)., fig. 41 (illus.)",
+            "date":1972,
+            "id":2732,
+            "uri":"http://www.worldcat.org/oclc/382711"
+        },
+        {
+            "boilertext":"<P><?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p>Frances Pratt and Carlo T. E. Gay, <EM>Ceramic figures of ancient Mexico: Guerrero, México, Guanajuato, Michoacán, 1600 B.C.-300 A.D</EM>. (Graz: Akademische Druck-u. Verlagsanstalt, 1979).</o:p></P>",
+            "citation":"<P><?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p>Frances Pratt and Carlo T. E. Gay, <EM>Ceramic figures of ancient Mexico: Guerrero, México, Guanajuato, Michoacán, 1600 B.C.-300 A.D</EM>. (Graz: Akademische Druck-u. Verlagsanstalt, 1979).</o:p></P>, fig. 29 (illus.)",
+            "date":1979,
+            "id":6204,
+            "uri":"http://www.worldcat.org/oclc/8347609"
+        },
+        {
+            "boilertext":"Gillett G. Griffin, \"Xochipala, the Earliest Great Art Style in Mexico,\" <i>Proceedings of the American Philosophical Society </i>116, no. 4 (August 1972): 301-309",
+            "citation":"Gillett G. Griffin, \"Xochipala, the Earliest Great Art Style in Mexico,\" <i>Proceedings of the American Philosophical Society </i>116, no. 4 (August 1972): 301-309, fig. 12, p. 308 (illus.)",
+            "date":1972,
+            "id":2601,
+            "uri":"https://www.jstor.org/stable/985900"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101.",
+            "citation":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101., p. 96",
+            "date":2000,
+            "id":3036,
+            "uri":"https://www.jstor.org/stable/3774806"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Morelos",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":"Morelos",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8582222/morelos.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035643,
+            "term":"Preclassic",
+            "aatid":300016967,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035652,
+            "term":"Middle Preclassic",
+            "aatid":300016973,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24010,
+            "period":"Middle Formative Period",
+            "alphasort":"Formative Period, Middle",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Middle Formative Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035643,
+            "period":"Preclassic"
+        },
+        {
+            "id":2035652,
+            "period":"Middle Preclassic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"7.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.10"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV013215"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Middle Formative Period",
+    "caption":"Middle Formative Period, 1200–900 BCE, Morelos, Mexico, Mesoamerica, D-K type female figure. Ceramic with red slip; 13.2 x 7.1 x 3.1 cm. Gift of Gillett G. Griffin (1999-244)",
+    "captionhtml":"Middle Formative Period, 1200–900 BCE, Morelos, Mexico, Mesoamerica, <i>D-K type female figure</i>. Ceramic with red slip; 13.2 x 7.1 x 3.1 cm. Gift of Gillett G. Griffin (1999-244)",
+    "published_date":"2025-10-29 02:06:10.489947",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

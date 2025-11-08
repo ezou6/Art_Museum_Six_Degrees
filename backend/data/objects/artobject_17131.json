@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":17131,
+    "objectnumber":"x1992-151 a-b",
+    "sortnumber":"1992  151xa    b",
+    "displaytitle":"Fog Bound",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1981,
+    "dateend":1981,
+    "datecomputed":1981,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1981",
+    "medium":"Two gelatin silver prints mounted on board",
+    "dimensions":"image (each): 10.4 x 18.5 cm. (4 1/8 x 7 5/16 in.)\r\nsheet (each): 15.2 x 21.6 cm. (6 x 8 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, gift of Merrill Lynch & Co., Inc.",
+    "markings":null,
+    "inscribed":"A.\r\nIn graphite, verso upper right: [encircled] 1\r\n\r\nB.\r\nIn graphite, verso upper right: [encircled] 2",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Victor Masayesva, Jr.",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1992-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fog Bound",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4848,
+            "displayname":"Duwawisioma (Victor Masayesva Jr.)",
+            "displaydate":"Hopi, born 1951, Hotevilla, AZ; active Hotevilla, AZ",
+            "datebegin":1951,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Duwawisioma (Victor Masayesva Jr.), Hopi, born 1951, Hotevilla, AZ; active Hotevilla, AZ",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"The artist; [Andrew Smith Gallery, Santa Fe]; purchased by the Princeton University Art Museum, 1992. ",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22294,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1992-151_A",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22295,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1992-151_B",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83.",
+            "citation":"\"Acquisitions of the Art Museum 1992,\" <em>Record of the Art Museum, Princeton University </em>52, no. 1 (1993): p. 36-83., p. 60",
+            "date":1993,
+            "id":3075,
+            "uri":"https://www.jstor.org/stable/3774739"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2110200,
+            "term":"walls",
+            "aatid":300002469,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164294,
+            "term":"cobblestone",
+            "aatid":300011677,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040541,
+            "term":"Hopi",
+            "aatid":300017763,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051419,
+            "term":"diptychs",
+            "aatid":300178228,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040541,
+            "culture":"Hopi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1992-151_A"
+    ],
+    "displaymaker":"Duwawisioma (Victor Masayesva Jr.), Hopi, born 1951, Hotevilla, AZ; active Hotevilla, AZ",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Duwawisioma (Victor Masayesva Jr.) (Hopi, born 1951, Hotevilla, AZ; active Hotevilla, AZ), Fog Bound, 1981. Two gelatin silver prints mounted on board; 10.4 x 18.5 cm, 15.2 x 21.6 cm, 10.4 x 18.5 cm (image, each), 15.2 x 21.6 cm (sheet, each). Museum purchase, gift of Merrill Lynch & Co., Inc. (x1992-151 a-b)",
+    "captionhtml":"Duwawisioma (Victor Masayesva Jr.) (Hopi, born 1951, Hotevilla, AZ; active Hotevilla, AZ), <i>Fog Bound</i>, 1981. Two gelatin silver prints mounted on board; 10.4 x 18.5 cm, 15.2 x 21.6 cm, 10.4 x 18.5 cm (image, each), 15.2 x 21.6 cm (sheet, each). Museum purchase, gift of Merrill Lynch & Co., Inc. (x1992-151 a-b)",
+    "published_date":"2025-10-16 12:15:06.715115",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

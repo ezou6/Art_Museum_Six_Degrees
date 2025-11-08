@@ -1,0 +1,213 @@
+{
+    "type":"artobject",
+    "objectid":23477,
+    "objectnumber":"y1949-45 a-b",
+    "sortnumber":"1949   45ya    b",
+    "displaytitle":"Sunrise",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1700,
+    "dateend":1799,
+    "datecomputed":1750,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"18th century",
+    "medium":"Pair of hanging scrolls; ink on silk",
+    "dimensions":"Painting: 36.5 x 91 cm. (14 3/8 x 35 13/16 in.)\r\nMount: 174 x 48.9 cm. (68 1/2 x 19 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Albert E. McVitty",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1949-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Sunrise",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66621,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-145A-B",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61894,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08499",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>8, no. 2 (1949): 11<SPAN style='FONT-SIZE: 15px; FONT-FAMILY: TisaWebPro, \"Times Roman\", Times, Georgia, serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>–</SPAN>12.",
+            "citation":"\"Recent Acquisitions,\" <EM>Record of the Art Museum, Princeton University </EM>8, no. 2 (1949): 11<SPAN style='FONT-SIZE: 15px; FONT-FAMILY: TisaWebPro, \"Times Roman\", Times, Georgia, serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>–</SPAN>12., p. 12",
+            "date":1949,
+            "id":7849,
+            "uri":"https://www.jstor.org/stable/3774309"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171650,
+            "term":"moons",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"91.00"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"174.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"48.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1949-145A-B"
+    ],
+    "displaymaker":null,
+    "displayculture":"Japanese",
+    "displayperiod":null,
+    "caption":"Japanese, Sunrise, 18th century. Pair of hanging scrolls; ink on silk; 36.5 x 91 cm (Painting). Gift of Mrs. Albert E. McVitty (y1949-45 a-b)",
+    "captionhtml":"Japanese, <i>Sunrise</i>, 18th century. Pair of hanging scrolls; ink on silk; 36.5 x 91 cm (Painting). Gift of Mrs. Albert E. McVitty (y1949-45 a-b)",
+    "published_date":"2025-10-16 12:53:09.360039",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,244 @@
+{
+    "type":"artobject",
+    "objectid":44666,
+    "objectnumber":"PP363",
+    "sortnumber":"P       363P",
+    "displaytitle":"Interior of Princeton University Chapel",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1913,
+    "dateend":1942,
+    "datecomputed":1928,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"",
+    "medium":"Watercolor",
+    "dimensions":"77.8 x 36.4 cm (30 5/8 x 14 5/16 in.) (image)\r\n84.6 x 49.7 cm (33 5/16 x 19 9/16 in.) (sheet)\r\n40 1/2 x 24 1/2 in (102.9 x 62.2 cm.) (frame)",
+    "dimensionsproposed":"",
+    "creditline":"Campus Collections, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, lower right: Cram & Ferguson | Architects",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Interior of Princeton University Chapel",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16246,
+            "displayname":"Cram and Ferguson, architects, Boston",
+            "displaydate":"founded 1913",
+            "datebegin":1913,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Cram and Ferguson, architects, Boston, founded 1913",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":49508,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP363",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 304, checklist no. 181",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: United States, New Jersey, Princeton, Princeton University Chapel, Princeton University",
+            "code":"Place depicted",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Princeton University Chapel, Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/wikipedia_40.3489_-74.6569.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2113584,
+            "term":"rood screens",
+            "aatid":300065033,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2166459,
+            "term":"stained glass windows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052388,
+            "term":"interior perspectives",
+            "aatid":300100179,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2106625,
+            "term":"naves",
+            "aatid":300004627,
+            "termtype":"Subject"
+        },
+        {
+            "id":2106786,
+            "term":"chapels",
+            "aatid":300004590,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"84.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.70"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"77.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.40"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"62.23"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"102.87"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP363"
+    ],
+    "displaymaker":"Cram and Ferguson, architects, Boston, founded 1913",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Cram and Ferguson, architects, Boston (founded 1913), Interior of Princeton University Chapel, . Watercolor; 77.8 x 36.4 cm (image), 84.6 x 49.7 cm (sheet), 40 1/2 x 24 1/2 in (frame). Campus Collections, Princeton University (PP363)",
+    "captionhtml":"Cram and Ferguson, architects, Boston (founded 1913), <i>Interior of Princeton University Chapel</i>, . Watercolor; 77.8 x 36.4 cm (image), 84.6 x 49.7 cm (sheet), 40 1/2 x 24 1/2 in (frame). Campus Collections, Princeton University (PP363)",
+    "published_date":"2025-10-16 14:25:59.374027",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

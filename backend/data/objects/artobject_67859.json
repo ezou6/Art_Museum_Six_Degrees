@@ -1,0 +1,296 @@
+{
+    "type":"artobject",
+    "objectid":67859,
+    "objectnumber":"x1980-494",
+    "sortnumber":"1980  494x",
+    "displaytitle":"West 53rd Street, New York City",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1946,
+    "dateend":1946,
+    "datecomputed":1946,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"January or February 1946",
+    "medium":"Gelatin silver print",
+    "dimensions":"12.8 × 9.2 cm (5 1/16 × 3 5/8 in.)\r\nmount: 26.6 × 20.9 cm (10 1/2 × 8 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"Handwritten in graphite on verso, lower left: Building lights, 53rd St., New York, Feb 1946\r\nHandwritten in graphite on verso, lower right: 750.",
+    "signed":"Signed with artist's initials in graphite on mount, lower right of image: MW\r\nSigned in graphite on verso, lower right: Minor White",
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 46-13-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"West 53rd Street, New York City",
+            "titletype":"Primary Title",
+            "displayorder":1
+        },
+        {
+            "title":"West 53rd Street, New York City",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":163642,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00809",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":169926,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled368.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>Peter C. Bunnell et al., <i>Minor White: The Eye That Shapes</i> (Princeton: Princeton University Art Museum, 1989)</p>",
+            "citation":"<p>Peter C. Bunnell et al., <i>Minor White: The Eye That Shapes</i> (Princeton: Princeton University Art Museum, 1989)</p>",
+            "date":1989,
+            "id":3159,
+            "uri":"http://www.worldcat.org/oclc/20828462"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1427,
+            "citation":"Minor White: The Eye That Shapes (April 27, 1989–June 15, 1991)",
+            "isvirtual":true,
+            "begindate":"1989-04-27",
+            "enddate":"1991-06-15",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1427"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Manhattan, New York, Midtown",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Manhattan, New York",
+            "county":null,
+            "subregion":null,
+            "locale":"Midtown",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6930480/midtown-manhattan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111713,
+            "term":"doors",
+            "aatid":300002803,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078286,
+            "term":"skyscrapers",
+            "aatid":300004809,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098624,
+            "term":"snow",
+            "aatid":300055381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098810,
+            "term":"light",
+            "aatid":300056024,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2104438,
+            "term":"sidewalks",
+            "aatid":300003893,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        },
+        {
+            "id":2185006,
+            "term":"urban areas",
+            "aatid":300130893,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.60"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00809"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), West 53rd Street, New York City, January or February 1946. Gelatin silver print; 12.8 × 9.2 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-494)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>West 53rd Street, New York City</i>, January or February 1946. Gelatin silver print; 12.8 × 9.2 cm. The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-494)",
+    "published_date":"2025-10-16 16:31:15.249911",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

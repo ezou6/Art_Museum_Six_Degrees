@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":27935,
+    "objectnumber":"y1957-25",
+    "sortnumber":"1957   25y",
+    "displaytitle":"Landscape",
+    "department":"European Painting and Sculpture ",
+    "classification":"Paintings",
+    "datebegin":1861,
+    "dateend":1861,
+    "datecomputed":1861,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1861",
+    "medium":"Oil on canvas",
+    "dimensions":"48.5 x 92 cm (19 1/8 x 36 1/4 in.)\r\nframe: 72 x 115 x 7.4 cm (28 3/8 x 45 1/4 x 2 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Frank Jewett Mather Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in dated, lower right: JMC 1861",
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1957-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Landscape",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6306,
+            "displayname":"John Mulcaster Carrick",
+            "displaydate":"British, active 1854–78",
+            "datebegin":1878,
+            "dateend":1878,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"John Mulcaster Carrick, British, active 1854–78",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n(Giovanni Castano, Boston); purchase by\nFrank Jewett Mather; Mrs. Frank Jewett Mather Jr.; 1957 gift to Princeton University Art Museum.</p>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":124310,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV47228",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<EM>Earth's beauty revealed: the nineteenth-century European landscape</EM>, (Princeton, NJ: Princeton University Art Museum, 2002).",
+            "citation":"<EM>Earth's beauty revealed: the nineteenth-century European landscape</EM>, (Princeton, NJ: Princeton University Art Museum, 2002)., cat. no. 2",
+            "date":2002,
+            "id":4331,
+            "uri":"http://www.worldcat.org/oclc/80658741"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_52.16_-0.703.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119826,
+            "term":"lakes",
+            "aatid":300008680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171344,
+            "term":"canvas",
+            "aatid":null,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        },
+        {
+            "id":2052977,
+            "classification":"paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"48.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"92.00"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"72.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"115.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"7.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":182999,
+            "name":"image_descriptions_eps_painitings"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV47228"
+    ],
+    "displaymaker":"John Mulcaster Carrick, British, active 1854–78",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"John Mulcaster Carrick (British, active 1854–78), Landscape, 1861. Oil on canvas; 48.5 x 92 cm, 72 × 115 × 7.4 cm (frame). Gift of Mrs. Frank Jewett Mather Jr. (y1957-25)",
+    "captionhtml":"John Mulcaster Carrick (British, active 1854–78), <i>Landscape</i>, 1861. Oil on canvas; 48.5 x 92 cm, 72 × 115 × 7.4 cm (frame). Gift of Mrs. Frank Jewett Mather Jr. (y1957-25)",
+    "published_date":"2025-10-30 02:04:18.029461",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

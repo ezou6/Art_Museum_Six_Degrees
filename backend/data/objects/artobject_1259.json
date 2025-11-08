@@ -1,0 +1,195 @@
+{
+    "type":"artobject",
+    "objectid":1259,
+    "objectnumber":"2016-1326",
+    "sortnumber":"2016 1326",
+    "displaytitle":"Vessel",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":200,
+    "dateend":400,
+    "datecomputed":300,
+    "daterange":"A.D. 1-500",
+    "displaydate":"200–400 CE",
+    "medium":"Ceramic with red and ivory slips",
+    "dimensions":"h. 2.6 cm., diam. 3.9 cm. (1 1/16 x 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vessel",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by Gillett G. Griffin (1928-2016), Princeton, NJ; bequest to the Princeton University Art Museum, 2016.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":48787,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV014180",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2073226,
+            "term":"jars",
+            "aatid":300195347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035666,
+            "term":"Early Classic",
+            "aatid":300016984,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073226,
+            "classification":"jars"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":24014,
+            "period":"Early Classic Period",
+            "alphasort":"Classic Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035666,
+            "period":"Early Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.62"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"3.87"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        },
+        {
+            "packageid":264566,
+            "name":"VisibleStorage_DenseDisplay_G13_Asia_WorldInMini"
+        },
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV014180"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Early Classic Period",
+    "caption":"Early Classic Period, 200–400 CE, Mexico, Mesoamerica, Vessel. Ceramic with red and ivory slips; 2.6 x 3.9 cm. Bequest of Gillett G. Griffin (2016-1326)",
+    "captionhtml":"Early Classic Period, 200–400 CE, Mexico, Mesoamerica, <i>Vessel</i>. Ceramic with red and ivory slips; 2.6 x 3.9 cm. Bequest of Gillett G. Griffin (2016-1326)",
+    "published_date":"2025-10-31 02:00:25.896466",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

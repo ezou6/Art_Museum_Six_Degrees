@@ -1,0 +1,272 @@
+{
+    "type":"artobject",
+    "objectid":22824,
+    "objectnumber":"y1947-14",
+    "sortnumber":"1947   14y",
+    "displaytitle":"Pheasant and Plum, in Song tradition",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1174,
+    "dateend":1189,
+    "datecomputed":1182,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; colors on silk",
+    "dimensions":"Painting: 180 x 59.5 cm. (70 7/8 x 23 7/16 in.)\r\nMount: 276 x 73 cm. (108 11/16 x 28 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Fourteen characters in ink on label adhered to edge of rolled scroll Seven characters in ink on label adhered to silk bag ",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pheasant and Plum, in Song tradition",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4619,
+            "displayname":"Lin Chun 林 椿",
+            "displaydate":"active ca. 1174–ca. 1189",
+            "datebegin":1174,
+            "dateend":1189,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Lin Chun 林 椿, attributed to, active ca. 1174–ca. 1189",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":61054,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07936",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":61055,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV07937",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":61695,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-14",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033550,
+            "term":"Song",
+            "aatid":300018427,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171670,
+            "term":"plum trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171745,
+            "term":"pheasants",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171750,
+            "term":"sparrows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12555,
+            "period":"Song dynasty",
+            "alphasort":"Song dynasty",
+            "begindate":960,
+            "enddate":1279,
+            "displayperiod":"Song dynasty, 960–1279",
+            "displaydate":"960–1279"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033550,
+            "period":"Song"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"276.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"73.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"180.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"59.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-14"
+    ],
+    "displaymaker":"Lin Chun 林 椿, attributed to, active ca. 1174–ca. 1189",
+    "displayculture":"Chinese",
+    "displayperiod":"Song dynasty, 960–1279",
+    "caption":"Chinese, Song dynasty (960–1279), Lin Chun 林 椿, attributed to (active ca. 1174–ca. 1189), Pheasant and Plum, in Song tradition, undated. Hanging scroll; colors on silk; 180 x 59.5 cm (Painting), 276 x 73 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-14)",
+    "captionhtml":"Chinese, Song dynasty (960–1279), Lin Chun 林 椿, attributed to (active ca. 1174–ca. 1189), <i>Pheasant and Plum, in Song tradition</i>, undated. Hanging scroll; colors on silk; 180 x 59.5 cm (Painting), 276 x 73 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-14)",
+    "published_date":"2025-10-16 12:49:10.036561",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

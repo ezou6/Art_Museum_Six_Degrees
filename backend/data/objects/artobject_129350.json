@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":129350,
+    "objectnumber":"2010-102.26 a",
+    "sortnumber":"2010  102    26a",
+    "displaytitle":"The Minnow Pool",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1843,
+    "dateend":1847,
+    "datecomputed":1845,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1843–47",
+    "medium":"Photogravure",
+    "dimensions":"plate: 21 × 15.8 cm (8 1/4 × 6 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Frederick Quellmalz, Class of 1934",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Minnow Pool",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2198,
+            "displayname":"Hill and Adamson",
+            "displaydate":"Scottish photography studio, 1843–1848",
+            "datebegin":1843,
+            "dateend":1848,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hill and Adamson, Scottish photography studio, 1843–1848",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":90731,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16477",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 99",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        },
+        {
+            "boilertext":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997).",
+            "citation":"Simone Philippi and Ute Kieseyer, eds., <EM>Alfred Stieglitz: Camera Work, The Complete Illustrations, 1903-1917 </EM>(Köln: Taschen, 1997)., p. 474 (illus.)",
+            "date":1997,
+            "id":6765,
+            "uri":"http://www.worldcat.org/oclc/38005333"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119852,
+            "term":"pools",
+            "aatid":300008692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031595,
+            "term":"Scottish",
+            "aatid":300111212,
+            "termtype":"Culture"
+        },
+        {
+            "id":2147403,
+            "term":"fishing",
+            "aatid":300239470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031595,
+            "culture":"Scottish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16477"
+    ],
+    "displaymaker":"Hill and Adamson, Scottish photography studio, 1843–1848",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hill and Adamson (Scottish photography studio, 1843–1848), The Minnow Pool, 1843–47. Photogravure; 21 × 15.8 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.26 a)",
+    "captionhtml":"Hill and Adamson (Scottish photography studio, 1843–1848), <i>The Minnow Pool</i>, 1843–47. Photogravure; 21 × 15.8 cm (plate). Gift of Frederick Quellmalz, Class of 1934 (2010-102.26 a)",
+    "published_date":"2025-10-16 18:36:39.909932",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

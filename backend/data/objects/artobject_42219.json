@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":42219,
+    "objectnumber":"y1936-11",
+    "sortnumber":"1936   11y",
+    "displaytitle":"Saint John the Theologian",
+    "department":"Prints and Drawings",
+    "classification":"Manuscripts",
+    "datebegin":1400,
+    "dateend":1499,
+    "datecomputed":1450,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"15th century",
+    "medium":"Parchment",
+    "dimensions":"10.2 x 15.6 cm. (4 x 6 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"[Gift of Malcom Lloyd]",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1936-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint John the Theologian",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2946,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1936-11",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":228735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1936-11_ML",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2053016,
+            "term":"miniatures (paintings)",
+            "aatid":300033936,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031701,
+            "term":"Middle Byzantine",
+            "aatid":300020674,
+            "termtype":"Period / Style"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13630,
+            "culture":"Byzantine",
+            "alphasort":"Byzantine",
+            "begindate":641,
+            "enddate":1453,
+            "displayculture":"Late Byzantine",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031701,
+            "period":"Middle Byzantine"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1936-11_ML"
+    ],
+    "displaymaker":null,
+    "displayculture":"Late Byzantine",
+    "displayperiod":null,
+    "caption":"Late Byzantine, Saint John the Theologian, 15th century. Parchment; 10.2 x 15.6 cm. [Gift of Malcom Lloyd] (y1936-11)",
+    "captionhtml":"Late Byzantine, <i>Saint John the Theologian</i>, 15th century. Parchment; 10.2 x 15.6 cm. [Gift of Malcom Lloyd] (y1936-11)",
+    "published_date":"2025-10-22 02:02:29.615849",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,166 @@
+{
+    "type":"artobject",
+    "objectid":49164,
+    "objectnumber":"x1937-50",
+    "sortnumber":"1937   50x",
+    "displaytitle":"Marie de Medici",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1620,
+    "dateend":1668,
+    "datecomputed":1644,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 13.5 x 9.1 cm (5 5/16 x 3 9/16 in.)\r\nsheet: 16.6 x 12.1 cm (6 9/16 x 4 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"around frame: MARIE DE MEDICIS ROYNE DE FRANCE ET DE NAVARRE; plaque: Cette Reine en attraits... Bal. Moncornet excud.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Marie de Medici",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3814,
+            "displayname":"Balthazar Moncornet",
+            "displaydate":"French, 1600–1668",
+            "datebegin":1600,
+            "dateend":1668,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Balthazar Moncornet, French, 1600–1668",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":98746,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24085",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":98747,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV24086",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV24085"
+    ],
+    "displaymaker":"Balthazar Moncornet, French, 1600–1668",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Balthazar Moncornet (French, 1600–1668), Marie de Medici. Engraving; 13.5 x 9.1 cm (plate), 16.6 x 12.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-50)",
+    "captionhtml":"Balthazar Moncornet (French, 1600–1668), <i>Marie de Medici</i>. Engraving; 13.5 x 9.1 cm (plate), 16.6 x 12.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-50)",
+    "published_date":"2025-10-23 17:23:54.018471",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

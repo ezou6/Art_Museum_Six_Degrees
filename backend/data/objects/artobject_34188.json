@@ -1,0 +1,271 @@
+{
+    "type":"artobject",
+    "objectid":34188,
+    "objectnumber":"y306",
+    "sortnumber":"306     y",
+    "displaytitle":"Oinochoe (jug)",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-700,
+    "dateend":-550,
+    "datecomputed":-625,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":null,
+    "medium":"White painted IV ware: ceramic",
+    "dimensions":"h. 18.5 cm, diam. 13.7 cm (7 5/16 x 5 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Oinochoe (jug)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<p>\n\tThese ceramics are characteristic of the distinct decorative style associated with the island of Cyprus, which was a center of multicultural exchange in the ancient world. Cyprus is located in the eastern Mediterranean Sea along important trade and travel routes, and experienced periods of independence and external control by groups such as Assyrians, Egyptians, and Persians. As a result of the island’s geographical location and political history, objects created on Cyprus and the architectural structures that survive there often display both local and foreign influences. With respect to ceramics, in addition to the preferred use of white, red, and black across various periods, geometric forms and concentric circles were combined in creative patterns across the bodies of the vessels.\n</p>\n<p>\n\t<br />\n</p>",
+            "remarks":"MED_22_ADJ-2_CLA-Day 1 Cataloguing (group chat-see label for all objects associated) "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":32372,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43677",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":32373,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43678",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: Europe, Cyprus",
+            "code":"Place collected",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35.003_32.988.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037302,
+            "term":"white painted (pottery style)",
+            "aatid":300107620,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2098308,
+            "term":"circles (plane figures)",
+            "aatid":300055627,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159184,
+            "term":"Saint Andrew's crosses",
+            "aatid":300010079,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159265,
+            "term":"trefoils",
+            "aatid":300009786,
+            "termtype":"Subject"
+        },
+        {
+            "id":2199111,
+            "term":"Cypro-Archaic",
+            "aatid":null,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2073385,
+            "term":"oinochoai",
+            "aatid":300198866,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2073385,
+            "classification":"oinochoai"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":14095,
+            "period":"Cypro-Archaic Period",
+            "alphasort":"Cypro-Archaic Period",
+            "begindate":-750,
+            "enddate":-480,
+            "displayperiod":"Cypro-Archaic Period, Cypro-Archaic I–IIA, ca. 700–550 BCE, ca. 750–480 BCE",
+            "displaydate":"ca. 750–480 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037302,
+            "period":"white painted (pottery style)"
+        },
+        {
+            "id":2199111,
+            "period":"Cypro-Archaic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.50"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"13.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220207,
+            "name":"Gallery_22(Pavilion6)-AncientMed"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43677"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Cypro-Archaic Period, Cypro-Archaic I–IIA, ca. 700–550 BCE, ca. 750–480 BCE",
+    "caption":"Cypriote, Cypro-Archaic Period, Cypro-Archaic I–IIA, ca. 700–550 BCE (ca. 750–480 BCE), Cyprus, Oinochoe (jug). White painted IV ware: ceramic; 18.5 x 13.7 cm. Gift of Allan Marquand, Class of 1874 (y306)",
+    "captionhtml":"Cypriote, Cypro-Archaic Period, Cypro-Archaic I–IIA, ca. 700–550 BCE (ca. 750–480 BCE), Cyprus, <i>Oinochoe (jug)</i>. White painted IV ware: ceramic; 18.5 x 13.7 cm. Gift of Allan Marquand, Class of 1874 (y306)",
+    "published_date":"2025-10-16 13:39:35.338837",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

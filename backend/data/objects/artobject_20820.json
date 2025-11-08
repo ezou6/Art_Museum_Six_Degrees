@@ -1,0 +1,177 @@
+{
+    "type":"artobject",
+    "objectid":20820,
+    "objectnumber":"y1937-143",
+    "sortnumber":"1937  143y",
+    "displaytitle":"Vase",
+    "department":"American Art",
+    "classification":"Ceramics",
+    "datebegin":1607,
+    "dateend":1937,
+    "datecomputed":1772,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Glazed earthenware",
+    "dimensions":"9.6 x diam. 6.4 cm (3 3/4 x 2 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Collection",
+    "markings":"Mark on base [in an x]: R / S / W / R / 1/4 [see accession card for reproduction];",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Vase",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":138453,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60572",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":138454,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60573",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073529,
+            "term":"vases",
+            "aatid":300132254,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2073529,
+            "classification":"vases"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13972,
+            "culture":"American",
+            "alphasort":"American",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"American",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"6.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60572"
+    ],
+    "displaymaker":null,
+    "displayculture":"American",
+    "displayperiod":null,
+    "caption":"American, Vase. Glazed earthenware; 9.6 × 6.4 cm. Museum Collection (y1937-143)",
+    "captionhtml":"American, <i>Vase</i>. Glazed earthenware; 9.6 × 6.4 cm. Museum Collection (y1937-143)",
+    "published_date":"2025-10-16 12:36:42.051700",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

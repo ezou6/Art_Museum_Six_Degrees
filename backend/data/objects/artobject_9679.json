@@ -1,0 +1,220 @@
+{
+    "type":"artobject",
+    "objectid":9679,
+    "objectnumber":"x1966-59",
+    "sortnumber":"1966   59x",
+    "displaytitle":"Standing Androgynous Figure",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1902,
+    "dateend":1935,
+    "datecomputed":1918,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Recto: Graphite\r\nVerso: Graphite and ink",
+    "dimensions":"60.5 x 46.5 cm. (23 13/16 x 18 5/16 in.)\r\nframe: 82 × 66 × 1.5 cm (32 5/16 × 26 × 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Harry A. Brooks, Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in graphite, lower right: G. Lachaise",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1966-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Standing Androgynous Figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4416,
+            "displayname":"Gaston Lachaise",
+            "displaydate":"American, 1882–1935",
+            "datebegin":1882,
+            "dateend":1935,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gaston Lachaise, American, 1882–1935",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121330,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41571",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":121331,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41572",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32.",
+            "citation":"\"Acquisitions 1965 and 1966,\" <I>Record of the Art Museum, Princeton University </I>26, no. 1 (1967): p. 2, 19-32., p. 26",
+            "date":1967,
+            "id":880,
+            "uri":"https://www.jstor.org/stable/3774554"
+        },
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 329, checklist no. 671 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2146985,
+            "term":"standing",
+            "aatid":300239500,
+            "termtype":"Subject"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162861,
+            "term":"graphite",
+            "aatid":300011098,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"82.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"66.00"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"60.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41571"
+    ],
+    "displaymaker":"Gaston Lachaise, American, 1882–1935",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gaston Lachaise (American, 1882–1935), Standing Androgynous Figure. Recto: Graphite\r\nVerso: Graphite and ink; 60.5 x 46.5 cm, 82 × 66 × 1.5 cm (frame). Gift of Harry A. Brooks, Class of 1935 (x1966-59)",
+    "captionhtml":"Gaston Lachaise (American, 1882–1935), <i>Standing Androgynous Figure</i>. Recto: Graphite\r\nVerso: Graphite and ink; 60.5 x 46.5 cm, 82 × 66 × 1.5 cm (frame). Gift of Harry A. Brooks, Class of 1935 (x1966-59)",
+    "published_date":"2025-10-16 11:17:03.702941",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

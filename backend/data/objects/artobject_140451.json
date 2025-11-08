@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":140451,
+    "objectnumber":"2022-153",
+    "sortnumber":"2022  153",
+    "displaytitle":"Jar",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1950,
+    "dateend":1999,
+    "datecomputed":1974,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"probably second half of 20th century",
+    "medium":"Ceramic with red slip and white and black slip-paint",
+    "dimensions":"h. 8.9 × diam. 10.9 cm (3 1/2 × 4 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jim Maddox, Class of 1965, and Lucy Maddox",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed in paint on the bottom with artist's mark: Dextra",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"y",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2022-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22511,
+            "displayname":"Dextra Quotskuyva Nampeyo",
+            "displaydate":"Hopi-Tewa, 1928–2019; born Polacca, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+            "datebegin":1928,
+            "dateend":2019,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Dextra Quotskuyva Nampeyo, Hopi-Tewa, 1928–2019; born Polacca, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Martha Struever Gallery, Santa Fe (NM)]; purchased by Jim Maddox, by 2022; donated to the Princeton University Art Museum by Jim Maddox and Lucy Maddox, 2022.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":240249,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3489",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"y",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":240250,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3486",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"y",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":240251,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3485",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"y",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Arizona, Polacca, Hopi Reservation, First Mesa",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":"Hopi Reservation",
+            "state":"Arizona",
+            "city":"Polacca",
+            "county":null,
+            "subregion":null,
+            "locale":"First Mesa",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072851,
+            "term":"vessels (containers)",
+            "aatid":300193015,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040541,
+            "term":"Hopi",
+            "aatid":300017763,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072851,
+            "classification":"vessels (containers)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040541,
+            "culture":"Hopi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"8.88"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"10.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":225736,
+            "name":"VisibleStorage_GHC-H_Southwest1"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAM22_3485"
+    ],
+    "displaymaker":"Dextra Quotskuyva Nampeyo, Hopi-Tewa, 1928–2019; born Polacca, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Dextra Quotskuyva Nampeyo (Hopi-Tewa, 1928–2019; born Polacca, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ), probably second half of 20th century, Polacca, Arizona, Hopi Reservation, United States, American southwest, Jar. Ceramic with red slip and white and black slip-paint; 8.9 × 10.9 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2022-153)",
+    "captionhtml":"Dextra Quotskuyva Nampeyo (Hopi-Tewa, 1928–2019; born Polacca, Hopitu Shi-nu-mu (Hopi) Pueblo, AZ), probably second half of 20th century, Polacca, Arizona, Hopi Reservation, United States, American southwest, <i>Jar</i>. Ceramic with red slip and white and black slip-paint; 8.9 × 10.9 cm. Gift of Jim Maddox, Class of 1965, and Lucy Maddox (2022-153)",
+    "published_date":"2025-10-30 02:10:11.542827",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

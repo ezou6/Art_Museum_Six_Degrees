@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":38143,
+    "objectnumber":"1999-163",
+    "sortnumber":"1999  163",
+    "displaytitle":"untitled (landscape)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1895,
+    "dateend":1905,
+    "datecomputed":1900,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"ca. 1900",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 5.6 x 10.1 cm (2 3/16 x 4 in.)\r\nsheet: 5.9 x 10.3 cm. (2 5/16 x 4 1/16 in.)\r\nmount: 9.6 x 11.6 cm. (3 3/4 x 4 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Paul M. Ingersoll, Class of 1950",
+    "markings":null,
+    "inscribed":"Rubber stamp, verso center: WJM",
+    "signed":"Signed in graphite, lower left: W. J. Mullins",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1999-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"untitled (landscape)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1123,
+            "displayname":"William J. Mullins",
+            "displaydate":"American, 1860–1917",
+            "datebegin":1860,
+            "dateend":1917,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William J. Mullins, American, 1860–1917",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66470,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09137",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101.",
+            "citation":"\"Acquisitions of the Art Museum 1999,\" <em>Record of the Art Museum, Princeton University</em> 59, no. 1/2 (2000): p. 70-101., p. 83",
+            "date":2000,
+            "id":3036,
+            "uri":"https://www.jstor.org/stable/3774806"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098998,
+            "term":"reflections",
+            "aatid":300056034,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171653,
+            "term":"suns",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158114,
+            "term":"evening",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171706,
+            "term":"clouds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.60"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.30"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.10"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"5.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":206416,
+            "name":"image_descriptions_KG"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09137"
+    ],
+    "displaymaker":"William J. Mullins, American, 1860–1917",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William J. Mullins (American, 1860–1917), untitled (landscape), ca. 1900. Gelatin silver print; 5.6 x 10.1 cm (image), 5.9 x 10.3 cm, 5.9 x 10.3 cm (sheet). Gift of Paul M. Ingersoll, Class of 1950 (1999-163)",
+    "captionhtml":"William J. Mullins (American, 1860–1917), <i>untitled (landscape)</i>, ca. 1900. Gelatin silver print; 5.6 x 10.1 cm (image), 5.9 x 10.3 cm, 5.9 x 10.3 cm (sheet). Gift of Paul M. Ingersoll, Class of 1950 (1999-163)",
+    "published_date":"2025-10-16 14:01:44.129406",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

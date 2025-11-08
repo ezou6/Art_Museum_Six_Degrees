@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":46367,
+    "objectnumber":"1996-235",
+    "sortnumber":"1996  235",
+    "displaytitle":"Textile with a red background with bands of zigzag stripes",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1200,
+    "dateend":1450,
+    "datecomputed":1325,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1450",
+    "medium":"Textile",
+    "dimensions":"h. 249.0 cm., w. 165.0 cm. (98 1/16 x 64 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1996-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Textile with a red background with bands of zigzag stripes",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":45750,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010628",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1327,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1996-235_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115.",
+            "citation":"\"Acquisitions of the Art Museum 1996,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 75-115., p. 115",
+            "date":1997,
+            "id":3051,
+            "uri":"https://www.jstor.org/stable/3774760"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, South coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"South coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036058,
+            "term":"Inca",
+            "aatid":300017326,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036065,
+            "term":"Late horizon",
+            "aatid":300017332,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159966,
+            "term":"zigzags",
+            "aatid":300165028,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044375,
+            "term":"textile materials",
+            "aatid":300231565,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151290,
+            "classification":"dyeing"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13516,
+            "culture":"Inka",
+            "alphasort":"Inka",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Inka",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036058,
+            "culture":"Inca"
+        }
+    ],
+    "periods":[
+        {
+            "id":13501,
+            "period":"Late Horizon Period",
+            "alphasort":"Horizon, Late",
+            "begindate":1438,
+            "enddate":1534,
+            "displayperiod":"Late Horizon Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036065,
+            "period":"Late horizon"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"249.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"165.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010628"
+    ],
+    "displaymaker":null,
+    "displayculture":"Inka",
+    "displayperiod":"Late Horizon Period",
+    "caption":"Inka, Late Horizon Period, 1200–1450, South coast, Peru, Andes, Textile with a red background with bands of zigzag stripes. Textile; 249 x 165 cm. Anonymous gift (1996-235)",
+    "captionhtml":"Inka, Late Horizon Period, 1200–1450, South coast, Peru, Andes, <i>Textile with a red background with bands of zigzag stripes</i>. Textile; 249 x 165 cm. Anonymous gift (1996-235)",
+    "published_date":"2025-10-16 14:38:56.704261",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

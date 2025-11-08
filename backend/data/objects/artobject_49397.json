@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":49397,
+    "objectnumber":"2006-400",
+    "sortnumber":"2006  400",
+    "displaytitle":"James Lord",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1975,
+    "dateend":1975,
+    "datecomputed":1975,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1975",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 19.4 x 29.2 cm. (7 5/8 x 11 1/2 in.)\r\nsheet: 32.9 x 30.6 cm. (12 15/16 x 12 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James Kraft, Class of 1957",
+    "markings":"Stamped, lower margin: © Henri Cartier-Bresson",
+    "inscribed":"Numbered in graphite, verso lower center: 73815 / 8A",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"James Lord",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6315,
+            "displayname":"Henri Cartier-Bresson",
+            "displaydate":"1908–2004; born Chanteloup, France; died Cereste, France",
+            "datebegin":1908,
+            "dateend":2004,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Henri Cartier-Bresson, 1908–2004; born Chanteloup, France; died Cereste, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":87815,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV13985",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122.",
+            "citation":"Calvin Brown, \"James Kraft, Class of 1957, Collection,\" <EM>Record of the Princeton University Art Museum</EM> 66 (2007): p. 75–122., p. 82",
+            "date":2007,
+            "id":2999,
+            "uri":"https://www.jstor.org/stable/20442629"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris, Institut de France",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":"Institut de France",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8449460/institut-de-france.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2090510,
+            "term":"authors",
+            "aatid":300025492,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"30.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV13985"
+    ],
+    "displaymaker":"Henri Cartier-Bresson, 1908–2004; born Chanteloup, France; died Cereste, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Henri Cartier-Bresson (1908–2004; born Chanteloup, France; died Cereste, France), James Lord, 1975. Gelatin silver print; 19.4 x 29.2 cm (image), 32.9 x 30.6 cm (sheet). Gift of James Kraft, Class of 1957 (2006-400)",
+    "captionhtml":"Henri Cartier-Bresson (1908–2004; born Chanteloup, France; died Cereste, France), <i>James Lord</i>, 1975. Gelatin silver print; 19.4 x 29.2 cm (image), 32.9 x 30.6 cm (sheet). Gift of James Kraft, Class of 1957 (2006-400)",
+    "published_date":"2025-10-16 15:06:04.776406",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

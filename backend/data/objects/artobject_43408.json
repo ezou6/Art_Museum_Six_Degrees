@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":43408,
+    "objectnumber":"2004-449",
+    "sortnumber":"2004  449",
+    "displaytitle":"Duke",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":2004,
+    "dateend":2004,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2004",
+    "medium":"Photogravure with laser-incised peeled paper, collage, and hair pomade",
+    "dimensions":"36.5 x 25 cm (14 3/8 x 9 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Ellen Gallagher",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Duke",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1156,
+            "displayname":"Ellen Gallagher",
+            "displaydate":"born 1965, Providence, RI; active Rotterdam, Netherlands, and New York, NY",
+            "datebegin":1965,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Ellen Gallagher, born 1965, Providence, RI; active Rotterdam, Netherlands, and New York, NY",
+            "displayorder":1
+        },
+        {
+            "id":19659,
+            "displayname":"Two Palms Press",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed and published by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed and published by Two Palms Press",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Gallagher has long been fascinated by representations of race in the media and by the performance of race by individuals. <em>Duke</em> is titled after the eponymous hair pomade and takes its inspiration from a series of advertisements published in African American magazines after World War II. Products such as wigs, skin creams, and hair pomades (actual dollops of which adorn the heads seen here) offered a culturally-defined vision of beauty inextricably intertwined with the politics of race in mid-twentieth-century America. As Gallagher has said, such goods signal everything from “anxiety about assimilation and integration” to “hope, whimsy, and self-determination.” They are about life&nbsp; \"despite/around/within stereotypes.”",
+            "remarks":"PBL rotation January 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":5869,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-449",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 103",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051938,
+            "term":"collages",
+            "aatid":300033963,
+            "termtype":"Classification"
+        },
+        {
+            "id":2185092,
+            "term":"Artists of Africa's Diasporas",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054235,
+            "term":"photogravures",
+            "aatid":300154382,
+            "termtype":"Classification"
+        },
+        {
+            "id":2152992,
+            "term":"collage",
+            "aatid":300138699,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154825,
+            "term":"photogravure",
+            "aatid":300053207,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156714,
+            "term":"incising",
+            "aatid":300053847,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2166099,
+            "term":"wax by composition or origin",
+            "aatid":300187974,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051938,
+            "classification":"collages"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054235,
+            "classification":"photogravures"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":159871,
+            "name":"web_WoPSR_ 2019_Taiye_Idahor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-449"
+    ],
+    "displaymaker":"Ellen Gallagher, born 1965, Providence, RI; active Rotterdam, Netherlands, and New York, NY | Printed and published by Two Palms Press",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Ellen Gallagher (born 1965, Providence, RI; active Rotterdam, Netherlands, and New York, NY), Printed and published by Two Palms Press, Duke, 2004. Photogravure with laser-incised peeled paper, collage, and hair pomade; 36.5 x 25 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-449)",
+    "captionhtml":"Ellen Gallagher (born 1965, Providence, RI; active Rotterdam, Netherlands, and New York, NY), Printed and published by Two Palms Press, <i>Duke</i>, 2004. Photogravure with laser-incised peeled paper, collage, and hair pomade; 36.5 x 25 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (2004-449)",
+    "published_date":"2025-10-16 14:23:26.477922",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

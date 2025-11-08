@@ -1,0 +1,210 @@
+{
+    "type":"artobject",
+    "objectid":47534,
+    "objectnumber":"1995-370",
+    "sortnumber":"1995  370",
+    "displaytitle":"Textile quiver",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1200,
+    "dateend":1532,
+    "datecomputed":1366,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"1200–1532",
+    "medium":"Wool",
+    "dimensions":"l. 53.3 cm., w. 17.8 cm. (21 x 7 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Textile quiver",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":45823,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010896",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 70",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, South coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"South coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036024,
+            "term":"Nazca",
+            "aatid":300017290,
+            "termtype":"Culture"
+        },
+        {
+            "id":2072804,
+            "term":"quivers",
+            "aatid":300036930,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044482,
+            "term":"wool (textile)",
+            "aatid":300243430,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072804,
+            "classification":"quivers"
+        },
+        {
+            "id":2151290,
+            "classification":"dyeing"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13509,
+            "culture":"Nasca",
+            "alphasort":"Nasca",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Late Nasca",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036024,
+            "culture":"Nazca"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"53.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010896"
+    ],
+    "displaymaker":null,
+    "displayculture":"Late Nasca",
+    "displayperiod":null,
+    "caption":"Late Nasca, 1200–1532, South coast, Peru, Andes, Textile quiver. Wool; 53.3 x 17.8 cm. Anonymous gift (1995-370)",
+    "captionhtml":"Late Nasca, 1200–1532, South coast, Peru, Andes, <i>Textile quiver</i>. Wool; 53.3 x 17.8 cm. Anonymous gift (1995-370)",
+    "published_date":"2025-10-16 14:51:08.126202",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

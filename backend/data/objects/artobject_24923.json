@@ -1,0 +1,200 @@
+{
+    "type":"artobject",
+    "objectid":24923,
+    "objectnumber":"y1954-414",
+    "sortnumber":"1954  414y",
+    "displaytitle":"Crozier",
+    "department":"European Painting and Sculpture ",
+    "classification":"Metal",
+    "datebegin":1200,
+    "dateend":1299,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"13th century",
+    "medium":"Gilt copper and enamel",
+    "dimensions":"23.5 × 18.2 × 13.3 cm (9 1/4 × 7 3/16 × 5 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Frank Jewett Mather, Jr.",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Crozier",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":139554,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61675",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139555,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61676",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139556,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61677",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Limoges",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":"Limoges",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161775,
+            "term":"metal",
+            "aatid":300010900,
+            "termtype":"Classification"
+        },
+        {
+            "id":2127293,
+            "term":"crosiers",
+            "aatid":300212149,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031777,
+            "term":"Gothic (Medieval)",
+            "aatid":300020775,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161775,
+            "classification":"metal"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2031777,
+            "period":"Gothic (Medieval)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"13.30"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV61676"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, Crozier, 13th century. Gilt copper and enamel; 23.5 × 18.2 × 13.3 cm. Bequest of Frank Jewett Mather, Jr. (y1954-414)",
+    "captionhtml":"French, <i>Crozier</i>, 13th century. Gilt copper and enamel; 23.5 × 18.2 × 13.3 cm. Bequest of Frank Jewett Mather, Jr. (y1954-414)",
+    "published_date":"2025-10-16 13:00:34.817024",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

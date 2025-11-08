@@ -1,0 +1,149 @@
+{
+    "type":"artobject",
+    "objectid":3457,
+    "objectnumber":"x1940-40",
+    "sortnumber":"1940   40x",
+    "displaytitle":"Alexandre Bodin",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1596,
+    "dateend":1596,
+    "datecomputed":1596,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 9.1 x 6.1 cm (3 9/16 x 2 3/8 in.)\r\nsheet: 11 x 8.2 cm (4 5/16 x 3 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":null,
+    "markings":null,
+    "inscribed":"around oval: ALEXANDER BODIUS BONIT...; margin: HIC EGO QUI...Thomas de Leu fecit. Tab. 10. Excu. Io Reia.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1940-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Alexandre Bodin",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4554,
+            "displayname":"Thomas de Leu",
+            "displaydate":"French, active 1576–1614",
+            "datebegin":1576,
+            "dateend":1614,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas de Leu, French, active 1576–1614",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":97423,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23011",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"8.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"11.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"6.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23011"
+    ],
+    "displaymaker":"Thomas de Leu, French, active 1576–1614",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas de Leu (French, active 1576–1614), Alexandre Bodin. Engraving; 9.1 x 6.1 cm (plate), 11 x 8.2 cm (sheet). (x1940-40)",
+    "captionhtml":"Thomas de Leu (French, active 1576–1614), <i>Alexandre Bodin</i>. Engraving; 9.1 x 6.1 cm (plate), 11 x 8.2 cm (sheet). (x1940-40)",
+    "published_date":"2025-10-23 16:43:03.636504",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

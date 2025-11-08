@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":19119,
+    "objectnumber":"y160",
+    "sortnumber":"160     y",
+    "displaytitle":"Black-figure column-krater",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-500,
+    "dateend":-470,
+    "datecomputed":-485,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"early 5th century BCE",
+    "medium":"Ceramic",
+    "dimensions":"23.0 x 23.8 x 20.1 cm (9 1/16 x 9 3/8 x 7 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":"Graffito incised on foot after firing (see catalogue card for detail).",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Black-figure column-krater",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":16621,
+            "displayname":"Mikra Karaburun Group",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Attributed to the",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Attributed to the Mikra Karaburun Group",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":34084,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002035",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":34087,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002038",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"J.D. Beazley, <EM>Paralipomena: Additions to Attic Black-figure Vase-painters and Attic Red-figure Vase-painters</EM>&nbsp;(Oxford: Clarendon Press, 1971).",
+            "citation":"J.D. Beazley, <EM>Paralipomena: Additions to Attic Black-figure Vase-painters and Attic Red-figure Vase-painters</EM>&nbsp;(Oxford: Clarendon Press, 1971)., p. 156",
+            "date":1971,
+            "id":2384,
+            "uri":"http://www.worldcat.org/oclc/208351"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2050070,
+            "term":"spears",
+            "aatid":300037019,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159084,
+            "term":"motifs",
+            "aatid":300009700,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159409,
+            "term":"festoons",
+            "aatid":300167386,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051662,
+            "term":"figures (representations)",
+            "aatid":300239050,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036550,
+            "term":"Attic",
+            "aatid":300020118,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036550,
+            "term":"Attic",
+            "aatid":300020118,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036598,
+            "term":"Black-figure",
+            "aatid":300020195,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073360,
+            "term":"column kraters",
+            "aatid":300198859,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073360,
+            "classification":"column kraters"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13588,
+            "culture":"Greek, Attic",
+            "alphasort":"Attic",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek, Attic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036550,
+            "culture":"Attic"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036550,
+            "period":"Attic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.80"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"20.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002038"
+    ],
+    "displaymaker":"Attributed to the Mikra Karaburun Group",
+    "displayculture":"Greek, Attic",
+    "displayperiod":null,
+    "caption":"Greek, Attic, Attributed to the Mikra Karaburun Group, early 5th century BCE, Black-figure column-krater. Ceramic; 23 x 23.8 x 20.1 cm. Gift of Allan Marquand, Class of 1874 (y160)",
+    "captionhtml":"Greek, Attic, Attributed to the Mikra Karaburun Group, early 5th century BCE, <i>Black-figure column-krater</i>. Ceramic; 23 x 23.8 x 20.1 cm. Gift of Allan Marquand, Class of 1874 (y160)",
+    "published_date":"2025-10-16 12:26:31.196047",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

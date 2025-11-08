@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":55918,
+    "objectnumber":"2008-1055",
+    "sortnumber":"2008 1055",
+    "displaytitle":"German Jewess: S., age 13 ½, born in Jerusalem (frontal)",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1876,
+    "dateend":1886,
+    "datecomputed":1881,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1881",
+    "medium":"Cyanotype",
+    "dimensions":"image: 18.8 x 12.6 cm. (7 3/8 x 4 15/16 in.)\r\nsheet: 28 x 22.1 cm. (11 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":"In plate, lower left: Société d’Ethnographie. / 22.",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":14764,
+            "displayname":"Bertall",
+            "displaydate":"French, 1820–1882",
+            "datebegin":1820,
+            "dateend":1882,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Bertall, French, 1820–1882",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":85997,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV12443",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 87",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2051797,
+            "term":"studies (visual works)",
+            "aatid":300081053,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055672,
+            "term":"nudes",
+            "aatid":300189568,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053533,
+            "term":"cyanotypes",
+            "aatid":300134811,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154046,
+            "term":"iron processes",
+            "aatid":300133364,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053533,
+            "classification":"cyanotypes"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.10"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":229383,
+            "name":"2023_VIS231_04_04"
+        },
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":45184,
+            "name":"Website - Objects with Multiple parts"
+        },
+        {
+            "packageid":212333,
+            "name":"2022_VIS231_04_18"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":229455,
+            "name":"2023_VIS411_04_12"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV12443"
+    ],
+    "displaymaker":"Bertall, French, 1820–1882",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bertall (French, 1820–1882), German Jewess: S., age 13 ½, born in Jerusalem (frontal), ca. 1881. Cyanotype; 18.8 x 12.6 cm (image), 28 x 22.1 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1055)",
+    "captionhtml":"Bertall (French, 1820–1882), <i>German Jewess: S., age 13 ½, born in Jerusalem (frontal)</i>, ca. 1881. Cyanotype; 18.8 x 12.6 cm (image), 28 x 22.1 cm (sheet). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-1055)",
+    "published_date":"2025-10-16 15:26:14.120853",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":18672,
+    "objectnumber":"x1993-190.1.5",
+    "sortnumber":"1993  190x    1   5",
+    "displaytitle":"Nicaragua",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1987,
+    "dateend":1987,
+    "datecomputed":1987,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1987, printed 1991",
+    "medium":"Platinum-palladium print",
+    "dimensions":"image: 26.5 x 27 cm (10 7/16 x 10 5/8 in.)\r\nsheet: 40.4 x 33.3 cm (15 7/8 x 13 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Ruth Bernhard",
+    "markings":null,
+    "inscribed":"Numbered in pencil, lower left: AP 15/24",
+    "signed":"Signed in pencil, lower right below image: M.M.",
+    "catalograisonne":null,
+    "creditlinerepro":"© Matt Mahurin",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Nicaragua",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4759,
+            "displayname":"Matt Mahurin",
+            "displaydate":"American, born 1959",
+            "datebegin":1959,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Matt Mahurin, American, born 1959",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Ruth Bernhard, San Francisco, CA, and New York, NY&nbsp;(by 1993); gift to Princeton University Art Museum.",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Princeton University Art Museum by Ruth Bernhard (1905–2006).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":90114,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV16086",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 74",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Nicaragua",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Central America",
+            "country":"Nicaragua",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/3617476/republic-of-nicaragua.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2038468,
+            "term":"Nicaraguan",
+            "aatid":300107954,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158096,
+            "term":"torso",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088258,
+            "term":"boys",
+            "aatid":300247598,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053554,
+            "term":"palladium prints",
+            "aatid":300134677,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053593,
+            "term":"platinum prints",
+            "aatid":300127145,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053593,
+            "term":"platinum prints",
+            "aatid":300127145,
+            "termtype":"Materials"
+        },
+        {
+            "id":2053554,
+            "term":"palladium prints",
+            "aatid":300134677,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053554,
+            "classification":"palladium prints"
+        },
+        {
+            "id":2053593,
+            "classification":"platinum prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        },
+        {
+            "id":2038468,
+            "culture":"Nicaraguan"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.40"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV16086"
+    ],
+    "displaymaker":"Matt Mahurin, American, born 1959",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Matt Mahurin (American, born 1959), Nicaragua, 1987, printed 1991. Platinum-palladium print; 26.5 x 27 cm (image), 40.4 x 33.3 cm (sheet). Gift of Ruth Bernhard (x1993-190.1.5)",
+    "captionhtml":"Matt Mahurin (American, born 1959), <i>Nicaragua</i>, 1987, printed 1991. Platinum-palladium print; 26.5 x 27 cm (image), 40.4 x 33.3 cm (sheet). Gift of Ruth Bernhard (x1993-190.1.5)",
+    "published_date":"2025-10-16 12:24:11.782943",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

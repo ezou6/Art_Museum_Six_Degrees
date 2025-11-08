@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":60483,
+    "objectnumber":"2010-158",
+    "sortnumber":"2010  158",
+    "displaytitle":"Seated Dog, after Antique Sculpture in Charlottenberg",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1836,
+    "dateend":1836,
+    "datecomputed":1836,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1836",
+    "medium":"Etching",
+    "dimensions":"plate: 9.5 x 9.4 cm. (3 3/4 x 3 11/16 in.)\r\nsheet: 24.5 x 35.3 cm. (9 5/8 x 13 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Charles A. Ryskamp",
+    "markings":null,
+    "inscribed":"Signed and dated in graphite, lower right corner: C. Kobke . 1836",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2010-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":16392,
+            "displayname":"Christen Købke",
+            "displaydate":"Danish, 1810–1848",
+            "datebegin":1810,
+            "dateend":1848,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Christen Købke, Danish, 1810–1848",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101705,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26461",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":50421,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2010-158",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2010,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 70 (2011): p. 69-110., p. 105, p. 108. (illus.)",
+            "date":2011,
+            "id":2974,
+            "uri":"https://www.jstor.org/stable/23631219"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Denmark, Copenhagen",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Denmark",
+            "region":null,
+            "state":null,
+            "city":"Copenhagen",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2618425/copenhagen.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031659,
+            "term":"Danish",
+            "aatid":300111172,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031659,
+            "culture":"Danish"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.30"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2010-158"
+    ],
+    "displaymaker":"Christen Købke, Danish, 1810–1848",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Christen Købke (Danish, 1810–1848), Seated Dog, after Antique Sculpture in Charlottenberg, 1836. Etching; 9.5 x 9.4 cm (plate), 24.5 x 35.3 cm (sheet). Bequest of Charles A. Ryskamp (2010-158)",
+    "captionhtml":"Christen Købke (Danish, 1810–1848), Seated Dog, after Antique Sculpture in Charlottenberg, 1836. Etching; 9.5 x 9.4 cm (plate), 24.5 x 35.3 cm (sheet). Bequest of Charles A. Ryskamp (2010-158)",
+    "published_date":"2025-10-16 15:53:16.150506",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

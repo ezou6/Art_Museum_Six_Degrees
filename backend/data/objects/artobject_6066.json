@@ -1,0 +1,220 @@
+{
+    "type":"artobject",
+    "objectid":6066,
+    "objectnumber":"1995-134",
+    "sortnumber":"1995  134",
+    "displaytitle":"Plate from Mechanisme de la Physionomie Humaine",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1862,
+    "dateend":1862,
+    "datecomputed":1862,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1862",
+    "medium":"Albumen print",
+    "dimensions":"13.1 x 10.8 cm. (5 3/16 x 4 1/4 in.)\r\nmount: 27.7 x 18.1 cm (10 7/8 x 7 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, anonymous gift",
+    "markings":null,
+    "inscribed":"Printed on mount above image: ICONO-PHOTOGRAPHIQUE/MECHANISME DE LA PHYSIONOMIE HUMAINE/ Pl. 3. (stamped in ink).\nPrinted on mount below lower right corner of image: DUCHENNE (de Boulogne), phot.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate from Mechanisme de la Physionomie Humaine",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2806,
+            "displayname":"Adrien Tournachon",
+            "displaydate":"1825–1903; born and died Paris, France",
+            "datebegin":1825,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Adrien Tournachon, 1825–1903; born and died Paris, France",
+            "displayorder":2
+        },
+        {
+            "id":5690,
+            "displayname":"Guillaume Duchenne de Boulogne",
+            "displaydate":"1806–1875; born Boulogne-sur-Mer, France; died Paris, France; active Paris",
+            "datebegin":1806,
+            "dateend":1875,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Guillaume Duchenne de Boulogne, 1806–1875; born Boulogne-sur-Mer, France; died Paris, France; active Paris",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"\r\nThe French neurologist Guillaume Duchenne de Boulogne was the first person to empirically test the idea that emotional expressions can be understood as movements of facial muscles, an idea now taken for granted. Duchenne applied electrical currents to facial muscles and with newly invented photographic techniques recorded the movements of the face. His research influenced Charles Darwin and generations of modern psychologists. The most popular coding system at present, the Facial Action Coding System, used for classifying emotions in psychology and computer science, is partly based on Duchenne’s research. This plate shows photographs of expressions after stimulation of the corrugator supercilii, one of the muscles controlling the eyebrows. Duchenne believed this muscle completely controlled expressions of pain. By covering half the face, he could demonstrate that the expression was due to local movements of the eyebrow rather than movements across the whole face.</P></SPAN>",
+            "remarks":"K2 Corridor Going to Extremes: Physiognomy, Caricature, and Studies of Expression"
+        }
+    ],
+    "media":[
+        {
+            "id":84733,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11326",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 55",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053216,
+            "term":"negatives",
+            "aatid":300127173,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"13.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.80"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.10"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":89549,
+            "name":"web_2016_K2_October"
+        },
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":38973,
+            "name":"Web_PhotoRotation_2015"
+        },
+        {
+            "packageid":196263,
+            "name":"WEB_2021_spring"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11326"
+    ],
+    "displaymaker":"Guillaume Duchenne de Boulogne, 1806–1875; born Boulogne-sur-Mer, France; died Paris, France; active Paris | Adrien Tournachon, 1825–1903; born and died Paris, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Guillaume Duchenne de Boulogne (1806–1875; born Boulogne-sur-Mer, France; died Paris, France; active Paris), Adrien Tournachon (1825–1903; born and died Paris, France), Plate from Mechanisme de la Physionomie Humaine, 1862. Albumen print; 13.1 x 10.8 cm. Museum purchase, anonymous gift (1995-134)",
+    "captionhtml":"Guillaume Duchenne de Boulogne (1806–1875; born Boulogne-sur-Mer, France; died Paris, France; active Paris), Adrien Tournachon (1825–1903; born and died Paris, France), <i>Plate from Mechanisme de la Physionomie Humaine</i>, 1862. Albumen print; 13.1 x 10.8 cm. Museum purchase, anonymous gift (1995-134)",
+    "published_date":"2025-10-16 10:43:11.260342",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

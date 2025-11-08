@@ -1,0 +1,217 @@
+{
+    "type":"artobject",
+    "objectid":36569,
+    "objectnumber":"1998-274",
+    "sortnumber":"1998  274",
+    "displaytitle":"The Metro Ticket",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1986,
+    "dateend":1986,
+    "datecomputed":1986,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1986",
+    "medium":"Pastel",
+    "dimensions":"32.7 x 25 cm (12 7/8 x 9 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum",
+    "markings":null,
+    "inscribed":"in graphite, lower left (partly erased):  1.I.86\n",
+    "signed":"Signed in graphite, lower right:  ARIKHA",
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Avigdor Arikha / Artists Rights Society (ARS) / The Design and Artists Copyright Society (DACS), London\r\n",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Metro Ticket",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":712,
+            "displayname":"Avigdor Arikha",
+            "displaydate":"Israeli, 1929–2010",
+            "datebegin":1929,
+            "dateend":2010,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Avigdor Arikha, Israeli, 1929–2010",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Marlborough Fine Art (London) label on old frame backing, NO.37175.1 (partly torn away).",
+            "remarks":"moved from provenance field"
+        }
+    ],
+    "media":[
+        {
+            "id":112625,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV35723",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1585,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-274_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 92",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":3665,
+            "citation":"Avigdor Arikha: Paintings, Pastels, and Drawings, October 2, 1986 - October 29, 1986",
+            "isvirtual":true,
+            "begindate":"1986-10-02",
+            "enddate":"1986-10-29",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/3665"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2034997,
+            "term":"Israeli",
+            "aatid":300195487,
+            "termtype":"Culture"
+        },
+        {
+            "id":2158126,
+            "term":"money",
+            "aatid":300037316,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158143,
+            "term":"coins",
+            "aatid":300037222,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158953,
+            "term":"tickets",
+            "aatid":300027381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2074361,
+            "term":"wallets",
+            "aatid":300046230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140798,
+            "term":"pastels",
+            "aatid":300122621,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151549,
+            "term":"flocking",
+            "aatid":300053786,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2034997,
+            "culture":"Israeli"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":206378,
+            "name":"x-COMPLETE-image_descriptions_SP"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV35723"
+    ],
+    "displaymaker":"Avigdor Arikha, Israeli, 1929–2010",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Avigdor Arikha (Israeli, 1929–2010), The Metro Ticket, 1986. Pastel; 32.7 x 25 cm. Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum (1998-274)",
+    "captionhtml":"Avigdor Arikha (Israeli, 1929–2010), <i>The Metro Ticket</i>, 1986. Pastel; 32.7 x 25 cm. Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum (1998-274)",
+    "published_date":"2025-10-16 13:53:55.025838",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

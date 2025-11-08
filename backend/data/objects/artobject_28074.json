@@ -1,0 +1,185 @@
+{
+    "type":"artobject",
+    "objectid":28074,
+    "objectnumber":"y1956-85",
+    "sortnumber":"1956   85y",
+    "displaytitle":"Blade",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Bone",
+    "datebegin":-3000,
+    "dateend":652,
+    "datecomputed":-1174,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Bone",
+    "dimensions":"9.4 x 2.2 x 0.2 cm (3 11/16 x 7/8 x 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the American Schools of Oriental Research",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1956-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Blade",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated at Nippur (SE/44, II-2); given to the Museum by the American Schools of Oriental Research&nbsp;in 1956.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":41081,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV006191",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Richard C. Haines, D.E. McCown, and R.D. Biggs, <EM>Nippur: excavations of the Joint Expedition to Nippur of the University Museum of Philadelphia and the Oriental Institute of the University of Chicago</EM>,&nbsp;(Chicago, IL: University of Chicago Press, 1967-1978).",
+            "citation":"Richard C. Haines, D.E. McCown, and R.D. Biggs, <EM>Nippur: excavations of the Joint Expedition to Nippur of the University Museum of Philadelphia and the Oriental Institute of the University of Chicago</EM>,&nbsp;(Chicago, IL: University of Chicago Press, 1967-1978)., Vol. 2: p. 122",
+            "date":1967,
+            "id":2498,
+            "uri":"http://www.worldcat.org/oclc/934086"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University</i> 16, no. 1 (1957): p. 12-14., p. 13",
+            "date":1957,
+            "id":1830,
+            "uri":"https://www.jstor.org/stable/3774252"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Iraq",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Iraq",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":"Nippur, SE/44, II-2",
+            "geoname":"http://www.geonames.org/maps/google_32.136_45.221.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037397,
+            "term":"Mesopotamian",
+            "aatid":300019828,
+            "termtype":"Culture"
+        },
+        {
+            "id":2116104,
+            "term":"blades",
+            "aatid":300024917,
+            "termtype":"Classification"
+        },
+        {
+            "id":2166191,
+            "term":"bone",
+            "aatid":300011798,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2116104,
+            "classification":"blades"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13945,
+            "culture":"Mesopotamian",
+            "alphasort":"Mesopotamian",
+            "begindate":-10000,
+            "enddate":637,
+            "displayculture":"Mesopotamian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037397,
+            "culture":"Mesopotamian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.37"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"2.21"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.16"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV006191"
+    ],
+    "displaymaker":null,
+    "displayculture":"Mesopotamian",
+    "displayperiod":null,
+    "caption":"Mesopotamian, Iraq, Blade. Bone; 9.4 x 2.2 x 0.2 cm. Gift of the American Schools of Oriental Research (y1956-85)",
+    "captionhtml":"Mesopotamian, Iraq, <i>Blade</i>. Bone; 9.4 x 2.2 x 0.2 cm. Gift of the American Schools of Oriental Research (y1956-85)",
+    "published_date":"2025-10-24 02:01:21.625245",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

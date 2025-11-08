@@ -1,0 +1,225 @@
+{
+    "type":"artobject",
+    "objectid":10011,
+    "objectnumber":"x1961-6",
+    "sortnumber":"1961    6x",
+    "displaytitle":"The Holy Family in the Carpenter's Shop",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1616,
+    "dateend":1674,
+    "datecomputed":1645,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Pen and black ink, gray wash, heightened with white",
+    "dimensions":"20.9 x 15.2 cm. (8 1/4 x 6 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Laura P. Hall Memorial Fund",
+    "markings":null,
+    "inscribed":"in ink, upper right: 10",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1961-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Holy Family",
+            "titletype":"Published",
+            "displayorder":2
+        }
+    ],
+    "makers":[
+        {
+            "id":565,
+            "displayname":"Leonard Bramer",
+            "displaydate":"Dutch, 1596–1674",
+            "datebegin":1596,
+            "dateend":1674,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Leonard Bramer, Dutch, 1596–1674",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12499,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1961-6_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":54493,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1961-6",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27, p. 26",
+            "date":1962,
+            "id":3379,
+            "uri":"https://www.jstor.org/stable/3774376"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171368,
+            "term":"Mary",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087885,
+            "term":"families",
+            "aatid":300055474,
+            "termtype":"Subject"
+        },
+        {
+            "id":2093575,
+            "term":"carpenters",
+            "aatid":300025008,
+            "termtype":"Subject"
+        },
+        {
+            "id":2153720,
+            "term":"heightening",
+            "aatid":300053418,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.90"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1961-6"
+    ],
+    "displaymaker":"Leonard Bramer, Dutch, 1596–1674",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Leonard Bramer (Dutch, 1596–1674), The Holy Family in the Carpenter's Shop. Pen and black ink, gray wash, heightened with white; 20.9 x 15.2 cm. Museum purchase, Laura P. Hall Memorial Fund (x1961-6)",
+    "captionhtml":"Leonard Bramer (Dutch, 1596–1674), The Holy Family in the Carpenter's Shop. Pen and black ink, gray wash, heightened with white; 20.9 x 15.2 cm. Museum purchase, Laura P. Hall Memorial Fund (x1961-6)",
+    "published_date":"2025-10-16 11:19:11.467603",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

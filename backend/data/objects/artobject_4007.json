@@ -1,0 +1,156 @@
+{
+    "type":"artobject",
+    "objectid":4007,
+    "objectnumber":"x1942-24",
+    "sortnumber":"1942   24x",
+    "displaytitle":"Deposition",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1912,
+    "dateend":1940,
+    "datecomputed":1926,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"woodcut",
+    "dimensions":"block: 9.1 x 11.5 cm. (3 9/16 x 4 1/2 in.)\r\nsheet: 18.1 x 16.5 cm. (7 1/8 x 6 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of A. E. McVitty",
+    "markings":null,
+    "inscribed":"signed, l.r. corner: Eric G.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Deposition",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6130,
+            "displayname":"Eric Gill",
+            "displaydate":"1882–1940; born Brighton, England; died Harefield, England",
+            "datebegin":1882,
+            "dateend":1940,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Eric Gill, 1882–1940; born Brighton, England; died Harefield, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":104352,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28775",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.10"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28775"
+    ],
+    "displaymaker":"Eric Gill, 1882–1940; born Brighton, England; died Harefield, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Eric Gill (1882–1940; born Brighton, England; died Harefield, England), Deposition. Woodcut; 9.1 x 11.5 cm (block), 18.1 x 16.5 cm (sheet). Gift of A. E. McVitty (x1942-24)",
+    "captionhtml":"Eric Gill (1882–1940; born Brighton, England; died Harefield, England), <i>Deposition</i>. Woodcut; 9.1 x 11.5 cm (block), 18.1 x 16.5 cm (sheet). Gift of A. E. McVitty (x1942-24)",
+    "published_date":"2025-10-23 16:43:43.929473",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

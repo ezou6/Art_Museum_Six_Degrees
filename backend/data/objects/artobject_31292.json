@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":31292,
+    "objectnumber":"y1969-63",
+    "sortnumber":"1969   63y",
+    "displaytitle":"Intaglio: Figure with Cross",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Gems",
+    "datebegin":471,
+    "dateend":529,
+    "datecomputed":500,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"late 5th–early 6th century",
+    "medium":"Nicolo set in gold frame",
+    "dimensions":"2.0 x 1.2 x 0.5 cm (13/16 x 1/2 x 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of LeRoy Strasburger",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Intaglio: Figure with Cross",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Acquired by LeRoy Strasburger at an unknown date from an unknown source; given to the Museum in 1969 by Strasburger.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":53262,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV019662",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 27",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_27_30.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Syria",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Syria",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_35_38.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2048931,
+            "term":"ornament",
+            "aatid":300056258,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031747,
+            "term":"Medieval",
+            "aatid":300020756,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055320,
+            "term":"intaglios",
+            "aatid":300047216,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049393,
+            "term":"gems",
+            "aatid":300011172,
+            "termtype":"Classification"
+        },
+        {
+            "id":2048566,
+            "term":"crosses (objects)",
+            "aatid":300235443,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162191,
+            "term":"gold",
+            "aatid":300011021,
+            "termtype":"Materials"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049393,
+            "classification":"gems"
+        },
+        {
+            "id":2055320,
+            "classification":"intaglios"
+        },
+        {
+            "id":2048931,
+            "classification":"ornament"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[],
+    "periods":[
+        {
+            "id":14431,
+            "period":"Medieval",
+            "alphasort":"Medieval",
+            "begindate":400,
+            "enddate":1499,
+            "displayperiod":"Medieval",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2031747,
+            "period":"Medieval"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"1.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV019662"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Medieval",
+    "caption":"Medieval, late 5th–early 6th century, Intaglio: Figure with Cross. Nicolo set in gold frame; 2 x 1.2 x 0.5 cm. Gift of LeRoy Strasburger (y1969-63)",
+    "captionhtml":"Medieval, late 5th–early 6th century, <i>Intaglio: Figure with Cross</i>. Nicolo set in gold frame; 2 x 1.2 x 0.5 cm. Gift of LeRoy Strasburger (y1969-63)",
+    "published_date":"2025-10-16 13:23:40.396944",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

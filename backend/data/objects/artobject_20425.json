@@ -1,0 +1,206 @@
+{
+    "type":"artobject",
+    "objectid":20425,
+    "objectnumber":"2000-327",
+    "sortnumber":"2000  327",
+    "displaytitle":"Dish",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":900,
+    "dateend":1099,
+    "datecomputed":1000,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"10th–11th century",
+    "medium":"Blue-green glass",
+    "dimensions":"h. 3.6 cm, diam. 9.0 cm (1 7/16 x 3 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dish",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Excavated at Fustat in 1964; given to the Museum by the American Research Center in Egypt in 1965 courtesy of the Department of Antiquities of the United Arab Republic.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":22018,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/STU00049",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":22019,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2000-327",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place excavated: Egypt, Fustat B",
+            "code":"Place excavated",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Fustat B",
+            "locus":"XI-211",
+            "river":null,
+            "excavation":"Fustat",
+            "geoname":"http://www.geonames.org/352261/misr-al-qadimah.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037670,
+            "term":"Egyptian, Syrian and Iraqi Islamic styles and periods",
+            "aatid":300244014,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049409,
+            "term":"glassware",
+            "aatid":300010898,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075787,
+            "term":"dishes",
+            "aatid":300042973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2075787,
+            "classification":"dishes"
+        },
+        {
+            "id":2049409,
+            "classification":"glassware"
+        }
+    ],
+    "cultures":[
+        {
+            "id":21079,
+            "culture":"Egyptian Islamic",
+            "alphasort":"Egyptian Islamic",
+            "begindate":652,
+            "enddate":0,
+            "displayculture":"Egyptian Islamic",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2037670,
+            "period":"Egyptian, Syrian and Iraqi Islamic styles and periods"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"3.60"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"9.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":131700,
+            "name":"web_FUSTAT"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2000-327"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian Islamic",
+    "displayperiod":null,
+    "caption":"Egyptian Islamic, Egypt, 10th–11th century, Dish. Blue-green glass; 3.6 x 9 cm. Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic (2000-327)",
+    "captionhtml":"Egyptian Islamic, Egypt, 10th–11th century, <i>Dish</i>. Blue-green glass; 3.6 x 9 cm. Gift of the American Research Center in Egypt, through the courtesy of the Department of Antiquities of the United Arab Republic (2000-327)",
+    "published_date":"2025-10-16 12:34:09.878564",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

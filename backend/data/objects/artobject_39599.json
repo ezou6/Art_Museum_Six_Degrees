@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":39599,
+    "objectnumber":"2000-282",
+    "sortnumber":"2000  282",
+    "displaytitle":"Burma",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1855,
+    "dateend":1855,
+    "datecomputed":1855,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1855",
+    "medium":"Salted paper print",
+    "dimensions":"sheet: 26.3 x 34.1 cm. (10 3/8 x 13 7/16 in.)\r\nmount: 31.5 x 39.1 cm. (12 3/8 x 15 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Surdna Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2000-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Burma",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2822,
+            "displayname":"Linnaeus Tripe",
+            "displaydate":"British, 1822–1902",
+            "datebegin":1822,
+            "dateend":1902,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Linnaeus Tripe, British, 1822–1902",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":83756,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV10460",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Jennie Boddington, “Architecture and Photography,” <EM>Art bulletin of Victoria</EM> no. 24 (1983): p. 72-77.",
+            "citation":"Jennie Boddington, “Architecture and Photography,” <EM>Art bulletin of Victoria</EM> no. 24 (1983): p. 72-77., pp. 72–77",
+            "date":1983,
+            "id":5662,
+            "uri":"http://www.worldcat.org/oclc/3384942"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93.",
+            "citation":"\"Acquisitions of the Art Museum 2000,\" <em>Record of the Princeton University Art Museum</em><i> </i>60 (2001): p.&nbsp;66-93., p. 84",
+            "date":2001,
+            "id":941,
+            "uri":"https://www.jstor.org/stable/3774812"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Asia, Myanmar, Amarapura, Taung Mingi Pagoda",
+            "code":"Place depicted",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Myanmar",
+            "region":null,
+            "state":null,
+            "city":"Amarapura",
+            "county":null,
+            "subregion":null,
+            "locale":"Taung Mingi Pagoda",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/11154130/amarapura.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096941,
+            "term":"Buddhism",
+            "aatid":300073738,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055417,
+            "term":"statue",
+            "aatid":300047600,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2184476,
+            "term":"historic sites",
+            "aatid":300000833,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053600,
+            "term":"salted paper prints",
+            "aatid":300127149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048789,
+            "term":"religious objects",
+            "aatid":300234098,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053600,
+            "classification":"salted paper prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"39.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV10460"
+    ],
+    "displaymaker":"Linnaeus Tripe, British, 1822–1902",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Linnaeus Tripe (British, 1822–1902), Burma, 1855. Salted paper print; 26.3 x 34.1 cm (sheet). Museum purchase, Surdna Fund (2000-282)",
+    "captionhtml":"Linnaeus Tripe (British, 1822–1902), <i>Burma</i>, 1855. Salted paper print; 26.3 x 34.1 cm (sheet). Museum purchase, Surdna Fund (2000-282)",
+    "published_date":"2025-10-16 14:07:06.316131",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

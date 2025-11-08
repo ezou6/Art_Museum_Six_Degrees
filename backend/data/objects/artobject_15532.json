@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":15532,
+    "objectnumber":"x1984-101",
+    "sortnumber":"1984  101x",
+    "displaytitle":"Looking Toward Tivoli",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1888,
+    "dateend":1953,
+    "datecomputed":1920,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Watercolor and pen and grey ink",
+    "dimensions":"32.2 x 21.5 cm. (12 11/16 x 8 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the artist",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1984-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Looking Toward Tivoli",
+            "titletype":"Published",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3642,
+            "displayname":"Frank Jewett Mather Jr.",
+            "displaydate":"American, 1868–1953",
+            "datebegin":1868,
+            "dateend":1953,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Frank Jewett Mather Jr., American, 1868–1953",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Give by the artist in July, 1952 (according to typed label on backing of former frame)",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":14639,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1984-101",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Martin Senn"
+        },
+        {
+            "id":107971,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV31798",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004)",
+            "citation":"John Wilmerding et al., <i>American Art in the Princeton University Art Museum: volume 1: drawings and watercolors</i>,<i> </i>(Princeton: Princeton University Art Museum; New Haven, CT; London: Yale University Press, 2004), p. 335, checklist no. 761 (illus.)",
+            "date":2004,
+            "id":420,
+            "uri":"http://www.worldcat.org/oclc/57236887"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52.",
+            "citation":"\"Acquisitions of the Art Museum 1984,\" <EM>Record of the Art Museum, Princeton University </EM>44, no. 1 (1985): p. 24-52., p. 33",
+            "date":1985,
+            "id":3134,
+            "uri":"https://www.jstor.org/stable/3774658"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"(not assigned)",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119790,
+            "term":"landscapes (environments)",
+            "aatid":300008626,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159635,
+            "term":"fields",
+            "aatid":300193636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053164,
+            "term":"watercolors",
+            "aatid":300078925,
+            "termtype":"Classification"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2044331,
+            "term":"laid paper",
+            "aatid":300014184,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167929,
+            "term":"watercolor",
+            "aatid":300015045,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        },
+        {
+            "id":2053164,
+            "classification":"watercolors"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV31798"
+    ],
+    "displaymaker":"Frank Jewett Mather Jr., American, 1868–1953",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Frank Jewett Mather Jr. (American, 1868–1953), Looking Toward Tivoli. Watercolor and pen and grey ink; 32.2 x 21.5 cm. Gift of the artist (x1984-101)",
+    "captionhtml":"Frank Jewett Mather Jr. (American, 1868–1953), <i>Looking Toward Tivoli</i>. Watercolor and pen and grey ink; 32.2 x 21.5 cm. Gift of the artist (x1984-101)",
+    "published_date":"2025-10-16 12:03:38.823078",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

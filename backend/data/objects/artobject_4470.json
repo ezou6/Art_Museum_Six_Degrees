@@ -1,0 +1,187 @@
+{
+    "type":"artobject",
+    "objectid":4470,
+    "objectnumber":"x1943-305",
+    "sortnumber":"1943  305x",
+    "displaytitle":"Wall Street, New York",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1884,
+    "dateend":1919,
+    "datecomputed":1902,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 35.4 x 25.4 cm. (13 15/16 x 10 in.)\r\nsheet: 41.8 x 31.1 cm. (16 7/16 x 12 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Purchase",
+    "markings":null,
+    "inscribed":"Ship, lower left",
+    "signed":"Signed in graphite, lower right: Chalres Mielatz\r\nSigned in plate, lower right: Mielatz",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Wall Street, New York",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3747,
+            "displayname":"Charles  F. W. Mielatz",
+            "displaydate":"American, 1864–1919",
+            "datebegin":1864,
+            "dateend":1919,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Charles  F. W. Mielatz, American, 1864–1919",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104985,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV29435",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2084585,
+            "term":"churches",
+            "aatid":300007466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120559,
+            "term":"streetscapes",
+            "aatid":300249570,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"41.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.40"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV29435"
+    ],
+    "displaymaker":"Charles  F. W. Mielatz, American, 1864–1919",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Charles  F. W. Mielatz (American, 1864–1919), Wall Street, New York. Etching; 35.4 x 25.4 cm (plate), 41.8 x 31.1 cm (sheet). Museum Purchase (x1943-305)",
+    "captionhtml":"Charles  F. W. Mielatz (American, 1864–1919), <i>Wall Street, New York</i>. Etching; 35.4 x 25.4 cm (plate), 41.8 x 31.1 cm (sheet). Museum Purchase (x1943-305)",
+    "published_date":"2025-10-16 10:31:27.914137",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

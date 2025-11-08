@@ -1,0 +1,193 @@
+{
+    "type":"artobject",
+    "objectid":3796,
+    "objectnumber":"x1943-162",
+    "sortnumber":"1943  162x",
+    "displaytitle":"Practicing",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":0,
+    "dateend":1943,
+    "datecomputed":null,
+    "daterange":"",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"plate: 20.1 x 27.6 cm. (7 15/16 x 10 7/8 in.)\r\nsheet: 27.6 x 34.7 cm. (10 7/8 x 13 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Mather Collection",
+    "markings":null,
+    "inscribed":"Numbered in graphite, lower left: F/11",
+    "signed":"Signed in graphite, lower right: William MacLean",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Practicing",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4741,
+            "displayname":"William MacLean",
+            "displaydate":"American",
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William MacLean, American",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":105678,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30047",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":105679,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV30048",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2089351,
+            "term":"musicians",
+            "aatid":300025666,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088151,
+            "term":"children (people by age group)",
+            "aatid":300025945,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2149692,
+            "term":"pianos",
+            "aatid":300042909,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"34.70"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.10"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.60"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182973,
+            "name":"x-COMPLETE-P&D_American_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV30047"
+    ],
+    "displaymaker":"William MacLean, American",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William MacLean (American), Practicing. Etching; 20.1 x 27.6 cm (plate), 27.6 x 34.7 cm (sheet). Mather Collection (x1943-162)",
+    "captionhtml":"William MacLean (American), <i>Practicing</i>. Etching; 20.1 x 27.6 cm (plate), 27.6 x 34.7 cm (sheet). Mather Collection (x1943-162)",
+    "published_date":"2025-10-16 10:26:58.042196",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

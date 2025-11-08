@@ -1,0 +1,192 @@
+{
+    "type":"artobject",
+    "objectid":53652,
+    "objectnumber":"x1938-82 c1",
+    "sortnumber":"1938   82xc       1",
+    "displaytitle":"Marie Antoinette",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1774,
+    "dateend":1811,
+    "datecomputed":1792,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"Etching",
+    "dimensions":"sheet trimmed to plate: 22.9 × 15.8 cm (9 × 6 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1938-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":4801,
+            "displayname":"Antoine de Marcenay de Ghuy",
+            "displaydate":"1724–1811; born Arnay-le-Duc, France; died Paris",
+            "datebegin":1724,
+            "dateend":1811,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Antoine de Marcenay de Ghuy, 1724–1811; born Arnay-le-Duc, France; died Paris",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":113609,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV36646",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":113610,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV36647",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2080288,
+            "term":"funerary structures",
+            "aatid":300122208,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2089219,
+            "term":"queens (people)",
+            "aatid":300025483,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103927,
+            "term":"plants",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055663,
+            "term":"busts",
+            "aatid":300047457,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.90"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV36646"
+    ],
+    "displaymaker":"Antoine de Marcenay de Ghuy, 1724–1811; born Arnay-le-Duc, France; died Paris",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Antoine de Marcenay de Ghuy (1724–1811; born Arnay-le-Duc, France; died Paris), Marie Antoinette. Etching; 22.9 × 15.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1938-82 c1)",
+    "captionhtml":"Antoine de Marcenay de Ghuy (1724–1811; born Arnay-le-Duc, France; died Paris), <i>Marie Antoinette</i>. Etching; 22.9 × 15.8 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1938-82 c1)",
+    "published_date":"2025-10-16 15:18:41.662324",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

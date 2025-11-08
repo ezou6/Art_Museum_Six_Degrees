@@ -1,0 +1,151 @@
+{
+    "type":"artobject",
+    "objectid":48838,
+    "objectnumber":"x1937-238",
+    "sortnumber":"1937  238x",
+    "displaytitle":"Antoine Arnauld",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1660,
+    "dateend":1707,
+    "datecomputed":1684,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"plate: 25.2 x 19.5 cm. (9 15/16 x 7 11/16 in.)\r\nsheet: 26.5 x 20.4 cm. (10 7/16 x 8 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed: Mr. Antoine Arnauld Docteur de Sorbonne",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Antoine Arnauld",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5747,
+            "displayname":"Gerard Edelinck",
+            "displaydate":"Flemish, 1640–1707",
+            "datebegin":1640,
+            "dateend":1707,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Gerard Edelinck, Flemish, 1640–1707",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":103441,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28160",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"26.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.40"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28160"
+    ],
+    "displaymaker":"Gerard Edelinck, Flemish, 1640–1707",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Gerard Edelinck (Flemish, 1640–1707), Antoine Arnauld. Engraving; 25.2 x 19.5 cm (plate), 26.5 x 20.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-238)",
+    "captionhtml":"Gerard Edelinck (Flemish, 1640–1707), <i>Antoine Arnauld</i>. Engraving; 25.2 x 19.5 cm (plate), 26.5 x 20.4 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-238)",
+    "published_date":"2025-10-23 17:23:17.241798",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

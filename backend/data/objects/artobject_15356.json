@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":15356,
+    "objectnumber":"x1983-212",
+    "sortnumber":"1983  212x",
+    "displaytitle":"Eiffel Tower from the portfolio Urban Landscapes III",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1981,
+    "dateend":1981,
+    "datecomputed":1981,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1981",
+    "medium":"Color screenprint",
+    "dimensions":"image: 35.6 x 50.8 cm. (14 x 20 in.)\r\nsheet: 50 x 70 cm. (19 11/16 x 27 9/16 in.)\r\nframe: 57 × 71.7 × 2.6 cm (22 7/16 × 28 1/4 × 1 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum Purchase, gift of Professor and Mrs. Gerald E. Bentley",
+    "markings":"blindstamp: Domberger screenprint around concentric circles with abstract design",
+    "inscribed":"In graphite, lower left: 107/250",
+    "signed":"In graphite, lower right: Richard Estes\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":"© Richard Estes, courtesy Marlborogh Gallery, New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Eiffel Tower from the portfolio Urban Landscapes III",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5800,
+            "displayname":"Richard Estes",
+            "displaydate":"American, born 1932",
+            "datebegin":1932,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Richard Estes, American, born 1932",
+            "displayorder":1
+        },
+        {
+            "id":12978,
+            "displayname":"Parasol Press, Ltd.",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Parasol Press, Ltd.",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":121147,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41393",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42.",
+            "citation":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42., p. 24, p. 27 (illus.)",
+            "date":1984,
+            "id":1857,
+            "uri":"https://www.jstor.org/stable/3774671"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154563,
+            "term":"screen printing",
+            "aatid":300053281,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078374,
+            "term":"towers (single built works)",
+            "aatid":300004847,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083237,
+            "term":"monuments",
+            "aatid":300006958,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119376,
+            "term":"cities",
+            "aatid":300008389,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098998,
+            "term":"reflections",
+            "aatid":300056034,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049506,
+            "term":"steelwork",
+            "aatid":300015341,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054761,
+            "term":"screen prints",
+            "aatid":300178688,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2154563,
+            "classification":"screen printing"
+        },
+        {
+            "id":2054761,
+            "classification":"screen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"57.00"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"71.70"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"50.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"70.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41393"
+    ],
+    "displaymaker":"Richard Estes, American, born 1932 | Published by Parasol Press, Ltd.",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Richard Estes (American, born 1932), Published by Parasol Press, Ltd., Eiffel Tower from the portfolio Urban Landscapes III, 1981. Color screenprint; 35.6 x 50.8 cm (image), 50 x 70 cm (sheet), 57 × 71.7 × 2.6 cm (frame). Museum Purchase, gift of Professor and Mrs. Gerald E. Bentley (x1983-212)",
+    "captionhtml":"Richard Estes (American, born 1932), Published by Parasol Press, Ltd., <i>Eiffel Tower from the portfolio Urban Landscapes III</i>, 1981. Color screenprint; 35.6 x 50.8 cm (image), 50 x 70 cm (sheet), 57 × 71.7 × 2.6 cm (frame). Museum Purchase, gift of Professor and Mrs. Gerald E. Bentley (x1983-212)",
+    "published_date":"2025-10-16 12:01:33.327661",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

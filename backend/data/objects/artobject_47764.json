@@ -1,0 +1,169 @@
+{
+    "type":"artobject",
+    "objectid":47764,
+    "objectnumber":"x1934-725",
+    "sortnumber":"1934  725x",
+    "displaytitle":"St. Catherine",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1627,
+    "dateend":1677,
+    "datecomputed":1652,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 21.9 x 15.9 cm. (8 5/8 x 6 1/4 in.)\r\nsheet: 22.5 x 16.1 cm (8 7/8 x 6 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed: Ralph Urb pinxit, W. Hollar fecit, ex collectione Arundeliana.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Catherine",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2888,
+            "displayname":"Ralph Urb",
+            "displaydate":"German, 17th century",
+            "datebegin":1600,
+            "dateend":1699,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Ralph Urb, German, 17th century",
+            "displayorder":2
+        },
+        {
+            "id":5270,
+            "displayname":"Wenceslaus Hollar",
+            "displaydate":"1607–1677; born Prague, Czech Republic; died London, Englad; active Germany",
+            "datebegin":1607,
+            "dateend":1677,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wenceslaus Hollar, 1607–1677; born Prague, Czech Republic; died London, Englad; active Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Thomas Thane [1782-1846, Lugt 2394]. Collection Defer-Dumesnil [19th century, Lugt 739]; sale of the collection, Paris, May 17-18, 1901, lot 238; Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":100974,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25807",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"15.90"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"16.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25807"
+    ],
+    "displaymaker":"Wenceslaus Hollar, 1607–1677; born Prague, Czech Republic; died London, Englad; active Germany | after Ralph Urb, German, 17th century",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Wenceslaus Hollar (1607–1677; born Prague, Czech Republic; died London, Englad; active Germany), after Ralph Urb (German, 17th century), St. Catherine. Etching; 21.9 x 15.9 cm (plate), 22.5 x 16.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-725)",
+    "captionhtml":"Wenceslaus Hollar (1607–1677; born Prague, Czech Republic; died London, Englad; active Germany), after Ralph Urb (German, 17th century), <i>St. Catherine</i>. Etching; 21.9 x 15.9 cm (plate), 22.5 x 16.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1934-725)",
+    "published_date":"2025-10-23 17:20:49.031934",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

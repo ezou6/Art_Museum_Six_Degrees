@@ -1,0 +1,178 @@
+{
+    "type":"artobject",
+    "objectid":7162,
+    "objectnumber":"x1948-1895",
+    "sortnumber":"1948 1895x",
+    "displaytitle":"Antonin Proust",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1885,
+    "dateend":1885,
+    "datecomputed":1885,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1885",
+    "medium":"Drypoint and etching on beige laid paper",
+    "dimensions":"plate: 23.5 x 17.2 cm. (9 1/4 x 6 3/4 in.)\r\nsheet: 40 x 23 cm. (15 3/4 x 9 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Antonin Proust",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3296,
+            "displayname":"Auguste Rodin",
+            "displaydate":"1840–1917; born Paris, France; died Meudon, France",
+            "datebegin":1840,
+            "dateend":1917,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Rodin, 1840–1917; born Paris, France; died Meudon, France",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted by the estate to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":13869,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-1895_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":98466,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23819",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15.",
+            "citation":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15., p. 15",
+            "date":1949,
+            "id":847,
+            "uri":"https://www.jstor.org/stable/3774270"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23819"
+    ],
+    "displaymaker":"Auguste Rodin, 1840–1917; born Paris, France; died Meudon, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Rodin (1840–1917; born Paris, France; died Meudon, France), Antonin Proust, 1885. Drypoint and etching on beige laid paper; 23.5 x 17.2 cm (plate), 40 x 23 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1895)",
+    "captionhtml":"Auguste Rodin (1840–1917; born Paris, France; died Meudon, France), <i>Antonin Proust</i>, 1885. Drypoint and etching on beige laid paper; 23.5 x 17.2 cm (plate), 40 x 23 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1895)",
+    "published_date":"2025-10-16 10:54:04.155251",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

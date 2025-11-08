@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":28694,
+    "objectnumber":"y1961-280",
+    "sortnumber":"1961  280y",
+    "displaytitle":"Inlay in the shape of a hand",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":-3000,
+    "dateend":-80,
+    "datecomputed":-1540,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":null,
+    "medium":"Red glass",
+    "dimensions":"0.7 x 2.7 x 0.9 cm (1/4 x 1 1/16 x 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1961-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Inlay in the shape of a hand",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Edward Sampson",
+            "remarks":"Batch edit for Provenance publiation project 10/2023; created in project follow-up - FLB"
+        }
+    ],
+    "media":[
+        {
+            "id":37684,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV004492",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 21, no. 1 (1962): p. 25-27, p. 26",
+            "date":1962,
+            "id":3379,
+            "uri":"https://www.jstor.org/stable/3774376"
+        },
+        {
+            "boilertext":"William Christopher Hayes, <EM>The scepter of Egypt: a background for the study of the Egyptian antiquities in the Metropolitan Museum of Art</EM>, (New York: Metropolitan Museum of Art, 1953-1959).",
+            "citation":"William Christopher Hayes, <EM>The scepter of Egypt: a background for the study of the Egyptian antiquities in the Metropolitan Museum of Art</EM>, (New York: Metropolitan Museum of Art, 1953-1959)., Vol. 2: p. 318, fig. 200",
+            "date":1953,
+            "id":6481,
+            "uri":"http://www.worldcat.org/oclc/7427345"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Egypt",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":null,
+            "country":"Egypt",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159065,
+            "term":"inlays",
+            "aatid":300256033,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Materials"
+        },
+        {
+            "id":2151653,
+            "term":"inlay (process)",
+            "aatid":300053850,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2159065,
+            "classification":"inlays"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":23980,
+            "period":"Dynastic Period",
+            "alphasort":"Dynastic Period",
+            "begindate":-3000,
+            "enddate":-80,
+            "displayperiod":"Dynastic Period, 3000–80 BCE",
+            "displaydate":"3000–80 BCE"
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"0.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"2.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"0.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182064,
+            "name":"web_2020_ancient_egyptian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV004492"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"Dynastic Period, 3000–80 BCE",
+    "caption":"Egyptian, Dynastic Period (3000–80 BCE), Egypt, Inlay in the shape of a hand. Red glass; 0.7 x 2.7 x 0.9 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1961-280)",
+    "captionhtml":"Egyptian, Dynastic Period (3000–80 BCE), Egypt, <i>Inlay in the shape of a hand</i>. Red glass; 0.7 x 2.7 x 0.9 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1961-280)",
+    "published_date":"2025-10-16 13:09:25.130596",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

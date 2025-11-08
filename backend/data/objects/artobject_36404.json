@@ -1,0 +1,231 @@
+{
+    "type":"artobject",
+    "objectid":36404,
+    "objectnumber":"1998-245",
+    "sortnumber":"1998  245",
+    "displaytitle":"Eared cup (erbei)",
+    "department":"Asian Art",
+    "classification":"Metal",
+    "datebegin":-206,
+    "dateend":220,
+    "datecomputed":7,
+    "daterange":"A.D. 1-500",
+    "displaydate":null,
+    "medium":"Bronze",
+    "dimensions":"h. 4.0 cm., l. 15.6 cm., w. 11.5 cm. (1 9/16 x 6 1/8 x 4 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Eared cup (erbei)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"&nbsp;–1998&nbsp;Dr. Alvin E. Friedman-Kien (New York, NY), by gift to the Princeton University Art Museum, 1998.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":6690,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2001-291-2-1_OBL",
+            "isprimary":0,
+            "rank":11,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":1560,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-245_GS",
+            "isprimary":1,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Cary Y. Liu, et al. <em>Recarving China's Past: Art, Archaeology and Architecture of the \"Wu Family Shrines\"</em>, (Princeton University Art Museum, 2005)",
+            "citation":"Cary Y. Liu, et al. <em>Recarving China's Past: Art, Archaeology and Architecture of the \"Wu Family Shrines\"</em>, (Princeton University Art Museum, 2005), p. 360 (illus.)",
+            "date":2005,
+            "id":8331,
+            "uri":"http://www.worldcat.org/oclc/254152310"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123.",
+            "citation":"\"Acquisitions of the Art Museum 1998,\" <em>Record of the Art Museum, Princeton University </em>58, no. 1/2 (1999): p. 86-123., p. 108",
+            "date":1999,
+            "id":3044,
+            "uri":"https://www.jstor.org/stable/3774795"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1814991/people-s-republic-of-china.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033394,
+            "term":"Han (Chinese)",
+            "aatid":300018385,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2076155,
+            "term":"cups",
+            "aatid":300043202,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2076155,
+            "classification":"cups"
+        },
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12606,
+            "period":"Eastern Han dynasty",
+            "alphasort":"Eastern Han dynasty",
+            "begindate":25,
+            "enddate":220,
+            "displayperiod":"Eastern Han dynasty, 25–220 CE",
+            "displaydate":"25–220 CE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033394,
+            "period":"Han (Chinese)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Length",
+            "units":"centimeters",
+            "dimension":"15.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"11.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":214208,
+            "name":"Gallery_13-15(Pavilion4)-Asian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1998-245_GS"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chinese",
+    "displayperiod":"Eastern Han dynasty, 25–220 CE",
+    "caption":"Chinese, Eastern Han dynasty (25–220 CE), Eared cup (erbei). Bronze; 4 x 15.6 x 11.5 cm. Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum (1998-245)",
+    "captionhtml":"Chinese, Eastern Han dynasty (25–220 CE), <i>Eared cup (erbei)</i>. Bronze; 4 x 15.6 x 11.5 cm. Gift of Dr. Alvin E. Friedman-Kien in honor of Allen Rosenbaum (1998-245)",
+    "published_date":"2025-10-16 13:53:00.001880",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":61878,
+    "objectnumber":"y1977-16 b",
+    "sortnumber":"1977   16yb",
+    "displaytitle":"Orchids and Bamboo (Lan zhu tu 蘭竹圖)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1706,
+    "dateend":1756,
+    "datecomputed":1731,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"undated",
+    "medium":"Album leaf; ink on paper",
+    "dimensions":"Painting: 32.5 x 46.1 cm. (12 13/16 x 18 1/8 in.)\r\nLeaf: 81 x 61.8 cm. (31 7/8 x 24 5/16 in.)\r\nMat: 45.5 x 63.3 cm. (17 15/16 x 24 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jeannette Shambaugh Elliott",
+    "markings":null,
+    "inscribed":null,
+    "signed":"signed",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":4585,
+            "displayname":"Li Shan 李鱓",
+            "displaydate":"1686–ca. 1756",
+            "datebegin":1686,
+            "dateend":1756,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Li Shan 李鱓, 1686–ca. 1756",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":220584,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1955883",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 31",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033603,
+            "term":"Qing",
+            "aatid":300018478,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045717,
+            "term":"bamboo",
+            "aatid":300011873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2125788,
+            "term":"albums",
+            "aatid":300026690,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2125788,
+            "classification":"albums"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":15366,
+            "period":"Qing dynasty",
+            "alphasort":"Qing dynasty",
+            "begindate":1644,
+            "enddate":1912,
+            "displayperiod":"Qing dynasty, 1644–1912",
+            "displaydate":"1644–1912"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033603,
+            "period":"Qing"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"46.10"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"45.50"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"63.30"
+        },
+        {
+            "element":"Leaf",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"81.00"
+        },
+        {
+            "element":"Leaf",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"61.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":43777,
+            "name":"web_2015-05_Chinese"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018-1955883"
+    ],
+    "displaymaker":"Li Shan 李鱓, 1686–ca. 1756",
+    "displayculture":"Chinese",
+    "displayperiod":"Qing dynasty, 1644–1912",
+    "caption":"Chinese, Qing dynasty (1644–1912), Li Shan 李鱓 (1686–ca. 1756), Orchids and Bamboo (Lan zhu tu 蘭竹圖), undated. Album leaf; ink on paper; 32.5 x 46.1 cm (Painting), 81 x 61.8 cm (Leaf), 45.5 x 63.3 cm (mat). Gift of Jeannette Shambaugh Elliott (y1977-16 b)",
+    "captionhtml":"Chinese, Qing dynasty (1644–1912), Li Shan 李鱓 (1686–ca. 1756), <i>Orchids and Bamboo (Lan zhu tu 蘭竹圖)</i>, undated. Album leaf; ink on paper; 32.5 x 46.1 cm (Painting), 81 x 61.8 cm (Leaf), 45.5 x 63.3 cm (mat). Gift of Jeannette Shambaugh Elliott (y1977-16 b)",
+    "published_date":"2025-10-16 16:00:23.029906",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":33692,
+    "objectnumber":"y1993-53 a-b",
+    "sortnumber":"1993   53ya    b",
+    "displaytitle":"Textile panels in red, brown and yellow with birds and geometric bands",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1100,
+    "dateend":1400,
+    "datecomputed":1250,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 1100–1400",
+    "medium":"Wool",
+    "dimensions":"a: h. 12.5 cm., w. 35.2 cm. (4 15/16 x 13 7/8 in.)\r\nb: h. 12.0 cm., w. 29.5 cm. (4 3/4 x 11 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1993-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Textile panels in red, brown and yellow with birds and geometric bands",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":44495,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010209",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95.",
+            "citation":"\"Acquisitions of the Art Museum 1993\", <em>Record of the Art Museum, Princeton University</em> 53, no.&nbsp;1 (1994): p. 46-95., p. 87",
+            "date":1994,
+            "id":3065,
+            "uri":"https://www.jstor.org/stable/3774684"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: South America, Peru, Central coast",
+            "code":"Place made",
+            "continent":"South America",
+            "subcontinent":"Andes",
+            "country":"Peru",
+            "region":"Central coast",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3932488/republic-of-peru.html",
+            "location":{
+                "lat":"-10",
+                "lon":"-75.25"
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158039,
+            "term":"birds",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036051,
+            "term":"Chancay",
+            "aatid":300017315,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044482,
+            "term":"wool (textile)",
+            "aatid":300243430,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151290,
+            "classification":"dyeing"
+        },
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13514,
+            "culture":"Chancay",
+            "alphasort":"Chancay",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chancay",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036051,
+            "culture":"Chancay"
+        }
+    ],
+    "periods":[
+        {
+            "id":13508,
+            "period":"Late Intermediate Period",
+            "alphasort":"Intermediate, Late",
+            "begindate":900,
+            "enddate":1450,
+            "displayperiod":"Late Intermediate Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":119493,
+            "name":"CRS_ART419/LAS419_Textiles for Trays"
+        },
+        {
+            "packageid":143542,
+            "name":"web_andeantextiles_ART419_2017_02"
+        },
+        {
+            "packageid":118868,
+            "name":"CRS_ART419_2017_02"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010209"
+    ],
+    "displaymaker":null,
+    "displayculture":"Chancay",
+    "displayperiod":"Late Intermediate Period",
+    "caption":"Chancay, Late Intermediate Period, ca. 1100–1400, Central coast, Peru, Andes, Textile panels in red, brown and yellow with birds and geometric bands. Wool; 12.5 x 35.2 cm (a), 12 x 29.5 cm (b). Gift of Gillett G. Griffin (y1993-53 a-b)",
+    "captionhtml":"Chancay, Late Intermediate Period, ca. 1100–1400, Central coast, Peru, Andes, <i>Textile panels in red, brown and yellow with birds and geometric bands</i>. Wool; 12.5 x 35.2 cm (a), 12 x 29.5 cm (b). Gift of Gillett G. Griffin (y1993-53 a-b)",
+    "published_date":"2025-10-16 13:37:15.519498",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

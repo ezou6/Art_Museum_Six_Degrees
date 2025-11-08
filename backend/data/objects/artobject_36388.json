@@ -1,0 +1,238 @@
+{
+    "type":"artobject",
+    "objectid":36388,
+    "objectnumber":"1998-576",
+    "sortnumber":"1998  576",
+    "displaytitle":"Male figure (iagalagana)",
+    "department":"African and Oceanic Art",
+    "classification":"Sculpture",
+    "datebegin":1900,
+    "dateend":1999,
+    "datecomputed":1950,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"20th century",
+    "medium":"Wood and paint",
+    "dimensions":"h. 72.5 cm., w. 13.5 cm., d. 12.2 cm. (28 9/16 x 5 5/16 x 4 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of John B. Elliott, Class of 1951",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1998-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Male figure (iagalagana)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":15624,
+            "displayname":"Mumuye",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":"artist",
+            "role":"Artist",
+            "displaymaker":"Mumuye artist",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">\n<p align=\"LEFT\" dir=\"LTR\">\n\t[Philippe Guimiot (1927-2021), Brussels, Belgium, collected in Douala, Cameroon, 1968-69] [1]. John B. Elliott, New York, NY by 1989 [2]; bequeathed to the Princeton University Art Museum, Princeton, NJ, 1998.\n</p>\n<p align=\"LEFT\" dir=\"LTR\">\n\t[1] P.G.-40 in Philippe Guimiot photographic archives, published in Bernard de Grunne, <i>Mumuye </i>(Brussels: Bernard de Grunne Tribal Fine Arts, 2023), 120.\n</p>\n<p align=\"LEFT\" dir=\"LTR\">\n\t[2] John B. Elliott donor files, Princeton University Art Museum, Princeton, NJ.\n</p>\n</span>",
+            "remarks":"Updated with Guimiot provenance by Perrin Lathrop, 9/23/2025. See provenance note for explanation."
+        }
+    ],
+    "media":[
+        {
+            "id":42892,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV008247",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":1781,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1998-576_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>",
+            "citation":"<p>\"The checklist of the John B. Elliott Bequest,\" <em>Record of the Princeton University Art Museum </em>61 (2002): p. 49-99.</p>, p. 68",
+            "date":2002,
+            "id":3025,
+            "uri":"https://www.jstor.org/stable/3774767"
+        },
+        {
+            "boilertext":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83.",
+            "citation":"\"Selected checklist of objects in the collection of African art,\" <em>Record of the Art Museum, Princeton University</em> 58, no. 1/2 (1999): p. 77–83., p. 78",
+            "date":1999,
+            "id":3043,
+            "uri":"https://www.jstor.org/stable/3774794"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Nigeria",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Nigeria",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2328926/federal-republic-of-nigeria.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188582,
+            "term":"spirits (beings)",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2041890,
+            "term":"Mumuye",
+            "aatid":300016115,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151569,
+            "term":"painting (coating)",
+            "aatid":300161986,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2041890,
+            "culture":"Mumuye"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"72.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"12.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV008247"
+    ],
+    "displaymaker":"Mumuye artist",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Mumuye artist, Nigeria, Western Africa, Male figure (iagalagana), 20th century. Wood and paint; 72.5 x 13.5 x 12.2 cm. Bequest of John B. Elliott, Class of 1951 (1998-576)",
+    "captionhtml":"Mumuye artist, Nigeria, Western Africa, <i>Male figure (iagalagana)</i>, 20th century. Wood and paint; 72.5 x 13.5 x 12.2 cm. Bequest of John B. Elliott, Class of 1951 (1998-576)",
+    "published_date":"2025-10-16 13:52:53.243191",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

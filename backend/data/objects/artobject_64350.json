@@ -1,0 +1,234 @@
+{
+    "type":"artobject",
+    "objectid":64350,
+    "objectnumber":"2011-169",
+    "sortnumber":"2011  169",
+    "displaytitle":"Legs",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1978,
+    "dateend":1978,
+    "datecomputed":1978,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1978",
+    "medium":"Lithograph",
+    "dimensions":"image: 43.2 x 35.6 cm. (17 x 14 in.)\r\nframe: 52.5 × 44.7 × 3.5 cm (20 11/16 × 17 5/8 × 1 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Michael Rips, Class of 1976",
+    "markings":null,
+    "inscribed":"Numbered in graphite, lower left: 7//10 Artists proof\r\n\r\nSigned and dated in graphite lower right: Philip Pearlstein 1978",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Philip Pearlstein",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2011-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Legs",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4188,
+            "displayname":"Philip Pearlstein",
+            "displaydate":"American, born 1924",
+            "datebegin":1924,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Philip Pearlstein, American, born 1924",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110990,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2011-169",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2011,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 75-132., p. 104",
+            "date":2012,
+            "id":2987,
+            "uri":"https://www.jstor.org/stable/24416387"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1573,
+            "citation":"Faces and Facets, Princeton University Art Museum (July 6–August 18, 2013)",
+            "isvirtual":true,
+            "begindate":"2013-07-06",
+            "enddate":"2013-08-18",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1573"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2171345,
+            "term":"legs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158094,
+            "term":"hands",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"43.17"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.55"
+        },
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"52.50"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.70"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2011-169"
+    ],
+    "displaymaker":"Philip Pearlstein, American, born 1924",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Philip Pearlstein (American, born 1924), Legs, 1978. Lithograph; 43.2 x 35.6 cm (image), 52.5 × 44.7 × 3.5 cm (frame). Gift of Michael Rips, Class of 1976 (2011-169)",
+    "captionhtml":"Philip Pearlstein (American, born 1924), <i>Legs</i>, 1978. Lithograph; 43.2 x 35.6 cm (image), 52.5 × 44.7 × 3.5 cm (frame). Gift of Michael Rips, Class of 1976 (2011-169)",
+    "published_date":"2025-10-16 16:19:34.193821",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

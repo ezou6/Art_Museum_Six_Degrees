@@ -1,0 +1,68 @@
+{
+    "makerid":72,
+    "published_date":"2025-10-21 02:06:23.166676",
+    "type":"maker",
+    "displayname":"Manuel Álvarez Bravo",
+    "makertype":"Individual",
+    "alphasort":"Alvarez Bravo Manuel",
+    "lastname":"Álvarez Bravo",
+    "firstname":"Manuel",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1902–2002; born Mexico City, Mexico; died Mexico City; active Mexico City",
+    "begindate":1902,
+    "enddate":2002,
+    "nationality":"Mexican",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Manuel Álvarez Bravo",
+            "alphasort":"Alvarez Bravo Manuel",
+            "lastname":"Álvarez Bravo",
+            "firstname":"Manuel",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500028115"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/76372784"
+        }
+    ],
+    "audio":[],
+    "video":[],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"668da641d5441e3e2214cb37"
+            },
+            "title":"A Generous Legacy: Transformative Gifts Continue to Shape Princeton's Collections",
+            "body":"",
+            "essay_uri":"https://artmuseum.princeton.edu/story/generous-legacy-transformative-gifts-continue-shape-princeton%E2%80%99s-collections",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        },
+        {
+            "_id":{
+                "$oid":"668ecb58d5441e3e2214cb38"
+            },
+            "title":"Past Made Present in Mexican Photography",
+            "essay_uri":"https://artmuseum.princeton.edu/story/past-made-present-mexican-photography",
+            "author_type":"Faculty",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ]
+}

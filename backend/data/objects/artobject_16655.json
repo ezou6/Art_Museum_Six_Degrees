@@ -1,0 +1,241 @@
+{
+    "type":"artobject",
+    "objectid":16655,
+    "objectnumber":"x1987-20.5",
+    "sortnumber":"1987   20x    5",
+    "displaytitle":"Moscow Circus",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1963,
+    "dateend":1963,
+    "datecomputed":1963,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1963, printed 1985",
+    "medium":"Dye transfer print",
+    "dimensions":"image: 36.1 x 45.4 cm (14 3/16 x 17 7/8 in.)\r\nsheet: 40.6 x 51 cm (16 x 20 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James P. Harrington, Class of 1947",
+    "markings":null,
+    "inscribed":"In ink, below image: Harold Edgerton",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Harold Edgerton",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1987-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Moscow Circus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5748,
+            "displayname":"Harold Eugene Edgerton",
+            "displaydate":"1903–1990; born Freemont, NE; died Cambridge, MA; active Cambridge, MA",
+            "datebegin":1903,
+            "dateend":1990,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Harold Eugene Edgerton, 1903–1990; born Freemont, NE; died Cambridge, MA; active Cambridge, MA",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":96504,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV22232",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54.",
+            "citation":"\"Acquisitions of the Art Museum 1987\", <i>Record of the Art Museum, Princeton University</i> 47, no. 1 (1988): p. 30-54., p. 40",
+            "date":1988,
+            "id":542,
+            "uri":"https://www.jstor.org/stable/3774608"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2115319,
+            "term":"stroboscopic lamps",
+            "aatid":300181563,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135008,
+            "term":"circuses (performances)",
+            "aatid":300069235,
+            "termtype":"Subject"
+        },
+        {
+            "id":2094122,
+            "term":"athletes",
+            "aatid":300236025,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2146932,
+            "term":"sports",
+            "aatid":300222725,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053622,
+            "term":"silver-dye bleach prints",
+            "aatid":300252136,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154789,
+            "term":"dye transfer process",
+            "aatid":300053471,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053622,
+            "classification":"silver-dye bleach prints"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"51.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"45.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV22232"
+    ],
+    "displaymaker":"Harold Eugene Edgerton, 1903–1990; born Freemont, NE; died Cambridge, MA; active Cambridge, MA",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Harold Eugene Edgerton (1903–1990; born Freemont, NE; died Cambridge, MA; active Cambridge, MA), Moscow Circus, 1963, printed 1985. Dye transfer print; 36.1 x 45.4 cm (image), 40.6 x 51 cm (sheet). Gift of James P. Harrington, Class of 1947 (x1987-20.5)",
+    "captionhtml":"Harold Eugene Edgerton (1903–1990; born Freemont, NE; died Cambridge, MA; active Cambridge, MA), <i>Moscow Circus</i>, 1963, printed 1985. Dye transfer print; 36.1 x 45.4 cm (image), 40.6 x 51 cm (sheet). Gift of James P. Harrington, Class of 1947 (x1987-20.5)",
+    "published_date":"2025-10-16 12:11:20.235512",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

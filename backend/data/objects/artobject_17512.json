@@ -1,0 +1,283 @@
+{
+    "type":"artobject",
+    "objectid":17512,
+    "objectnumber":"y1929-242",
+    "sortnumber":"1929  242y",
+    "displaytitle":"Plate",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1818,
+    "dateend":1840,
+    "datecomputed":1829,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Earthenware",
+    "dimensions":"2.3 x diam. 25.9 cm (7/8 x 10 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Livingston Collection",
+    "markings":"On base, impressed: R.; Impressed, circling the eagle: E. WOOD & SONS BURSLEM, WARRENTED SEMI-CHINA.; On bottom, in blue underglaze: eagle, shield, and banner bearing PLURIBUS UNUM / CITY OF ALBANY / STATE OF NEW YORK",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2063,
+            "displayname":"Enoch Wood & Sons",
+            "displaydate":"British, 1818–1840",
+            "datebegin":1818,
+            "dateend":1840,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Enoch Wood & Sons, British, 1818–1840",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>\n\tPossibly Emily Augusta Green Livingston (1837-1900) [1], New York City; possibly by descent to William Blackwell II, Princeton University Class of 1891 (1869-1915); gift to the Princeton University Art Museum, ca. 1900.</p>\n<p>[1] Internal documents at the Princeton University Art Museum demonstrate that the Livingston Collection represents at least two groups of European ceramics. The first arrived at the Museum in ca. 1897 as part of the collection of Emily Augusta Green Livingston. After her death in 1900, her son William Blackwell II donated further works to the collections, possibly from the collection inherited from his mother, although it is not known whether he added further works to the collection after his mother’s death. These two groups of ceramics were treated as a single collection at the Princeton University Art Museum and accessioned in three batches between their arrival and 1937.\n</p>",
+            "remarks":null
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Livingston Collection",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":136569,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58898",
+            "isprimary":0,
+            "rank":20,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":136570,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV58899",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: England, Burslem",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Burslem",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_53.045_-2.197.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place depicted: North America, United States, New York, Albany",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"Albany",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.653_-73.756.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049593,
+            "term":"shellwork",
+            "aatid":300220991,
+            "termtype":"Subject"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2102367,
+            "term":"ships",
+            "aatid":300082981,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159697,
+            "term":"running ornament",
+            "aatid":300165347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"2.30"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"25.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264608,
+            "name":"DenseDisplay_EPS_at_20250205"
+        },
+        {
+            "packageid":236377,
+            "name":"EW-Artwalk_Materials&Surfaces"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":277927,
+            "name":"EW-Artwalk_Materials&Surfaces_CaseA"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV58899"
+    ],
+    "displaymaker":"Enoch Wood & Sons, British, 1818–1840",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Enoch Wood & Sons (British, 1818–1840), Plate. Earthenware; 2.3 × 25.9 cm. Livingston Collection (y1929-242)",
+    "captionhtml":"Enoch Wood & Sons (British, 1818–1840), <i>Plate</i>. Earthenware; 2.3 × 25.9 cm. Livingston Collection (y1929-242)",
+    "published_date":"2025-10-23 16:58:18.744829",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

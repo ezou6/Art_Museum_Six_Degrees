@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":47175,
+    "objectnumber":"2005-60",
+    "sortnumber":"2005   60",
+    "displaytitle":"The Old Tree",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1803,
+    "dateend":1803,
+    "datecomputed":1803,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"1803",
+    "medium":"Pen lithograph",
+    "dimensions":"plate (sheet trimmed to plate): 28.7 × 21.1 cm (11 5/16 × 8 5/16 in.)\r\nmount: 44 x 31.5 cm. (17 5/16 x 12 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Surdna Fund",
+    "markings":null,
+    "inscribed":"Signed and dated in plate, lower right: Hearne 1803 [3 reversed]",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2005-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Old Tree",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5148,
+            "displayname":"Thomas Hearne",
+            "displaydate":"1744–1817; born Marshfield, England; died London, England",
+            "datebegin":1744,
+            "dateend":1817,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Thomas Hearne, 1744–1817; born Marshfield, England; died London, England",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":104395,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28818",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":104396,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV28819",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2005,\" <em>Record of the Princeton University Art Museum</em> 65 (2006): p. 49-81., p. 61",
+            "date":2006,
+            "id":429,
+            "uri":"https://www.jstor.org/stable/20442620"
+        },
+        {
+            "boilertext":"Philipp Andrém, James Heath, Paul Mellon, and G.J. Vollweiler, <EM>Specimens of Polyautography</EM> (London: P. André and J. Heath, April 1803).",
+            "citation":"Philipp Andrém, James Heath, Paul Mellon, and G.J. Vollweiler, <EM>Specimens of Polyautography</EM> (London: P. André and J. Heath, April 1803).",
+            "date":1803,
+            "id":6336,
+            "uri":"http://www.worldcat.org/oclc/270762450"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6269131/england.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2102357,
+            "term":"boats",
+            "aatid":300178749,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"44.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        },
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV28818"
+    ],
+    "displaymaker":"Thomas Hearne, 1744–1817; born Marshfield, England; died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Thomas Hearne (1744–1817; born Marshfield, England; died London, England), The Old Tree, 1803. Pen lithograph; 28.7 × 21.1 cm (plate, sheet trimmed to plate). Museum purchase, Surdna Fund (2005-60)",
+    "captionhtml":"Thomas Hearne (1744–1817; born Marshfield, England; died London, England), <i>The Old Tree</i>, 1803. Pen lithograph; 28.7 × 21.1 cm (plate, sheet trimmed to plate). Museum purchase, Surdna Fund (2005-60)",
+    "published_date":"2025-10-16 14:47:35.564084",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

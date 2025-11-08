@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":17454,
+    "objectnumber":"x1990-42",
+    "sortnumber":"1990   42x",
+    "displaytitle":"Untitled",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1929,
+    "dateend":1929,
+    "datecomputed":1929,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1929",
+    "medium":"Gelatin silver print",
+    "dimensions":"24.2 × 19 cm (9 1/2 × 7 1/2 in.)\r\nmount: 36.3 x 31.1 cm (14 5/16 x 12 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Howard Read III",
+    "markings":null,
+    "inscribed":"In graphite, verso upper left: \"30\"",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":6165,
+            "displayname":"Francis Joseph Bruguière",
+            "displaydate":"1879–1945; born San Francisco, CA; died Middleton Cheney, UK",
+            "datebegin":1879,
+            "dateend":1945,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Francis Joseph Bruguière, 1879–1945; born San Francisco, CA; died Middleton Cheney, UK",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":87057,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV13255",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 39",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":478,
+            "citation":"Museum Project in Modern Photography Thursday, February 01, 2001 - Friday, February 01, 2002",
+            "isvirtual":true,
+            "begindate":"2001-02-01",
+            "enddate":"2002-02-01",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/478"
+        }
+    ],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6252001/united-states.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2126716,
+            "term":"stationery",
+            "aatid":300207873,
+            "termtype":"Subject"
+        },
+        {
+            "id":2098810,
+            "term":"light",
+            "aatid":300056024,
+            "termtype":"Subject"
+        },
+        {
+            "id":2099007,
+            "term":"shadows",
+            "aatid":300056036,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"31.10"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV13255"
+    ],
+    "displaymaker":"Francis Joseph Bruguière, 1879–1945; born San Francisco, CA; died Middleton Cheney, UK",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Francis Joseph Bruguière (1879–1945; born San Francisco, CA; died Middleton Cheney, UK), Untitled, 1929. Gelatin silver print; 24.2 × 19 cm. Gift of Howard Read III (x1990-42)",
+    "captionhtml":"Francis Joseph Bruguière (1879–1945; born San Francisco, CA; died Middleton Cheney, UK), <i>Untitled</i>, 1929. Gelatin silver print; 24.2 × 19 cm. Gift of Howard Read III (x1990-42)",
+    "published_date":"2025-10-16 12:17:08.074594",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

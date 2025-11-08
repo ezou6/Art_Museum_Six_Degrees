@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":13857,
+    "objectnumber":"x1977-66",
+    "sortnumber":"1977   66x",
+    "displaytitle":"Elephant",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1933,
+    "dateend":1933,
+    "datecomputed":1933,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1933",
+    "medium":"Woodcut",
+    "dimensions":"block: 25 × 32 cm (9 13/16 × 12 5/8 in.)\r\nsheet: 35.1 x 50.5 cm. (13 13/16 x 19 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Albers and the Josef Albers Foundation",
+    "markings":null,
+    "inscribed":"Titled, editioned, signed, and dated in graphite, below lower left curve of design: Elefant 5//25 Albers 33",
+    "signed":null,
+    "catalograisonne":"Danilowitz 73",
+    "creditlinerepro":"© The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1977-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Elephant",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":33,
+            "displayname":"Josef Albers",
+            "displaydate":"1888–1976; born Bottrop, Germany; died New Haven, CT; active Weimar, Germany, and New Haven",
+            "datebegin":1888,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Josef Albers, 1888–1976; born Bottrop, Germany; died New Haven, CT; active Weimar, Germany, and New Haven",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12735,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1977-66_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":101805,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26561",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1977,\" <em>Record of the Art Museum, Princeton University</em> 37, no. 1 (1978): p. 28-40., p. 36",
+            "date":1978,
+            "id":3354,
+            "uri":"https://www.jstor.org/stable/3774515"
+        },
+        {
+            "boilertext":"Sam Hunter and Hugh M. Davies, <EM>Joseph Albers: Paintings and Graphics, 1917-1970 </EM>(Princeton: Art Museum, 1971).",
+            "citation":"Sam Hunter and Hugh M. Davies, <EM>Joseph Albers: Paintings and Graphics, 1917-1970 </EM>(Princeton: Art Museum, 1971)., p. 25",
+            "date":1971,
+            "id":4195,
+            "uri":"http://www.worldcat.org/oclc/79996872"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany, Dessau, Bauhaus Dessau",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":"Dessau",
+            "county":null,
+            "subregion":null,
+            "locale":"Bauhaus Dessau",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2937959/dessau.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2158055,
+            "term":"elephants",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2155120,
+            "term":"woodcut (process)",
+            "aatid":300053296,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.00"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":43017,
+            "name":"web_Line of Beauty May 2015"
+        },
+        {
+            "packageid":30249,
+            "name":"web_ 2014_ART-LAS334"
+        },
+        {
+            "packageid":32522,
+            "name":"Web_W/P_ART344/LAS334"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26561"
+    ],
+    "displaymaker":"Josef Albers, 1888–1976; born Bottrop, Germany; died New Haven, CT; active Weimar, Germany, and New Haven",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Josef Albers (1888–1976, born Bottrop, Germany; died New Haven, CT; active Weimar, Germany, and New Haven), Elephant, 1933. Woodcut; 25 × 32 cm (block), 35.1 x 50.5 cm (sheet). Gift of Mrs. Albers and the Josef Albers Foundation (x1977-66)",
+    "captionhtml":"Josef Albers (1888–1976, born Bottrop, Germany; died New Haven, CT; active Weimar, Germany, and New Haven), <i>Elephant</i>, 1933. Woodcut; 25 × 32 cm (block), 35.1 x 50.5 cm (sheet). Gift of Mrs. Albers and the Josef Albers Foundation (x1977-66)",
+    "published_date":"2025-10-22 02:00:52.343745",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

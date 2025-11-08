@@ -1,0 +1,269 @@
+{
+    "type":"artobject",
+    "objectid":50936,
+    "objectnumber":"2006-59",
+    "sortnumber":"2006   59",
+    "displaytitle":"Fortitude",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1465,
+    "dateend":1479,
+    "datecomputed":1472,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 1470",
+    "medium":"Engraving",
+    "dimensions":"plate: 17.2 x 9.5 cm. (6 3/4 x 3 3/4 in.) \r\nsheet: 18.3 x 10.5 cm. (7 3/16 x 4 1/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Thomas V. Lange in honor of Frances Lange, docent",
+    "markings":null,
+    "inscribed":"Printed in plate, lower left to right: B / FORTEZA XXXVI / 36",
+    "signed":null,
+    "catalograisonne":"Bartsch 128.53; Hind 36",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Fortitude",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12922,
+            "displayname":"Master of the Mantegna Playing Cards",
+            "displaydate":"Italian, active ca. 1465",
+            "datebegin":1460,
+            "dateend":1470,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Master of the Mantegna Playing Cards, Italian, active ca. 1465",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101615,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26371",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":14798,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2006-59",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Arthur Mayger Hind, <EM>Early Italian engraving: a critical catalogue with complete reproduction of all the prints described</EM> (London: Pub. for M. Knoedler, New York, by B. Quaritch, 1938-48).",
+            "citation":"Arthur Mayger Hind, <EM>Early Italian engraving: a critical catalogue with complete reproduction of all the prints described</EM> (London: Pub. for M. Knoedler, New York, by B. Quaritch, 1938-48)., no. 36",
+            "date":1938,
+            "id":5980,
+            "uri":"http://www.worldcat.org/oclc/3247767"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 49 (illus.), p. 54",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        },
+        {
+            "boilertext":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%'>Adam vom Bartsch, \"Volume 13,\" <EM><SPAN style='FONT-FAMILY: \"Arial\",sans-serif'>Le peintre graveur ... </SPAN></EM>(Vienne: J. V. Degen, 1803-05).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>",
+            "citation":"<P class=MsoNormal style=\"MARGIN: 0in 0in 0pt\"><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%'>Adam vom Bartsch, \"Volume 13,\" <EM><SPAN style='FONT-FAMILY: \"Arial\",sans-serif'>Le peintre graveur ... </SPAN></EM>(Vienne: J. V. Degen, 1803-05).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>, no. 53, p. 128",
+            "date":1811,
+            "id":6395,
+            "uri":"http://www.worldcat.org/oclc/682354769"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy, Ferrara",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":"Ferrara",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6299592/ferrara.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2127397,
+            "term":"lions",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2095240,
+            "term":"symbolism",
+            "aatid":300055865,
+            "termtype":"Subject"
+        },
+        {
+            "id":2147052,
+            "term":"card games",
+            "aatid":300222738,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        },
+        {
+            "id":2154917,
+            "term":"engraving (printing process)",
+            "aatid":300053225,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2006-59"
+    ],
+    "displaymaker":"Master of the Mantegna Playing Cards, Italian, active ca. 1465",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Master of the Mantegna Playing Cards (Italian, active ca. 1465), Fortitude, ca. 1470. Engraving; 17.2 x 9.5 cm (plate), 18.3 x 10.5 cm (sheet). Gift of Thomas V. Lange in honor of Frances Lange, docent (2006-59)",
+    "captionhtml":"Master of the Mantegna Playing Cards (Italian, active ca. 1465), <i>Fortitude</i>, ca. 1470. Engraving; 17.2 x 9.5 cm (plate), 18.3 x 10.5 cm (sheet). Gift of Thomas V. Lange in honor of Frances Lange, docent (2006-59)",
+    "published_date":"2025-10-16 15:12:50.377548",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

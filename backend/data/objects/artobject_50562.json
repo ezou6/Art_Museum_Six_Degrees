@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":50562,
+    "objectnumber":"2006-100",
+    "sortnumber":"2006  100",
+    "displaytitle":"Saint Martina on the Pyre",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1660,
+    "dateend":1670,
+    "datecomputed":1665,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"ca. 1665",
+    "medium":"Etching",
+    "dimensions":"plate: 21 x 32.2 cm. (8 1/4 x 12 11/16 in.)\r\nsheet: 23.6 x 33.5 cm. (9 5/16 x 13 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Jörg Martin Merz",
+    "markings":null,
+    "inscribed":"Printed below plate, lower left to right: Damnatur flammis MARTINA:, procella sed imbrem / Atqué ignèm in profugos uertis oborta reos. \r\n\r\nPrinted, lower left and right corners: Ant.us Cher.us Reatinus in et Sculp. / Superiorum permissu.",
+    "signed":null,
+    "catalograisonne":"Bartsch 255.3",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2006-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Saint Martina on the Pyre",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12901,
+            "displayname":"Antonio Gherardi",
+            "displaydate":"Italian, 1638–1702",
+            "datebegin":1638,
+            "dateend":1702,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Antonio Gherardi, Italian, 1638–1702",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101308,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25981",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2006,\" <em>Record of the Princeton University Art Museum </em>66 (2007): p. 41-74., p. 51",
+            "date":2007,
+            "id":3000,
+            "uri":"https://www.jstor.org/stable/20442628"
+        },
+        {
+            "boilertext":"<P class=MsoNormalCxSpFirst><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%'>Adam vom Bartsch, “Volume 21,” <I>Le peintre graveur ... </I>(Vienne: J. V. Degen, 18).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>",
+            "citation":"<P class=MsoNormalCxSpFirst><SPAN style='FONT-SIZE: 9pt; FONT-FAMILY: \"Arial\",sans-serif; LINE-HEIGHT: 107%'>Adam vom Bartsch, “Volume 21,” <I>Le peintre graveur ... </I>(Vienne: J. V. Degen, 18).<?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P>, no. 3, p. 255",
+            "date":1821,
+            "id":6607,
+            "uri":"http://www.worldcat.org/oclc/682354769"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Italy",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3169070/rome.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2097064,
+            "term":"Catholicism",
+            "aatid":300073730,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098620,
+            "term":"rain",
+            "aatid":300055377,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2135440,
+            "term":"executions",
+            "aatid":300069680,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095114,
+            "term":"martyrs",
+            "aatid":300188714,
+            "termtype":"Subject"
+        },
+        {
+            "id":2095174,
+            "term":"saints",
+            "aatid":300150555,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.50"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25981"
+    ],
+    "displaymaker":"Antonio Gherardi, Italian, 1638–1702",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Antonio Gherardi (Italian, 1638–1702), Saint Martina on the Pyre, ca. 1665. Etching; 21 x 32.2 cm (plate), 23.6 x 33.5 cm (sheet). Gift of Jörg Martin Merz (2006-100)",
+    "captionhtml":"Antonio Gherardi (Italian, 1638–1702), <i>Saint Martina on the Pyre</i>, ca. 1665. Etching; 21 x 32.2 cm (plate), 23.6 x 33.5 cm (sheet). Gift of Jörg Martin Merz (2006-100)",
+    "published_date":"2025-10-16 15:10:12.875230",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

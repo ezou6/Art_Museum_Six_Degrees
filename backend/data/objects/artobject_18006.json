@@ -1,0 +1,180 @@
+{
+    "type":"artobject",
+    "objectid":18006,
+    "objectnumber":"x1991-316",
+    "sortnumber":"1991  316x",
+    "displaytitle":"Berlin",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1976,
+    "dateend":1976,
+    "datecomputed":1976,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1976",
+    "medium":"Chromogenic print",
+    "dimensions":"image: 34.3 x 22.4 cm (13 1/2 x 8 13/16 in.)\r\nsheet: 35.8 x 24 cm (14 1/8 x 9 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Ruth Bernhard",
+    "markings":null,
+    "inscribed":"Signed in pen below image, along bottom border: 13/50 Berlin A Ruth, Franco Fontana '76",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Franco Fontana",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1991-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Berlin",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5939,
+            "displayname":"Franco Fontana",
+            "displaydate":"Italian, born 1933",
+            "datebegin":1933,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Franco Fontana, Italian, born 1933",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Princeton University Art Museum by Ruth Bernhard (1905–2006).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":85257,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV11811",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78.",
+            "citation":"\"Acquisitions of the Art Museum 1991,\" <em>Record of the Art Museum, Princeton University </em>51, no. 1 (1992): p. 22-78., p. 51",
+            "date":1992,
+            "id":3085,
+            "uri":"https://www.jstor.org/stable/3774711"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2110200,
+            "term":"walls",
+            "aatid":300002469,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053737,
+            "term":"color photographs",
+            "aatid":300128359,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053737,
+            "classification":"color photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.80"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.40"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV11811"
+    ],
+    "displaymaker":"Franco Fontana, Italian, born 1933",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Franco Fontana (Italian, born 1933), Berlin, 1976. Chromogenic print; 34.3 x 22.4 cm (image), 35.8 x 24 cm (sheet). Gift of Ruth Bernhard (x1991-316)",
+    "captionhtml":"Franco Fontana (Italian, born 1933), <i>Berlin</i>, 1976. Chromogenic print; 34.3 x 22.4 cm (image), 35.8 x 24 cm (sheet). Gift of Ruth Bernhard (x1991-316)",
+    "published_date":"2025-10-16 12:20:28.955542",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

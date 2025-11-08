@@ -1,0 +1,171 @@
+{
+    "type":"artobject",
+    "objectid":45745,
+    "objectnumber":"x1934-1004",
+    "sortnumber":"1934 1004x",
+    "displaytitle":"Desiderius Erasmus",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1536,
+    "dateend":1536,
+    "datecomputed":1536,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 22.2 x 13.7 cm (8 3/4 x 5 3/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"y",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1934-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Desiderius Erasmus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1625,
+            "displayname":"Lucas Vorsterman the Elder",
+            "displaydate":"1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England",
+            "datebegin":1595,
+            "dateend":1675,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Lucas Vorsterman the Elder, 1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England",
+            "displayorder":2
+        },
+        {
+            "id":4834,
+            "displayname":"William Marshall",
+            "displaydate":"British, active ca. 1617–1650",
+            "datebegin":1617,
+            "dateend":1650,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Marshall, British, active ca. 1617–1650",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":102242,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26993",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"22.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"13.70"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26993"
+    ],
+    "displaymaker":"William Marshall, British, active ca. 1617–1650 | after Lucas Vorsterman the Elder, 1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Marshall (British, active ca. 1617–1650), after Lucas Vorsterman the Elder (1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England), Desiderius Erasmus. Engraving; 22.2 x 13.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1004)",
+    "captionhtml":"William Marshall (British, active ca. 1617–1650), after Lucas Vorsterman the Elder (1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England), <i>Desiderius Erasmus</i>. Engraving; 22.2 x 13.7 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1934-1004)",
+    "published_date":"2025-10-23 17:15:27.889713",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,246 @@
+{
+    "type":"artobject",
+    "objectid":18513,
+    "objectnumber":"y131",
+    "sortnumber":"131     y",
+    "displaytitle":"Scodello",
+    "department":"European Painting and Sculpture ",
+    "classification":"Ceramics",
+    "datebegin":1300,
+    "dateend":1350,
+    "datecomputed":1325,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"ca. 1300–50",
+    "medium":"Glazed earthenware",
+    "dimensions":"9 x 25.1 x 20.5 cm (3 9/16 x 9 7/8 x 8 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Trumbull-Prime Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Scodello",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mary Hollister Prime (née Trumbull) (1827-1872) and William Cowper Prime, Class of 1843 (1825-1905); 1890 gift to Princeton University Art Museum.",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":137971,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60099",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137972,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60100",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":137973,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV60101",
+            "isprimary":0,
+            "rank":6,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Orvieto, Umbria",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":"Umbria",
+            "state":null,
+            "city":"Orvieto",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_42.719_12.112.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2153716,
+            "term":"hatching",
+            "aatid":300101921,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031625,
+            "term":"Italian",
+            "aatid":300111198,
+            "termtype":"Culture"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159120,
+            "term":"crosses (motifs)",
+            "aatid":300010044,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159813,
+            "term":"scalloping",
+            "aatid":300165381,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122932,
+            "term":"coats of arms",
+            "aatid":300126352,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049225,
+            "term":"earthenware",
+            "aatid":300140803,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049225,
+            "classification":"earthenware"
+        },
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13456,
+            "culture":"Italian",
+            "alphasort":"Italian",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Italian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031625,
+            "culture":"Italian"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"20.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV60099"
+    ],
+    "displaymaker":null,
+    "displayculture":"Italian",
+    "displayperiod":null,
+    "caption":"Italian, Scodello, ca. 1300–50. Glazed earthenware; 9 × 25.1 × 20.5 cm. Trumbull-Prime Collection (y131)",
+    "captionhtml":"Italian, <i>Scodello</i>, ca. 1300–50. Glazed earthenware; 9 × 25.1 × 20.5 cm. Trumbull-Prime Collection (y131)",
+    "published_date":"2025-10-16 12:23:20.419359",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

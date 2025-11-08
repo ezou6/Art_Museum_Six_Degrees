@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":48655,
+    "objectnumber":"x1937-142",
+    "sortnumber":"1937  142x",
+    "displaytitle":"Virgin of the Rocks",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1799,
+    "dateend":1857,
+    "datecomputed":1828,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 54.9 x 36.1 cm (21 5/8 x 14 3/16 in.)\r\nsheet: 64.3 x 60.1 cm (25 5/16 x 23 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":"Stamp of engraver  (Lugt 2789) at lower margin, left.",
+    "inscribed":"Engraved below image: Léonard de Vinci Pinxit Tableau du Musée Napoléon. Aug. Desnoyers Delt. & Sculpt. / La Vierge Aux Rochers / Dedice a son Excellence / Ministre de Relations / [ coat of arms] Monseigr le Duc de Bassano Exerieures",
+    "signed":null,
+    "catalograisonne":"Le Blanc 14 III",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Virgin of the Rocks",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4543,
+            "displayname":"Leonardo da Vinci",
+            "displaydate":"Italian, 1452–1519",
+            "datebegin":1452,
+            "dateend":1519,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Leonardo da Vinci, Italian, 1452–1519",
+            "displayorder":2
+        },
+        {
+            "id":5598,
+            "displayname":"Auguste Desnoyers",
+            "displaydate":"French, 1779 - 1857",
+            "datebegin":1779,
+            "dateend":1857,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Auguste Desnoyers, French, 1779 - 1857",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":78604,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09418",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":78605,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV09419",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2163203,
+            "term":"rock (inorganic material)",
+            "aatid":300011692,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171368,
+            "term":"Mary",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"60.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"64.30"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"36.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV09419"
+    ],
+    "displaymaker":"Auguste Desnoyers, French, 1779 - 1857 | after Leonardo da Vinci, Italian, 1452–1519",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Auguste Desnoyers (French, 1779 - 1857), after Leonardo da Vinci (Italian, 1452–1519), Virgin of the Rocks. Engraving; 54.9 x 36.1 cm (plate), 64.3 x 60.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-142)",
+    "captionhtml":"Auguste Desnoyers (French, 1779 - 1857), after Leonardo da Vinci (Italian, 1452–1519), <i>Virgin of the Rocks</i>. Engraving; 54.9 x 36.1 cm (plate), 64.3 x 60.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-142)",
+    "published_date":"2025-10-16 15:01:26.743092",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

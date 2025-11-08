@@ -1,0 +1,252 @@
+{
+    "type":"artobject",
+    "objectid":128549,
+    "objectnumber":"2017-2",
+    "sortnumber":"2017    2",
+    "displaytitle":"The Fruitsellers",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1838,
+    "dateend":1848,
+    "datecomputed":1843,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":"ca. 1843",
+    "medium":"Salted paper print",
+    "dimensions":"image: 17.1 × 21 cm (6 3/4 × 8 1/4 in.)\r\nsheet: 18.7 × 22.5 cm (7 3/8 × 8 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Surdna Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":"Schaaf 1917",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2017-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Fruitsellers",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2693,
+            "displayname":"William Henry Fox Talbot",
+            "displaydate":"British, 1800–1877",
+            "datebegin":1800,
+            "dateend":1877,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Henry Fox Talbot, British, 1800–1877",
+            "displayorder":1
+        },
+        {
+            "id":5483,
+            "displayname":"Calvert Richard Jones",
+            "displaydate":"Welsh, 1802–1877",
+            "datebegin":1802,
+            "dateend":1877,
+            "prefix":"and/or",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"and/or Calvert Richard Jones, Welsh, 1802–1877",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"<SPAN lang=EN>\r\n<P dir=ltr align=left>Talbot laid claim to the invention of photography, having revealed his paper-based process just after the French daguerreotype, an example of which is on view at right. Although the long exposures necessary in these early years made photographing groups of people difficult, Talbot adapted the <I>tableau vivant</I>, in which participants mimic the compositions of paintings for amusement, to create scenes for the camera. This image, taken at Talbot’s estate of Lacock Abbey, may have been produced in collaboration with the painter Calvert Richard Jones, who enthusiastically adopted many early photographic processes and who trained under Talbot.</P></SPAN>",
+            "remarks":"Photography and Belonging rotation"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Charles Isaacs Photographs, Inc., New York, NY]; purchased by the Princeton University Art Museum, 2017. ",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":213974,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_30109",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England, Lacock, Lacock Abbey",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":"Lacock",
+            "county":"Wiltshire",
+            "subregion":null,
+            "locale":"Lacock Abbey",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2645072/lacock.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087855,
+            "term":"groups of people",
+            "aatid":300192630,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135558,
+            "term":"markets (events)",
+            "aatid":300112347,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2184378,
+            "term":"abbeys",
+            "aatid":300000642,
+            "termtype":"Subject"
+        },
+        {
+            "id":2154159,
+            "term":"salted paper processes",
+            "aatid":300053495,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2154159,
+            "classification":"salted paper processes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.50"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.14"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"20.95"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2018_30109"
+    ],
+    "displaymaker":"William Henry Fox Talbot, British, 1800–1877 | and/or Calvert Richard Jones, Welsh, 1802–1877",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Henry Fox Talbot (British, 1800–1877), and/or Calvert Richard Jones (Welsh, 1802–1877), The Fruitsellers, ca. 1843. Salted paper print; 17.1 × 21 cm (image), 18.7 × 22.5 cm (sheet). Museum purchase, Surdna Fund (2017-2)",
+    "captionhtml":"William Henry Fox Talbot (British, 1800–1877), and/or Calvert Richard Jones (Welsh, 1802–1877), <i>The Fruitsellers</i>, ca. 1843. Salted paper print; 17.1 × 21 cm (image), 18.7 × 22.5 cm (sheet). Museum purchase, Surdna Fund (2017-2)",
+    "published_date":"2025-10-16 18:31:48.879738",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

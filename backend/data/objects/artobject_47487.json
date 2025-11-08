@@ -1,0 +1,171 @@
+{
+    "type":"artobject",
+    "objectid":47487,
+    "objectnumber":"x1935-1611",
+    "sortnumber":"1935 1611x",
+    "displaytitle":"La Baratteuse",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1840,
+    "dateend":1889,
+    "datecomputed":1864,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":null,
+    "medium":"etching",
+    "dimensions":"plate: 23.8 x 17.1 cm. (9 3/8 x 6 3/4 in.)\r\nsheet: 30.1 x 23.6 cm (11 7/8 x 9 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":null,
+    "markings":null,
+    "inscribed":"l.l.: HE; above: F. MILLET; Ed Hedouin sc. -- Supplement de Paris Noel - Etudes Imp. Paris.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1935-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"La Baratteuse",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3766,
+            "displayname":"Jean-François Millet",
+            "displaydate":"1814–1875; born Gruchy, France; died Barbizon, France",
+            "datebegin":1814,
+            "dateend":1875,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Jean-François Millet, 1814–1875; born Gruchy, France; died Barbizon, France",
+            "displayorder":2
+        },
+        {
+            "id":5153,
+            "displayname":"Edmond Hedouin",
+            "displaydate":"French, 1820–1889",
+            "datebegin":1820,
+            "dateend":1889,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Edmond Hedouin, French, 1820–1889",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":98301,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23656",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":98302,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23657",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.10"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23656"
+    ],
+    "displaymaker":"Edmond Hedouin, French, 1820–1889 | after Jean-François Millet, 1814–1875; born Gruchy, France; died Barbizon, France",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Edmond Hedouin (French, 1820–1889), after Jean-François Millet (1814–1875; born Gruchy, France; died Barbizon, France), La Baratteuse. Etching; 23.8 x 17.1 cm (plate), 30.1 x 23.6 cm (sheet). (x1935-1611)",
+    "captionhtml":"Edmond Hedouin (French, 1820–1889), after Jean-François Millet (1814–1875; born Gruchy, France; died Barbizon, France), <i>La Baratteuse</i>. Etching; 23.8 x 17.1 cm (plate), 30.1 x 23.6 cm (sheet). (x1935-1611)",
+    "published_date":"2025-10-23 17:20:14.841175",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

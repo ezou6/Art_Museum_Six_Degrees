@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":135667,
+    "objectnumber":"2019-126",
+    "sortnumber":"2019  126",
+    "displaytitle":"Adinkra wrapper",
+    "department":"African and Oceanic Art",
+    "classification":"Textiles",
+    "datebegin":1900,
+    "dateend":1923,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"early 20th century",
+    "medium":"Cotton, probably silk, and dye",
+    "dimensions":"210 × 311 cm (82 11/16 × 122 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Adinkra wrapper",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":22875,
+            "displayname":"Artist unrecorded",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unrecorded",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Private collection, Accra, Ghana, by 2019]; [purchased by Adire African Textiles, London, UK, March 2019]; purchased by the Princeton University Art Museum, Princeton, NJ, May 2019.\n",
+            "remarks":"Duncan Clarke (Adire African Textiles) shares all the provenance information he has on the condition that we keep his sources anonymous. See provenance notes for more information. - PML, 9/23/2024"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Colorful serrated whipstitching called kawo (how the millipede walks) binds each of the five imported cotton panels of this adinkra wrapper. Stamped concentric circles, a motif known as <i>adinkrahene</i>, cover the entire surface. Abstract adinkra symbols recur across Asante culture and often refer to proverbs, folk tales, or popular sayings. Interpretation of their meaning relies on one’s existing wisdom and cultural knowledge. The light and brightly colored design of this garment suggests it is a <i>kwasiada </i>(Sunday) wrapper, worn for celebrations, while darker colored cloths were reserved for funerals and mourning.\n",
+            "remarks":"AFR_31_WLA.pdf - Day 1 installation"
+        }
+    ],
+    "media":[
+        {
+            "id":239726,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1888",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Africa, Ghana",
+            "code":"Place made",
+            "continent":"Africa",
+            "subcontinent":"Western Africa",
+            "country":"Ghana",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096251,
+            "term":"iconography",
+            "aatid":300055859,
+            "termtype":"Subject"
+        },
+        {
+            "id":2127887,
+            "term":"wrappers (garments)",
+            "aatid":300216844,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188460,
+            "term":"prestige",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049610,
+            "term":"textiles",
+            "aatid":300014063,
+            "termtype":"Classification"
+        },
+        {
+            "id":2041478,
+            "term":"African",
+            "aatid":300015647,
+            "termtype":"Culture"
+        },
+        {
+            "id":2042086,
+            "term":"Asante",
+            "aatid":300016004,
+            "termtype":"Culture"
+        },
+        {
+            "id":2051820,
+            "term":"symbols",
+            "aatid":300055878,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2122399,
+            "term":"proverbs",
+            "aatid":300188783,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2168318,
+            "term":"dye",
+            "aatid":300013029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044421,
+            "term":"cotton (textile)",
+            "aatid":300014067,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044466,
+            "term":"silk (textile)",
+            "aatid":300243428,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049610,
+            "classification":"textiles"
+        },
+        {
+            "id":2127887,
+            "classification":"wrappers (garments)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15020,
+            "culture":"Asante",
+            "alphasort":"Asante",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Asante",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2041478,
+            "culture":"African"
+        },
+        {
+            "id":2042086,
+            "culture":"Asante"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"210.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"311.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":223066,
+            "name":"Gallery_31_African"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2022_1888"
+    ],
+    "displaymaker":"Artist unrecorded",
+    "displayculture":"Asante",
+    "displayperiod":null,
+    "caption":"Artist unrecorded, Asante, Ghana, Western Africa, Adinkra wrapper, early 20th century. Cotton, probably silk, and dye; 210 × 311 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2019-126)",
+    "captionhtml":"Artist unrecorded, Asante, Ghana, Western Africa, <i>Adinkra wrapper</i>, early 20th century. Cotton, probably silk, and dye; 210 × 311 cm. Museum purchase, Hugh Leander Adams, Mary Trumbull Adams and Hugh Trumbull Adams Princeton Art Fund and anonymous gift (2019-126)",
+    "published_date":"2025-10-16 18:49:52.780120",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

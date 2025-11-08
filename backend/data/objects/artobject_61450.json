@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":61450,
+    "objectnumber":"PU 7501",
+    "sortnumber":"U      7501P",
+    "displaytitle":"Small shallow bowl",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":1400,
+    "dateend":1600,
+    "datecomputed":1500,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1400–1600",
+    "medium":"Ceramic with polychrome slip",
+    "dimensions":"diam. 14.9 cm. (5 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Department of Geosciences, Princeton University",
+    "markings":"In graphite on bottom: 46",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Small shallow bowl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12918,
+            "displayname":"Artist unidentified",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Artist unidentified",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Shungopavi, Arizona. Heinrich Richert Voth (1855-1931), acquired 1893-98; Field Museum of Natural History, Chicago, IL, (no. 67165), by 1907; by exchange to the E. M. Museum (Princeton Museum of Natural History), 1907.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":59267,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04493",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":59268,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV04494",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Arizona, Hopituh Shi-nu-mu (Hopi) Pueblo, Sikyákti [Oriabi]",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"American southwest",
+            "country":"United States",
+            "region":null,
+            "state":"Arizona",
+            "city":"Hopituh Shi-nu-mu (Hopi) Pueblo",
+            "county":null,
+            "subregion":null,
+            "locale":"Sikyákti [Oriabi]",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5314200/shongopovi.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2035624,
+            "term":"Pre-Columbian Pueblo styles",
+            "aatid":300016952,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2073090,
+            "term":"bowls (vessels)",
+            "aatid":300203596,
+            "termtype":"Classification"
+        },
+        {
+            "id":2040513,
+            "term":"Pueblo",
+            "aatid":300017746,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040541,
+            "term":"Hopi",
+            "aatid":300017763,
+            "termtype":"Culture"
+        },
+        {
+            "id":2096251,
+            "term":"iconography",
+            "aatid":300055859,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2055947,
+            "term":"polychrome",
+            "aatid":300252261,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073090,
+            "classification":"bowls (vessels)"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13979,
+            "culture":"Hopitu Shi-nu-mu (Hopi)",
+            "alphasort":"Hopitu Shi-nu-mu (Hopi)",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Hopitu Shi-nu-mu (Hopi)",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040513,
+            "culture":"Pueblo"
+        },
+        {
+            "id":2040541,
+            "culture":"Hopi"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2035624,
+            "period":"Pre-Columbian Pueblo styles"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"14.86"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":271786,
+            "name":"-- Indigenous North American Art in New Building"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":225736,
+            "name":"VisibleStorage_GHC-H_Southwest1"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV04493"
+    ],
+    "displaymaker":"Artist unidentified",
+    "displayculture":"Hopitu Shi-nu-mu (Hopi)",
+    "displayperiod":null,
+    "caption":"Artist unidentified, Hopitu Shi-nu-mu (Hopi), 1400–1600, Hopituh Shi-nu-mu (Hopi) Pueblo, Arizona, United States, American southwest, Small shallow bowl. Ceramic with polychrome slip; 14.9 cm. Department of Geosciences, Princeton University (PU 7501)",
+    "captionhtml":"Artist unidentified, Hopitu Shi-nu-mu (Hopi), 1400–1600, Hopituh Shi-nu-mu (Hopi) Pueblo, Arizona, United States, American southwest, <i>Small shallow bowl</i>. Ceramic with polychrome slip; 14.9 cm. Department of Geosciences, Princeton University (PU 7501)",
+    "published_date":"2025-10-30 02:07:33.602393",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

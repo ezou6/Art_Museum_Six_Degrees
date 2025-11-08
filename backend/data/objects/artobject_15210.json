@@ -1,0 +1,266 @@
+{
+    "type":"artobject",
+    "objectid":15210,
+    "objectnumber":"x1983-142",
+    "sortnumber":"1983  142x",
+    "displaytitle":"New York",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1945,
+    "dateend":1945,
+    "datecomputed":1945,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1945",
+    "medium":"Gelatin silver print",
+    "dimensions":"16.7 × 21 cm (6 9/16 × 8 1/4 in.)\r\nmount: 27.8 × 35.5 cm (10 15/16 × 14 in.)\r\nmat: 35.6 × 43.2 cm (14 × 17 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Saul Reinfeld",
+    "markings":"Circular blindstamp of manufacturer on mount, lower left: Strathmore use either side [around thistle]",
+    "inscribed":"Signed in graphite on mount below lower right corner: Harry Callahan",
+    "signed":null,
+    "catalograisonne":"EM 34",
+    "creditlinerepro":"© The Estate of Harry Callahan, Courtesy Pace Gallery",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"New York",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6242,
+            "displayname":"Harry Callahan",
+            "displaydate":"1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "datebegin":1912,
+            "dateend":1999,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"\r\nAfter attending a lecture given by Ansel Adams at his local camera club in 1941, Callahan, an amateur photographer and employee of the Chrysler Company in Detroit, dedicated himself to the art of photography. In 1946 he joined the faculty of the Institute of Design in Chicago and became known for his formalist images that accentuate compositional elements such as line, shape, color, and texture. According to Callahan, a photograph should be \"a clean, sharp, highly detailed description of the external world,\" an ideal encapsulated by the work seen here. In this tightly cropped image of an apartment building, a series of rectangular windows punctuate the structure’s brick facade. On the left, they are arranged in an orderly fashion; however, toward the right, their pattern is disrupted by seemingly random fenestrations. Callahan’s focus on simplicity and planarity allows us to appreciate the geometric order as well as the unexpected rhythms of the urban landscape.</P></SPAN>",
+            "remarks":"Photo Rotation Oct. 2016"
+        }
+    ],
+    "media":[
+        {
+            "id":252447,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_103215",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42.",
+            "citation":"\"Acquisitions of the Art Museum 1983,\" <em>Record of the Art Museum,</em> <em>Princeton University</em> 43, no. 1 (1984): p. 18-42., p. 35",
+            "date":1984,
+            "id":1857,
+            "uri":"https://www.jstor.org/stable/3774671"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2110382,
+            "term":"facades",
+            "aatid":300002526,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2112008,
+            "term":"windows",
+            "aatid":300002944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.70"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"35.50"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.19"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.81"
+        },
+        {
+            "element":"Proposed frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.53"
+        },
+        {
+            "element":"mat",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.55"
+        },
+        {
+            "element":"mat",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.17"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_103215"
+    ],
+    "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), New York, 1945. Gelatin silver print; 16.7 × 21 cm, 35.6 × 43.2 cm (mat). Gift of Mrs. Saul Reinfeld (x1983-142)",
+    "captionhtml":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), <i>New York</i>, 1945. Gelatin silver print; 16.7 × 21 cm, 35.6 × 43.2 cm (mat). Gift of Mrs. Saul Reinfeld (x1983-142)",
+    "published_date":"2025-10-24 02:00:51.104528",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

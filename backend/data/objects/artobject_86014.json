@@ -1,0 +1,267 @@
+{
+    "type":"artobject",
+    "objectid":86014,
+    "objectnumber":"2012-130",
+    "sortnumber":"2012  130",
+    "displaytitle":"Stonehenge #2",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1985,
+    "dateend":1985,
+    "datecomputed":1985,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1985",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 37.6 x 47.7 cm. (14 13/16 x 18 3/4 in.)\r\nsheet: 40.4 x 50.7 cm. (15 7/8 x 19 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of M. Robin Krasny, Class of 1973",
+    "markings":null,
+    "inscribed":"Titled, signed, and dated in graphite, verso: Stonehenge #2 / © Marilyn Bridges 1985\r\nIn graphite, verso: MB16068-2//8",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Marilyn Bridges",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2012-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Stonehenge #2",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":600,
+            "displayname":"Marilyn Bridges",
+            "displaydate":"American, born 1948",
+            "datebegin":1948,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Marilyn Bridges, American, born 1948",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":110968,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV34184",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2012,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 71/72 (2012-13): p. 105-132., p. 124",
+            "date":2012,
+            "id":2988,
+            "uri":"https://www.jstor.org/stable/24416388"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, England, Stonehenge",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":"Stonehenge",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2636812/stonehenge.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2098427,
+            "term":"spirals",
+            "aatid":300163114,
+            "termtype":"Subject"
+        },
+        {
+            "id":2083297,
+            "term":"cromlechs",
+            "aatid":300006998,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2099252,
+            "term":"tourism",
+            "aatid":300132466,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135524,
+            "term":"rituals (events)",
+            "aatid":300065284,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2184476,
+            "term":"historic sites",
+            "aatid":300000833,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053879,
+            "term":"aerial photographs",
+            "aatid":300128222,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053879,
+            "term":"aerial photographs",
+            "aatid":300128222,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154022,
+            "term":"gelatin silver process",
+            "aatid":300139114,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053879,
+            "classification":"aerial photographs"
+        },
+        {
+            "id":2053879,
+            "classification":"aerial photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"37.60"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"47.70"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"40.40"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"50.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV34184"
+    ],
+    "displaymaker":"Marilyn Bridges, American, born 1948",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Marilyn Bridges (American, born 1948), Stonehenge #2, 1985. Gelatin silver print; 37.6 x 47.7 cm (image), 40.4 x 50.7 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2012-130)",
+    "captionhtml":"Marilyn Bridges (American, born 1948), <i>Stonehenge #2</i>, 1985. Gelatin silver print; 37.6 x 47.7 cm (image), 40.4 x 50.7 cm (sheet). Gift of M. Robin Krasny, Class of 1973 (2012-130)",
+    "published_date":"2025-10-16 17:05:52.124853",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

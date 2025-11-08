@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":739,
+    "objectnumber":"2016-988",
+    "sortnumber":"2016  988",
+    "displaytitle":"Head from a hollow figure",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":600,
+    "dateend":900,
+    "datecomputed":750,
+    "daterange":"A.D. 500-1000",
+    "displaydate":"600–900",
+    "medium":"Tanware",
+    "dimensions":"excluding mount: 18.5 × 17 × 15 cm (7 5/16 × 6 11/16 × 5 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Gillett G. Griffin",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"G1071",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2016-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Head from a hollow figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Walter Leipen; purchased on January 20, 1970, by Gillett G. Griffin (1928-2016), Princeton, NJ [1];  bequest to the Princeton University Art Museum, 2016.\n\n[1] According to dated notebook entry.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":206203,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42305",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":206204,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42317",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":206205,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42318",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":206206,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42321",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987)",
+            "citation":"Marilyn M. Goldstein, <i>Ceremonial Sculpture of Ancient Veracruz</i> (Brookville:&nbsp;Long Island University, 1987), no. 45, 53 (illus.)",
+            "date":1987,
+            "id":2599,
+            "uri":"http://www.worldcat.org/oclc/18006583"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico, Veracruz, Gulf Coast",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":"Gulf Coast",
+            "state":"Veracruz",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3514780/estado-de-veracruz-llave.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039152,
+            "term":"Classic Veracruz",
+            "aatid":300017056,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035671,
+            "term":"Late Classic",
+            "aatid":300016986,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2158086,
+            "term":"heads",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048603,
+            "term":"fragments",
+            "aatid":300117130,
+            "termtype":"Classification"
+        },
+        {
+            "id":2188638,
+            "term":"tan ware",
+            "aatid":null,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2048603,
+            "classification":"fragments"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13849,
+            "culture":"Classic Veracruz",
+            "alphasort":"Classic Veracruz",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Classic Veracruz",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039152,
+            "culture":"Classic Veracruz"
+        }
+    ],
+    "periods":[
+        {
+            "id":12494,
+            "period":"Classic Period",
+            "alphasort":"Classic Period",
+            "begindate":200,
+            "enddate":900,
+            "displayperiod":"Classic Period",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035671,
+            "period":"Late Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"18.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"15.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264605,
+            "name":"DenseDisplay_AAA_at_20250205"
+        },
+        {
+            "packageid":226022,
+            "name":"VisibleStorage_GHC-D_Mesoamerica2"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":278648,
+            "name":"<New mbey 2025-10-23 14:05:43>"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMFOR2017_42305"
+    ],
+    "displaymaker":null,
+    "displayculture":"Classic Veracruz",
+    "displayperiod":"Classic Period",
+    "caption":"Classic Veracruz, Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, Head from a hollow figure. Tanware; 18.5 × 17 × 15 cm (excluding mount). Bequest of Gillett G. Griffin (2016-988)",
+    "captionhtml":"Classic Veracruz, Classic Period, 600–900, Veracruz, Gulf Coast, Mexico, Mesoamerica, <i>Head from a hollow figure</i>. Tanware; 18.5 × 17 × 15 cm (excluding mount). Bequest of Gillett G. Griffin (2016-988)",
+    "published_date":"2025-10-31 02:00:23.760595",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,233 @@
+{
+    "type":"artobject",
+    "objectid":37656,
+    "objectnumber":"x1988-89",
+    "sortnumber":"1988   89x",
+    "displaytitle":"Bishop Hoadly",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1743,
+    "dateend":1743,
+    "datecomputed":1743,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"1743",
+    "medium":"Etching and engraving",
+    "dimensions":"plate: 42.9 x 29.8 cm (16 7/8 x 11 3/4 in.)\r\nsheet: 65.5 x 49 cm (25 13/16 x 19 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. William H. Walker II",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1988-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Bishop Hoadly",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":243,
+            "displayname":"Bernard Baron",
+            "displaydate":"French, 1696–1762",
+            "datebegin":1696,
+            "dateend":1762,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Bernard Baron, French, 1696–1762",
+            "displayorder":1
+        },
+        {
+            "id":5257,
+            "displayname":"William Hogarth",
+            "displaydate":"1697–1764; born and died London, England",
+            "datebegin":1697,
+            "dateend":1764,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after William Hogarth, 1697–1764; born and died London, England",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":112851,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV35904",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":112852,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV35905",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1988,\" <EM>Record of the Art Museum, Princeton University </EM>48, no. 1 (1989): p. 35-59.",
+            "citation":"\"Acquisitions of the Art Museum 1988,\" <EM>Record of the Art Museum, Princeton University </EM>48, no. 1 (1989): p. 35-59., p. 47",
+            "date":1989,
+            "id":3105,
+            "uri":"https://www.jstor.org/stable/3774727"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2127566,
+            "term":"robes",
+            "aatid":300046159,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2090794,
+            "term":"bishops (prelates)",
+            "aatid":300025756,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2151023,
+            "term":"sitting",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"65.50"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.90"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV35905"
+    ],
+    "displaymaker":"Bernard Baron, French, 1696–1762 | after William Hogarth, 1697–1764; born and died London, England",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Bernard Baron (French, 1696–1762), after William Hogarth (1697–1764; born and died London, England), Bishop Hoadly, 1743. Etching and engraving; 42.9 x 29.8 cm (plate), 65.5 x 49 cm (sheet). Gift of Mrs. William H. Walker II (x1988-89)",
+    "captionhtml":"Bernard Baron (French, 1696–1762), after William Hogarth (1697–1764; born and died London, England), <i>Bishop Hoadly</i>, 1743. Etching and engraving; 42.9 x 29.8 cm (plate), 65.5 x 49 cm (sheet). Gift of Mrs. William H. Walker II (x1988-89)",
+    "published_date":"2025-10-16 13:59:47.152498",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

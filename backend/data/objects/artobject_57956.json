@@ -1,0 +1,243 @@
+{
+    "type":"artobject",
+    "objectid":57956,
+    "objectnumber":"PU 5362",
+    "sortnumber":"U      5362P",
+    "displaytitle":"Feast dish",
+    "department":"Art of the Ancient Americas",
+    "classification":"Vessels",
+    "datebegin":1860,
+    "dateend":1885,
+    "datecomputed":1872,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1885",
+    "medium":"Wood",
+    "dimensions":"h. 10.6 cm., w. 28.0 cm., d. 125.5 cm. (4 3/16 x 11 x 49 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":"PU 5362 written in black inside dish\r\nJ.404 painted in red inside dish",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Feast dish",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"Times New Roman\" size=\"3\"><span style='line-height: 107%; font-family: \"Arial\",sans-serif; font-size: 10pt;'>Collected by Rev. Dr. Sheldon Jackson, in or after 1877;\nGiven to E. M. Museum (Princeton Museum of Natural History), 1882-1885</span></font><font face=\"Times New Roman\" size=\"3\">\n\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":23265,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV43947",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America, United States, Alaska",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":"United States",
+            "region":null,
+            "state":"Alaska",
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/8617633/coastal-waters-of-southeast-alaska-and-british-columbia.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2164994,
+            "term":"oil",
+            "aatid":300014254,
+            "termtype":"Subject"
+        },
+        {
+            "id":2165212,
+            "term":"grease",
+            "aatid":300014268,
+            "termtype":"Subject"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040133,
+            "term":"Lingít",
+            "aatid":300017629,
+            "termtype":"Culture"
+        },
+        {
+            "id":2194621,
+            "term":"zoomorphic",
+            "aatid":300010338,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134661,
+            "term":"feasts",
+            "aatid":300069097,
+            "termtype":"Subject"
+        },
+        {
+            "id":2134746,
+            "term":"potlatches",
+            "aatid":300069169,
+            "termtype":"Classification"
+        },
+        {
+            "id":2072822,
+            "term":"trays",
+            "aatid":300043071,
+            "termtype":"Classification"
+        },
+        {
+            "id":2076032,
+            "term":"platters",
+            "aatid":300043053,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156347,
+            "term":"carving",
+            "aatid":300053149,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2072822,
+            "classification":"trays"
+        },
+        {
+            "id":2076032,
+            "classification":"platters"
+        },
+        {
+            "id":2134746,
+            "classification":"potlatches"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13962,
+            "culture":"Lingít",
+            "alphasort":"Lingít",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"probably Lingít",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040133,
+            "culture":"Lingít"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.60"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"125.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143825,
+            "name":"CRS_TlingitBowls/Boxes"
+        },
+        {
+            "packageid":152297,
+            "name":"WebGroup_Wealth"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV43947"
+    ],
+    "displaymaker":null,
+    "displayculture":"probably Lingít",
+    "displayperiod":null,
+    "caption":"Probably Lingít, before 1885, Alaska, United States, Northwest Coast, Feast dish. Wood; 10.6 x 28 x 125.5 cm. Lent by the Department of Geosciences, Princeton University (PU 5362)",
+    "captionhtml":"Probably Lingít, before 1885, Alaska, United States, Northwest Coast, <i>Feast dish</i>. Wood; 10.6 x 28 x 125.5 cm. Lent by the Department of Geosciences, Princeton University (PU 5362)",
+    "published_date":"2025-10-16 15:43:38.215348",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

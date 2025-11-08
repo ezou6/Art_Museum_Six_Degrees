@@ -1,0 +1,195 @@
+{
+    "type":"artobject",
+    "objectid":49173,
+    "objectnumber":"x1937-511",
+    "sortnumber":"1937  511x",
+    "displaytitle":"The Last Supper",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1499,
+    "dateend":1599,
+    "datecomputed":1549,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"plate: 7.7 × 12.9 cm (3 1/16 × 5 1/16 in.)\r\nsheet: 15 × 22.2 cm (5 7/8 × 8 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"The Last Supper",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4543,
+            "displayname":"Leonardo da Vinci",
+            "displaydate":"Italian, 1452–1519",
+            "datebegin":1452,
+            "dateend":1519,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Leonardo da Vinci, Italian, 1452–1519",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":118661,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41011",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":118662,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV41012",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2094712,
+            "term":"disciples",
+            "aatid":300248296,
+            "termtype":"Subject"
+        },
+        {
+            "id":2105667,
+            "term":"dining rooms",
+            "aatid":300004349,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2171366,
+            "term":"Christ",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054522,
+            "term":"engravings",
+            "aatid":300041340,
+            "termtype":"Classification"
+        },
+        {
+            "id":2133987,
+            "term":"bible stories",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054522,
+            "classification":"engravings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"7.70"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.90"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV41012"
+    ],
+    "displaymaker":"after Leonardo da Vinci, Italian, 1452–1519",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"After Leonardo da Vinci (Italian, 1452–1519), The Last Supper. Engraving; 7 x 3.5 cm, 7.7 × 12.9 cm (plate), 15 × 22.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-511)",
+    "captionhtml":"After Leonardo da Vinci (Italian, 1452–1519), <i>The Last Supper</i>. Engraving; 7 x 3.5 cm, 7.7 × 12.9 cm (plate), 15 × 22.2 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1937-511)",
+    "published_date":"2025-10-23 17:23:56.854553",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

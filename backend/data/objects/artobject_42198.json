@@ -1,0 +1,262 @@
+{
+    "type":"artobject",
+    "objectid":42198,
+    "objectnumber":"2003-276",
+    "sortnumber":"2003  276",
+    "displaytitle":"Up Dog",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1988,
+    "dateend":1988,
+    "datecomputed":1988,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1988",
+    "medium":"Color lithograph on fourteen sheets of collaged wove paper",
+    "dimensions":"137.5 × 105 cm (54 1/8 × 41 5/16 in.)\r\nframe: 145.7 × 114.6 × 4.8 cm (57 3/8 × 45 1/8 × 1 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2003-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Up Dog",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3929,
+            "displayname":"Elizabeth Murray",
+            "displaydate":"American, 1940–2007",
+            "datebegin":1940,
+            "dateend":2007,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Elizabeth Murray, American, 1940–2007",
+            "displayorder":1
+        },
+        {
+            "id":14011,
+            "displayname":"Universal Limited Art Editions (ULAE)",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Printed by Douglas Volle at",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Douglas Volle at Universal Limited Art Editions (ULAE)",
+            "displayorder":2
+        },
+        {
+            "id":14011,
+            "displayname":"Universal Limited Art Editions (ULAE)",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":"Published by",
+            "suffix":null,
+            "role":"Publisher",
+            "displaymaker":"Published by Universal Limited Art Editions (ULAE)",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"In <em>Up Dog</em>, Murray produced a graphic pop-up effect like one might find in a cartoon or comic book, using the print medium in bold, unexpected ways. She fashioned a collage from fourteen sheets of paper, which she alternately tore and folded to generate lines and planes, creating a powerful sense of three-dimensionality. While her process abstracts the figure, it also imbues the form with a visual dynamism that is echoed in the titular reference to a posture of movement.",
+            "remarks":"PBL rotation January 2019"
+        }
+    ],
+    "media":[
+        {
+            "id":121785,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV44799",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2003,\" <em>Record of the Princeton University Art Museum</em> 63 (2004): p. 101-141., p. 117",
+            "date":2004,
+            "id":1822,
+            "uri":"https://www.jstor.org/stable/3774848"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, West Islip",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"West Islip",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5143866/west-islip.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054597,
+            "term":"lithographs",
+            "aatid":300041379,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044353,
+            "term":"wove paper",
+            "aatid":300014187,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054597,
+            "classification":"lithographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"145.73"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"114.61"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"4.76"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"105.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"137.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV44799"
+    ],
+    "displaymaker":"Elizabeth Murray, American, 1940–2007 | Printed by Douglas Volle at Universal Limited Art Editions (ULAE) | Published by Universal Limited Art Editions (ULAE)",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Elizabeth Murray (American, 1940–2007), Printed by Douglas Volle at Universal Limited Art Editions (ULAE), Published by Universal Limited Art Editions (ULAE), Up Dog, 1988. Color lithograph on fourteen sheets of collaged wove paper; 137.5 × 105 cm, 145.7 × 114.6 × 4.8 cm (frame). Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr (2003-276)",
+    "captionhtml":"Elizabeth Murray (American, 1940–2007), Printed by Douglas Volle at Universal Limited Art Editions (ULAE), Published by Universal Limited Art Editions (ULAE), <i>Up Dog</i>, 1988. Color lithograph on fourteen sheets of collaged wove paper; 137.5 × 105 cm, 145.7 × 114.6 × 4.8 cm (frame). Gift of Herbert Schorr, Graduate School Class of 1963, and Mrs. Schorr (2003-276)",
+    "published_date":"2025-10-16 14:18:20.170622",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

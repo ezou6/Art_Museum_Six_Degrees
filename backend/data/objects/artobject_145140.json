@@ -1,0 +1,256 @@
+{
+    "type":"artobject",
+    "objectid":145140,
+    "objectnumber":"2024-475",
+    "sortnumber":"2024  475",
+    "displaytitle":"Once Upon a Time",
+    "department":"Asian Art",
+    "classification":"Prints",
+    "datebegin":1988,
+    "dateend":1988,
+    "datecomputed":1988,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1988",
+    "medium":"Etching, aquatint, drypoint, and engraving",
+    "dimensions":"image: 35.2 × 58.7 cm (13 7/8 × 23 1/8 in.)\r\nsheet: 53 × 75.9 cm (20 7/8 × 29 7/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Bill and Roberta Stein",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Editioned, titled, and signed in graphite, along bottom of image: 12/50 | Once upon a time | Shigeki Kuroda",
+    "catalograisonne":null,
+    "creditlinerepro":"© Kuroda Shigeki",
+    "restrictions":"Restricted Download - Under Copyright and Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2024-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Once Upon a Time",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":12729,
+            "displayname":"Kuroda Shigeki 黒田茂樹",
+            "displaydate":"born 1953, Yokohama, Japan; active United States and Yokohama",
+            "datebegin":1953,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kuroda Shigeki 黒田茂樹, born 1953, Yokohama, Japan; active United States and Yokohama",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1988/9 - ? In possession of artist\n<br />\n? Purchased by Buschlen Mowatt Fine Arts Ltd., Vancouver British Columbia, directly from the artist\n<br />\n? - 2021 Collection of Buschlen Mowatt Fine Arts Ltd.\n<br />\n2021 Purchased by Bill and Roberta Stein from Buschlen Mowatt Fine Arts Ltd.\n<br />\n2021 - 2024 Collection of Bill and Roberta Stein\n<br />\nDecember 2024 Gifted to the Princeton University Art Museum by Bill and Roberta Stein\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":258400,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-104-9_ref",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright and Reference Image",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, Washington, Seattle",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Washington",
+            "city":"Seattle",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        },
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033927,
+            "term":"Showa",
+            "aatid":300018568,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2101463,
+            "term":"bicycles",
+            "aatid":300212636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2087855,
+            "term":"groups of people",
+            "aatid":300192630,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2094236,
+            "term":"bicyclists",
+            "aatid":300258988,
+            "termtype":"Subject"
+        },
+        {
+            "id":2138793,
+            "term":"umbrellas",
+            "aatid":300046227,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054569,
+            "classification":"etchings"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2033927,
+            "period":"Showa"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"35.24"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"58.73"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"53.02"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"75.88"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264438,
+            "name":"CFA-since-1-1-2024"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-104-9_ref"
+    ],
+    "displaymaker":"Kuroda Shigeki 黒田茂樹, born 1953, Yokohama, Japan; active United States and Yokohama",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Kuroda Shigeki 黒田茂樹 (born 1953, Yokohama, Japan; active United States and Yokohama), Once Upon a Time, 1988. Etching, aquatint, drypoint, and engraving; 35.2 × 58.7 cm (image), 53 × 75.9 cm (sheet). Gift of Bill and Roberta Stein (2024-475)",
+    "captionhtml":"Kuroda Shigeki 黒田茂樹 (born 1953, Yokohama, Japan; active United States and Yokohama), <i>Once Upon a Time</i>, 1988. Etching, aquatint, drypoint, and engraving; 35.2 × 58.7 cm (image), 53 × 75.9 cm (sheet). Gift of Bill and Roberta Stein (2024-475)",
+    "published_date":"2025-10-16 19:18:33.543622",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":15246,
+    "objectnumber":"x1983-154.28",
+    "sortnumber":"1983  154x   28",
+    "displaytitle":"Eleanor, Chicago",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1952,
+    "dateend":1952,
+    "datecomputed":1952,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1952",
+    "medium":"Photoengraving",
+    "dimensions":"image: 19.2 x 24.2 cm. (7 9/16 x 9 1/2 in.)\r\nsheet: 20.6 x 25.6 cm. (8 1/8 x 10 1/16 in.)\r\nmount: 27.8 x 33 cm. (10 15/16 x 13 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Saul Reinfeld",
+    "markings":null,
+    "inscribed":"Typed on mount below image, lower right: 28",
+    "signed":null,
+    "catalograisonne":"EM 4",
+    "creditlinerepro":"© The Estate of Harry Callahan, Courtesy Pace Gallery",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1983-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Eleanor, Chicago",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6242,
+            "displayname":"Harry Callahan",
+            "displaydate":"1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "datebegin":1912,
+            "dateend":1999,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":251591,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102408",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Illinois, Chicago",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Illinois",
+            "city":"Chicago",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/4887398/chicago.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2098550,
+            "term":"autumn",
+            "aatid":300133093,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120474,
+            "term":"trees",
+            "aatid":300132410,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120580,
+            "term":"forests",
+            "aatid":300008863,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054204,
+            "term":"photoengravings",
+            "aatid":300154358,
+            "termtype":"Classification"
+        },
+        {
+            "id":2154868,
+            "term":"photoengraving",
+            "aatid":300053297,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054204,
+            "classification":"photoengravings"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"27.80"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"33.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.20"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"24.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183111,
+            "name":"Photo_remainder"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMANX23_102408"
+    ],
+    "displaymaker":"Harry Callahan, 1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), Eleanor, Chicago, 1952. Photoengraving; 19.2 x 24.2 cm (image), 20.6 x 25.6 cm (sheet). Gift of Mrs. Saul Reinfeld (x1983-154.28)",
+    "captionhtml":"Harry Callahan (1912–1999; born Detroit, MI; died Atlanta, GA; active Chicago, IL, and Providence, RI), <i>Eleanor, Chicago</i>, 1952. Photoengraving; 19.2 x 24.2 cm (image), 20.6 x 25.6 cm (sheet). Gift of Mrs. Saul Reinfeld (x1983-154.28)",
+    "published_date":"2025-10-16 12:00:11.055627",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

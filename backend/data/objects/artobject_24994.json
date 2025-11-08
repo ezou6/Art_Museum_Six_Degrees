@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":24994,
+    "objectnumber":"y1954-65",
+    "sortnumber":"1954   65y",
+    "displaytitle":"Kneeling Girl",
+    "department":"European Painting and Sculpture ",
+    "classification":"Sculpture",
+    "datebegin":1926,
+    "dateend":1947,
+    "datecomputed":1936,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"after 1926",
+    "medium":"Bronze",
+    "dimensions":"54 x 23 x 22 cm (21 1/4 x 9 1/16 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of the Friends of The Art Museum",
+    "markings":"Stamped on left foot: H. Noack Berlin - Friedenau\r\nStamped on right foot: Made in Germany",
+    "inscribed":"Initials and letter under left foot: G.K. / I.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1954-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Kneeling Girl",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4353,
+            "displayname":"Georg Kolbe",
+            "displaydate":"1877–1947; born Waldheim, Germany; died Berlin, Germany; active Berlin",
+            "datebegin":1877,
+            "dateend":1947,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Georg Kolbe, 1877–1947; born Waldheim, Germany; died Berlin, Germany; active Berlin",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty, Princeton. Parke-Bernet Galleries, February 3, 1954, sale no. 1490; 1954 gift of the Friends of The Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":139873,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61979",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139874,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61980",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":139875,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV61981",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19.",
+            "citation":"\"Recent acquisitions\", <em>Record of the Art Museum, Princeton University</em> 14, no. 1 (1955): p. 17-19., p. 17",
+            "date":1955,
+            "id":3782,
+            "uri":"https://www.jstor.org/stable/3774235"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_51.5_10.5.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088264,
+            "term":"girls",
+            "aatid":300247581,
+            "termtype":"Subject"
+        },
+        {
+            "id":2162099,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        },
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"54.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"23.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"22.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV61980"
+    ],
+    "displaymaker":"Georg Kolbe, 1877–1947; born Waldheim, Germany; died Berlin, Germany; active Berlin",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Georg Kolbe (1877–1947; born Waldheim, Germany; died Berlin, Germany; active Berlin), Kneeling Girl, after 1926. Bronze; 54 × 23 × 22 cm. Gift of the Friends of The Art Museum (y1954-65)",
+    "captionhtml":"Georg Kolbe (1877–1947; born Waldheim, Germany; died Berlin, Germany; active Berlin), <i>Kneeling Girl</i>, after 1926. Bronze; 54 × 23 × 22 cm. Gift of the Friends of The Art Museum (y1954-65)",
+    "published_date":"2025-10-16 13:00:58.696475",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

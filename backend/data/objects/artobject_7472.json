@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":7472,
+    "objectnumber":"x1948-1864",
+    "sortnumber":"1948 1864x",
+    "displaytitle":"Portrait of Meryon",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1853,
+    "dateend":1853,
+    "datecomputed":1853,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1853",
+    "medium":"Etching",
+    "dimensions":"plate: 19.6 x 14.3 cm. (7 11/16 x 5 5/8 in.)\r\nsheet: 30.6 x 22 cm. (12 1/16 x 8 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Albert E. McVitty, Class of 1898",
+    "markings":"Inscribed in graphite, lower right corner: dc",
+    "inscribed":"Initialed and dated in plate, upper right corner: à Ch. M. / B. / 1853",
+    "signed":null,
+    "catalograisonne":"Beraldi 77",
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1948-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Portrait of Meryon",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":560,
+            "displayname":"Félix Bracquemond",
+            "displaydate":"French, 1833–1914",
+            "datebegin":1833,
+            "dateend":1914,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Félix Bracquemond, French, 1833–1914",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Albert E. McVitty [1876-1948]; gifted by the estate to Princeton University Art Museum.\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":97504,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23089",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15.",
+            "citation":"\"Recent accessions,\" <i>Record of the Art Museum, Princeton University</i> vol. 8, no. 1 (1949): p. 15., p. 15",
+            "date":1949,
+            "id":847,
+            "uri":"https://www.jstor.org/stable/3774270"
+        },
+        {
+            "boilertext":"Henri Béraldi, \"Volume 3,\"&nbsp;&nbsp;Les graveurs du XIXe siècle (Paris: L. Conquet, 1885).",
+            "citation":"Henri Béraldi, \"Volume 3,\"&nbsp;&nbsp;Les graveurs du XIXe siècle (Paris: L. Conquet, 1885)., no. 77, p. 38",
+            "date":1885,
+            "id":6615,
+            "uri":"http://www.worldcat.org/oclc/3209730"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France, Paris",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2089806,
+            "term":"artists",
+            "aatid":300025103,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054569,
+            "term":"etchings",
+            "aatid":300041365,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2154976,
+            "term":"etching (printing process)",
+            "aatid":300053241,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167714,
+            "term":"printing ink",
+            "aatid":300187371,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054569,
+            "classification":"etchings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        },
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"30.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"22.00"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.30"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23089"
+    ],
+    "displaymaker":"Félix Bracquemond, French, 1833–1914",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Félix Bracquemond (French, 1833–1914), Portrait of Meryon, 1853. Etching; 19.6 x 14.3 cm (plate), 30.6 x 22 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1864)",
+    "captionhtml":"Félix Bracquemond (French, 1833–1914), <i>Portrait of Meryon</i>, 1853. Etching; 19.6 x 14.3 cm (plate), 30.6 x 22 cm (sheet). Gift of Albert E. McVitty, Class of 1898 (x1948-1864)",
+    "published_date":"2025-10-16 10:57:34.536239",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

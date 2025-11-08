@@ -1,0 +1,249 @@
+{
+    "type":"artobject",
+    "objectid":3165,
+    "objectnumber":"1995-207",
+    "sortnumber":"1995  207",
+    "displaytitle":"Amphoriskos",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Glass",
+    "datebegin":-529,
+    "dateend":-401,
+    "datecomputed":-465,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"late 6th–5th centuries BCE",
+    "medium":"Opaque dark blue, yellow, and turquoise glass",
+    "dimensions":"h. 9.0 cm, max diam. 5.2 cm, diam. rim 2.4 cm (3 9/16 x 2 1/16 x 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumburg Jr., Class of 1924",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1995-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Amphoriskos",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Formerly in the collection of Edward S. Naumburg, Jr. '24; given to the Museum in 1995 by Elliott M. Sanger and Kenneth E. Sanger",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":74028,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/1995-207",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Bruce White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012)",
+            "citation":"Anastassios Antonaras,<em> Fire and Sand: Ancient Glass in the Princeton University Art Museum </em>(Princeton, NJ: Princeton University Art Museum, 2012), cat. no. 7 (illus.)",
+            "date":2012,
+            "id":1296,
+            "uri":"http://www.worldcat.org/oclc/794814337"
+        },
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74.",
+            "citation":"\"Acquisitions of the Art Museum 1995,\" <em>Record of the Art Museum, Princeton University</em> 56, no. 1/2 (1997): p. 36-74., p. 62-63 (illus.)",
+            "date":1997,
+            "id":3050,
+            "uri":"https://www.jstor.org/stable/3774759"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Eastern Mediterranean",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":"Eastern Mediterranean",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_34.886_22.368.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2077991,
+            "term":"amphorae",
+            "aatid":300148696,
+            "termtype":"Classification"
+        },
+        {
+            "id":2161148,
+            "term":"glass",
+            "aatid":300010797,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036474,
+            "term":"Archaic (Greek)",
+            "aatid":300020086,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036484,
+            "term":"Classical",
+            "aatid":300020093,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2159963,
+            "term":"stripes",
+            "aatid":300010230,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159966,
+            "term":"zigzags",
+            "aatid":300165028,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156912,
+            "term":"core-forming",
+            "aatid":300241992,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2159037,
+            "term":"applied decoration",
+            "aatid":300229940,
+            "termtype":"Decoration"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2161148,
+            "classification":"glass"
+        },
+        {
+            "id":2077991,
+            "classification":"amphorae"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13039,
+            "culture":"Greek",
+            "alphasort":"Greek",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Greek",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        }
+    ],
+    "periods":[
+        {
+            "id":14500,
+            "period":"Classical Period",
+            "alphasort":"Classical Period",
+            "begindate":-480,
+            "enddate":-323,
+            "displayperiod":"Archaic to Classical Period, ca. 480–323 BCE",
+            "displaydate":"ca. 480–323 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036474,
+            "period":"Archaic (Greek)"
+        },
+        {
+            "id":2036484,
+            "period":"Classical"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"diam. rim",
+            "units":"centimeters",
+            "dimension":"2.40"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"5.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181991,
+            "name":"web_2020_ancient_study_corridor"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/1995-207"
+    ],
+    "displaymaker":null,
+    "displayculture":"Greek",
+    "displayperiod":"Archaic to Classical Period, ca. 480–323 BCE",
+    "caption":"Greek, Archaic to Classical Period (ca. 480–323 BCE), Eastern Mediterranean, late 6th–5th centuries BCE, Amphoriskos. Opaque dark blue, yellow, and turquoise glass; 9 x 5.2 x 2.4 cm. Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumburg Jr., Class of 1924 (1995-207)",
+    "captionhtml":"Greek, Archaic to Classical Period (ca. 480–323 BCE), Eastern Mediterranean, late 6th–5th centuries BCE, <i>Amphoriskos</i>. Opaque dark blue, yellow, and turquoise glass; 9 x 5.2 x 2.4 cm. Gift of Elliott M. Sanger and Kenneth E. Sanger in memory of Edward Naumburg Jr., Class of 1924 (1995-207)",
+    "published_date":"2025-10-16 10:23:08.302379",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

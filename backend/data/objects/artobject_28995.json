@@ -1,0 +1,240 @@
+{
+    "type":"artobject",
+    "objectid":28995,
+    "objectnumber":"y1962-171",
+    "sortnumber":"1962  171y",
+    "displaytitle":"Tlatloc impersonator",
+    "department":"Art of the Ancient Americas",
+    "classification":"Ceramic",
+    "datebegin":350,
+    "dateend":600,
+    "datecomputed":475,
+    "daterange":"A.D. 1-500",
+    "displaydate":"350–600 CE",
+    "medium":"Terracotta",
+    "dimensions":"h. 6.5 cm., w. 5.2 cm., d. 2.8 cm. (2 9/16 x 2 1/16 x 1 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1962-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tlatloc impersonator",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Edward Sampson",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":49482,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV015278",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19.",
+            "citation":"\"Recent acquisitions,\" <EM>Record of the Art Museum, Princeton University</EM>&nbsp;22, no. 1 (1963): p. 15-19., p. 19",
+            "date":1963,
+            "id":1867,
+            "uri":"https://www.jstor.org/stable/3774326"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, Mexico",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":"Mesoamerica",
+            "country":"Mexico",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/3996063/mexico.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039146,
+            "term":"Teotihuacán",
+            "aatid":300017031,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035666,
+            "term":"Early Classic",
+            "aatid":300016984,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2035732,
+            "term":"Aztec",
+            "aatid":300017033,
+            "termtype":"Culture"
+        },
+        {
+            "id":2035741,
+            "term":"Toltec",
+            "aatid":300017032,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13848,
+            "culture":"Teotihuacán",
+            "alphasort":"Teotihuacán",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Teotihuacán",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039146,
+            "culture":"Teotihuacán"
+        },
+        {
+            "id":2035732,
+            "culture":"Aztec"
+        },
+        {
+            "id":2035741,
+            "culture":"Toltec"
+        }
+    ],
+    "periods":[
+        {
+            "id":24014,
+            "period":"Early Classic Period",
+            "alphasort":"Classic Period, Early",
+            "begindate":0,
+            "enddate":0,
+            "displayperiod":"Early Classic Period (Xolalpan-Metepec)",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2035666,
+            "period":"Early Classic"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"5.18"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.75"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207612,
+            "name":"2021_RosamundFitzmaurice_12_06-10"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV015278"
+    ],
+    "displaymaker":null,
+    "displayculture":"Teotihuacán",
+    "displayperiod":"Early Classic Period (Xolalpan-Metepec)",
+    "caption":"Teotihuacán, Early Classic Period (Xolalpan-Metepec), 350–600 CE, Mexico, Mesoamerica, Tlatloc impersonator. Terracotta; 6.5 x 5.2 x 2.8 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1962-171)",
+    "captionhtml":"Teotihuacán, Early Classic Period (Xolalpan-Metepec), 350–600 CE, Mexico, Mesoamerica, <i>Tlatloc impersonator</i>. Terracotta; 6.5 x 5.2 x 2.8 cm. Gift of Edward Sampson, Class of 1914, for the Alden Sampson Collection (y1962-171)",
+    "published_date":"2025-10-31 02:04:38.585381",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

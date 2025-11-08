@@ -1,0 +1,248 @@
+{
+    "type":"artobject",
+    "objectid":17424,
+    "objectnumber":"x1990-262",
+    "sortnumber":"1990  262x",
+    "displaytitle":"A Ferny Bank",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1852,
+    "dateend":1862,
+    "datecomputed":1857,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1857",
+    "medium":"Albumen print",
+    "dimensions":"sheet: 19.3 x 25 cm. (7 5/8 x 9 13/16 in.)\r\nmount: 36.8 x 49.5 cm (14 1/2 x 19 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, bequest of Donald C. Snyder, by exchange",
+    "markings":null,
+    "inscribed":"Titled and inscribed in graphite, lower left: A Ferny Bank  H. White\r\nPrinted beneath image: Photographed by Henry White",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1990-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"A Ferny Bank",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1789,
+            "displayname":"Henry White",
+            "displaydate":"British, 1819–1903",
+            "datebegin":1819,
+            "dateend":1903,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Henry White, British, 1819–1903",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"By the mid-1850s, advances in emulsion chemistry put the art of photography within reach of growing numbers of devoted amateurs. Henry White, who was a lawyer, produced nature studies that celebrate the joys of direct, unaffected observation. In this strikingly modern image, intertwining branches stretch in feathery patterns across the entire breadth of the picture plane, forming a wave of foliage that gracefully builds, crests, and curls upon itself. ",
+            "remarks":"Kienbusch 4-6 Reinstallation Fal 2010"
+        }
+    ],
+    "media":[
+        {
+            "id":32676,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1990-262",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69.",
+            "citation":"\"Acquisitions of the Art Museum 1990,\" <EM>Record of the Art Museum, Princeton University </EM>50, no. 1 (1991): p. 16-69., p. 53",
+            "date":1991,
+            "id":1866,
+            "uri":"https://www.jstor.org/stable/3774743"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/6269131/england.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096851,
+            "term":"Nature",
+            "aatid":300179372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2119948,
+            "term":"riverbanks",
+            "aatid":300008729,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120339,
+            "term":"vegetation",
+            "aatid":300132358,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120418,
+            "term":"ferns",
+            "aatid":300132431,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"49.50"
+        },
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.80"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"25.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183099,
+            "name":"Photography-19thcentury_01"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/x1990-262"
+    ],
+    "displaymaker":"Henry White, British, 1819–1903",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Henry White (British, 1819–1903), A Ferny Bank, ca. 1857. Albumen print; 19.3 x 25 cm (sheet). Museum purchase, bequest of Donald C. Snyder, by exchange (x1990-262)",
+    "captionhtml":"Henry White (British, 1819–1903), <i>A Ferny Bank</i>, ca. 1857. Albumen print; 19.3 x 25 cm (sheet). Museum purchase, bequest of Donald C. Snyder, by exchange (x1990-262)",
+    "published_date":"2025-10-16 12:16:56.733578",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

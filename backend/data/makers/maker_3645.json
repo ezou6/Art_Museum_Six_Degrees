@@ -1,0 +1,71 @@
+{
+    "makerid":3645,
+    "published_date":"2025-01-03 02:00:54.492430",
+    "type":"maker",
+    "displayname":"Henri Matisse",
+    "makertype":"Individual",
+    "alphasort":"Matisse Henri",
+    "lastname":"Matisse",
+    "firstname":"Henri",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"1869–1954; born Le Cateau-Cambrésis, France; died Nice, France",
+    "begindate":1869,
+    "enddate":1954,
+    "nationality":"French",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Henri Matisse",
+            "alphasort":"Matisse Henri",
+            "lastname":"Matisse",
+            "firstname":"Henri",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500017300"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/42630086"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"6627f91be95df23b82d72188"
+            },
+            "caption_file":[],
+            "title":"John Elderfield Lecture | The Art of Attention: Paintings by Henri Matisse",
+            "displaydate":"03/08/2015",
+            "description":"This recording is from the first of three lectures in a special series by John Elderfield on the occasion of his appointment as the Museum’s first Allen R. Adler, Class of 1967, Distinguished Curator and Lecturer.",
+            "video_type":"",
+            "speaker_type":"Curator",
+            "created_by":{
+                "$oid":"660ae18ce95df23b82d72158"
+            }
+        }
+    ],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"5db082594c5dbf00167094a4"
+            },
+            "body":"The Matisse drawing, <em>View of Collioure,</em> dates from 1905, the year that Matisse and his wife spent in the port town of Collioure on the French Cote d'Azure. That summer, in a series of vibrant paintings and watercolors , Matisse experimented with a modified pointillist technique, where he combined  short, bold brushstrokes with broad areas of pure color in a revolutionary manner that was later to be referred to as Fauvism. <em>View of Collioure</em> was very likely included in the first Matisse exhibition in the United States, organized by Alfred Stieglitz in 1907.\n",
+            "title":"Newsletter: Fall 2006",
+            "source_project":"Other",
+            "author_type":"",
+            "source":"Other"
+        }
+    ]
+}

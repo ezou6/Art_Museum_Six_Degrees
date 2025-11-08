@@ -1,0 +1,235 @@
+{
+    "type":"artobject",
+    "objectid":42501,
+    "objectnumber":"2004-57",
+    "sortnumber":"2004   57",
+    "displaytitle":"Percement de la rue Réaumur, Paris",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1897,
+    "dateend":1897,
+    "datecomputed":1897,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1897",
+    "medium":"Color lithograph",
+    "dimensions":"image: 31.5 x 4 cm (12 3/8 x 1 9/16 in.)\r\nsheet: 51 x 65.5 cm (20 1/16 x 25 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Felton Gibbons Fund",
+    "markings":null,
+    "inscribed":"Signed below stone in blue, right: Luce",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2004-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Percement de la rue Réaumur, Paris",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1516,
+            "displayname":"Maximilien Luce",
+            "displaydate":"French, 1858–1941",
+            "datebegin":1858,
+            "dateend":1941,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Maximilien Luce, French, 1858–1941",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":2227,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/2004-57",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2004,\" <EM>Record of the Princeton University Art Museum</EM>&nbsp;64 (2005): p. 91-135., p. 104",
+            "date":2005,
+            "id":468,
+            "uri":"https://www.jstor.org/stable/3774838"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: Europe, France, Paris",
+            "code":"Place depicted",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":"Paris",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2968815/paris.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054605,
+            "term":"color lithographs",
+            "aatid":300041383,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055631,
+            "term":"cityscapes",
+            "aatid":300015571,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155010,
+            "term":"lithography",
+            "aatid":300053271,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2167709,
+            "term":"lithographic ink",
+            "aatid":300187750,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054605,
+            "classification":"color lithographs"
+        },
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"65.50"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"51.00"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"4.00"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":220938,
+            "name":"web_2000-2022printacquisitions"
+        },
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":183537,
+            "name":"x-COMPLETE-image_testing_ML"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-57"
+    ],
+    "displaymaker":"Maximilien Luce, French, 1858–1941",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Maximilien Luce (French, 1858–1941), Percement de la rue Réaumur, Paris, 1897. Color lithograph; 31.5 x 4 cm (image), 51 x 65.5 cm (sheet). Museum purchase, Felton Gibbons Fund (2004-57)",
+    "captionhtml":"Maximilien Luce (French, 1858–1941), <i>Percement de la rue Réaumur, Paris</i>, 1897. Color lithograph; 31.5 x 4 cm (image), 51 x 65.5 cm (sheet). Museum purchase, Felton Gibbons Fund (2004-57)",
+    "published_date":"2025-10-29 02:06:27.250163",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

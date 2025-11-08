@@ -1,0 +1,222 @@
+{
+    "type":"artobject",
+    "objectid":55803,
+    "objectnumber":"2008-321",
+    "sortnumber":"2008  321",
+    "displaytitle":"Un Ballo in Maschera (A Masked Ball)",
+    "department":"Modern and Contemporary Art",
+    "classification":"Time-based works",
+    "datebegin":2004,
+    "dateend":2004,
+    "datecomputed":2004,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2004",
+    "medium":"High definition digital video",
+    "dimensions":"duration: 32 minutes",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Fowler McCormick, Class of 1921, Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© 2004, Yinka Shonibare",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2008-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":14696,
+            "displayname":"Yinka Shonibare CBE",
+            "displaydate":"born 1962, London, United Kingdom; active London",
+            "datebegin":1962,
+            "dateend":1962,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Yinka Shonibare CBE, born 1962, London, United Kingdom; active London",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Yinka Shonibare CBE, the artist, London, United Kingdom, consigned to; [James Cohan Gallery, New York, New York], sold; to Princeton University Art Museum, 2008.",
+            "remarks":"as per invoice in curatorial file. AP."
+        }
+    ],
+    "media":[
+        {
+            "id":248656,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_4_B",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Vendor Image"
+        },
+        {
+            "id":248657,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_3_B",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Vendor Image"
+        },
+        {
+            "id":248658,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_5_B",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Vendor Image"
+        },
+        {
+            "id":248659,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_2_A",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Vendor Image"
+        },
+        {
+            "id":248660,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_1_A",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Vendor Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2008,\"&nbsp;<em>Record of the Princeton University Art Museum</em> 68 (2009): p. 69-119., p. 76 (illus.)",
+            "date":2009,
+            "id":974,
+            "uri":"https://www.jstor.org/stable/25747109"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2129353,
+            "term":"masks (costume)",
+            "aatid":300138758,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055606,
+            "term":"video art",
+            "aatid":300102067,
+            "termtype":"Classification"
+        },
+        {
+            "id":2050733,
+            "term":"pistols",
+            "aatid":300037160,
+            "termtype":"Subject"
+        },
+        {
+            "id":2135405,
+            "term":"balls (parties)",
+            "aatid":300069619,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2185092,
+            "term":"Artists of Africa's Diasporas",
+            "aatid":null,
+            "termtype":"Collection Theme"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055606,
+            "classification":"video art"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"duration",
+            "type":"Minutes",
+            "units":"minutes",
+            "dimension":"32.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/BILD_1_A"
+    ],
+    "displaymaker":"Yinka Shonibare CBE, born 1962, London, United Kingdom; active London",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Yinka Shonibare CBE (born 1962, London, United Kingdom; active London), Un Ballo in Maschera (A Masked Ball), 2004. High definition digital video; 32 minutes (duration). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-321)",
+    "captionhtml":"Yinka Shonibare CBE (born 1962, London, United Kingdom; active London), <i>Un Ballo in Maschera (A Masked Ball)</i>, 2004. High definition digital video; 32 minutes (duration). Museum purchase, Fowler McCormick, Class of 1921, Fund (2008-321)",
+    "published_date":"2025-10-16 15:25:48.505582",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

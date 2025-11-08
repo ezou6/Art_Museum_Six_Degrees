@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":31310,
+    "objectnumber":"y1969-84",
+    "sortnumber":"1969   84y",
+    "displaytitle":"Marina (Seascape)",
+    "department":"Modern and Contemporary Art",
+    "classification":"Paintings",
+    "datebegin":1964,
+    "dateend":1964,
+    "datecomputed":1964,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"1964",
+    "medium":"Oil on canvas",
+    "dimensions":"127 x 102 cm (50 x 40 3/16 in.)\r\nframe: 129.5 x 104.1 x 3.8 cm (51 x 41 x 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Roger Wolcott Hooker",
+    "markings":null,
+    "inscribed":null,
+    "signed":"Signed, bottom right: Morales 64",
+    "catalograisonne":null,
+    "creditlinerepro":"© Armando Morales",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1969-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3847,
+            "displayname":"Armando Morales",
+            "displaydate":"Nicaraguan, 1927–2011",
+            "datebegin":1927,
+            "dateend":2011,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Armando Morales, Nicaraguan, 1927–2011",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs Roger Wolcott Hooker, gift; to Princeton University Art Museum, 1969.\n ",
+            "remarks":"provenance format amended AP 10/24/23 from: Mrs. Roger Wolcott Hooker, New York, NY by 1969 (1969, gift of Hooker to the Princeton University Art Museum)"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"Morales established himself in the 1960s as a painter of colorful abstract compositions, such as <em>Marina (Seascape)</em>, that he created through experimentation with materials. By collaging layers of painted canvas onto a supporting board, he achieved textured, low-relief surfaces and evocative depictions of place.",
+            "remarks":"MM Rotation Jan 2020"
+        }
+    ],
+    "media":[
+        {
+            "id":7458,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1969-84_SL",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27.",
+            "citation":"\"Acquisitions 1969\", <EM>Record of the Art Museum, Princeton University</EM> 29, no. 1 (1970): p. 16-27., p. 17",
+            "date":1970,
+            "id":3435,
+            "uri":"https://www.jstor.org/stable/3774558"
+        },
+        {
+            "boilertext":"Luis R. Cancel, et. al., <EM>The Latin American spirit: art and artists in the United States, 1920-1970</EM>, (New York: The Bronx Museum of Arts in association with Harry N. Abrams, Inc., 1988). ",
+            "citation":"Luis R. Cancel, et. al., <EM>The Latin American spirit: art and artists in the United States, 1920-1970</EM>, (New York: The Bronx Museum of Arts in association with Harry N. Abrams, Inc., 1988). , p. 248, pl. 161",
+            "date":1988,
+            "id":7970,
+            "uri":"http://www.worldcat.org/oclc/501619658"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, New York, New York",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"New York",
+            "city":"New York",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5128581/new-york-city.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2055788,
+            "term":"seascapes",
+            "aatid":300117546,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053145,
+            "term":"oil paintings",
+            "aatid":300033799,
+            "termtype":"Classification"
+        },
+        {
+            "id":2095701,
+            "term":"abstraction",
+            "aatid":300056508,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2152992,
+            "term":"collage",
+            "aatid":300138699,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2044040,
+            "term":"canvas board",
+            "aatid":300014236,
+            "termtype":"Materials"
+        },
+        {
+            "id":2044653,
+            "term":"canvas",
+            "aatid":300014078,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167780,
+            "term":"oil paint",
+            "aatid":300015050,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053145,
+            "classification":"oil paintings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"129.53"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"104.13"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"127.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"102.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":175567,
+            "name":"Web_All-Latin-American-Art_11_2018"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1969-84_SL"
+    ],
+    "displaymaker":"Armando Morales, Nicaraguan, 1927–2011",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Armando Morales (Nicaraguan, 1927–2011), Marina (Seascape), 1964. Oil on canvas; 127 x 102 cm, 129.5 x 104.1 x 3.8 cm (frame). Gift of Mrs. Roger Wolcott Hooker (y1969-84)",
+    "captionhtml":"Armando Morales (Nicaraguan, 1927–2011), <i>Marina (Seascape)</i>, 1964. Oil on canvas; 127 x 102 cm, 129.5 x 104.1 x 3.8 cm (frame). Gift of Mrs. Roger Wolcott Hooker (y1969-84)",
+    "published_date":"2025-10-16 13:23:47.325715",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

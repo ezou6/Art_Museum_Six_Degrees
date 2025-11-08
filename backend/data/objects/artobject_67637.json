@@ -1,0 +1,245 @@
+{
+    "type":"artobject",
+    "objectid":67637,
+    "objectnumber":"x1980-971",
+    "sortnumber":"1980  971x",
+    "displaytitle":"Mendocino, California",
+    "department":"Photography Archives",
+    "classification":"Photographs",
+    "datebegin":1948,
+    "dateend":1948,
+    "datecomputed":1948,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"January 1948; text July or August 1948",
+    "medium":"Gelatin silver print",
+    "dimensions":"image: 9.5 × 12 cm (3 3/4 × 4 3/4 in.)\r\nsheet: 10 × 12.6 cm (3 15/16 × 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The Minor White Archive, Princeton University Art Museum, bequest of Minor White",
+    "markings":null,
+    "inscribed":"Text superimposed in negative: Love is only also / The upright Ax in furrowed field / The tender partings of flesh / The desperate separations / That make a woman turn / For tenderness / To the broad Ax blade of a child",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Trustees of Princeton University",
+    "restrictions":"Restricted Download - Under Copyright",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"MWA 48-96-1",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1980-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Text Superimposed on Doorhinge",
+            "titletype":"Published",
+            "displayorder":2
+        },
+        {
+            "title":"Mendocino, California",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1714,
+            "displayname":"Minor White",
+            "displaydate":"1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "datebegin":1908,
+            "dateend":1976,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"By bequest to the Princeton University Art Museum from Minor White (1908–1976).",
+            "remarks":"Batch edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":162194,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00558",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":163470,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/Untitled671.pdf",
+            "isprimary":0,
+            "rank":30,
+            "mediatypeid":4,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Under Copyright",
+            "caption":"Archive proof card"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Minor White, <i>Mirrors, Messages, Manifestations</i>, 2nd ed. (New York: Aperture, 1982)",
+            "citation":"Minor White, <i>Mirrors, Messages, Manifestations</i>, 2nd ed. (New York: Aperture, 1982), p. 50 (bottom, illus.), p. 227",
+            "date":1982,
+            "id":1982,
+            "uri":"http://www.worldcat.org/oclc/220158223"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place depicted: North America, United States, California, Mendocino",
+            "code":"Place depicted",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"California",
+            "city":"Mendocino",
+            "county":"Mendocino County",
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/5372153/mendocino.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2111713,
+            "term":"doors",
+            "aatid":300002803,
+            "termtype":"Subject"
+        },
+        {
+            "id":2111848,
+            "term":"hinged doors",
+            "aatid":300002844,
+            "termtype":"Subject"
+        },
+        {
+            "id":2118675,
+            "term":"text",
+            "aatid":300250810,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053541,
+            "term":"gelatin silver prints",
+            "aatid":300128695,
+            "termtype":"Classification"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2045920,
+            "term":"wood",
+            "aatid":300011914,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053541,
+            "classification":"gelatin silver prints"
+        },
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.00"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.60"
+        },
+        {
+            "element":"image",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"9.50"
+        },
+        {
+            "element":"image",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182969,
+            "name":"Photography-MinorWhite"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/MWA00558"
+    ],
+    "displaymaker":"Minor White, 1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), Mendocino, California, January 1948; text July or August 1948. Gelatin silver print; 9.5 × 12 cm (image), 10 × 12.6 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-971)",
+    "captionhtml":"Minor White (1908–1976; born Minneapolis, MN; died Boston, MA; active Portland, OR, and Rochester, NY), <i>Mendocino, California</i>, January 1948; text July or August 1948. Gelatin silver print; 9.5 × 12 cm (image), 10 × 12.6 cm (sheet). The Minor White Archive, Princeton University Art Museum, bequest of Minor White (x1980-971)",
+    "published_date":"2025-10-16 16:29:43.389202",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,76 @@
+{
+    "makerid":5025,
+    "published_date":"2024-04-18 02:00:50.340957",
+    "type":"maker",
+    "displayname":"Hans Haacke",
+    "makertype":"Individual",
+    "alphasort":"Haacke Hans",
+    "lastname":"Haacke",
+    "firstname":"Hans",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"born 1936, Cologne, Germany; active New York, NY",
+    "begindate":1936,
+    "enddate":2100,
+    "nationality":"German",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Hans Haacke",
+            "alphasort":"Haacke Hans",
+            "lastname":"Haacke",
+            "firstname":"Hans",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500047257"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/95994171"
+        }
+    ],
+    "audio":[],
+    "video":[
+        {
+            "_id":{
+                "$oid":"5d7bef13b2e671001680993e"
+            },
+            "title":"Hans Haacke's \"White Waving Line\" in motion",
+            "description":"Hans Haacke's \"White Waving Line\" seen in motion from the front.",
+            "speaker_type":"",
+            "file_uri":"https://archive.org/details/dr_007_201909",
+            "transcript":"",
+            "source_project":"Other",
+            "displaydate":"2018",
+            "sort_date":"2018-01-01",
+            "video_type":"Collections",
+            "caption_file":[]
+        },
+        {
+            "_id":{
+                "$oid":"5d7bec30b2e671001680993d"
+            },
+            "title":"Hans Haacke's \"White Waving Line\" in motion, view 1",
+            "description":"Hans Haacke's \"White Waving Line\" seen in motion at an angle.",
+            "speaker_type":"",
+            "file_uri":"https://archive.org/details/dr_006_201909",
+            "transcript":"",
+            "source_project":"Other",
+            "caption_file":[],
+            "displaydate":"2018",
+            "sort_date":"2018-01-01",
+            "video_type":"Collections"
+        }
+    ],
+    "essay":[]
+}

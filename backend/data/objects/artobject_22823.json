@@ -1,0 +1,298 @@
+{
+    "type":"artobject",
+    "objectid":22823,
+    "objectnumber":"y1947-134",
+    "sortnumber":"1947  134y",
+    "displaytitle":"Pilgrim in Mountains, in Song tradition",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1056,
+    "dateend":1100,
+    "datecomputed":1078,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"undated",
+    "medium":"Hanging scroll; ink and color on silk",
+    "dimensions":"Painting: 161 x 79 cm. (63 3/8 x 31 1/8 in.)\r\nMount: 291.5 x 89 cm. (114 3/4 x 35 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":"Ten characters in ink on label adhered to edge of rolled scroll\r\nTen characters in ink on label adhered to edge silk bag\r\nTag attached to silk bag",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Pilgrim in Mountains, in Song tradition",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1653,
+            "displayname":"Wang Shen 王詵",
+            "displaydate":"ca. 1036 - after 1100",
+            "datebegin":1036,
+            "dateend":1100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Wang Shen 王詵, ca. 1036 - after 1100",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":62059,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08070",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":63010,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-134",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2158070,
+            "term":"donkeys",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2086968,
+            "term":"bridges (built works)",
+            "aatid":300007836,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033550,
+            "term":"Song",
+            "aatid":300018427,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2135199,
+            "term":"pilgrimages",
+            "aatid":300069279,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12555,
+            "period":"Song dynasty",
+            "alphasort":"Song dynasty",
+            "begindate":960,
+            "enddate":1279,
+            "displayperiod":"Song dynasty, 960–1279",
+            "displaydate":"960–1279"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033550,
+            "period":"Song"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"291.50"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"89.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"161.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"79.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-134"
+    ],
+    "displaymaker":"Wang Shen 王詵, ca. 1036 - after 1100",
+    "displayculture":"Chinese",
+    "displayperiod":"Song dynasty, 960–1279",
+    "caption":"Chinese, Song dynasty (960–1279), Wang Shen 王詵 (ca. 1036 - after 1100), Pilgrim in Mountains, in Song tradition, undated. Hanging scroll; ink and color on silk; 161 x 79 cm (Painting), 291.5 x 89 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-134)",
+    "captionhtml":"Chinese, Song dynasty (960–1279), Wang Shen 王詵 (ca. 1036 - after 1100), <i>Pilgrim in Mountains, in Song tradition</i>, undated. Hanging scroll; ink and color on silk; 161 x 79 cm (Painting), 291.5 x 89 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-134)",
+    "published_date":"2025-10-16 12:49:09.613349",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

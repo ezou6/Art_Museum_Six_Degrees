@@ -1,0 +1,201 @@
+{
+    "type":"artobject",
+    "objectid":41550,
+    "objectnumber":"y1026",
+    "sortnumber":"1026     y",
+    "displaytitle":"Letter D with animal decoration",
+    "department":"Prints and Drawings",
+    "classification":"Manuscripts",
+    "datebegin":1100,
+    "dateend":1199,
+    "datecomputed":1150,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"12th century",
+    "medium":"Gold and tempera on vellum",
+    "dimensions":"10.1 x 12.8 cm. (4 x 5 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase",
+    "markings":null,
+    "inscribed":"Text verso",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Letter D with animal decoration",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2018,
+            "displayname":"Anonymous",
+            "displaydate":null,
+            "datebegin":0,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anonymous",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":230848,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1026v",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":230849,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1026r",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"ICA Image"
+        },
+        {
+            "id":2821,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1026",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, England",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"England",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2119249,
+            "term":"letters (signs)",
+            "aatid":300055055,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103926,
+            "term":"animals",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031586,
+            "term":"British",
+            "aatid":300111159,
+            "termtype":"Culture"
+        },
+        {
+            "id":2125605,
+            "term":"manuscripts",
+            "aatid":300028569,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2125605,
+            "classification":"manuscripts"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13824,
+            "culture":"English",
+            "alphasort":"English",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"English",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031586,
+            "culture":"British"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"10.10"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1026r"
+    ],
+    "displaymaker":"Anonymous",
+    "displayculture":"English",
+    "displayperiod":null,
+    "caption":"Anonymous, English, Letter D with animal decoration, 12th century. Gold and tempera on vellum; 10.1 x 12.8 cm. Museum purchase (y1026)",
+    "captionhtml":"Anonymous, English, <i>Letter D with animal decoration</i>, 12th century. Gold and tempera on vellum; 10.1 x 12.8 cm. Museum purchase (y1026)",
+    "published_date":"2025-10-16 14:15:01.337852",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,219 @@
+{
+    "type":"artobject",
+    "objectid":8855,
+    "objectnumber":"x1953-131",
+    "sortnumber":"1953  131x",
+    "displaytitle":"Italian Landscape",
+    "department":"Prints and Drawings",
+    "classification":"Drawings",
+    "datebegin":1647,
+    "dateend":1692,
+    "datecomputed":1670,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"Pen and brown ink with brown and gray wash heightened with white over black chalk underdrawing",
+    "dimensions":"23.4 x 32.3 cm (9 3/16 x 12 11/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Frank Jewett Mather, Jr.",
+    "markings":"Stamp in ink, lower right: M [in square] [Lugt 1853a]",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1953-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":3304,
+            "displayname":"Roelant Roghman",
+            "displaydate":"Dutch, 1627–1692",
+            "datebegin":1627,
+            "dateend":1692,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Roelant Roghman, Dutch, 1627–1692",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<p>Former owners listed on mat in Mather's handwriting:</p><p>Barker of Bath; Walter Savage Landor; Kate Field</p>",
+            "remarks":"as per accession card"
+        }
+    ],
+    "media":[
+        {
+            "id":109508,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV33285",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63.",
+            "citation":"\"Acquisitions,\" <em>Record of the Art Museum, Princeton University</em> 13, no. 2, (1954): p. 62-63., p. 63",
+            "date":1954,
+            "id":848,
+            "uri":"https://www.jstor.org/stable/3774286"
+        },
+        {
+            "boilertext":"<em>Seventeenth century landscapes: Italian, French, Flemish, Dutch: problems of authenticity in nineteenth and twentieth century art,</em> (Princeton, NJ: Princeton University Art Museum, 1973).",
+            "citation":"<em>Seventeenth century landscapes: Italian, French, Flemish, Dutch: problems of authenticity in nineteenth and twentieth century art,</em> (Princeton, NJ: Princeton University Art Museum, 1973)., p. 51, no. 37; fig. 18",
+            "date":1973,
+            "id":3225,
+            "uri":"http://www.worldcat.org/oclc/13373160"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2078146,
+            "term":"buildings",
+            "aatid":300004792,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031635,
+            "term":"Dutch",
+            "aatid":300111175,
+            "termtype":"Culture"
+        },
+        {
+            "id":2119857,
+            "term":"rivers",
+            "aatid":300008707,
+            "termtype":"Subject"
+        },
+        {
+            "id":2051964,
+            "term":"drawings",
+            "aatid":300033973,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120146,
+            "term":"mountains",
+            "aatid":300008795,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103928,
+            "term":"trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055694,
+            "term":"landscapes (representations)",
+            "aatid":300015636,
+            "termtype":"Subject"
+        },
+        {
+            "id":2140945,
+            "term":"pens",
+            "aatid":300022452,
+            "termtype":"Tools"
+        },
+        {
+            "id":2153720,
+            "term":"heightening",
+            "aatid":300053418,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2160324,
+            "term":"black chalk",
+            "aatid":300080058,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2051964,
+            "classification":"drawings"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031635,
+            "culture":"Dutch"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.30"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"23.40"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182970,
+            "name":"P&D_Drawings_Watercolors"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV33285"
+    ],
+    "displaymaker":"Roelant Roghman, Dutch, 1627–1692",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Roelant Roghman (Dutch, 1627–1692), Italian Landscape. Pen and brown ink with brown and gray wash heightened with white over black chalk underdrawing; 23.4 x 32.3 cm. Bequest of Frank Jewett Mather, Jr. (x1953-131)",
+    "captionhtml":"Roelant Roghman (Dutch, 1627–1692), Italian Landscape. Pen and brown ink with brown and gray wash heightened with white over black chalk underdrawing; 23.4 x 32.3 cm. Bequest of Frank Jewett Mather, Jr. (x1953-131)",
+    "published_date":"2025-10-16 11:12:11.089573",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

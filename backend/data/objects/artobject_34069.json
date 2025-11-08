@@ -1,0 +1,311 @@
+{
+    "type":"artobject",
+    "objectid":34069,
+    "objectnumber":"y465",
+    "sortnumber":"465     y",
+    "displaytitle":"Red-figure amphora",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-425,
+    "dateend":-300,
+    "datecomputed":-362,
+    "daterange":"1000 B.C.-A.D 1",
+    "displaydate":"ca. 375–350 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 49.7 cm, diam. 21.4 cm (19 9/16 x 8 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Annie Drown Ferree",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Red-figure amphora",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":18244,
+            "displayname":"Mad-Man Painter",
+            "displaydate":"Greek",
+            "datebegin":-900,
+            "dateend":-31,
+            "prefix":"Attributed to the",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Attributed to the Mad-Man Painter, Greek",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Annie Drown Ferree",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":32613,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42631",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":32614,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV42633",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"A.D. Trendall,<EM> The red-figured vase painters of Lucania, Campania and Sicily</EM>, (Oxford, UK: Clarendon,&nbsp;1967).",
+            "citation":"A.D. Trendall,<EM> The red-figured vase painters of Lucania, Campania and Sicily</EM>, (Oxford, UK: Clarendon,&nbsp;1967)., p. 362, no. 9; pl. 138, 1-2.",
+            "date":1967,
+            "id":2833,
+            "uri":"http://www.worldcat.org/oclc/58613335"
+        },
+        {
+            "boilertext":"<P>A.D. Trendall, <EM>Phylax vases</EM>, (London: Institute of Classical Studies, 1959).</P>",
+            "citation":"<P>A.D. Trendall, <EM>Phylax vases</EM>, (London: Institute of Classical Studies, 1959).</P>, no. 8; p. 39",
+            "date":1959,
+            "id":2834,
+            "uri":"http://www.worldcat.org/oclc/31512670"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Campania, South Italy",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":null,
+            "region":"Campania, South Italy",
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.911_14.921.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2160078,
+            "term":"wave pattern",
+            "aatid":300009936,
+            "termtype":"Subject"
+        },
+        {
+            "id":2110777,
+            "term":"tympana",
+            "aatid":300002736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2077991,
+            "term":"amphorae",
+            "aatid":300148696,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088139,
+            "term":"youth",
+            "aatid":300025944,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159399,
+            "term":"palmettes",
+            "aatid":300009995,
+            "termtype":"Subject"
+        },
+        {
+            "id":2036451,
+            "term":"Greek",
+            "aatid":300020072,
+            "termtype":"Culture"
+        },
+        {
+            "id":2036589,
+            "term":"Campanian",
+            "aatid":300020176,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2036601,
+            "term":"Red-figure",
+            "aatid":300020201,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2073425,
+            "term":"phialae",
+            "aatid":300198871,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160007,
+            "term":"meanders (patterns)",
+            "aatid":300165279,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2076644,
+            "term":"kantharoi",
+            "aatid":300198840,
+            "termtype":"Subject"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168009,
+            "term":"wash",
+            "aatid":300011051,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2077991,
+            "classification":"amphorae"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15782,
+            "culture":"South Italian, Campanian",
+            "alphasort":"Campanian",
+            "begindate":-375,
+            "enddate":-25,
+            "displayculture":"South Italian, Campanian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036451,
+            "culture":"Greek"
+        }
+    ],
+    "periods":[],
+    "periodterms":[
+        {
+            "id":2036589,
+            "period":"Campanian"
+        },
+        {
+            "id":2036601,
+            "period":"Red-figure"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"49.70"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"21.40"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV42631"
+    ],
+    "displaymaker":"Attributed to the Mad-Man Painter, Greek",
+    "displayculture":"South Italian, Campanian",
+    "displayperiod":null,
+    "caption":"South Italian, Campanian, Attributed to the Mad-Man Painter (Greek), Campania, South Italy, ca. 375–350 BCE, Red-figure amphora. Ceramic; 49.7 x 21.4 cm. Gift of Annie Drown Ferree (y465)",
+    "captionhtml":"South Italian, Campanian, Attributed to the Mad-Man Painter (Greek), Campania, South Italy, ca. 375–350 BCE, <i>Red-figure amphora</i>. Ceramic; 49.7 x 21.4 cm. Gift of Annie Drown Ferree (y465)",
+    "published_date":"2025-10-16 13:39:05.374077",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,296 @@
+{
+    "type":"artobject",
+    "objectid":34100,
+    "objectnumber":"y200",
+    "sortnumber":"200     y",
+    "displaytitle":"Nude female figure",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1455,
+    "dateend":-1200,
+    "datecomputed":-1328,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"ca. 1450–1200 BCE",
+    "medium":"Base-ring II ware: terracotta",
+    "dimensions":"14.8 x 3.9 x 2.7 cm (5 13/16 x 1 1/2 x 1 1/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Allan Marquand, Class of 1874",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Nude female figure",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Given to the Museum by Allan Marquand",
+            "remarks":"Bacth edit for Provenance publication project"
+        }
+    ],
+    "media":[
+        {
+            "id":24805,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y200_OBL",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":24806,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y200_FRN",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Winter, <EM>&nbsp;Die Typen der Figürlichen terrakotten, Vol. 1.&nbsp;</EM>in<EM>&nbsp;Die antiken Terrakotten, im Auftrag des Archäologischen Instituts des Deutschen Reichs</EM>, ed. Reinhard Kekule von Stradonitz, (Berlin: Spemann,&nbsp;1903).<BR>",
+            "citation":"Winter, <EM>&nbsp;Die Typen der Figürlichen terrakotten, Vol. 1.&nbsp;</EM>in<EM>&nbsp;Die antiken Terrakotten, im Auftrag des Archäologischen Instituts des Deutschen Reichs</EM>, ed. Reinhard Kekule von Stradonitz, (Berlin: Spemann,&nbsp;1903).<BR>, p. 18, #4",
+            "date":1903,
+            "id":750,
+            "uri":"http://www.worldcat.org/oclc/315428804"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Cyprus",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Cyprus",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037267,
+            "term":"Cypriote",
+            "aatid":300020627,
+            "termtype":"Culture"
+        },
+        {
+            "id":2037278,
+            "term":"Late Cypriote",
+            "aatid":300107602,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2037283,
+            "term":"base ring (pottery style)",
+            "aatid":300107605,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055252,
+            "term":"terracottas",
+            "aatid":300047296,
+            "termtype":"Classification"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055416,
+            "term":"statues",
+            "aatid":300047600,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055437,
+            "term":"figurines",
+            "aatid":300047455,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199194,
+            "term":"Late Bronze Age",
+            "aatid":300019278,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2160936,
+            "term":"terracotta",
+            "aatid":300010669,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055416,
+            "classification":"statues"
+        },
+        {
+            "id":2055252,
+            "classification":"terracottas"
+        },
+        {
+            "id":2055437,
+            "classification":"figurines"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13944,
+            "culture":"Cypriote",
+            "alphasort":"Cypriote",
+            "begindate":-2300,
+            "enddate":-1050,
+            "displayculture":"Cypriote",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2037267,
+            "culture":"Cypriote"
+        }
+    ],
+    "periods":[
+        {
+            "id":23919,
+            "period":"Late Bronze Age",
+            "alphasort":"Late Bronze Age",
+            "begindate":-1600,
+            "enddate":-1050,
+            "displayperiod":"Late Bronze Age, late Cypriote IIB, ca. 1600–1050 BCE",
+            "displaydate":"ca. 1600–1050 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037278,
+            "period":"Late Cypriote"
+        },
+        {
+            "id":2199194,
+            "period":"Late Bronze Age"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"14.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"3.85"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"2.70"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        },
+        {
+            "packageid":277931,
+            "name":"EW-Artwalk_Figuration_CaseD"
+        },
+        {
+            "packageid":236376,
+            "name":"EW-Artwalk_Figuration"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182063,
+            "name":"web_2020_ancient_greek"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y200_FRN"
+    ],
+    "displaymaker":null,
+    "displayculture":"Cypriote",
+    "displayperiod":"Late Bronze Age, late Cypriote IIB, ca. 1600–1050 BCE",
+    "caption":"Cypriote, Late Bronze Age, late Cypriote IIB (ca. 1600–1050 BCE), Cyprus, ca. 1450–1200 BCE, Nude female figure. Base-ring II ware: terracotta; 14.8 x 3.9 x 2.7 cm. Gift of Allan Marquand, Class of 1874 (y200)",
+    "captionhtml":"Cypriote, Late Bronze Age, late Cypriote IIB (ca. 1600–1050 BCE), Cyprus, ca. 1450–1200 BCE, <i>Nude female figure</i>. Base-ring II ware: terracotta; 14.8 x 3.9 x 2.7 cm. Gift of Allan Marquand, Class of 1874 (y200)",
+    "published_date":"2025-10-16 13:39:12.151911",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

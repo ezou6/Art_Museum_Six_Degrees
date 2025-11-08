@@ -1,0 +1,237 @@
+{
+    "type":"artobject",
+    "objectid":35166,
+    "objectnumber":"PU 5048",
+    "sortnumber":"U      5048P",
+    "displaytitle":"Tarlth (placemat)",
+    "department":"Art of the Ancient Americas",
+    "classification":"Textiles",
+    "datebegin":1870,
+    "dateend":1885,
+    "datecomputed":1878,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"before 1885",
+    "medium":"Spruce root twining with grass false embroidery",
+    "dimensions":"h. 19.7 cm., w. 27 cm. (7 3/4 x 10 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Lent by the Department of Geosciences, Princeton University",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Tarlth (placemat)",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<font face=\"Times New Roman\" size=\"3\">\n\n</font><p style=\"margin: 0in 0in 8pt;\"><span style='line-height: 107%; font-family: \"Arial\",sans-serif; font-size: 10pt;'>Probably collected by John G. Brady on behalf of Rev. Dr.\nSheldon Jackson 1878-1883; Given to E. M. Museum (Princeton Museum of\nNatural History), 1882-1885</span></p><font face=\"Times New Roman\" size=\"3\">\n\n</font>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":44479,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV010238",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place collected: North America",
+            "code":"Place collected",
+            "continent":"North America",
+            "subcontinent":"Northwest Coast",
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://native-land.ca/maps/territories/tlingit/",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Classification"
+        },
+        {
+            "id":2151290,
+            "term":"dyeing",
+            "aatid":300053049,
+            "termtype":"Classification"
+        },
+        {
+            "id":2039520,
+            "term":"Native American",
+            "aatid":300017437,
+            "termtype":"Culture"
+        },
+        {
+            "id":2040133,
+            "term":"Lingít",
+            "aatid":300017629,
+            "termtype":"Culture"
+        },
+        {
+            "id":2064333,
+            "term":"mats (floor coverings)",
+            "aatid":300186112,
+            "termtype":"Classification"
+        },
+        {
+            "id":2044375,
+            "term":"textile materials",
+            "aatid":300231565,
+            "termtype":"Classification"
+        },
+        {
+            "id":2159868,
+            "term":"geometric patterns",
+            "aatid":300165213,
+            "termtype":"Subject"
+        },
+        {
+            "id":2151271,
+            "term":"weaving",
+            "aatid":300053642,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2157642,
+            "term":"twining",
+            "aatid":300228538,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2045714,
+            "term":"grass",
+            "aatid":300011872,
+            "termtype":"Materials"
+        },
+        {
+            "id":2045855,
+            "term":"root",
+            "aatid":300081475,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2151290,
+            "classification":"dyeing"
+        },
+        {
+            "id":2044375,
+            "classification":"textile materials"
+        },
+        {
+            "id":2151271,
+            "classification":"weaving"
+        },
+        {
+            "id":2064333,
+            "classification":"mats (floor coverings)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13962,
+            "culture":"Lingít",
+            "alphasort":"Lingít",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Lingít",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2039520,
+            "culture":"Native American"
+        },
+        {
+            "id":2040133,
+            "culture":"Lingít"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"19.70"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":143824,
+            "name":"CRS_TlingitBaskets [2]"
+        },
+        {
+            "packageid":192564,
+            "name":"web_NW_2020"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010238"
+    ],
+    "displaymaker":null,
+    "displayculture":"Lingít",
+    "displayperiod":null,
+    "caption":"Lingít, before 1885, Northwest Coast, Tarlth (placemat). Spruce root twining with grass false embroidery; 19.7 x 27 cm. Lent by the Department of Geosciences, Princeton University (PU 5048)",
+    "captionhtml":"Lingít, before 1885, Northwest Coast, <i>Tarlth (placemat)</i>. Spruce root twining with grass false embroidery; 19.7 x 27 cm. Lent by the Department of Geosciences, Princeton University (PU 5048)",
+    "published_date":"2025-10-16 13:44:36.074509",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,163 @@
+{
+    "type":"artobject",
+    "objectid":9998,
+    "objectnumber":"x1959-23",
+    "sortnumber":"1959   23x",
+    "displaytitle":"Apocalypse",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1505,
+    "dateend":1562,
+    "datecomputed":1534,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Engraving",
+    "dimensions":"sheet trimmed to plate: 29.8 x 21.1 cm. (11 3/4 x 8 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of James H. Lockhart, Jr., Class of 1935",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"",
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Apocalypse",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":5727,
+            "displayname":"Jean Duvet",
+            "displaydate":"French, 1485 - ca. 1562",
+            "datebegin":1485,
+            "dateend":1562,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Duvet, French, 1485 - ca. 1562",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":12461,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1959-23_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":97909,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23265",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 26",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"29.80"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.10"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182971,
+            "name":"P&D_French_Prints"
+        },
+        {
+            "packageid":226701,
+            "name":"2023_FRS110_03_06"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23265"
+    ],
+    "displaymaker":"Jean Duvet, French, 1485 - ca. 1562",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Duvet (French, 1485 - ca. 1562), Apocalypse. Engraving; 29.8 x 21.1 cm (plate). Gift of James H. Lockhart, Jr., Class of 1935 (x1959-23)",
+    "captionhtml":"Jean Duvet (French, 1485 - ca. 1562), <i>Apocalypse</i>. Engraving; 29.8 x 21.1 cm (plate). Gift of James H. Lockhart, Jr., Class of 1935 (x1959-23)",
+    "published_date":"2025-10-16 11:19:05.909096",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

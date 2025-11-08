@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":145050,
+    "objectnumber":"2024-344",
+    "sortnumber":"2024  344",
+    "displaytitle":"Woman at Table",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1853,
+    "dateend":1863,
+    "datecomputed":1858,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"ca. 1858",
+    "medium":"Painted salt print",
+    "dimensions":"16.5 × 21.6 cm (6 1/2 × 8 1/2 in.)\r\nframe: 33.7 × 29.2 × 3.8 cm (13 1/4 × 11 1/2 × 1 1/2 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Stanley B. Burns, MD in honor of Alice Lease Dana",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":"Restricted Download - Reference Image",
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"2024-01-01",
+    "newaccession":1,
+    "titles":[
+        {
+            "title":"Woman at Table",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":23473,
+            "displayname":"William Southgate Porter",
+            "displaydate":"1822–1889; born and died Cincinnati, OH",
+            "datebegin":1822,
+            "dateend":1889,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"William Southgate Porter, 1822–1889; born and died Cincinnati, OH",
+            "displayorder":1
+        },
+        {
+            "id":23474,
+            "displayname":"David R.H. Hoag",
+            "displaydate":"1817–1864; active Cincinnati, OH",
+            "datebegin":1817,
+            "dateend":1864,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"David R.H. Hoag, 1817–1864; active Cincinnati, OH",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Special Exhibition",
+            "textentryhtml":"<p>\n\tIntroduced in 1839, the salted paper print offered a more affordable option to painted portraits, a luxury available only to the most privileged classes in the form of specially commissioned canvases. Porter and Hoag, who owned the lucrative Cincinnati-based gallery Porter’s Art Palace, combined this photographic printing technique with painting to produce portraits that were durable and relatively affordable but evoked the tradition of painted portraiture through meticulous hand-coloring and ornate frames. In this image, the photograph underneath the paint can be discerned in the fine-grained details such as the woman’s thick curls and ornate lace headpiece. The added coloring provides naturalistic elements, like the pink on her cheeks and golden highlights in the fabric of the dress.\n</p>",
+            "remarks":"Princeton Collects PUAM-LABELS_G8_6x10-Day 1 Cataloguing "
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"[Walter Burton, Cincinnati]; purchased by Stanley Burns; given to the Princeton University Art Museum, 2024.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":257855,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-102-1_ref",
+            "isprimary":1,
+            "rank":0,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted Download - Reference Image",
+            "caption":"Reference Image"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"Stanley B. Burns, <i>Forgotten Marriage: The Painted Tintype and the Decorative Frame, 1860-1910</i> (New York, National Artts Club, 1995).",
+            "citation":"Stanley B. Burns, <i>Forgotten Marriage: The Painted Tintype and the Decorative Frame, 1860-1910</i> (New York, National Artts Club, 1995)., p. 58",
+            "date":1995,
+            "id":10047,
+            "uri":"https://search.worldcat.org/en/title/32210080"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: North America, United States, Ohio, Cincinnati",
+            "code":"Place made",
+            "continent":"North America",
+            "subcontinent":null,
+            "country":"United States",
+            "region":null,
+            "state":"Ohio",
+            "city":"Cincinnati",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/4508722/cincinnati.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053600,
+            "term":"salted paper prints",
+            "aatid":300127149,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2053600,
+            "term":"salted paper prints",
+            "aatid":300127149,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053600,
+            "classification":"salted paper prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"frame",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"33.70"
+        },
+        {
+            "element":"frame",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"29.20"
+        },
+        {
+            "element":"frame",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"3.80"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.58"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":265287,
+            "name":"Princeton Collects Gallery 8"
+        },
+        {
+            "packageid":267493,
+            "name":"Web_CA_2025_Photography"
+        },
+        {
+            "packageid":264438,
+            "name":"CFA-since-1-1-2024"
+        },
+        {
+            "packageid":264884,
+            "name":"Princeton Collects 8"
+        },
+        {
+            "packageid":259699,
+            "name":"Gallery_08-SpecX"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/TC2024-102-1_ref"
+    ],
+    "displaymaker":"William Southgate Porter, 1822–1889; born and died Cincinnati, OH | David R.H. Hoag, 1817–1864; active Cincinnati, OH",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"William Southgate Porter (1822–1889; born and died Cincinnati, OH), David R.H. Hoag (1817–1864; active Cincinnati, OH), Woman at Table, ca. 1858. Painted salt print; 16.5 × 21.6 cm, 33.7 × 29.2 × 3.8 cm (frame). Gift of Stanley B. Burns, MD in honor of Alice Lease Dana (2024-344)",
+    "captionhtml":"William Southgate Porter (1822–1889; born and died Cincinnati, OH), David R.H. Hoag (1817–1864; active Cincinnati, OH), <i>Woman at Table</i>, ca. 1858. Painted salt print; 16.5 × 21.6 cm, 33.7 × 29.2 × 3.8 cm (frame). Gift of Stanley B. Burns, MD in honor of Alice Lease Dana (2024-344)",
+    "published_date":"2025-10-18 02:05:07.544030",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

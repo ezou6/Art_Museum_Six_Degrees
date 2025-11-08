@@ -1,0 +1,228 @@
+{
+    "type":"artobject",
+    "objectid":21967,
+    "objectnumber":"y1942-51 a-b",
+    "sortnumber":"1942   51ya    b",
+    "displaytitle":"Canopic Jar",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramic",
+    "datebegin":-1550,
+    "dateend":-1069,
+    "datecomputed":-1310,
+    "daterange":"2000-1000 B.C.",
+    "displaydate":"1570–1085 BCE",
+    "medium":"Ceramic",
+    "dimensions":"h. 39.0 cm, diam. 18.2 cm (15 3/8 x 7 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Carl Otto von Kienbusch, Class of 1906",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1942-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Canopic Jar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"At some point sold with Parke-Bernet, labelled with lot no. 282; given by Carl Otto von Kienbusch to the Museum in 1942\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":34618,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV002394",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<p><em>The Carl Otto von Kienbusch, Jr. Memorial Collection</em> (Princeton: Princeton University Art Museum, 1956)</p>",
+            "citation":"<p><em>The Carl Otto von Kienbusch, Jr. Memorial Collection</em> (Princeton: Princeton University Art Museum, 1956)</p>, no. 17",
+            "date":1956,
+            "id":1824,
+            "uri":"http://www.worldcat.org/oclc/3809022"
+        },
+        {
+            "boilertext":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 1, no. 2 (1942): p. 11.",
+            "citation":"\"Recent accessions\", <em>Record of the Museum of Historic Art, Princeton University</em> 1, no. 2 (1942): p. 11., p. 11",
+            "date":1942,
+            "id":5301,
+            "uri":"https://www.jstor.org/stable/3774140"
+        }
+    ],
+    "exhibitions":[
+        {
+            "exhibitionid":1579,
+            "citation":"The Carl Otto von Kienbusch, Jr. Memorial Collection (Princeton University Art Museum, June 1956)",
+            "isvirtual":true,
+            "begindate":"1956-06",
+            "enddate":"1956-06",
+            "uri":"https://artmuseum.princeton.edu/art/exhibitions/1579"
+        }
+    ],
+    "geography":[],
+    "terms":[
+        {
+            "id":2036996,
+            "term":"New Kingdom",
+            "aatid":300020353,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2158090,
+            "term":"faces",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2073745,
+            "term":"canopic jars",
+            "aatid":300198901,
+            "termtype":"Classification"
+        },
+        {
+            "id":2036860,
+            "term":"Egyptian (ancient)",
+            "aatid":300020251,
+            "termtype":"Culture"
+        },
+        {
+            "id":2048783,
+            "term":"funerary objects",
+            "aatid":300234126,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160397,
+            "term":"slip",
+            "aatid":300010459,
+            "termtype":"Materials"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2073745,
+            "classification":"canopic jars"
+        },
+        {
+            "id":2048783,
+            "classification":"funerary objects"
+        },
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        }
+    ],
+    "cultures":[
+        {
+            "id":15181,
+            "culture":"Egyptian",
+            "alphasort":"Egyptian",
+            "begindate":-3000,
+            "enddate":395,
+            "displayculture":"Egyptian",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2036860,
+            "culture":"Egyptian (ancient)"
+        }
+    ],
+    "periods":[
+        {
+            "id":12858,
+            "period":"New Kingdom",
+            "alphasort":"New Kingdom",
+            "begindate":-1550,
+            "enddate":-1070,
+            "displayperiod":"New Kingdom, ca. 1550–1070 BCE",
+            "displaydate":"ca. 1550–1070 BCE"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2036996,
+            "period":"New Kingdom"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"39.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"18.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":181973,
+            "name":"web_2020_Ancient"
+        },
+        {
+            "packageid":182064,
+            "name":"web_2020_ancient_egyptian"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV002394"
+    ],
+    "displaymaker":null,
+    "displayculture":"Egyptian",
+    "displayperiod":"New Kingdom, ca. 1550–1070 BCE",
+    "caption":"Egyptian, New Kingdom (ca. 1550–1070 BCE), 1570–1085 BCE, Canopic Jar. Ceramic; 39 x 18.2 cm. Gift of Carl Otto von Kienbusch, Class of 1906 (y1942-51 a-b)",
+    "captionhtml":"Egyptian, New Kingdom (ca. 1550–1070 BCE), 1570–1085 BCE, <i>Canopic Jar</i>. Ceramic; 39 x 18.2 cm. Gift of Carl Otto von Kienbusch, Class of 1906 (y1942-51 a-b)",
+    "published_date":"2025-10-16 12:43:22.483113",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

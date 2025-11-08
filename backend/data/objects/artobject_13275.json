@@ -1,0 +1,162 @@
+{
+    "type":"artobject",
+    "objectid":13275,
+    "objectnumber":"x1976-223",
+    "sortnumber":"1976  223x",
+    "displaytitle":"Dagmar",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1912,
+    "dateend":1912,
+    "datecomputed":1912,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1912",
+    "medium":"etching",
+    "dimensions":"plate: 24.9 x 17.8 cm (9 13/16 x 7 in.)\r\nsheet: 42.8 x 32.6 cm (16 7/8 x 12 13/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Mrs. Herbert S. Langfeld",
+    "markings":null,
+    "inscribed":"signed and dated in plate, l.l.: Zorn 1912; signed in pencil below plate-mark, r.: Zorn",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1976-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dagmar",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":2101,
+            "displayname":"Anders Leonard Zorn",
+            "displaydate":"Swedish, 1860–1920",
+            "datebegin":1860,
+            "dateend":1920,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Anders Leonard Zorn, Swedish, 1860–1920",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":101675,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26431",
+            "isprimary":0,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":101676,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV26432",
+            "isprimary":1,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40.",
+            "citation":"\"Acquisitions of the Art Museum 1976,\" <em>Record of the Art Museum, Princeton University </em>36, no. 1 (1977): p. 28-40., p. 37",
+            "date":1977,
+            "id":3365,
+            "uri":"https://www.jstor.org/stable/3774447"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.80"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.90"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"32.60"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"42.80"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV26432"
+    ],
+    "displaymaker":"Anders Leonard Zorn, Swedish, 1860–1920",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Anders Leonard Zorn (Swedish, 1860–1920), Dagmar, 1912. Etching; 24.9 x 17.8 cm (plate), 42.8 x 32.6 cm (sheet). Bequest of Mrs. Herbert S. Langfeld (x1976-223)",
+    "captionhtml":"Anders Leonard Zorn (Swedish, 1860–1920), <i>Dagmar</i>, 1912. Etching; 24.9 x 17.8 cm (plate), 42.8 x 32.6 cm (sheet). Bequest of Mrs. Herbert S. Langfeld (x1976-223)",
+    "published_date":"2025-10-16 11:47:56.114245",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,159 @@
+{
+    "type":"artobject",
+    "objectid":5022,
+    "objectnumber":"x1946-109",
+    "sortnumber":"1946  109x",
+    "displaytitle":"St. Christopher",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1500,
+    "dateend":1538,
+    "datecomputed":1519,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"1513",
+    "medium":"Woodcut",
+    "dimensions":"block: 16.9 x 12.2 cm. (6 5/8 x 4 13/16 in.)\r\nsheet: 17.2 x 12.5 cm. (6 3/4 x 4 15/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Laura P. Hall Memorial Collection",
+    "markings":"watermark: pineapple in shield, initials MMA",
+    "inscribed":"monogram, 1513",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1946-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"St. Christopher",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":66,
+            "displayname":"Albrecht Altdorfer",
+            "displaydate":"ca. 1480–1538; died Regensburg, Germany",
+            "datebegin":1480,
+            "dateend":1538,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Albrecht Altdorfer, ca. 1480–1538; died Regensburg, Germany",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":9448,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1946-109_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":100863,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV25696",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"17.20"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.50"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"16.90"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"12.20"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV25696"
+    ],
+    "displaymaker":"Albrecht Altdorfer, ca. 1480–1538; died Regensburg, Germany",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Albrecht Altdorfer (ca. 1480–1538; died Regensburg, Germany), St. Christopher, 1513. Woodcut; 16.9 x 12.2 cm (block), 17.2 x 12.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-109)",
+    "captionhtml":"Albrecht Altdorfer (ca. 1480–1538; died Regensburg, Germany), <i>St. Christopher</i>, 1513. Woodcut; 16.9 x 12.2 cm (block), 17.2 x 12.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-109)",
+    "published_date":"2025-10-16 10:35:20.767676",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

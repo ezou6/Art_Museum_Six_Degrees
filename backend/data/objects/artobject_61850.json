@@ -1,0 +1,260 @@
+{
+    "type":"artobject",
+    "objectid":61850,
+    "objectnumber":"PP646",
+    "sortnumber":"P       646P",
+    "displaytitle":"Horse-Head Conference Room",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1999,
+    "dateend":1999,
+    "datecomputed":1999,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"ca. 1999; installed in 2002",
+    "medium":"Lead over plywood",
+    "dimensions":"500.4 x 749.9 x 1200 cm (197 x 295 1/4 x 472 7/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Princeton University, gift of Peter B. Lewis",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Frank Gehry",
+    "restrictions":"restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"true",
+    "on_view":false,
+    "accessionyear":null,
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Horse-Head Conference Room",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":866,
+            "displayname":"Frank Gehry",
+            "displaydate":"American, born 1929",
+            "datebegin":1929,
+            "dateend":2100,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Frank Gehry, American, born 1929",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Gallery Label",
+            "textentryhtml":"The <i>Horse-Head Conference Room</i> was designed by noted architect Frank Gehry as an exploration for a house he designed for Peter B. Lewis, a 1955 graduate and trustee of the University. The house was never built, but the project gave Gehry the opportunity to explore a new language of architecture, one that would be developed fully in his designs for the Guggenheim Museum at Bilbao.",
+            "remarks":"Campus Art Online"
+        }
+    ],
+    "media":[
+        {
+            "id":85662,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_a",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce M. White Photography"
+        },
+        {
+            "id":85663,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_a2",
+            "isprimary":0,
+            "rank":6,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":85664,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_b",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce M. White Photography"
+        },
+        {
+            "id":85665,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_b2",
+            "isprimary":0,
+            "rank":7,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":85666,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_c",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce M. White Photography"
+        },
+        {
+            "id":85667,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_d",
+            "isprimary":0,
+            "rank":4,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce M. White Photography"
+        },
+        {
+            "id":85668,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_e",
+            "isprimary":0,
+            "rank":5,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"restricted",
+            "caption":"Bruce M. White Photography"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":null,
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":null,
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2105352,
+            "term":"conference rooms",
+            "aatid":300004398,
+            "termtype":"Subject"
+        },
+        {
+            "id":2048086,
+            "term":"plywood",
+            "aatid":300012849,
+            "termtype":"Materials"
+        },
+        {
+            "id":2162235,
+            "term":"lead",
+            "aatid":300011022,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"500.37"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"749.93"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1199.99"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        },
+        {
+            "packageid":269977,
+            "name":"Web_CA_2025_PublicArt"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PP646_a"
+    ],
+    "displaymaker":"Frank Gehry, American, born 1929",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Frank Gehry (American, born 1929), Horse-Head Conference Room, ca. 1999; installed in 2002. Lead over plywood; 500.4 x 749.9 x 1200 cm. Princeton University, gift of Peter B. Lewis (PP646)",
+    "captionhtml":"Frank Gehry (American, born 1929), <i>Horse-Head Conference Room</i>, ca. 1999; installed in 2002. Lead over plywood; 500.4 x 749.9 x 1200 cm. Princeton University, gift of Peter B. Lewis (PP646)",
+    "published_date":"2025-10-16 15:59:46.217542",
+    "campusart":[
+        {
+            "campuscollections":"true",
+            "campusart":1,
+            "neighborhood":"Natural Sciences Neighborhood",
+            "lat":"40.3443",
+            "lon":"-74.6531"
+        }
+    ],
+    "extended_content":true
+}

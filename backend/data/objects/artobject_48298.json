@@ -1,0 +1,157 @@
+{
+    "type":"artobject",
+    "objectid":48298,
+    "objectnumber":"x1937-303",
+    "sortnumber":"1937  303x",
+    "displaytitle":"Thomas Morus",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1631,
+    "dateend":1631,
+    "datecomputed":1631,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":null,
+    "medium":"engraving",
+    "dimensions":"sheet trimmed inside plate: 25.2 x 17.2 cm. (9 15/16 x 6 3/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":"inscribed, margin below: Heroa Cernis? Morus Est...Lucas Vorstermans L.M. Dicat MDCXXXI.H. Holbenius pinxit. V. sculpsit.",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1937-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Thomas Morus",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":1625,
+            "displayname":"Lucas Vorsterman the Elder",
+            "displaydate":"1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England",
+            "datebegin":1595,
+            "dateend":1675,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Lucas Vorsterman the Elder, 1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England",
+            "displayorder":1
+        },
+        {
+            "id":5264,
+            "displayname":"Hans Holbein",
+            "displaydate":"German, ca. 1465–1524",
+            "datebegin":1460,
+            "dateend":1524,
+            "prefix":"after",
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"after Hans Holbein, German, ca. 1465–1524",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        },
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">Alfred Gabriel Hubert [1831-1908, Lugt 130]; sale of his collection, Paris, May 25-29, 1909, possibly lot 984; Junius S. Morgan [1867-1932]; bequeathed to Princeton University Art Museum, 1932.\n\n</span>",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":102772,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV27504",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.20"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.20"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV27504"
+    ],
+    "displaymaker":"Lucas Vorsterman the Elder, 1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England | after Hans Holbein, German, ca. 1465–1524",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Lucas Vorsterman the Elder (1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England), after Hans Holbein (German, ca. 1465–1524), Thomas Morus. Engraving; 25.2 x 17.2 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-303)",
+    "captionhtml":"Lucas Vorsterman the Elder (1595–1675; born Zaltbommel, Netherlands; died Antwerp, England; active England), after Hans Holbein (German, ca. 1465–1524), <i>Thomas Morus</i>. Engraving; 25.2 x 17.2 cm (plate). Bequest of Junius S. Morgan, Class of 1888 (x1937-303)",
+    "published_date":"2025-10-23 17:22:19.515206",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,263 @@
+{
+    "type":"artobject",
+    "objectid":101151,
+    "objectnumber":"2014-20",
+    "sortnumber":"2014   20",
+    "displaytitle":"Flowers and Grasses",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1781,
+    "dateend":1828,
+    "datecomputed":1804,
+    "daterange":"A.D. 1800-1850",
+    "displaydate":null,
+    "medium":"Folding fan; ink and color on paper",
+    "dimensions":"32 × 44 cm (12 5/8 × 17 5/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Koichi Yanagi",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2014-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Flowers and Grasses",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3427,
+            "displayname":"Sakai Hōitsu 酒井抱一",
+            "displaydate":"1761–1828",
+            "datebegin":1761,
+            "dateend":1828,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Sakai Hōitsu 酒井抱一, 1761–1828",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"<span lang=\"EN\">–2014\tKoichi Yanagi Oriental Fine Arts (New York, NY), by gift to the Princeton University Art Museum, 2014.</span>\n\n\n\n",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":206750,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_9024",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":206751,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_9025",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77.",
+            "citation":"\"Acquisitions of the Princeton University Art Museum 2014\", <em>Record of the Art Museum, Princeton University </em>74 (2015): p.&nbsp;55-77., p. 62 (color illus.)",
+            "date":2016,
+            "id":5958,
+            "uri":"https://www.jstor.org/stable/26388766?seq=1#metadata_info_tab_contents"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2096851,
+            "term":"Nature",
+            "aatid":300179372,
+            "termtype":"Subject"
+        },
+        {
+            "id":2130432,
+            "term":"fans (costume accessories)",
+            "aatid":300258857,
+            "termtype":"Classification"
+        },
+        {
+            "id":2120449,
+            "term":"flowers (plants)",
+            "aatid":300132399,
+            "termtype":"Subject"
+        },
+        {
+            "id":2120456,
+            "term":"grasses",
+            "aatid":300132397,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033898,
+            "term":"Edo (Japanese period)",
+            "aatid":300106643,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2130432,
+            "classification":"fans (costume accessories)"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12589,
+            "period":"Edo period",
+            "alphasort":"Edo period",
+            "begindate":1603,
+            "enddate":1868,
+            "displayperiod":"Edo period, 1603–1868",
+            "displaydate":"1603–1868"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033898,
+            "period":"Edo (Japanese period)"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"32.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"44.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":216700,
+            "name":"2022_ART574_11_04"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":8770,
+            "name":"Web_Japanese_2014-6"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2015_9025"
+    ],
+    "displaymaker":"Sakai Hōitsu 酒井抱一, 1761–1828",
+    "displayculture":"Japanese",
+    "displayperiod":"Edo period, 1603–1868",
+    "caption":"Japanese, Edo period (1603–1868), Sakai Hōitsu 酒井抱一 (1761–1828), Flowers and Grasses. Folding fan; ink and color on paper; 32 × 44 cm. Gift of Koichi Yanagi (2014-20)",
+    "captionhtml":"Japanese, Edo period (1603–1868), Sakai Hōitsu 酒井抱一 (1761–1828), <i>Flowers and Grasses</i>. Folding fan; ink and color on paper; 32 × 44 cm. Gift of Koichi Yanagi (2014-20)",
+    "published_date":"2025-10-16 18:10:32.142885",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":27223,
+    "objectnumber":"y1955-3284",
+    "sortnumber":"1955 3284y",
+    "displaytitle":"Doorway",
+    "department":"European Painting and Sculpture ",
+    "classification":"Architectural Elements",
+    "datebegin":1300,
+    "dateend":1399,
+    "datecomputed":1350,
+    "daterange":"A.D. 1000-1500",
+    "displaydate":"14th century",
+    "medium":"Stone",
+    "dimensions":"h. 280.0 cm (110 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Baroness Cassel van Doorn",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1955-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Doorway",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":" Baroness Cassel van Doorn; 1955 gift to Princeton University Art Museum.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":17418,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3284",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"William H. Forsyth, \"A late medieval saint of the School of Champagne reexamined,\" <EM>Record of the Art Museum, Princeton University </EM>52, no. 1 (1993): 26–35.",
+            "citation":"William H. Forsyth, \"A late medieval saint of the School of Champagne reexamined,\" <EM>Record of the Art Museum, Princeton University </EM>52, no. 1 (1993): 26–35., p. 26, fig. 1 (as y1956-3284)",
+            "date":1993,
+            "id":3074,
+            "uri":"https://www.jstor.org/stable/3774738"
+        },
+        {
+            "boilertext":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University </i>15, no. 1 (1956): p. 26-27.",
+            "citation":"\"Recent acquisitions,\" <i>Record of the Art Museum, Princeton University </i>15, no. 1 (1956): p. 26-27., p. 27",
+            "date":1956,
+            "id":1832,
+            "uri":"https://www.jstor.org/stable/i291443"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, France",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"France",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2110777,
+            "term":"tympana",
+            "aatid":300002736,
+            "termtype":"Subject"
+        },
+        {
+            "id":2111658,
+            "term":"doorways",
+            "aatid":300002767,
+            "termtype":"Classification"
+        },
+        {
+            "id":2112710,
+            "term":"cusps",
+            "aatid":300003208,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055270,
+            "term":"carvings",
+            "aatid":300047203,
+            "termtype":"Subject"
+        },
+        {
+            "id":2155779,
+            "term":"relief",
+            "aatid":300053622,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159506,
+            "term":"leaf scrolls",
+            "aatid":300010104,
+            "termtype":"Subject"
+        },
+        {
+            "id":2159857,
+            "term":"foliation (pattern)",
+            "aatid":300165104,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031609,
+            "term":"French",
+            "aatid":300111188,
+            "termtype":"Culture"
+        },
+        {
+            "id":2108549,
+            "term":"pointed arches",
+            "aatid":300001072,
+            "termtype":"Subject"
+        },
+        {
+            "id":2164290,
+            "term":"stone",
+            "aatid":300011176,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2111658,
+            "classification":"doorways"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13586,
+            "culture":"French",
+            "alphasort":"French",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"French",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031609,
+            "culture":"French"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"280.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":246533,
+            "name":"EPS Provenance Nazi-era gaps"
+        },
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":276252,
+            "name":"Nazi Era Sept 2025 list for web"
+        },
+        {
+            "packageid":210962,
+            "name":"Z_JS European On View 10 years"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1955-3284"
+    ],
+    "displaymaker":null,
+    "displayculture":"French",
+    "displayperiod":null,
+    "caption":"French, Doorway, 14th century. Stone; 280 cm. Gift of Baroness Cassel van Doorn (y1955-3284)",
+    "captionhtml":"French, <i>Doorway</i>, 14th century. Stone; 280 cm. Gift of Baroness Cassel van Doorn (y1955-3284)",
+    "published_date":"2025-10-16 13:03:16.017009",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

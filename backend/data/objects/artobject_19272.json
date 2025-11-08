@@ -1,0 +1,264 @@
+{
+    "type":"artobject",
+    "objectid":19272,
+    "objectnumber":"y1929-285",
+    "sortnumber":"1929  285y",
+    "displaytitle":"Plate with floral decoration",
+    "department":"Ancient, Byzantine, and Islamic Art",
+    "classification":"Ceramics",
+    "datebegin":1500,
+    "dateend":1699,
+    "datecomputed":1600,
+    "daterange":"A.D. 1600-1700",
+    "displaydate":"16th–17th century",
+    "medium":"Ceramic with underglaze painting",
+    "dimensions":"h. 6.0 cm, diam. 30.5 cm (2 3/8 x 12 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Museum purchase, Prime Fund",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":true,
+    "accessionyear":"1929-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Plate with floral decoration",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Purchased by the Museum in 1929 from an unknown source.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":15137,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1929-285_TOP",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":15138,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1929-285_BOT",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"William C. Prime, <EM>Pottery and porcelain of all times and nations</EM>, (New York: Harper &amp; Brothers, 1879). ",
+            "citation":"William C. Prime, <EM>Pottery and porcelain of all times and nations</EM>, (New York: Harper &amp; Brothers, 1879). , p. 128, fig. 98",
+            "date":1879,
+            "id":2661,
+            "uri":"http://www.worldcat.org/oclc/1402094"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Turkey, Iznik",
+            "code":"Place made",
+            "continent":null,
+            "subcontinent":null,
+            "country":"Turkey",
+            "region":null,
+            "state":null,
+            "city":"Iznik",
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/maps/google_40.439_29.726.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2037836,
+            "term":"Ottoman",
+            "aatid":300021614,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2098427,
+            "term":"spirals",
+            "aatid":300163114,
+            "termtype":"Subject"
+        },
+        {
+            "id":2049167,
+            "term":"ceramics",
+            "aatid":300151343,
+            "termtype":"Classification"
+        },
+        {
+            "id":2199107,
+            "term":"Islamic (culture or style)",
+            "aatid":null,
+            "termtype":"Culture"
+        },
+        {
+            "id":2159828,
+            "term":"floral patterns",
+            "aatid":300010135,
+            "termtype":"Subject"
+        },
+        {
+            "id":2075879,
+            "term":"plates (dishes)",
+            "aatid":300042991,
+            "termtype":"Classification"
+        },
+        {
+            "id":2160750,
+            "term":"ceramic",
+            "aatid":300235507,
+            "termtype":"Materials"
+        },
+        {
+            "id":2167740,
+            "term":"paint",
+            "aatid":300015029,
+            "termtype":"Materials"
+        },
+        {
+            "id":2168031,
+            "term":"glaze",
+            "aatid":300015091,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2049167,
+            "classification":"ceramics"
+        },
+        {
+            "id":2075879,
+            "classification":"plates (dishes)"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2199107,
+            "culture":"Islamic (culture or style)"
+        }
+    ],
+    "periods":[
+        {
+            "id":15310,
+            "period":"Ottoman",
+            "alphasort":"Ottoman",
+            "begindate":1281,
+            "enddate":1924,
+            "displayperiod":"Ottoman",
+            "displaydate":null
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2037836,
+            "period":"Ottoman"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"6.00"
+        },
+        {
+            "element":"Overall",
+            "type":"diam.",
+            "units":"centimeters",
+            "dimension":"30.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":213401,
+            "name":"Gallery_21-WestAsia"
+        },
+        {
+            "packageid":181985,
+            "name":"web_2020_medieval"
+        },
+        {
+            "packageid":264575,
+            "name":"VisibleStorage_DenseDisplay_G21_WestAsian_Ceramics"
+        },
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":197207,
+            "name":"PUAM_Expressing Culture_Byzantine, Islamic, and Medieval"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        },
+        {
+            "packageid":267942,
+            "name":"Web_CA_2025_Islamic+West Asia"
+        },
+        {
+            "packageid":204035,
+            "name":"Teaching Kit Reproductions 8 1/2 x 11"
+        },
+        {
+            "packageid":264604,
+            "name":"DenseDisplay_AncientMed_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1929-285_TOP"
+    ],
+    "displaymaker":null,
+    "displayculture":null,
+    "displayperiod":"Ottoman",
+    "caption":"Ottoman, Iznik, Turkey, 16th–17th century, Plate with floral decoration. Ceramic with underglaze painting; 6 x 30.5 cm. Museum purchase, Prime Fund (y1929-285)",
+    "captionhtml":"Ottoman, Iznik, Turkey, 16th–17th century, <i>Plate with floral decoration</i>. Ceramic with underglaze painting; 6 x 30.5 cm. Museum purchase, Prime Fund (y1929-285)",
+    "published_date":"2025-10-16 12:27:18.733161",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":true
+}

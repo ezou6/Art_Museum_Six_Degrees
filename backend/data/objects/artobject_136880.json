@@ -1,0 +1,242 @@
+{
+    "type":"artobject",
+    "objectid":136880,
+    "objectnumber":"2019-238",
+    "sortnumber":"2019  238",
+    "displaytitle":"Einstein's Table",
+    "department":"Modern and Contemporary Art",
+    "classification":"Sculpture",
+    "datebegin":2019,
+    "dateend":2019,
+    "datecomputed":2019,
+    "daterange":"A.D. 1945-present",
+    "displaydate":"2019",
+    "medium":"Jet Mist Granite",
+    "dimensions":"76.2 × 1859.3 × 1280.2 cm (30 × 732 × 504 in.)",
+    "dimensionsproposed":"",
+    "creditline":"The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":"© Maya Lin Studio",
+    "restrictions":"Restricted",
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"2019-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":20005,
+            "displayname":"Maya Lin",
+            "displaydate":"born 1959, Athens, OH; active New York and Colorado",
+            "datebegin":1959,
+            "dateend":0,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Maya Lin, born 1959, Athens, OH; active New York and Colorado",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Commissioned by Princeton University, 2019.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":222288,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1375",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM photo"
+        },
+        {
+            "id":222640,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1350",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        },
+        {
+            "id":222642,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1408",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":"Restricted",
+            "caption":"PUAM Photo"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place located: United States of America, New Jersey, Princeton, Princeton University",
+            "code":"Place located",
+            "continent":null,
+            "subcontinent":null,
+            "country":"United States of America",
+            "region":null,
+            "state":"New Jersey",
+            "city":"Princeton",
+            "county":null,
+            "subregion":null,
+            "locale":"Princeton University",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"https://www.geonames.org/5102955/princeton-university.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2110524,
+            "term":"water tables",
+            "aatid":300002633,
+            "termtype":"Subject"
+        },
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2163224,
+            "term":"granite",
+            "aatid":300011183,
+            "termtype":"Materials"
+        },
+        {
+            "id":2164594,
+            "term":"water",
+            "aatid":300011772,
+            "termtype":"Materials"
+        },
+        {
+            "id":2164327,
+            "term":"gravel",
+            "aatid":300011689,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"76.19"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"1859.27"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1280.15"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":210959,
+            "name":"Putnam_Collection"
+        },
+        {
+            "packageid":211813,
+            "name":"Campus_List02012022"
+        },
+        {
+            "packageid":206417,
+            "name":"image_descriptions_top250"
+        },
+        {
+            "packageid":189897,
+            "name":"web_recacq_2020"
+        },
+        {
+            "packageid":167646,
+            "name":"web_highlights"
+        },
+        {
+            "packageid":194706,
+            "name":"PUAM_Sculpture in the Great Outdoors_Evergreen"
+        },
+        {
+            "packageid":211812,
+            "name":"Campus_Art_Online"
+        },
+        {
+            "packageid":269977,
+            "name":"Web_CA_2025_PublicArt"
+        },
+        {
+            "packageid":206518,
+            "name":"image_descriptions_newacquisitions_2019"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMSTU2019__DSC1375"
+    ],
+    "displaymaker":"Maya Lin, born 1959, Athens, OH; active New York and Colorado",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Maya Lin (born 1959, Athens, OH; active New York and Colorado), Einstein's Table, 2019. Jet Mist Granite; 76.2 × 1859.3 × 1280.2 cm. The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum (2019-238)",
+    "captionhtml":"Maya Lin (born 1959, Athens, OH; active New York and Colorado), <i>Einstein's Table</i>, 2019. Jet Mist Granite; 76.2 × 1859.3 × 1280.2 cm. The John B. Putnam Jr. Memorial Collection, Princeton University Art Museum (2019-238)",
+    "published_date":"2025-10-16 18:52:29.330989",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":1,
+            "neighborhood":"Residential Colleges Neighborhood",
+            "lat":"40.342904",
+            "lon":"-74.659489"
+        }
+    ],
+    "extended_content":false
+}

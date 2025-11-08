@@ -1,0 +1,57 @@
+{
+    "makerid":4984,
+    "published_date":"2025-05-08 02:01:08.472365",
+    "type":"maker",
+    "displayname":"Nancy Grossman",
+    "makertype":"Individual",
+    "alphasort":"Grossman Nancy",
+    "lastname":"Grossman",
+    "firstname":"Nancy",
+    "nametitle":null,
+    "middlename":null,
+    "suffix":null,
+    "displaybio":"born 1940, New York, NY",
+    "begindate":1940,
+    "enddate":2100,
+    "nationality":"American",
+    "culturegroup":null,
+    "biography":null,
+    "altnames":[
+        {
+            "nametype":"Primary Name",
+            "displayname":"Nancy Grossman",
+            "alphasort":"Grossman Nancy",
+            "lastname":"Grossman",
+            "firstname":"Nancy",
+            "nametitle":null,
+            "middlename":null,
+            "suffix":null,
+            "culturegroup":null
+        }
+    ],
+    "identifiers":[
+        {
+            "source":"ULAN",
+            "id":"500067133"
+        },
+        {
+            "source":"VIAF",
+            "id":"http://viaf.org/viaf/59886545"
+        }
+    ],
+    "audio":[],
+    "video":[],
+    "essay":[
+        {
+            "_id":{
+                "$oid":"668ecc59d5441e3e2214cb39"
+            },
+            "title":"The Feminist Critique, Fifty Years Later",
+            "essay_uri":"https://artmuseum.princeton.edu/story/feminist-critique-fifty-years-later",
+            "author_type":"Faculty",
+            "created_by":{
+                "$oid":"620fada789e9e20018ef2f87"
+            }
+        }
+    ]
+}

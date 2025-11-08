@@ -1,0 +1,232 @@
+{
+    "type":"artobject",
+    "objectid":48176,
+    "objectnumber":"x1935-1523",
+    "sortnumber":"1935 1523x",
+    "displaytitle":"Dancing Couple",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1500,
+    "dateend":1540,
+    "datecomputed":1520,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":null,
+    "medium":"Woodcut",
+    "dimensions":"block: 24.7 x 17.8 cm. (9 3/4 x 7 in.)\r\nsheet: 25.3 x 19.3 cm. (9 15/16 x 7 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1935-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Dancing Couple",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":3483,
+            "displayname":"Hans Leonhard Schäufelein",
+            "displaydate":"ca. 1482–1540",
+            "datebegin":1482,
+            "dateend":1540,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Hans Leonhard Schäufelein, ca. 1482–1540",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Junius S. Morgan (1867–1932); bequeathed to the Princeton University Art Museum, 1932\n",
+            "remarks":"as per Jun P. Nakamura & Laura M. Giles"
+        }
+    ],
+    "media":[
+        {
+            "id":8030,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/x1935-1523_GS",
+            "isprimary":0,
+            "rank":10,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Luna Digitization Project"
+        },
+        {
+            "id":116357,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV38049",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Germany",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Germany",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2031614,
+            "term":"German",
+            "aatid":300111192,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2089652,
+            "term":"dancers",
+            "aatid":300025653,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054723,
+            "term":"woodcuts",
+            "aatid":300041405,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        },
+        {
+            "id":2054723,
+            "classification":"woodcuts"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031614,
+            "culture":"German"
+        },
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"25.30"
+        },
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"19.30"
+        },
+        {
+            "element":"block",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.70"
+        },
+        {
+            "element":"block",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"17.80"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV38049"
+    ],
+    "displaymaker":"Hans Leonhard Schäufelein, ca. 1482–1540",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Hans Leonhard Schäufelein (ca. 1482–1540), Dancing Couple. Woodcut; 24.7 x 17.8 cm (block), 25.3 x 19.3 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1935-1523)",
+    "captionhtml":"Hans Leonhard Schäufelein (ca. 1482–1540), <i>Dancing Couple</i>. Woodcut; 24.7 x 17.8 cm (block), 25.3 x 19.3 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (x1935-1523)",
+    "published_date":"2025-10-16 14:56:58.527398",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

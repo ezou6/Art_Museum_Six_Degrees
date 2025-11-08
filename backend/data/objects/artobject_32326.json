@@ -1,0 +1,214 @@
+{
+    "type":"artobject",
+    "objectid":32326,
+    "objectnumber":"y1978-15",
+    "sortnumber":"1978   15y",
+    "displaytitle":"Abraham Lincoln",
+    "department":"American Art",
+    "classification":"Sculpture",
+    "datebegin":1907,
+    "dateend":1907,
+    "datecomputed":1907,
+    "daterange":"A.D. 1900-1945",
+    "displaydate":"1907",
+    "medium":"Bronze",
+    "dimensions":"bronze: 24 x 18.2 x 0.5 cm (9 7/16 x 7 3/16 x 3/16 in.)\r\nmount: 28 x 21.5 x 1.5 cm (11 x 8 7/16 x 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Mrs. Eleanor Marquand Delanoy",
+    "markings":"Stamped on edge at left end of flat band: S. KLABERS & CO. / FOUNDERS N.Y.",
+    "inscribed":"Inscription on flat band at lower end: ABRAHAM LINCOLN / 1809–1965;\r\nDate and artist name along right side: COPYRIGHT 1907 BY V.C. BRENNER\r\n",
+    "signed":"Monogram over 1907 in lower right, just above the flat band\r\n",
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1978-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Abraham Lincoln",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":585,
+            "displayname":"Victor D. Brenner",
+            "displaydate":"1871–1924; born Šiauliai, Lithuania; died New York, NY",
+            "datebegin":1871,
+            "dateend":1924,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Victor D. Brenner, 1871–1924; born Šiauliai, Lithuania; died New York, NY",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"Mrs. Eleanor Marquand Delanoy (1897-1988); gift to the Princeton University Art Museum, 1978.",
+            "remarks":null
+        }
+    ],
+    "media":[
+        {
+            "id":145761,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV64018",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"\"Acquisitions of the Art Museum 1978,\" <EM>Record of the Art Museum, Princeton University </EM>38, no. 1 (1979): p. 14-<SPAN style=\"FONT-WEIGHT: normal\"><FONT color=#222222 face=Georgia><FONT color=#000000 face=Arial>38</FONT></FONT></SPAN>.",
+            "citation":"\"Acquisitions of the Art Museum 1978,\" <EM>Record of the Art Museum, Princeton University </EM>38, no. 1 (1979): p. 14-<SPAN style=\"FONT-WEIGHT: normal\"><FONT color=#222222 face=Georgia><FONT color=#000000 face=Arial>38</FONT></FONT></SPAN>., p. 21",
+            "date":1979,
+            "id":1861,
+            "uri":"https://www.jstor.org/stable/3774571"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2038492,
+            "term":"American",
+            "aatid":300107956,
+            "termtype":"Culture"
+        },
+        {
+            "id":2088801,
+            "term":"presidents",
+            "aatid":300025470,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2054791,
+            "term":"sculpture",
+            "aatid":300047090,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055098,
+            "term":"bronzes",
+            "aatid":300047333,
+            "termtype":"Classification"
+        },
+        {
+            "id":2162100,
+            "term":"bronze",
+            "aatid":300010957,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2055098,
+            "classification":"bronzes"
+        },
+        {
+            "id":2054791,
+            "classification":"sculpture"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2038492,
+            "culture":"American"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"28.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"21.50"
+        },
+        {
+            "element":"mount",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"1.50"
+        },
+        {
+            "element":"Overall",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"24.00"
+        },
+        {
+            "element":"Overall",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"18.20"
+        },
+        {
+            "element":"Overall",
+            "type":"Depth",
+            "units":"centimeters",
+            "dimension":"0.50"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":264600,
+            "name":"DenseDisplay_CompleteList_at_20250205"
+        },
+        {
+            "packageid":264601,
+            "name":"DenseDisplay_American_at_20250205"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV64018"
+    ],
+    "displaymaker":"Victor D. Brenner, 1871–1924; born Šiauliai, Lithuania; died New York, NY",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Victor D. Brenner (1871–1924; born Šiauliai, Lithuania; died New York, NY), Abraham Lincoln, 1907. Bronze; 24 × 18.2 × 0.5 cm (bronze). Gift of Mrs. Eleanor Marquand Delanoy (y1978-15)",
+    "captionhtml":"Victor D. Brenner (1871–1924; born Šiauliai, Lithuania; died New York, NY), <i>Abraham Lincoln</i>, 1907. Bronze; 24 × 18.2 × 0.5 cm (bronze). Gift of Mrs. Eleanor Marquand Delanoy (y1978-15)",
+    "published_date":"2025-10-30 02:05:43.238295",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

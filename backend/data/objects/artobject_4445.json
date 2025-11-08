@@ -1,0 +1,149 @@
+{
+    "type":"artobject",
+    "objectid":4445,
+    "objectnumber":"x1943-286",
+    "sortnumber":"1943  286x",
+    "displaytitle":"Thomas Day",
+    "department":"Prints and Drawings",
+    "classification":"Prints",
+    "datebegin":1745,
+    "dateend":1794,
+    "datecomputed":1770,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":null,
+    "medium":"stipple",
+    "dimensions":"plate: 15 x 10.2 cm (5 7/8 x 4 in.)\r\nsheet: 20.6 x 14.1 cm. (8 1/8 x 5 9/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Bequest of Junius S. Morgan, Class of 1888 (?)",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1943-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Thomas Day",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":6613,
+            "displayname":"Jean Conde",
+            "displaydate":"British, 1725 - 1794",
+            "datebegin":1725,
+            "dateend":1794,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Jean Conde, British, 1725 - 1794",
+            "displayorder":1
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":97773,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV23132",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[],
+    "terms":[
+        {
+            "id":2031563,
+            "term":"European",
+            "aatid":300020656,
+            "termtype":"Culture"
+        },
+        {
+            "id":2054256,
+            "term":"prints",
+            "aatid":300041273,
+            "termtype":"Classification"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2054256,
+            "classification":"prints"
+        }
+    ],
+    "cultures":[],
+    "cultureterms":[
+        {
+            "id":2031563,
+            "culture":"European"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"sheet",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"14.10"
+        },
+        {
+            "element":"sheet",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"20.60"
+        },
+        {
+            "element":"plate",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"10.20"
+        },
+        {
+            "element":"plate",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"15.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":182980,
+            "name":"x-COMPLETE-P&D_British_prints"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV23132"
+    ],
+    "displaymaker":"Jean Conde, British, 1725 - 1794",
+    "displayculture":null,
+    "displayperiod":null,
+    "caption":"Jean Conde (British, 1725 - 1794), Thomas Day. Stipple; 15 x 10.2 cm (plate), 20.6 x 14.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1943-286)",
+    "captionhtml":"Jean Conde (British, 1725 - 1794), <i>Thomas Day</i>. Stipple; 15 x 10.2 cm (plate), 20.6 x 14.1 cm (sheet). Bequest of Junius S. Morgan, Class of 1888 (?) (x1943-286)",
+    "published_date":"2025-10-23 16:44:29.005117",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

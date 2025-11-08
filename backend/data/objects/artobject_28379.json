@@ -1,0 +1,298 @@
+{
+    "type":"artobject",
+    "objectid":28379,
+    "objectnumber":"y1959-109",
+    "sortnumber":"1959  109y",
+    "displaytitle":"Willow and Swallows",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1500,
+    "dateend":1599,
+    "datecomputed":1550,
+    "daterange":"A.D. 1500-1600",
+    "displaydate":"16th century",
+    "medium":"Hanging scroll; ink on paper",
+    "dimensions":"Painting: 31.5 x 43 cm. (12 3/8 x 16 15/16 in.)\r\nMount: 110 x 51.5 cm. (43 5/16 x 20 1/4 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of Nathan V. Hammer",
+    "markings":"Collector, square relief, left bottom",
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1959-01-01",
+    "newaccession":0,
+    "titles":[
+        {
+            "title":"Willow and Swallows",
+            "titletype":"Primary Title",
+            "displayorder":1
+        }
+    ],
+    "makers":[
+        {
+            "id":4230,
+            "displayname":"Kano Gyokuraku 狩野 玉楽",
+            "displaydate":"act. 1550–1590",
+            "datebegin":1550,
+            "dateend":1590,
+            "prefix":null,
+            "suffix":null,
+            "role":"Artist",
+            "displaymaker":"Kano Gyokuraku 狩野 玉楽, act. 1550–1590",
+            "displayorder":4
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":66631,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1959-109",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":61829,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08501",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[
+        {
+            "boilertext":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>",
+            "citation":"<BLOCKQUOTE style=\"MARGIN-RIGHT: 0px\" dir=ltr>\r\n<P>\"Recent acquisitions\", <EM>Record of the Art Museum, Princeton University</EM> 20, no. 1 (1961): p. 24-27.</P></BLOCKQUOTE>, p. 24",
+            "date":1961,
+            "id":3371,
+            "uri":"https://www.jstor.org/stable/3774336"
+        }
+    ],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, Japan",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"Japan",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/1861060/japan.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2126479,
+            "term":"hanging scrolls",
+            "aatid":300033636,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033913,
+            "term":"Momoyama",
+            "aatid":300018563,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2034055,
+            "term":"Japanese painting styles",
+            "aatid":300018579,
+            "termtype":"Classification"
+        },
+        {
+            "id":2034064,
+            "term":"Kano School",
+            "aatid":300018653,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2171695,
+            "term":"willow trees",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2171749,
+            "term":"swallows",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2033838,
+            "term":"Japanese",
+            "aatid":300018519,
+            "termtype":"Culture"
+        },
+        {
+            "id":2033864,
+            "term":"Muromachi",
+            "aatid":300018561,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2167672,
+            "term":"ink",
+            "aatid":300015012,
+            "termtype":"Materials"
+        },
+        {
+            "id":2043813,
+            "term":"paper (fiber product)",
+            "aatid":300014109,
+            "termtype":"Materials"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2126479,
+            "classification":"hanging scrolls"
+        },
+        {
+            "id":2034055,
+            "classification":"japanese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13690,
+            "culture":"Japanese",
+            "alphasort":"Japanese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Japanese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033838,
+            "culture":"Japanese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12585,
+            "period":"Muromachi period",
+            "alphasort":"Muromachi period",
+            "begindate":1333,
+            "enddate":1568,
+            "displayperiod":"Muromachi period, 1333–1568",
+            "displaydate":"1333–1568"
+        },
+        {
+            "id":12588,
+            "period":"Momoyama period",
+            "alphasort":"Momoyama period",
+            "begindate":1573,
+            "enddate":1615,
+            "displayperiod":"Momoyama period, 1573–1615",
+            "displaydate":"1573–1615"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033913,
+            "period":"Momoyama"
+        },
+        {
+            "id":2034064,
+            "period":"Kano School"
+        },
+        {
+            "id":2033864,
+            "period":"Muromachi"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"110.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"51.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.50"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"43.00"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1959-109"
+    ],
+    "displaymaker":"Kano Gyokuraku 狩野 玉楽, act. 1550–1590",
+    "displayculture":"Japanese",
+    "displayperiod":"Muromachi period, 1333–1568 | Momoyama period, 1573–1615",
+    "caption":"Japanese, Muromachi period (1333–1568), Momoyama period (1573–1615), Kano Gyokuraku 狩野 玉楽 (act. 1550–1590), Willow and Swallows, 16th century. Hanging scroll; ink on paper; 31.5 x 43 cm (Painting). Gift of Nathan V. Hammer (y1959-109)",
+    "captionhtml":"Japanese, Muromachi period (1333–1568), Momoyama period (1573–1615), Kano Gyokuraku 狩野 玉楽 (act. 1550–1590), <i>Willow and Swallows</i>, 16th century. Hanging scroll; ink on paper; 31.5 x 43 cm (Painting). Gift of Nathan V. Hammer (y1959-109)",
+    "published_date":"2025-10-16 13:07:37.413152",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

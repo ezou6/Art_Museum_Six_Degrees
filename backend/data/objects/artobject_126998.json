@@ -1,0 +1,239 @@
+{
+    "type":"artobject",
+    "objectid":126998,
+    "objectnumber":"x1982-341.13 a-b",
+    "sortnumber":"1982  341x   13a   b",
+    "displaytitle":"Album: Portraits",
+    "department":"Photography",
+    "classification":"Photographs",
+    "datebegin":1850,
+    "dateend":1870,
+    "datecomputed":1860,
+    "daterange":"A.D. 1850-1900",
+    "displaydate":"1850–1870",
+    "medium":"Albumen prints",
+    "dimensions":"mount (approx.): 34 × 27 cm (13 3/8 × 10 5/8 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Robert O. Dougan Collection, gift of Warner Communications, Inc.",
+    "markings":"",
+    "inscribed":"b. Printed, lower center: Héliog.re et Imp. A. Durand Paris",
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":"",
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1982-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":20032,
+            "displayname":"Amand Durand",
+            "displaydate":"French, 1831–1905",
+            "datebegin":1831,
+            "dateend":1905,
+            "prefix":"Printed by",
+            "suffix":null,
+            "role":"Printer",
+            "displaymaker":"Printed by Amand Durand, French, 1831–1905",
+            "displayorder":2
+        }
+    ],
+    "depicted":[],
+    "texts":[],
+    "media":[
+        {
+            "id":96135,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV21858",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        },
+        {
+            "id":96136,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV21859",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Europe, Scotland, Edinburgh, 126 Princes Street",
+            "code":"Place made",
+            "continent":"Europe",
+            "subcontinent":null,
+            "country":"Scotland",
+            "region":null,
+            "state":null,
+            "city":"Edinburgh",
+            "county":null,
+            "subregion":null,
+            "locale":"126 Princes Street",
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":"http://www.geonames.org/2650225/edinburgh.html",
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2053200,
+            "term":"photographs",
+            "aatid":300046300,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2092081,
+            "term":"physicians",
+            "aatid":300025809,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        },
+        {
+            "id":2053728,
+            "term":"black-and-white photographs",
+            "aatid":300128347,
+            "termtype":"Classification"
+        },
+        {
+            "id":2031595,
+            "term":"Scottish",
+            "aatid":300111212,
+            "termtype":"Culture"
+        },
+        {
+            "id":2053478,
+            "term":"albumen prints",
+            "aatid":300127121,
+            "termtype":"Classification"
+        },
+        {
+            "id":2055723,
+            "term":"portraits",
+            "aatid":300015637,
+            "termtype":"Subject"
+        },
+        {
+            "id":2156299,
+            "term":"mounting",
+            "aatid":300081370,
+            "termtype":"Techniques"
+        },
+        {
+            "id":2153946,
+            "term":"albumen process",
+            "aatid":300133274,
+            "termtype":"Techniques"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2053728,
+            "classification":"black-and-white photographs"
+        },
+        {
+            "id":2053200,
+            "classification":"photographs"
+        },
+        {
+            "id":2053478,
+            "classification":"albumen prints"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13593,
+            "culture":"British",
+            "alphasort":"British",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"British photographer",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2031595,
+            "culture":"Scottish"
+        }
+    ],
+    "periods":[],
+    "periodterms":[],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"34.00"
+        },
+        {
+            "element":"mount",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"27.00"
+        }
+    ],
+    "packages":[
+        {
+            "packageid":183067,
+            "name":"Photography-RobertO.DouganCollection"
+        },
+        {
+            "packageid":207234,
+            "name":"SAB_Gala2021"
+        }
+    ],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/INV21858"
+    ],
+    "displaymaker":"Printed by Amand Durand, French, 1831–1905",
+    "displayculture":"British photographer",
+    "displayperiod":null,
+    "caption":"British photographer, Printed by Amand Durand (French, 1831–1905), Album: Portraits, 1850–1870. Albumen prints; . Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-341.13 a-b)",
+    "captionhtml":"British photographer, Printed by Amand Durand (French, 1831–1905), <i>Album: Portraits</i>, 1850–1870. Albumen prints; . Robert O. Dougan Collection, gift of Warner Communications, Inc. (x1982-341.13 a-b)",
+    "published_date":"2025-10-16 18:28:04.914868",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}

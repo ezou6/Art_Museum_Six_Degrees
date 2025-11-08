@@ -1,0 +1,288 @@
+{
+    "type":"artobject",
+    "objectid":23344,
+    "objectnumber":"y1947-253",
+    "sortnumber":"1947  253y",
+    "displaytitle":"Judging a Horse (Xiang ma tu 相馬圖)",
+    "department":"Asian Art",
+    "classification":"Paintings",
+    "datebegin":1600,
+    "dateend":1799,
+    "datecomputed":1700,
+    "daterange":"A.D. 1700-1800",
+    "displaydate":"undated; 17th–18th century",
+    "medium":"Handscroll; colors on silk",
+    "dimensions":"Painting: 31 x 139.5 cm. (12 3/16 x 54 15/16 in.)\r\nMount: h. 36 cm. (14 3/16 in.)",
+    "dimensionsproposed":"",
+    "creditline":"Gift of DuBois Schanck Morris, Class of 1893 ",
+    "markings":null,
+    "inscribed":null,
+    "signed":null,
+    "catalograisonne":null,
+    "creditlinerepro":null,
+    "restrictions":null,
+    "nowebuse":"False",
+    "secondaryobjectnumber":null,
+    "campuscollections":"false",
+    "on_view":false,
+    "accessionyear":"1947-01-01",
+    "newaccession":0,
+    "titles":[],
+    "makers":[
+        {
+            "id":6428,
+            "displayname":"Zhao Mengfu 趙孟頫",
+            "displaydate":"1254–1322",
+            "datebegin":1254,
+            "dateend":1322,
+            "prefix":null,
+            "suffix":", attributed to",
+            "role":"Artist",
+            "displaymaker":"Zhao Mengfu 趙孟頫, attributed to, 1254–1322",
+            "displayorder":3
+        }
+    ],
+    "depicted":[],
+    "texts":[
+        {
+            "texttype":"Online",
+            "textpurpose":"Provenance",
+            "textentryhtml":"1898 – ca. 1926 acquired in China by DuBois Schanck Morris (1873-1956), based in Anhui, China; 1947 gift to Princeton University Art Museum",
+            "remarks":"Provenance statement updated to reflect new research"
+        }
+    ],
+    "media":[
+        {
+            "id":66973,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-253_1",
+            "isprimary":1,
+            "rank":1,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":66974,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-253_2",
+            "isprimary":0,
+            "rank":2,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":66975,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-253_3",
+            "isprimary":0,
+            "rank":3,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"PUAM photo"
+        },
+        {
+            "id":62368,
+            "uri":"https://media.artmuseum.princeton.edu/iiif/3/collection/INV08619",
+            "isprimary":0,
+            "rank":31,
+            "mediatypeid":1,
+            "mediaviewtype":"(not assigned)",
+            "restrictions":null,
+            "caption":"Inventory Project"
+        }
+    ],
+    "hasimage":"true",
+    "bibliography":[],
+    "exhibitions":[],
+    "geography":[
+        {
+            "displaygeography":"Place made: Asia, China",
+            "code":"Place made",
+            "continent":"Asia",
+            "subcontinent":null,
+            "country":"China",
+            "region":null,
+            "state":null,
+            "city":null,
+            "county":null,
+            "subregion":null,
+            "locale":null,
+            "locus":null,
+            "river":null,
+            "excavation":null,
+            "geoname":null,
+            "location":{
+                "lat":"",
+                "lon":""
+            }
+        }
+    ],
+    "terms":[
+        {
+            "id":2033355,
+            "term":"Chinese",
+            "aatid":300018322,
+            "termtype":"Culture"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2055657,
+            "term":"figures (representations)",
+            "aatid":300189808,
+            "termtype":"Subject"
+        },
+        {
+            "id":2088280,
+            "term":"women",
+            "aatid":300025943,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033561,
+            "term":"Yüan",
+            "aatid":300018436,
+            "termtype":"Period / Style"
+        },
+        {
+            "id":2103918,
+            "term":"horses",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2103919,
+            "term":"dogs",
+            "aatid":null,
+            "termtype":"Subject"
+        },
+        {
+            "id":2033673,
+            "term":"Chinese painting styles",
+            "aatid":300018501,
+            "termtype":"Classification"
+        },
+        {
+            "id":2052977,
+            "term":"paintings",
+            "aatid":300033618,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053034,
+            "term":"scroll paintings",
+            "aatid":300033666,
+            "termtype":"Classification"
+        },
+        {
+            "id":2053038,
+            "term":"handscrolls",
+            "aatid":300178463,
+            "termtype":"Classification"
+        },
+        {
+            "id":2088270,
+            "term":"men",
+            "aatid":300025928,
+            "termtype":"Subject"
+        }
+    ],
+    "classifications":[
+        {
+            "id":2052977,
+            "classification":"paintings"
+        },
+        {
+            "id":2053034,
+            "classification":"scroll paintings"
+        },
+        {
+            "id":2053038,
+            "classification":"handscrolls"
+        },
+        {
+            "id":2033673,
+            "classification":"chinese painting styles"
+        }
+    ],
+    "cultures":[
+        {
+            "id":13592,
+            "culture":"Chinese",
+            "alphasort":"Chinese",
+            "begindate":0,
+            "enddate":0,
+            "displayculture":"Chinese",
+            "displaydate":null
+        }
+    ],
+    "cultureterms":[
+        {
+            "id":2033355,
+            "culture":"Chinese"
+        }
+    ],
+    "periods":[
+        {
+            "id":12561,
+            "period":"Yuan dynasty",
+            "alphasort":"Yuan dynasty",
+            "begindate":1271,
+            "enddate":1368,
+            "displayperiod":"Yuan dynasty, 1271–1368",
+            "displaydate":"1271–1368"
+        }
+    ],
+    "periodterms":[
+        {
+            "id":2033561,
+            "period":"Yüan"
+        }
+    ],
+    "dimensionelements":[
+        {
+            "element":"mount",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"36.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Height",
+            "units":"centimeters",
+            "dimension":"31.00"
+        },
+        {
+            "element":"Painting",
+            "type":"Width",
+            "units":"centimeters",
+            "dimension":"139.50"
+        }
+    ],
+    "packages":[],
+    "primaryimage":[
+        "https://media.artmuseum.princeton.edu/iiif/3/collection/y1947-253_1"
+    ],
+    "displaymaker":"Zhao Mengfu 趙孟頫, attributed to, 1254–1322",
+    "displayculture":"Chinese",
+    "displayperiod":"Yuan dynasty, 1271–1368",
+    "caption":"Chinese, Yuan dynasty (1271–1368), Zhao Mengfu 趙孟頫, attributed to (1254–1322), Judging a Horse (Xiang ma tu 相馬圖), undated; 17th–18th century. Handscroll; colors on silk; 31 x 139.5 cm (Painting), 36 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-253)",
+    "captionhtml":"Chinese, Yuan dynasty (1271–1368), Zhao Mengfu 趙孟頫, attributed to (1254–1322), <i>Judging a Horse (Xiang ma tu 相馬圖)</i>, undated; 17th–18th century. Handscroll; colors on silk; 31 x 139.5 cm (Painting), 36 cm (mount). Gift of DuBois Schanck Morris, Class of 1893   (y1947-253)",
+    "published_date":"2025-10-16 12:52:23.363381",
+    "campusart":[
+        {
+            "campuscollections":"false",
+            "campusart":0,
+            "neighborhood":null,
+            "lat":null,
+            "lon":null
+        }
+    ],
+    "extended_content":false
+}
