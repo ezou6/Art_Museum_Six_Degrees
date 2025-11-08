@@ -52,3 +52,4 @@ def home(request):
     Simple root view.
     """
     return JsonResponse({"message": "Welcome to the Six Degrees API!"})
+
