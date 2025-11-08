@@ -84,6 +84,71 @@ def art_graph_view(request):
         return JsonResponse({"error": str(e)}, status=500)
 
 
+@api_view(['GET'])
+def get_target_artwork_view(request, artwork_id):
+    """Get a target artwork that is 5-6 steps away from the starting artwork."""
+    try:
+        from .utils import get_target_artwork
+        target_data = get_target_artwork(artwork_id, steps=5)
+        
+        if not target_data:
+            return JsonResponse({
+                "error": "Could not find a target artwork 5 steps away"
+            }, status=404)
+        
+        # Convert IIIF URL if needed
+        image_url = target_data.get('image_url')
+        if image_url:
+            image_url = convert_iiif_to_image_url(image_url)
+        
+        return JsonResponse({
+            'id': target_data.get('id') or target_data.get('object_id'),
+            'object_id': target_data.get('id') or target_data.get('object_id'),
+            'title': target_data.get('title') or target_data.get('label'),
+            'maker': target_data.get('maker'),
+            'date': target_data.get('date'),
+            'medium': target_data.get('medium'),
+            'department': target_data.get('department'),
+            'classification': target_data.get('classification'),
+            'image_url': image_url,
+        })
+    except Exception as e:
+        return JsonResponse({
+            "error": str(e)
+        }, status=500)
+
+
+@api_view(['GET'])
+def get_path_distance_view(request, artwork_id, target_id):
+    """Get the shortest path distance between two artworks."""
+    try:
+        import networkx as nx
+        from .utils import generate_art_graph
+        
+        graph_data = generate_art_graph()
+        G = nx.Graph()
+        for node in graph_data["nodes"]:
+            G.add_node(node["id"], **node)
+        for edge in graph_data["edges"]:
+            G.add_edge(edge["source"], edge["target"], **edge)
+        
+        try:
+            distance = nx.shortest_path_length(G, source=artwork_id, target=target_id)
+            return JsonResponse({
+                'distance': distance,
+                'has_path': True
+            })
+        except nx.NetworkXNoPath:
+            return JsonResponse({
+                'distance': None,
+                'has_path': False
+            })
+    except Exception as e:
+        return JsonResponse({
+            "error": str(e)
+        }, status=500)
+
+
 def list_artworks(request):
     """List all artworks."""
     artworks = ArtObject.objects.all()
