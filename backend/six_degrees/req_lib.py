@@ -11,3 +11,4 @@ def getJSON(endpoint, **params):
         return req.json()
     else:
         return req.text
+

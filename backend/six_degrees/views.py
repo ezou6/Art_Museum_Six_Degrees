@@ -7,7 +7,7 @@ from .models import ArtObject, Maker
 from .utils import generate_art_graph
 
 
-@api_view(['GET'])
+# @api_view(['GET'])
 def import_art_museum_objects(request):
     """Import artworks from Princeton Art Museum API."""
     endpoint = "https://data.artmuseum.princeton.edu/objects/"
