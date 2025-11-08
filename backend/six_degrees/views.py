@@ -3,7 +3,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from django.http import JsonResponse
 from .req_lib import getJSON
-from .models import ArtObject, Maker
+from .models import ArtObject
 from .utils import generate_art_graph
 
 
@@ -18,23 +18,7 @@ def import_art_museum_objects(request):
         
         imported_count = 0
         for record in data.get('records', []):
-            maker_data = record.get('makers', [])
-            maker_obj = None
-            
-            if maker_data and len(maker_data) > 0:
-                maker_info = maker_data[0]  # Take first maker
-                maker_obj, _ = Maker.objects.update_or_create(
-                    makerid=maker_info.get('makerid'),
-                    defaults={
-                        'displayname': maker_info.get('displayname', 'Unknown'),
-                        'begindate': maker_info.get('begindate'),
-                        'enddate': maker_info.get('enddate'),
-                        'culturegroup': maker_info.get('culturegroup'),
-                        'makertype': maker_info.get('makertype'),
-                        'biography': maker_info.get('biography'),
-                    }
-                )
-
+           
             # Get primary image URL
             primary_image = None
             if record.get('media') and len(record['media']) > 0:
@@ -49,7 +33,7 @@ def import_art_museum_objects(request):
                     'department': record.get('department', ''),
                     'classification': record.get('classifications', [{}])[0].get('classification', '') if record.get('classifications') else '',
                     'image_url': primary_image,
-                    'maker': maker_obj
+                    'maker': record.get('maker')
                 }
             )
             imported_count += 1
