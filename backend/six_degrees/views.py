@@ -285,6 +285,10 @@ def get_random_objects(request):
                 # Log error but continue with other files
                 continue
         
+        # Clear graph cache so it regenerates with new artworks
+        from django.core.cache import cache
+        cache.delete("art_graph_json")
+        
         return JsonResponse({
             'artworks': objects_data,
             'count': len(objects_data)

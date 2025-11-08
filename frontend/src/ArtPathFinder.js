@@ -134,8 +134,8 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
   }, [initialArtworks]);
 
   // Helper function to update target distance
-  const updateTargetDistance = async (currentId, targetId) => {
-    if (!targetId) return;
+  const updateTargetDistance = React.useCallback(async (currentId, targetId) => {
+    if (!targetId || !currentId) return;
     
     try {
       const distanceResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${currentId}/distance/${targetId}/`);
@@ -151,7 +151,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
       console.warn('Error fetching distance:', err);
       setTargetDistance(null);
     }
-  };
+  }, []);
 
   const handleArtworkSelect = async (artwork, addToStack = true) => {
     // Add to navigation stack if we're navigating from a connection (and not going back)
@@ -194,24 +194,48 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         throw new Error('Invalid graph data format');
       }
 
-      const artworkId = String(artwork.id || artwork.object_id);
+      // Convert artwork ID to number for consistent comparison
+      const artworkId = Number(artwork.id || artwork.object_id);
+      
+      // Validate artwork ID
+      if (isNaN(artworkId)) {
+        throw new Error(`Invalid artwork ID: ${artwork.id || artwork.object_id}`);
+      }
+      
+      // Check if artwork exists in graph
+      const artworkInGraph = graphData.nodes.some(node => {
+        const nodeId = Number(node.id || node.object_id);
+        return !isNaN(nodeId) && nodeId === artworkId;
+      });
+      
+      if (!artworkInGraph) {
+        console.warn(`Artwork ${artworkId} not found in graph. Graph may need to regenerate.`);
+        setConnections([]);
+        setError(`This artwork is not yet in the connection graph. Please try again in a moment.`);
+        setLoading(false);
+        return;
+      }
+      
       const connectedIds = new Set();
       
       graphData.edges.forEach(edge => {
-        const source = String(edge.source || edge[0]);
-        const target = String(edge.target || edge[1]);
+        const source = Number(edge.source || edge[0]);
+        const target = Number(edge.target || edge[1]);
         
-        if (source === artworkId) {
-          connectedIds.add(target);
-        } else if (target === artworkId) {
-          connectedIds.add(source);
+        // Only compare if both are valid numbers
+        if (!isNaN(source) && !isNaN(target)) {
+          if (source === artworkId) {
+            connectedIds.add(target);
+          } else if (target === artworkId) {
+            connectedIds.add(source);
+          }
         }
       });
 
       const connectedArtworks = graphData.nodes
         .filter(node => {
-          const nodeId = String(node.id || node.object_id);
-          return connectedIds.has(nodeId);
+          const nodeId = Number(node.id || node.object_id);
+          return !isNaN(nodeId) && connectedIds.has(nodeId);
         })
         .filter(node => node.image_url) // Only include connections with images
         .map(node => ({
