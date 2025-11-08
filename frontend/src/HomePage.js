@@ -22,9 +22,6 @@ const HomePage = ({ onEnter, message }) => {
 
       {/* Content */}
       <div className="relative z-10 text-center text-white max-w-3xl animate-fade-in">
-        <div className="mb-8">
-          <div className="text-8xl inline-block animate-pulse drop-shadow-lg">🎨</div>
-        </div>
         
         <h1 className="text-6xl md:text-7xl font-bold mb-4 leading-tight drop-shadow-2xl">
           Princeton University<br />
@@ -39,7 +36,7 @@ const HomePage = ({ onEnter, message }) => {
         
         <p className="text-lg md:text-xl leading-relaxed mb-12 opacity-95 max-w-2xl mx-auto">
           Discover the connections between artworks through artists, cultures, periods, and more.
-          Find the shortest path from one masterpiece to another.
+          Find the shortest path from one artwork to another.
         </p>
         
         {message && (
