@@ -166,11 +166,11 @@ const ArtPathFinder = ({ onBack }) => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-6 mb-8 flex justify-between items-center animate-fade-in">
-          <h1 className="text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+          <h1 className="text-3xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-300 bg-clip-text text-transparent">
             Art Path Finder
           </h1>
           <button 
-            className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
+            className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
             onClick={onBack}
           >
             ← Back to Home
