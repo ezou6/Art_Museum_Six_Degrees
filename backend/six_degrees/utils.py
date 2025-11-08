@@ -136,6 +136,16 @@ def generate_art_graph(export_path=None):
         for score, b, relation in sorted(top_similarities, reverse=True):
             G.add_edge(a.object_id, b.object_id, weight=score, relation=relation)
 
+    # Helper function to convert IIIF URLs
+    def convert_iiif_url(uri):
+        if not uri:
+            return None
+        if '/full/' in uri or uri.endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp')):
+            return uri
+        if '/iiif/' in uri:
+            return uri.rstrip('/') + '/full/800,/0/default.jpg'
+        return uri
+    
     export = {
         "nodes": [
             {
@@ -144,7 +154,7 @@ def generate_art_graph(export_path=None):
                 "title": G.nodes[n]["title"],
                 "label": G.nodes[n]["title"],
                 "maker": G.nodes[n]["maker"],
-                "image_url": G.nodes[n]["image_url"],
+                "image_url": convert_iiif_url(G.nodes[n]["image_url"]),
                 "date": G.nodes[n].get("date"),
                 "medium": G.nodes[n].get("medium"),
                 "classification": G.nodes[n].get("classification"),

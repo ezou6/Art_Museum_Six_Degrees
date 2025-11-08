@@ -4,10 +4,15 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
   const [artworks, setArtworks] = useState(initialArtworks);
   const [selectedArtwork, setSelectedArtwork] = useState(null);
   const [connections, setConnections] = useState([]);
+  const [targetArtwork, setTargetArtwork] = useState(null);
+  const [targetDistance, setTargetDistance] = useState(null);
+  const [startingArtwork, setStartingArtwork] = useState(null); // Track the initial starting artwork
   const [loading, setLoading] = useState(false);
+  const [loadingTarget, setLoadingTarget] = useState(false);
   const [error, setError] = useState(null);
   const [loadingArtworks, setLoadingArtworks] = useState(initialArtworks.length === 0);
   const [testingConnection, setTestingConnection] = useState(false);
+  const [navigationStack, setNavigationStack] = useState([]); // Track navigation path
 
   const testBackendConnection = async () => {
     setTestingConnection(true);
@@ -26,10 +31,28 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     }
   };
 
+  // Helper function to convert IIIF URLs to viewable image URLs
+  const convertImageUrl = (url) => {
+    if (!url) return null;
+    // If it's already a full image URL, return as is
+    if (url.includes('/full/') || url.match(/\.(jpg|jpeg|png|gif|webp)$/i)) {
+      return url;
+    }
+    // If it's a IIIF URL, convert it
+    if (url.includes('/iiif/')) {
+      return url.replace(/\/$/, '') + '/full/800,/0/default.jpg';
+    }
+    return url;
+  };
+
   useEffect(() => {
-    // If initialArtworks are provided, use them directly
+    // If initialArtworks are provided, use them directly (with converted image URLs)
     if (initialArtworks && initialArtworks.length > 0) {
-      setArtworks(initialArtworks);
+      const artworksWithConvertedUrls = initialArtworks.map(art => ({
+        ...art,
+        image_url: convertImageUrl(art.image_url)
+      }));
+      setArtworks(artworksWithConvertedUrls);
       setLoadingArtworks(false);
       setError(null);
       return;
@@ -51,7 +74,10 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           const artworksData = await artworksResponse.json();
           
           if (artworksData.artworks && Array.isArray(artworksData.artworks)) {
-            allArtworks = artworksData.artworks;
+            allArtworks = artworksData.artworks.map(art => ({
+              ...art,
+              image_url: convertImageUrl(art.image_url)
+            }));
           }
         } catch (artworksErr) {
           console.warn('Artworks endpoint failed, trying graph endpoint:', artworksErr);
@@ -76,7 +102,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                 maker: node.maker,
                 date: node.date,
                 medium: node.medium,
-                image_url: node.image_url,
+                image_url: convertImageUrl(node.image_url),
               }));
             }
           } catch (graphErr) {
@@ -107,8 +133,45 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     fetchArtworks();
   }, [initialArtworks]);
 
-  const handleArtworkSelect = async (artwork) => {
-    setSelectedArtwork(artwork);
+  // Helper function to update target distance
+  const updateTargetDistance = async (currentId, targetId) => {
+    if (!targetId) return;
+    
+    try {
+      const distanceResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${currentId}/distance/${targetId}/`);
+      if (distanceResponse.ok) {
+        const distanceData = await distanceResponse.json();
+        if (distanceData.has_path) {
+          setTargetDistance(distanceData.distance);
+        } else {
+          setTargetDistance(null);
+        }
+      }
+    } catch (err) {
+      console.warn('Error fetching distance:', err);
+      setTargetDistance(null);
+    }
+  };
+
+  const handleArtworkSelect = async (artwork, addToStack = true) => {
+    // Add to navigation stack if we're navigating from a connection (and not going back)
+    if (selectedArtwork && addToStack) {
+      setNavigationStack([...navigationStack, selectedArtwork]);
+    }
+    
+    // If this is the first selection (no starting artwork set), set it and fetch target
+    const isFirstSelection = !startingArtwork;
+    if (isFirstSelection) {
+      setStartingArtwork(artwork);
+    }
+    
+    // Ensure artwork image URL is converted
+    const artworkWithConvertedUrl = {
+      ...artwork,
+      image_url: convertImageUrl(artwork.image_url)
+    };
+    
+    setSelectedArtwork(artworkWithConvertedUrl);
     setLoading(true);
     setError(null);
     setConnections([]);
@@ -150,6 +213,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           const nodeId = String(node.id || node.object_id);
           return connectedIds.has(nodeId);
         })
+        .filter(node => node.image_url) // Only include connections with images
         .map(node => ({
           id: node.id || node.object_id,
           object_id: node.id || node.object_id,
@@ -157,10 +221,42 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           maker: node.maker,
           date: node.date,
           medium: node.medium,
-          image_url: node.image_url,
-        }));
+          image_url: convertImageUrl(node.image_url), // Convert IIIF URLs
+        }))
+        .slice(0, 6); // Limit to 6 connections
 
       setConnections(connectedArtworks);
+      
+      // Fetch target artwork (5-6 steps away) only if this is the first selection
+      if (isFirstSelection) {
+        setLoadingTarget(true);
+        try {
+          const targetResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${artwork.id || artwork.object_id}/target/`);
+          if (targetResponse.ok) {
+            const targetData = await targetResponse.json();
+            if (targetData.error) {
+              console.warn('Could not find target artwork:', targetData.error);
+            } else {
+              // Ensure target image URL is converted
+              const targetWithConvertedUrl = {
+                ...targetData,
+                image_url: convertImageUrl(targetData.image_url)
+              };
+              setTargetArtwork(targetWithConvertedUrl);
+              // Calculate initial distance
+              updateTargetDistance(artwork.id || artwork.object_id, targetData.id || targetData.object_id);
+            }
+          }
+        } catch (targetErr) {
+          console.warn('Error fetching target artwork:', targetErr);
+        } finally {
+          setLoadingTarget(false);
+        }
+      } else if (targetArtwork) {
+        // Update distance when navigating to a new artwork
+        updateTargetDistance(artwork.id || artwork.object_id, targetArtwork.id || targetArtwork.object_id);
+      }
+      
       // Clear error if we successfully got connections (even if empty)
       setError(null);
     } catch (err) {
@@ -302,15 +398,32 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
             {/* Selected Artwork */}
             <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 mb-6 animate-fade-in">
               <div className="mb-6">
-                <button 
-                  className="bg-transparent border-2 border-indigo-500 text-indigo-600 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-indigo-500 hover:text-white hover:-translate-x-1 mb-4"
-                  onClick={() => {
-                    setSelectedArtwork(null);
-                    setConnections([]);
-                  }}
-                >
-                  ← Choose Different Artwork
-                </button>
+                <div className="flex gap-2 mb-4">
+                  {navigationStack.length > 0 ? (
+                    <button 
+                      className="bg-transparent border-2 border-indigo-500 text-indigo-600 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-indigo-500 hover:text-white hover:-translate-x-1"
+                      onClick={() => {
+                        const previous = navigationStack[navigationStack.length - 1];
+                        setNavigationStack(navigationStack.slice(0, -1));
+                        handleArtworkSelect(previous, false); // Don't add to stack when going back
+                      }}
+                    >
+                      ← Back
+                    </button>
+                  ) : null}
+                  <button 
+                    className="bg-transparent border-2 border-indigo-500 text-indigo-600 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-indigo-500 hover:text-white hover:-translate-x-1"
+                    onClick={() => {
+                      setSelectedArtwork(null);
+                      setConnections([]);
+                      setTargetArtwork(null);
+                      setStartingArtwork(null);
+                      setNavigationStack([]);
+                    }}
+                  >
+                    ← Choose Different Artwork
+                  </button>
+                </div>
                 <h2 className="text-3xl font-bold text-gray-800">Selected: {selectedArtwork.title || 'Untitled'}</h2>
               </div>
 
@@ -360,14 +473,15 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                     {connections.map((artwork) => (
                       <div
                         key={artwork.id || artwork.object_id}
-                        className="bg-white rounded-2xl overflow-hidden shadow-lg flex flex-col"
+                        className="bg-white rounded-2xl overflow-hidden shadow-lg flex flex-col cursor-pointer transition-all duration-300 hover:shadow-2xl hover:-translate-y-2 group"
+                        onClick={() => handleArtworkSelect(artwork)}
                       >
                         <div className="w-full h-48 bg-gray-100 flex items-center justify-center overflow-hidden relative">
                           {artwork.image_url ? (
                             <img
                               src={artwork.image_url}
                               alt={artwork.title || 'Artwork'}
-                              className="w-full h-full object-cover"
+                              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                               onError={(e) => {
                                 e.target.style.display = 'none';
                                 e.target.nextSibling.style.display = 'flex';
@@ -411,6 +525,81 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                 </div>
               )}
             </div>
+
+            {/* Target Artwork Section */}
+            {targetArtwork && startingArtwork && (
+              <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 mt-6 animate-fade-in">
+                <h2 className="text-3xl font-bold text-gray-800 mb-2">🎯 Your Target</h2>
+                <p className="text-gray-600 mb-6">
+                  {targetDistance !== null ? (
+                    <>
+                      You are currently <strong className="text-indigo-600">{targetDistance} connection{targetDistance !== 1 ? 's' : ''}</strong> away from the target.
+                      {targetDistance === 0 ? ' 🎉 You found it!' : ' Can you find the path?'}
+                    </>
+                  ) : (
+                    <>
+                      This artwork is 5-6 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
+                    </>
+                  )}
+                </p>
+                
+                {loadingTarget ? (
+                  <div className="text-center py-12">
+                    <div className="inline-block w-10 h-10 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
+                    <p className="mt-4 text-gray-600">Finding target artwork...</p>
+                  </div>
+                ) : (
+                  <div className="bg-gradient-to-br from-yellow-50 to-orange-50 rounded-2xl p-6 border-2 border-yellow-300">
+                    <div className="flex flex-col md:flex-row gap-6">
+                      {targetArtwork.image_url ? (
+                        <div className="w-full md:w-64 h-64 rounded-xl overflow-hidden shadow-lg flex-shrink-0 bg-gray-100">
+                          <img
+                            src={targetArtwork.image_url}
+                            alt={targetArtwork.title || 'Target Artwork'}
+                            className="w-full h-full object-cover"
+                            onError={(e) => {
+                              e.target.style.display = 'none';
+                              if (e.target.nextSibling) {
+                                e.target.nextSibling.style.display = 'flex';
+                              }
+                            }}
+                          />
+                          <div 
+                            className="w-full h-full hidden items-center justify-center text-6xl bg-gradient-to-br from-yellow-500 to-orange-600 text-white"
+                            style={{ display: 'none' }}
+                          >
+                            🎯
+                          </div>
+                        </div>
+                      ) : (
+                        <div className="w-full md:w-64 h-64 rounded-xl overflow-hidden shadow-lg flex-shrink-0 bg-gradient-to-br from-yellow-500 to-orange-600 flex items-center justify-center text-6xl text-white">
+                          🎯
+                        </div>
+                      )}
+                      <div className="flex-1">
+                        <h3 className="text-2xl font-bold text-gray-800 mb-3">
+                          {targetArtwork.title || 'Untitled'}
+                        </h3>
+                        {targetArtwork.maker && (
+                          <p className="text-indigo-600 text-lg font-medium mb-2">
+                            {targetArtwork.maker}
+                          </p>
+                        )}
+                        {targetArtwork.date && (
+                          <p className="text-gray-600 mb-2"><strong>Date:</strong> {targetArtwork.date}</p>
+                        )}
+                        {targetArtwork.medium && (
+                          <p className="text-gray-600 mb-2"><strong>Medium:</strong> {targetArtwork.medium}</p>
+                        )}
+                        {targetArtwork.department && (
+                          <p className="text-gray-600"><strong>Department:</strong> {targetArtwork.department}</p>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            )}
           </>
         )}
       </div>
