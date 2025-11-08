@@ -115,7 +115,17 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
     try {
       const graphResponse = await fetch('http://localhost:8080/api/six_degrees/art_graph/');
+      
+      if (!graphResponse.ok) {
+        throw new Error(`HTTP error! status: ${graphResponse.status}`);
+      }
+      
       const graphData = await graphResponse.json();
+      
+      // Check if the response contains an error
+      if (graphData.error) {
+        throw new Error(graphData.error);
+      }
       
       if (!graphData.nodes || !graphData.edges) {
         throw new Error('Invalid graph data format');
@@ -151,9 +161,11 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         }));
 
       setConnections(connectedArtworks);
+      // Clear error if we successfully got connections (even if empty)
+      setError(null);
     } catch (err) {
       console.error('Error finding connections:', err);
-      setError('Failed to load connections. Please try again.');
+      setError(`Failed to load connections: ${err.message}`);
     } finally {
       setLoading(false);
     }

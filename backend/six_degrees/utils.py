@@ -5,6 +5,7 @@ import numpy as np
 import json
 from django.core.cache import cache
 from .models import ArtObject
+import random
 
 WEIGHTS = {
     "artist": 0.4,
@@ -24,7 +25,7 @@ CACHE_TIMEOUT = 60 * 60 * 6  # 6 hours
 # -------------------------
 def similarity_artist(a, b):
     if a.maker and b.maker:
-        return 1.0 if a.maker.name == b.maker.name else 0.0
+        return 1.0 if a.maker == b.maker else 0.0
     return 0.0
 
 def similarity_style(a, b):
@@ -49,8 +50,7 @@ def similarity_text(a, b):
     return float(cosine_similarity(a.embedding, b.embedding))
 
 def similarity_culture(a, b):
-    if a.maker and b.maker:
-        return 1.0 if a.maker.culture == b.maker.culture else 0.0
+    # Culture field was removed, return 0.0 for now
     return 0.0
 
 def compute_combined_similarity(a, b, material_freq):
@@ -76,7 +76,7 @@ def generate_art_graph(export_path=None):
         return cached
 
     # 2. Load artworks
-    artworks = list(ArtObject.objects.select_related('maker').all())
+    artworks = list(ArtObject.objects.all())
     artworks = [a for a in artworks if a.title and a.maker]
 
     # 3. Preprocess embeddings & material frequency
@@ -91,10 +91,11 @@ def generate_art_graph(export_path=None):
         G.add_node(
             a.object_id,
             title=a.title,
-            maker=a.maker.name if a.maker else None,
+            maker=a.maker if a.maker else None,
             classification=a.classification,
             medium=a.medium,
             image_url=a.image_url,
+            date=a.date,
         )
 
     for i, a in enumerate(artworks):
@@ -113,7 +114,17 @@ def generate_art_graph(export_path=None):
     # 6. Export JSON
     export = {
         "nodes": [
-            {"id": n, "label": G.nodes[n]["title"], "maker": G.nodes[n]["maker"], "image_url": G.nodes[n]["image_url"]}
+            {
+                "id": n, 
+                "object_id": n,
+                "title": G.nodes[n]["title"],
+                "label": G.nodes[n]["title"],
+                "maker": G.nodes[n]["maker"], 
+                "image_url": G.nodes[n]["image_url"],
+                "date": G.nodes[n].get("date"),
+                "medium": G.nodes[n].get("medium"),
+                "classification": G.nodes[n].get("classification"),
+            }
             for n in G.nodes
         ],
         "edges": [
@@ -131,3 +142,37 @@ def generate_art_graph(export_path=None):
     cache.set(CACHE_KEY, export, CACHE_TIMEOUT)
 
     return export
+
+def get_target_artwork(start_id, min_degree=5, max_degree=6):
+    """
+    Returns a random artwork that is between min_degree and max_degree steps
+    away from the starting artwork.
+    """
+    graph_data = generate_art_graph()
+    
+    # Build NetworkX graph from cached/exported JSON
+    G = nx.Graph()
+    for node in graph_data["nodes"]:
+        G.add_node(node["id"], **node)
+    for edge in graph_data["edges"]:
+        G.add_edge(edge["source"], edge["target"], **edge)
+    
+    # Get all nodes within the degree range
+    candidates = []
+    for node in G.nodes:
+        if node == start_id:
+            continue
+        try:
+            path_length = nx.shortest_path_length(G, source=start_id, target=node)
+            if min_degree <= path_length <= max_degree:
+                candidates.append(node)
+        except nx.NetworkXNoPath:
+            continue
+    
+    if not candidates:
+        return None  # fallback if no node is far enough
+    
+    # Pick one randomly
+    target_id = random.choice(candidates)
+    target_data = G.nodes[target_id]
+    return target_data

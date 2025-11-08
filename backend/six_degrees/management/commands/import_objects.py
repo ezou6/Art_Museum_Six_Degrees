@@ -28,10 +28,38 @@ class Command(BaseCommand):
                     maker_info = record["makers"][0]  # just take first maker
                     maker_name = maker_info.get("displayname", "")
 
-                # Get primary image
+                # Get primary image - prioritize isprimary=1, fallback to first image
                 primary_image = None
                 if record.get("media") and len(record["media"]) > 0:
-                    primary_image = record["media"][0].get("uri")
+                    # First, try to find primary image
+                    for media_item in record["media"]:
+                        if media_item.get("isprimary") == 1:
+                            uri = media_item.get("uri")
+                            # Validate URI is a valid HTTP/HTTPS URL
+                            if uri and (uri.startswith("http://") or uri.startswith("https://")):
+                                primary_image = uri
+                                break
+                    
+                    # If no primary found, use first valid URI
+                    if not primary_image:
+                        for media_item in record["media"]:
+                            uri = media_item.get("uri")
+                            if uri and (uri.startswith("http://") or uri.startswith("https://")):
+                                primary_image = uri
+                                break
+                
+                # Skip this record if no valid image URI found
+                if not primary_image:
+                    self.stdout.write(self.style.WARNING(f"⚠️ Skipping {file_path.name}: No valid image URI found"))
+                    continue
+
+                # Convert IIIF URL to viewable image URL if needed
+                image_url = primary_image
+                # Check if it's a IIIF URL (contains /iiif/) and not already a full image URL
+                if '/iiif/' in image_url and '/full/' not in image_url and not image_url.endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp')):
+                    # Convert IIIF info URL to image URL
+                    image_url = image_url.rstrip('/')
+                    image_url = f"{image_url}/full/800,/0/default.jpg"
 
                 # Create or update ArtObject
                 ArtObject.objects.update_or_create(
@@ -46,7 +74,7 @@ class Command(BaseCommand):
                             record.get("classifications", [{}])[0].get("classification", "")
                             if record.get("classifications") else ""
                         ),
-                        "image_url": primary_image,
+                        "image_url": image_url,  # Store converted URL
                     },
                 )
                 imported_count += 1

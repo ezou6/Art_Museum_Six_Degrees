@@ -10,6 +10,30 @@ from .models import ArtObject
 from .utils import generate_art_graph
 
 
+def convert_iiif_to_image_url(uri):
+    """
+    Convert IIIF Image API URL to a viewable image URL.
+    IIIF URLs like: https://media.artmuseum.princeton.edu/iiif/3/collection/INV021857
+    Need to be converted to: https://media.artmuseum.princeton.edu/iiif/3/collection/INV021857/full/800,/0/default.jpg
+    """
+    if not uri:
+        return None
+    
+    # Check if it's already a full image URL (contains /full/ or ends with image extension)
+    if '/full/' in uri or uri.endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp')):
+        return uri
+    
+    # Check if it's a IIIF URL (contains /iiif/)
+    if '/iiif/' in uri:
+        # Convert IIIF info URL to image URL
+        # Remove trailing slash if present
+        uri = uri.rstrip('/')
+        # Append IIIF image request parameters: /full/800,/0/default.jpg
+        return f"{uri}/full/800,/0/default.jpg"
+    
+    return uri
+
+
 # @api_view(['GET'])
 def import_art_museum_objects(request):
     """Import artworks from Princeton Art Museum API."""
@@ -62,7 +86,7 @@ def art_graph_view(request):
 
 def list_artworks(request):
     """List all artworks."""
-    artworks = ArtObject.objects.select_related('maker').all()
+    artworks = ArtObject.objects.all()
     artworks_data = [
         {
             'id': artwork.object_id,
@@ -73,7 +97,7 @@ def list_artworks(request):
             'department': artwork.department,
             'classification': artwork.classification,
             'image_url': artwork.image_url,
-            'maker': artwork.maker.displayname if artwork.maker else None,
+            'maker': artwork.maker if artwork.maker else None,
         }
         for artwork in artworks
     ]
@@ -86,7 +110,7 @@ def list_artworks(request):
 def get_artwork(request, artwork_id):
     """Get a single artwork by ID."""
     try:
-        artwork = ArtObject.objects.select_related('maker').get(object_id=artwork_id)
+        artwork = ArtObject.objects.get(object_id=artwork_id)
         return JsonResponse({
             'id': artwork.object_id,
             'object_id': artwork.object_id,
@@ -96,7 +120,7 @@ def get_artwork(request, artwork_id):
             'department': artwork.department,
             'classification': artwork.classification,
             'image_url': artwork.image_url,
-            'maker': artwork.maker.displayname if artwork.maker else None,
+            'maker': artwork.maker if artwork.maker else None,
         })
     except ArtObject.DoesNotExist:
         return JsonResponse({
@@ -135,10 +159,32 @@ def get_random_objects(request):
                     maker_info = record["makers"][0]
                     maker_name = maker_info.get("displayname", "")
                 
-                # Get primary image
+                # Get primary image - prioritize isprimary=1, fallback to first image
                 primary_image = None
                 if record.get("media") and len(record["media"]) > 0:
-                    primary_image = record["media"][0].get("uri")
+                    # First, try to find primary image
+                    for media_item in record["media"]:
+                        if media_item.get("isprimary") == 1:
+                            uri = media_item.get("uri")
+                            # Validate URI is a valid HTTP/HTTPS URL
+                            if uri and (uri.startswith("http://") or uri.startswith("https://")):
+                                primary_image = uri
+                                break
+                    
+                    # If no primary found, use first valid URI
+                    if not primary_image:
+                        for media_item in record["media"]:
+                            uri = media_item.get("uri")
+                            if uri and (uri.startswith("http://") or uri.startswith("https://")):
+                                primary_image = uri
+                                break
+                
+                # Skip this record if no valid image URI found
+                if not primary_image:
+                    continue
+                
+                # Convert IIIF URL to viewable image URL if needed
+                image_url = convert_iiif_to_image_url(primary_image)
                 
                 # Create or update ArtObject in database
                 art_object, created = ArtObject.objects.update_or_create(
@@ -153,7 +199,7 @@ def get_random_objects(request):
                             record.get("classifications", [{}])[0].get("classification", "")
                             if record.get("classifications") else ""
                         ),
-                        "image_url": primary_image,
+                        "image_url": image_url,  # Store converted URL
                     },
                 )
                 
