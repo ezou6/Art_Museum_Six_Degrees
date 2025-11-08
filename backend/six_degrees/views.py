@@ -1,4 +1,5 @@
 from django.shortcuts import render
+<<<<<<< HEAD
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .req_lib import make_api_request  # from TigerApps
@@ -40,3 +41,14 @@ def import_art_museum_objects(request):
         )
 
     return Response({"message": "Art Museum objects imported successfully!"})
+=======
+from django.http import JsonResponse
+from .utils.graph import generate_art_graph
+
+def art_graph_view(request):
+    """
+    Returns the cached (or newly generated) art graph JSON for frontend visualization
+    """
+    graph_data = generate_art_graph()
+    return JsonResponse(graph_data)
+>>>>>>> 9d31908972f9b4cc156b13878ef64a266dbeb6e9
