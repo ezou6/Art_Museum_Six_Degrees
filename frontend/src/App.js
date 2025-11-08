@@ -1,14 +1,12 @@
 import React, { useState, useEffect } from "react";
 import HomePage from "./HomePage";
 import ArtPathFinder from "./ArtPathFinder";
-import "./App.css";
 
 function App() {
   const [started, setStarted] = useState(false);
   const [message, setMessage] = useState("");
 
   useEffect(() => {
-    // Test backend connection
     fetch("http://localhost:8000/api/six_degrees/")
       .then((res) => res.json())
       .then((data) => {
@@ -27,7 +25,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="min-h-screen">
       <ArtPathFinder onBack={() => setStarted(false)} />
     </div>
   );
