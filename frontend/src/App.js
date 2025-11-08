@@ -5,9 +5,10 @@ import ArtPathFinder from "./ArtPathFinder";
 function App() {
   const [started, setStarted] = useState(false);
   const [message, setMessage] = useState("");
+  const [initialArtworks, setInitialArtworks] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/six_degrees/")
+    fetch("http://localhost:8080/api/six_degrees/")
       .then((res) => res.json())
       .then((data) => {
         if (data.message) {
@@ -16,17 +17,27 @@ function App() {
       })
       .catch(err => {
         console.error("Backend connection error:", err);
-        setMessage("Connecting to backend...");
+        setMessage("⚠️ Cannot connect to backend. Make sure Django server is running on http://localhost:8080");
       });
   }, []);
 
+  const handleEnter = (artworks) => {
+    setInitialArtworks(artworks);
+    setStarted(true);
+  };
+
+  const handleBack = () => {
+    setStarted(false);
+    setInitialArtworks([]);
+  };
+
   if (!started) {
-    return <HomePage onEnter={() => setStarted(true)} message={message} />;
+    return <HomePage onEnter={handleEnter} message={message} />;
   }
 
   return (
     <div className="min-h-screen">
-      <ArtPathFinder onBack={() => setStarted(false)} />
+      <ArtPathFinder onBack={handleBack} initialArtworks={initialArtworks} />
     </div>
   );
 }

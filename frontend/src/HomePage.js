@@ -1,6 +1,38 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const HomePage = ({ onEnter, message }) => {
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  const handleEnter = async () => {
+    setLoading(true);
+    setError(null);
+    
+    try {
+      const response = await fetch('http://localhost:8080/api/six_degrees/random_objects/');
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      
+      if (data.error) {
+        throw new Error(data.error);
+      }
+      
+      // Pass the artworks to onEnter
+      onEnter(data.artworks || []);
+    } catch (err) {
+      console.error('Error fetching random objects:', err);
+      if (err.message.includes('Failed to fetch') || err.message.includes('NetworkError')) {
+        setError('Cannot connect to backend server. Make sure the Django server is running on http://localhost:8080. Run: cd backend && python manage.py runserver');
+      } else {
+        setError(`Failed to load artworks: ${err.message}`);
+      }
+      setLoading(false);
+    }
+  };
   const backgroundImage = process.env.PUBLIC_URL + '/princeton-art-museum1.jpg';
   
   return (
@@ -45,12 +77,28 @@ const HomePage = ({ onEnter, message }) => {
           </div>
         )}
         
+        {error && (
+          <div className="bg-red-500 bg-opacity-80 backdrop-blur-md p-4 rounded-xl mb-8 border border-red-300 border-opacity-50">
+            {error}
+          </div>
+        )}
+        
         <button
-          className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900 border-none px-12 py-5 rounded-full text-xl font-bold cursor-pointer transition-all duration-300 shadow-2xl hover:shadow-yellow-400/60 hover:-translate-y-1 hover:scale-105 active:scale-100 uppercase tracking-wide inline-flex items-center gap-4 group"
-          onClick={onEnter}
+          className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900 border-none px-12 py-5 rounded-full text-xl font-bold cursor-pointer transition-all duration-300 shadow-2xl hover:shadow-yellow-400/60 hover:-translate-y-1 hover:scale-105 active:scale-100 uppercase tracking-wide inline-flex items-center gap-4 group disabled:opacity-50 disabled:cursor-not-allowed"
+          onClick={handleEnter}
+          disabled={loading}
         >
-          <span>Enter the Exhibit</span>
-          <span className="text-2xl transition-transform duration-300 group-hover:translate-x-1">→</span>
+          {loading ? (
+            <>
+              <span>Loading...</span>
+              <div className="w-5 h-5 border-2 border-gray-900 border-t-transparent rounded-full animate-spin"></div>
+            </>
+          ) : (
+            <>
+              <span>Enter the Exhibit</span>
+              <span className="text-2xl transition-transform duration-300 group-hover:translate-x-1">→</span>
+            </>
+          )}
         </button>
       </div>
     </div>

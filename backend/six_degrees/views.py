@@ -1,3 +1,6 @@
+import json
+import random
+from pathlib import Path
 from django.shortcuts import render
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
@@ -101,6 +104,87 @@ def get_artwork(request, artwork_id):
         }, status=404)
 
 
+@api_view(['GET'])
+def get_random_objects(request):
+    """Sample 20 random objects from JSON files and return them."""
+    try:
+        # Get the data directory path
+        # views.py is at backend/six_degrees/views.py, so parents[1] = backend/
+        data_dir = Path(__file__).resolve().parents[1] / "data" / "objects"
+        all_files = list(data_dir.glob("*.json"))
+        
+        if not all_files:
+            return JsonResponse({
+                "error": "No object JSON files found"
+            }, status=404)
+        
+        # Sample 20 random files
+        sample_size = min(20, len(all_files))
+        sample_files = random.sample(all_files, sample_size)
+        
+        objects_data = []
+        
+        for file_path in sample_files:
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    record = json.load(f)
+                
+                # Get maker name as string if available
+                maker_name = ""
+                if record.get("makers") and len(record["makers"]) > 0:
+                    maker_info = record["makers"][0]
+                    maker_name = maker_info.get("displayname", "")
+                
+                # Get primary image
+                primary_image = None
+                if record.get("media") and len(record["media"]) > 0:
+                    primary_image = record["media"][0].get("uri")
+                
+                # Create or update ArtObject in database
+                art_object, created = ArtObject.objects.update_or_create(
+                    object_id=record.get("objectid"),
+                    defaults={
+                        "title": record.get("displaytitle", "Untitled"),
+                        "maker": maker_name,
+                        "date": record.get("displaydate", ""),
+                        "medium": record.get("medium", ""),
+                        "department": record.get("department", ""),
+                        "classification": (
+                            record.get("classifications", [{}])[0].get("classification", "")
+                            if record.get("classifications") else ""
+                        ),
+                        "image_url": primary_image,
+                    },
+                )
+                
+                # Add to response data
+                objects_data.append({
+                    'id': art_object.object_id,
+                    'object_id': art_object.object_id,
+                    'title': art_object.title,
+                    'date': art_object.date,
+                    'medium': art_object.medium,
+                    'department': art_object.department,
+                    'classification': art_object.classification,
+                    'image_url': art_object.image_url,
+                    'maker': art_object.maker,
+                })
+                
+            except Exception as e:
+                # Log error but continue with other files
+                continue
+        
+        return JsonResponse({
+            'artworks': objects_data,
+            'count': len(objects_data)
+        })
+        
+    except Exception as e:
+        return JsonResponse({
+            "error": str(e)
+        }, status=500)
+
+
 def home(request):
     """Home/root endpoint."""
     return JsonResponse({
@@ -110,5 +194,6 @@ def home(request):
             "list_artworks": "/api/six_degrees/artworks/",
             "get_artwork": "/api/six_degrees/artworks/<id>/",
             "import_art": "/api/six_degrees/import_art/",
+            "random_objects": "/api/six_degrees/random_objects/",
         }
     })

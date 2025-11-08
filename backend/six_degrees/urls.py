@@ -4,7 +4,8 @@ from .views import (
     art_graph_view,
     list_artworks,
     get_artwork,
-    home
+    home,
+    get_random_objects
 )
 
 urlpatterns = [
@@ -13,4 +14,5 @@ urlpatterns = [
     path('artworks/', list_artworks, name='list_artworks'),
     path('artworks/<int:artwork_id>/', get_artwork, name='get_artwork'),
     path('import_art/', import_art_museum_objects, name='import_art'),
+    path('random_objects/', get_random_objects, name='random_objects'),
 ]

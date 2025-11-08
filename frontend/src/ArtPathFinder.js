@@ -1,18 +1,18 @@
 import React, { useState, useEffect } from 'react';
 
-const ArtPathFinder = ({ onBack }) => {
-  const [artworks, setArtworks] = useState([]);
+const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
+  const [artworks, setArtworks] = useState(initialArtworks);
   const [selectedArtwork, setSelectedArtwork] = useState(null);
   const [connections, setConnections] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [loadingArtworks, setLoadingArtworks] = useState(true);
+  const [loadingArtworks, setLoadingArtworks] = useState(initialArtworks.length === 0);
   const [testingConnection, setTestingConnection] = useState(false);
 
   const testBackendConnection = async () => {
     setTestingConnection(true);
     try {
-      const response = await fetch('http://localhost:8000/api/six_degrees/');
+      const response = await fetch('http://localhost:8080/api/six_degrees/');
       if (response.ok) {
         const data = await response.json();
         alert(`✅ Backend is connected!\n\n${JSON.stringify(data, null, 2)}`);
@@ -20,21 +20,29 @@ const ArtPathFinder = ({ onBack }) => {
         alert(`❌ Backend returned error: ${response.status} ${response.statusText}`);
       }
     } catch (err) {
-      alert(`❌ Cannot connect to backend:\n\n${err.message}\n\nMake sure the Django server is running on http://localhost:8000`);
+      alert(`❌ Cannot connect to backend:\n\n${err.message}\n\nMake sure the Django server is running on http://localhost:8080`);
     } finally {
       setTestingConnection(false);
     }
   };
 
   useEffect(() => {
-    // Fetch artworks from both endpoints to ensure we get all artworks
+    // If initialArtworks are provided, use them directly
+    if (initialArtworks && initialArtworks.length > 0) {
+      setArtworks(initialArtworks);
+      setLoadingArtworks(false);
+      setError(null);
+      return;
+    }
+    
+    // Otherwise, fetch artworks from both endpoints to ensure we get all artworks
     const fetchArtworks = async () => {
       try {
         let allArtworks = [];
         
         // Try artworks endpoint first
         try {
-          const artworksResponse = await fetch('http://localhost:8000/api/six_degrees/artworks/');
+          const artworksResponse = await fetch('http://localhost:8080/api/six_degrees/artworks/');
           
           if (!artworksResponse.ok) {
             throw new Error(`HTTP error! status: ${artworksResponse.status}`);
@@ -52,7 +60,7 @@ const ArtPathFinder = ({ onBack }) => {
         // If artworks endpoint doesn't have data, try graph endpoint
         if (allArtworks.length === 0) {
           try {
-            const graphResponse = await fetch('http://localhost:8000/api/six_degrees/art_graph/');
+            const graphResponse = await fetch('http://localhost:8080/api/six_degrees/art_graph/');
             
             if (!graphResponse.ok) {
               throw new Error(`HTTP error! status: ${graphResponse.status}`);
@@ -82,7 +90,7 @@ const ArtPathFinder = ({ onBack }) => {
         );
         
         if (uniqueArtworks.length === 0) {
-          setError('No artworks found. Please import artworks first by visiting: http://localhost:8000/api/six_degrees/import_art/');
+          setError('No artworks found. Please import artworks first by visiting: http://localhost:8080/api/six_degrees/import_art/');
         } else {
           setArtworks(uniqueArtworks);
           setError(null);
@@ -91,13 +99,13 @@ const ArtPathFinder = ({ onBack }) => {
         setLoadingArtworks(false);
       } catch (err) {
         console.error('Error fetching artworks:', err);
-        setError(`Failed to load artworks: ${err.message}. Make sure the backend is running on http://localhost:8000`);
+        setError(`Failed to load artworks: ${err.message}. Make sure the backend is running on http://localhost:8080`);
         setLoadingArtworks(false);
       }
     };
     
     fetchArtworks();
-  }, []);
+  }, [initialArtworks]);
 
   const handleArtworkSelect = async (artwork) => {
     setSelectedArtwork(artwork);
@@ -106,7 +114,7 @@ const ArtPathFinder = ({ onBack }) => {
     setConnections([]);
 
     try {
-      const graphResponse = await fetch('http://localhost:8000/api/six_degrees/art_graph/');
+      const graphResponse = await fetch('http://localhost:8080/api/six_degrees/art_graph/');
       const graphData = await graphResponse.json();
       
       if (!graphData.nodes || !graphData.edges) {
@@ -181,8 +189,14 @@ const ArtPathFinder = ({ onBack }) => {
           <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 animate-fade-in">
             <div className="flex justify-between items-center mb-6">
               <div>
-                <h2 className="text-3xl font-bold text-gray-800 mb-2">Choose Your Starting Artwork</h2>
-                <p className="text-gray-600">Select an artwork to discover its connections</p>
+                <h2 className="text-3xl font-bold text-gray-800 mb-2">
+                  {initialArtworks.length > 0 ? 'Your First Connection' : 'Choose Your Starting Artwork'}
+                </h2>
+                <p className="text-gray-600">
+                  {initialArtworks.length > 0 
+                    ? 'Select an artwork from these randomly selected pieces to discover its connections'
+                    : 'Select an artwork to discover its connections'}
+                </p>
               </div>
               {!loadingArtworks && artworks.length > 0 && (
                 <div className="bg-indigo-100 text-indigo-800 px-4 py-2 rounded-lg font-semibold">
@@ -263,8 +277,8 @@ const ArtPathFinder = ({ onBack }) => {
                   <p className="text-sm font-semibold mt-4">Troubleshooting steps:</p>
                   <ol className="list-decimal list-inside text-sm space-y-1 ml-4">
                     <li>Make sure the Django backend is running: <code className="bg-red-100 px-2 py-1 rounded">cd backend && python manage.py runserver</code></li>
-                    <li>Check that the backend is accessible at <code className="bg-red-100 px-2 py-1 rounded">http://localhost:8000</code></li>
-                    <li>Import artworks first: Visit <a href="http://localhost:8000/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">http://localhost:8000/api/six_degrees/import_art/</a></li>
+                    <li>Check that the backend is accessible at <code className="bg-red-100 px-2 py-1 rounded">http://localhost:8080</code></li>
+                    <li>Import artworks first: Visit <a href="http://localhost:8080/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">http://localhost:8080/api/six_degrees/import_art/</a></li>
                     <li>Check browser console (F12) for detailed error messages</li>
                   </ol>
                 </div>
