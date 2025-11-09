@@ -385,7 +385,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
         }
       });
 
-      const connectedArtworks = graphData.nodes
+      let connectedArtworks = graphData.nodes
         .filter(node => {
           const nodeId = Number(node.id || node.object_id);
           return !isNaN(nodeId) && connectionRelations.has(nodeId);
@@ -399,17 +399,80 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
         .map(node => {
           const nodeId = Number(node.id || node.object_id);
           return {
-          id: node.id || node.object_id,
-          object_id: node.id || node.object_id,
-          title: node.title || node.label,
-          maker: node.maker,
-          date: node.date,
-          medium: node.medium,
+            id: node.id || node.object_id,
+            object_id: node.id || node.object_id,
+            title: node.title || node.label,
+            maker: node.maker,
+            date: node.date,
+            medium: node.medium,
             image_url: convertImageUrl(node.image_url), // Convert IIIF URLs
             relation: connectionRelations.get(nodeId) || 'Unknown', // Add relation type
           };
-        })
-        .slice(0, 6); // Limit to 6 connections
+        });
+
+      // If we have a target artwork and current distance, prioritize connections that are
+      // exactly one step closer or one step further from the target
+      if (targetArtwork && targetArtwork.id && targetDistance !== null && targetDistance !== undefined) {
+        try {
+          // Calculate distances from each connection to the target
+          const distancePromises = connectedArtworks.map(async (art) => {
+            try {
+              const distResponse = await fetch(
+                `http://localhost:8080/api/six_degrees/artworks/${art.id}/distance/${targetArtwork.id || targetArtwork.object_id}/`
+              );
+              if (distResponse.ok) {
+                const distData = await distResponse.json();
+                return {
+                  ...art,
+                  distanceToTarget: distData.has_path ? distData.distance : Infinity
+                };
+              }
+              return { ...art, distanceToTarget: Infinity };
+            } catch (err) {
+              return { ...art, distanceToTarget: Infinity };
+            }
+          });
+
+          const artworksWithDistances = await Promise.all(distancePromises);
+          
+          // Filter to prioritize connections that are exactly one step closer or one step further
+          const preferredDistance = targetDistance - 1; // One step closer
+          const alternativeDistance = targetDistance + 1; // One step further
+          
+          // Separate connections into preferred (one step closer/further) and others
+          const preferredConnections = artworksWithDistances.filter(art => 
+            art.distanceToTarget === preferredDistance || art.distanceToTarget === alternativeDistance
+          );
+          
+          const otherConnections = artworksWithDistances.filter(art => 
+            art.distanceToTarget !== preferredDistance && 
+            art.distanceToTarget !== alternativeDistance &&
+            art.distanceToTarget !== Infinity
+          );
+          
+          // Sort preferred connections: closer first, then further
+          preferredConnections.sort((a, b) => {
+            if (a.distanceToTarget === preferredDistance && b.distanceToTarget === alternativeDistance) return -1;
+            if (a.distanceToTarget === alternativeDistance && b.distanceToTarget === preferredDistance) return 1;
+            return 0;
+          });
+          
+          // Combine: preferred first, then others as fallback
+          const allConnections = [...preferredConnections, ...otherConnections];
+          
+          // Remove distanceToTarget from final objects and limit to 6
+          connectedArtworks = allConnections
+            .slice(0, 6)
+            .map(({ distanceToTarget, ...art }) => art);
+        } catch (err) {
+          console.warn('Error calculating distances to target, using random connections:', err);
+          // Fallback to random selection if distance calculation fails
+          connectedArtworks = connectedArtworks.slice(0, 6);
+        }
+      } else {
+        // No target yet, just take first 6
+        connectedArtworks = connectedArtworks.slice(0, 6);
+      }
 
       setConnections(connectedArtworks);
       
@@ -541,7 +604,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                             </div>
                             {relation && (
                               <div className="flex-1">
-                                <span className="px-3 py-1 text-sm font-semibold rounded-full bg-yellow-400 text-gray-900">
+                                <span className="px-3 py-1 text-sm font-semibold rounded-full bg-gray-700 text-white">
                                   {formatRelation(relation)}
                                 </span>
                               </div>
@@ -589,7 +652,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                           </div>
                           {navigationStack[navigationStack.length - 1]?.relationToNext && (
                             <div className="flex-1">
-                              <span className="px-3 py-1 text-sm font-semibold rounded-full bg-yellow-400 text-gray-900">
+                              <span className="px-3 py-1 text-sm font-semibold rounded-full bg-gray-700 text-white">
                                 {formatRelation(navigationStack[navigationStack.length - 1].relationToNext)}
                               </span>
                             </div>
@@ -618,7 +681,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                           </div>
                         </div>
                         <div className="flex-1">
-                          <div className="bg-yellow-500 text-gray-900 px-4 py-2 rounded-lg inline-block mb-2">
+                          <div className="bg-green-600 text-white px-4 py-2 rounded-lg inline-block mb-2">
                             <span className="font-semibold">Target</span>
                           </div>
                           <h4 className="text-xl font-bold text-white">{selectedArtwork.title || 'Untitled'}</h4>
@@ -635,7 +698,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                         const pathLength = navigationStack.length + (selectedArtwork && selectedArtwork.id !== startingArtwork.id ? 1 : 0);
                         return (
                           <p className="text-xl text-gray-300">
-                            You completed the path in <strong className="text-yellow-400">{pathLength}</strong> connection{pathLength !== 1 ? 's' : ''}!
+                            You completed the path in <strong className="text-white">{pathLength}</strong> connection{pathLength !== 1 ? 's' : ''}!
                           </p>
                         );
                       })()}
