@@ -180,21 +180,29 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
   // Handle Play Again button
   const handlePlayAgain = async () => {
     setLoadingPlayAgain(true);
+    setError(null); // Clear any previous errors
     try {
-      // Clear all artworks from database
+      // Step 1: Clear all artworks from database
+      console.log('Clearing all artworks from database...');
       const clearResponse = await fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
         method: 'POST'
       });
       
       if (!clearResponse.ok) {
-        throw new Error('Failed to clear artworks');
+        const errorText = await clearResponse.text();
+        throw new Error(`Failed to clear artworks: ${errorText}`);
       }
 
-      // Fetch new random objects (this will import 1000 new ones)
+      const clearData = await clearResponse.json();
+      console.log('Cleared artworks:', clearData);
+
+      // Step 2: Fetch new random objects (this will import 1000 new ones)
+      console.log('Importing 1000 new random artworks...');
       const randomResponse = await fetch('http://localhost:8080/api/six_degrees/random_objects/');
       
       if (!randomResponse.ok) {
-        throw new Error('Failed to fetch new artworks');
+        const errorText = await randomResponse.text();
+        throw new Error(`Failed to fetch new artworks: ${errorText}`);
       }
 
       const data = await randomResponse.json();
@@ -203,7 +211,9 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
         throw new Error(data.error);
       }
 
-      // Limit display to first 20 artworks
+      console.log(`Successfully imported ${data.count || data.artworks?.length || 0} new artworks`);
+
+      // Limit display to first 20 artworks (all 1000 are imported into database)
       const artworksToDisplay = (data.artworks || []).slice(0, 20);
 
       // Convert image URLs for display
@@ -212,7 +222,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
         image_url: convertImageUrl(art.image_url)
       }));
 
-      // Reset all state
+      // Reset all state to start fresh
       setIsWon(false);
       setSelectedArtwork(null);
       setConnections([]);
@@ -233,20 +243,6 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
     } finally {
       setLoadingPlayAgain(false);
     }
-  };
-
-  // Build the path from start to target
-  const getPathToTarget = () => {
-    if (!startingArtwork || !selectedArtwork || !targetArtwork) return [];
-    
-    const path = [startingArtwork];
-    // Add all artworks in the navigation stack
-    path.push(...navigationStack);
-    // Add the current selected artwork (which is the target)
-    if (selectedArtwork.id !== startingArtwork.id) {
-      path.push(selectedArtwork);
-    }
-    return path;
   };
 
   const handleArtworkSelect = async (artwork, addToStack = true, relation = null) => {
@@ -590,9 +586,6 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
 
                     {/* Path Steps with Relations */}
                     {navigationStack.map((artwork, index) => {
-                      const nextArtwork = index < navigationStack.length - 1 
-                        ? navigationStack[index + 1] 
-                        : (selectedArtwork && selectedArtwork.id !== startingArtwork.id ? selectedArtwork : null);
                       const relation = artwork.relationToNext;
                       
                       return (
