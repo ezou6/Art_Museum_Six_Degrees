@@ -4,10 +4,12 @@ from pathlib import Path
 from django.shortcuts import render
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponseRedirect
+from functools import wraps
 from .req_lib import getJSON
 from .models import ArtObject
 from .utils import generate_art_graph
+from .CASClient import CASClient, CASRedirectRequired
 
 
 def convert_iiif_to_image_url(uri):
@@ -310,5 +312,125 @@ def home(request):
             "get_artwork": "/api/six_degrees/artworks/<id>/",
             "import_art": "/api/six_degrees/import_art/",
             "random_objects": "/api/six_degrees/random_objects/",
+            "login": "/api/six_degrees/login/",
+            "logout": "/api/six_degrees/logout/",
+            "check_auth": "/api/six_degrees/check_auth/",
         }
     })
+
+
+# Helper function to get authenticated netid (matches Flask pattern)
+def get_netid(request):
+    """
+    Get the authenticated netid from CAS.
+    Returns netid if authenticated, None if not.
+    Does NOT redirect - use authenticate() if you want redirect behavior.
+    
+    Usage:
+        netid = get_netid(request)
+        if netid:
+            # User is authenticated
+            netid = netid.rstrip()  # Strip whitespace like Flask version
+    """
+    cas_client = CASClient(request)
+    if cas_client.is_logged_in():
+        return request.session.get('username')
+    return None
+
+
+# Decorator to require CAS authentication
+def cas_login_required(view_func):
+    """
+    Decorator that requires CAS authentication.
+    If user is not authenticated, redirects to CAS login.
+    
+    Usage:
+        @cas_login_required
+        @api_view(['GET'])
+        def my_view(request):
+            netid = get_netid(request)  # Will always have a value here
+            netid = netid.rstrip()
+            # Use netid...
+    """
+    @wraps(view_func)
+    def wrapper(request, *args, **kwargs):
+        cas_client = CASClient(request)
+        try:
+            # authenticate() will raise CASRedirectRequired if not logged in
+            cas_client.authenticate()
+        except CASRedirectRequired as redirect_exception:
+            return HttpResponseRedirect(redirect_exception.redirect_url)
+        return view_func(request, *args, **kwargs)
+    return wrapper
+
+
+@api_view(['GET'])
+def cas_login(request):
+    """
+    CAS login endpoint. Redirects to CAS login page if not authenticated,
+    or returns user info if already authenticated.
+    
+    This matches the Flask pattern: netid = _cas.authenticate()
+    """
+    cas_client = CASClient(request)
+    
+    # Try to authenticate (will raise CASRedirectRequired if redirect needed, or return netid)
+    try:
+        netid = cas_client.authenticate()
+        if netid:
+            netid = netid.rstrip()  # Strip whitespace like Flask version
+            return JsonResponse({
+                "authenticated": True,
+                "username": netid,
+                "netid": netid,  # Also include as 'netid' for consistency
+                "message": "Successfully authenticated"
+            })
+    except CASRedirectRequired as redirect_exception:
+        return HttpResponseRedirect(redirect_exception.redirect_url)
+    
+    return JsonResponse({
+        "authenticated": False,
+        "message": "Authentication failed"
+    }, status=401)
+
+
+@api_view(['GET', 'POST'])
+def cas_logout(request):
+    """
+    CAS logout endpoint. Logs out the user and redirects to CAS logout page.
+    """
+    cas_client = CASClient(request)
+    # Get redirect URL from request, default to homepage
+    redirect_url = request.GET.get('redirect', request.build_absolute_uri('/'))
+    try:
+        cas_client.logout(redirect_url=redirect_url)
+    except CASRedirectRequired as redirect_exception:
+        return HttpResponseRedirect(redirect_exception.redirect_url)
+    
+    return JsonResponse({
+        "message": "Logged out successfully"
+    })
+
+
+@api_view(['GET'])
+def check_auth(request):
+    """
+    Check if user is authenticated via CAS.
+    Returns authentication status and username if authenticated.
+    Does NOT trigger login - use /login/ endpoint for that.
+    """
+    cas_client = CASClient(request)
+    is_authenticated = cas_client.is_logged_in()
+    
+    response_data = {
+        "authenticated": is_authenticated
+    }
+    
+    if is_authenticated:
+        netid = request.session.get('username')
+        if netid:
+            netid = netid.rstrip()  # Strip whitespace
+        response_data["username"] = netid
+        response_data["netid"] = netid  # Also include as 'netid'
+    
+    return JsonResponse(response_data)

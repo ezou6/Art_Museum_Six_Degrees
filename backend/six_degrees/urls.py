@@ -8,7 +8,10 @@ from .views import (
     home,
     get_random_objects,
     get_target_artwork_view,
-    get_path_distance_view
+    get_path_distance_view,
+    cas_login,
+    cas_logout,
+    check_auth
 )
 
 urlpatterns = [
@@ -20,4 +23,7 @@ urlpatterns = [
     path('artworks/<int:artwork_id>/distance/<int:target_id>/', get_path_distance_view, name='get_path_distance'),
     path('import_art/', import_art_museum_objects, name='import_art'),
     path('random_objects/', get_random_objects, name='random_objects'),
+    path('login/', cas_login, name='cas_login'),
+    path('logout/', cas_logout, name='cas_logout'),
+    path('check_auth/', check_auth, name='check_auth'),
 ]
