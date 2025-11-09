@@ -392,7 +392,41 @@ def cas_login(request):
     or returns user info if already authenticated.
     
     This matches the Flask pattern: netid = _cas.authenticate()
+    
+    IMPORTANT: Your application must be registered with Princeton CAS.
+    Fill out the Single Sign-on Integration Request Form:
+    https://princeton.service-now.com/sso
+    
+    Query parameters:
+    - redirect: URL to redirect to after successful login
+    - force: If 'true', clears existing session and forces new CAS login
     """
+    import logging
+    logger = logging.getLogger(__name__)
+    
+    print(f"DEBUG cas_login: Request URL: {request.build_absolute_uri()}")
+    print(f"DEBUG cas_login: GET params: {dict(request.GET)}")
+    print(f"DEBUG cas_login: Raw query string: {request.META.get('QUERY_STRING', '')}")
+    print(f"DEBUG cas_login: Session keys before: {list(request.session.keys())}")
+    
+    # Check if force login is requested OR if redirect parameter is present (means user clicked login button)
+    force_login = request.GET.get('force', 'false').lower() == 'true'
+    has_redirect = 'redirect' in request.GET
+    print(f"DEBUG cas_login: Force login parameter: {request.GET.get('force', 'NOT FOUND')}, parsed as: {force_login}")
+    print(f"DEBUG cas_login: Has redirect parameter: {has_redirect}")
+    
+    # If user explicitly requested login (has redirect param) or force=true, clear session
+    # This ensures clicking the login button always goes to CAS
+    if force_login or has_redirect:
+        print("DEBUG cas_login: Login button clicked, clearing session to force CAS redirect")
+        # Clear the username from session to force new authentication
+        if 'username' in request.session:
+            del request.session['username']
+            request.session.save()
+            print(f"DEBUG cas_login: Session cleared. Session keys after: {list(request.session.keys())}")
+        else:
+            print("DEBUG cas_login: No username in session to clear")
+    
     cas_client = CASClient(request)
     
     # Try to authenticate (will raise CASRedirectRequired if redirect needed, or return netid)
@@ -400,18 +434,25 @@ def cas_login(request):
         netid = cas_client.authenticate()
         if netid:
             netid = netid.rstrip()  # Strip whitespace like Flask version
-            return JsonResponse({
-                "authenticated": True,
-                "username": netid,
-                "netid": netid,  # Also include as 'netid' for consistency
-                "message": "Successfully authenticated"
-            })
+            print(f"DEBUG cas_login: Authentication successful, netid: {netid}")
+            # After successful authentication, redirect to frontend with success
+            # Get the redirect URL from request, or default to frontend
+            redirect_url = request.GET.get('redirect', 'http://localhost:3000')
+            # Make sure redirect_url doesn't already have query params
+            if '?' in redirect_url:
+                redirect_url = redirect_url.split('?')[0]
+            final_url = f"{redirect_url}?authenticated=true&username={netid}"
+            print(f"DEBUG cas_login: Redirecting to: {final_url}")
+            return HttpResponseRedirect(final_url)
     except CASRedirectRequired as redirect_exception:
+        # Redirect to CAS login
+        print(f"DEBUG cas_login: Redirecting to CAS: {redirect_exception.redirect_url}")
         return HttpResponseRedirect(redirect_exception.redirect_url)
     
+    print("DEBUG cas_login: Authentication failed, returning error")
     return JsonResponse({
         "authenticated": False,
-        "message": "Authentication failed"
+        "message": "Authentication failed. Make sure your application is registered with Princeton CAS."
     }, status=401)
 
 

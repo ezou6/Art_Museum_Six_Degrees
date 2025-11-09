@@ -7,8 +7,8 @@
 from urllib.request import urlopen
 from urllib.parse import quote
 from re import sub
-from django.http import HttpResponseRedirect, HttpResponse
-from django.shortcuts import redirect
+import ssl
+from django.http import HttpResponseRedirect
 
 
 class CASRedirectRequired(Exception):
@@ -25,16 +25,13 @@ class CASClient:
     """
     Django-compatible CAS (Central Authentication Service) client
     for Princeton University authentication.
+    Minimal adaptation from Flask version.
     """
     
     def __init__(self, request, url='https://fed.princeton.edu/cas/'):
         """
         Initialize a new CASClient object so it uses the given CAS
         server, or fed.princeton.edu if no server is given.
-        
-        Args:
-            request: Django HttpRequest object
-            url: CAS server URL (defaults to Princeton's CAS server)
         """
         self.request = request
         self.cas_url = url
@@ -59,21 +56,30 @@ class CASClient:
         """
         Validate a login ticket by contacting the CAS server. If
         valid, return the user's username; otherwise, return None.
+        
+        Uses CAS 2.0 protocol (serviceValidate) as required by Princeton.
         """
-        val_url = self.cas_url + 'validate' + \
+        val_url = self.cas_url + 'serviceValidate' + \
             '?service=' + quote(self.stripTicket()) + \
             '&ticket=' + quote(ticket)
+        
         try:
-            r = urlopen(val_url).readlines()   # returns 2 lines
-            if len(r) != 2:
+            # Create SSL context that doesn't verify certificates (for development)
+            ssl_context = ssl.create_default_context()
+            ssl_context.check_hostname = False
+            ssl_context.verify_mode = ssl.CERT_NONE
+            
+            response = urlopen(val_url, context=ssl_context).read().decode('utf-8')
+            
+            # CAS 2.0 returns XML, parse it to extract username
+            import re
+            if '<cas:authenticationFailure' in response:
                 return None
-            firstLine = r[0].decode('utf-8').strip()
-            secondLine = r[1].decode('utf-8').strip()
-            if not firstLine.startswith('yes'):
-                return None
-            return secondLine
+            match = re.search(r'<cas:user>([^<]+)</cas:user>', response)
+            if match:
+                return match.group(1).strip()
+            return None
         except Exception as e:
-            print(f"CAS validation error: {e}")
             return None
 
     def authenticate(self):
@@ -96,6 +102,7 @@ class CASClient:
                 # The user is authenticated, so store the user's
                 # username in the session.
                 self.request.session['username'] = username
+                self.request.session.save()
                 return username
 
         # The request does not contain a valid login ticket, so
@@ -111,7 +118,6 @@ class CASClient:
         
         Args:
             redirect_url: Optional URL to redirect to after logout.
-                         If not provided, redirects to CAS logout page.
         """
         if 'username' in self.request.session:
             # Delete the user's username from the session.
@@ -134,4 +140,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
