@@ -336,26 +336,18 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     }
   };
 
-  const backgroundImage = process.env.PUBLIC_URL + '/princeton-art-museum1.jpg';
-
   return (
-    <div 
-      className="min-h-screen py-8 bg-cover bg-center bg-no-repeat bg-fixed relative"
-      style={{
-        backgroundImage: `url(${backgroundImage})`
-      }}
+    <div
+      className="min-h-screen py-8 bg-black relative"
     >
-      {/* Black overlay */}
-      <div className="absolute inset-0 bg-black bg-opacity-30 z-0"></div>
-      
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
-        <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-6 mb-8 flex justify-between items-center animate-fade-in">
-          <h1 className="text-3xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-300 bg-clip-text text-transparent">
+        <div className="p-6 mb-8 flex justify-between items-center">
+          <h1 className="text-3xl font-bold text-white">
             Art Path Finder
           </h1>
-          <button 
-            className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
+          <button
+            className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
             onClick={onBack}
           >
             ← Back to Home
@@ -363,20 +355,18 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         </div>
 
         {!selectedArtwork ? (
-          <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 animate-fade-in">
-            <div className="flex justify-between items-center mb-6">
+          <div className="p-8">
+            <div className="flex justify-between items-center mb-8">
               <div>
-                <h2 className="text-3xl font-bold text-gray-800 mb-2">
-                  {initialArtworks.length > 0 ? 'Your First Connection' : 'Choose Your Starting Artwork'}
+                <h2 className="text-4xl font-bold text-white mb-2">
+                  Your First Connection
                 </h2>
-                <p className="text-gray-600">
-                  {initialArtworks.length > 0 
-                    ? 'Select an artwork from these randomly selected pieces to discover its connections'
-                    : 'Select an artwork to discover its connections'}
+                <p className="text-gray-300 text-lg">
+                  Select an artwork from these randomly selected pieces to discover its connections
                 </p>
               </div>
               {!loadingArtworks && artworks.length > 0 && (
-                <div className="bg-indigo-100 text-indigo-800 px-4 py-2 rounded-lg font-semibold">
+                <div className="bg-gray-800 text-white px-4 py-2 rounded-lg font-semibold">
                   {artworks.length} Artwork{artworks.length !== 1 ? 's' : ''}
                 </div>
               )}
@@ -384,47 +374,47 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
             {loadingArtworks && (
               <div className="text-center py-12">
-                <div className="inline-block w-10 h-10 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
-                <p className="mt-4 text-gray-600">Loading artworks...</p>
+                <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
+                <p className="mt-4 text-white">Loading artworks...</p>
               </div>
             )}
 
             {!loadingArtworks && artworks.length > 0 && (
-              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                 {artworks.map((artwork) => (
                   <div
                     key={artwork.id || artwork.object_id}
-                    className="bg-white rounded-2xl overflow-hidden cursor-pointer transition-all duration-300 shadow-lg hover:shadow-2xl hover:-translate-y-2 flex flex-col group"
+                    className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
                     onClick={() => handleArtworkSelect(artwork)}
                   >
-                    <div className="w-full h-48 bg-gray-100 flex items-center justify-center overflow-hidden relative">
+                    <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
                       {artwork.image_url ? (
                         <img
                           src={artwork.image_url}
                           alt={artwork.title || 'Artwork'}
-                          className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+                          className="w-full h-full object-contain transition-transform duration-300"
                           onError={(e) => {
                             e.target.style.display = 'none';
                             e.target.nextSibling.style.display = 'flex';
                           }}
                         />
                       ) : null}
-                      <div 
-                        className="w-full h-full hidden items-center justify-center text-6xl bg-gradient-to-br from-indigo-500 to-purple-600 text-white"
+                      <div
+                        className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                         style={{ display: artwork.image_url ? 'none' : 'flex' }}
                       >
                         🎨
                       </div>
                     </div>
-                    <div className="p-5 flex-1 flex flex-col">
-                      <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                    <div className="text-white">
+                      <h3 className="text-lg font-semibold mb-2 line-clamp-2">
                         {artwork.title || 'Untitled'}
                       </h3>
                       {artwork.maker && (
-                        <p className="text-indigo-600 text-sm font-medium mb-1">{artwork.maker}</p>
+                        <p className="text-gray-300 text-sm mb-1">{artwork.maker}</p>
                       )}
                       {artwork.date && (
-                        <p className="text-gray-500 text-xs mt-auto">{artwork.date}</p>
+                        <p className="text-gray-400 text-xs">{artwork.date}</p>
                       )}
                     </div>
                   </div>
@@ -434,13 +424,13 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
             {!loadingArtworks && artworks.length === 0 && (
               <div className="text-center py-12">
-                <div className="text-6xl mb-4 opacity-50">🖼️</div>
-                <p className="text-gray-600">No artworks available. Please import some first!</p>
+                <div className="text-6xl mb-4 opacity-50 text-white">🖼️</div>
+                <p className="text-white">No artworks available. Please import some first!</p>
               </div>
             )}
 
             {error && (
-              <div className="mt-6 bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">
+              <div className="mt-6 bg-red-900 border-l-4 border-red-500 text-red-100 p-4 rounded">
                 <p className="font-semibold mb-2">⚠️ Error Loading Artworks</p>
                 <p>{error}</p>
                 <div className="mt-4 space-y-2">
@@ -453,9 +443,9 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                   </button>
                   <p className="text-sm font-semibold mt-4">Troubleshooting steps:</p>
                   <ol className="list-decimal list-inside text-sm space-y-1 ml-4">
-                    <li>Make sure the Django backend is running: <code className="bg-red-100 px-2 py-1 rounded">cd backend && python manage.py runserver</code></li>
-                    <li>Check that the backend is accessible at <code className="bg-red-100 px-2 py-1 rounded">http://localhost:8080</code></li>
-                    <li>Import artworks first: Visit <a href="http://localhost:8080/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">http://localhost:8080/api/six_degrees/import_art/</a></li>
+                    <li>Make sure the Django backend is running: <code className="bg-red-800 px-2 py-1 rounded">cd backend && python manage.py runserver</code></li>
+                    <li>Check that the backend is accessible at <code className="bg-red-800 px-2 py-1 rounded">http://localhost:8080</code></li>
+                    <li>Import artworks first: Visit <a href="http://localhost:8080/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-red-300 underline">http://localhost:8080/api/six_degrees/import_art/</a></li>
                     <li>Check browser console (F12) for detailed error messages</li>
                   </ol>
                 </div>
@@ -465,12 +455,12 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         ) : (
           <>
             {/* Selected Artwork */}
-            <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 mb-6 animate-fade-in">
+            <div className="p-8 mb-6">
               <div className="mb-6">
                 <div className="flex gap-2 mb-4">
                   {navigationStack.length > 0 ? (
-                    <button 
-                      className="bg-transparent border-2 border-indigo-500 text-indigo-600 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-indigo-500 hover:text-white hover:-translate-x-1"
+                    <button
+                      className="bg-transparent border-2 border-white text-white px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-white hover:text-black hover:-translate-x-1"
                       onClick={() => {
                         const previous = navigationStack[navigationStack.length - 1];
                         setNavigationStack(navigationStack.slice(0, -1));
@@ -480,8 +470,8 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                       ← Back
                     </button>
                   ) : null}
-                  <button 
-                    className="bg-transparent border-2 border-indigo-500 text-indigo-600 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-indigo-500 hover:text-white hover:-translate-x-1"
+                  <button
+                    className="bg-transparent border-2 border-white text-white px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-white hover:text-black hover:-translate-x-1"
                     onClick={() => {
                       setSelectedArtwork(null);
                       setConnections([]);
@@ -493,93 +483,95 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                     ← Choose Different Artwork
                   </button>
                 </div>
-                <h2 className="text-3xl font-bold text-gray-800">Selected: {selectedArtwork.title || 'Untitled'}</h2>
+                <h2 className="text-4xl font-bold text-white mb-4">Selected: {selectedArtwork.title || 'Untitled'}</h2>
               </div>
 
               {selectedArtwork.image_url && (
-                <div className="w-full max-w-lg mx-auto my-6 rounded-2xl overflow-hidden shadow-2xl">
-                  <img
-                    src={selectedArtwork.image_url}
-                    alt={selectedArtwork.title}
-                    className="w-full h-auto"
-                    onError={(e) => {
-                      e.target.style.display = 'none';
-                    }}
-                  />
+                <div className="w-full max-w-2xl mx-auto my-6">
+                  <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden">
+                    <img
+                      src={selectedArtwork.image_url}
+                      alt={selectedArtwork.title}
+                      className="w-full h-full object-contain"
+                      onError={(e) => {
+                        e.target.style.display = 'none';
+                      }}
+                    />
+                  </div>
                 </div>
               )}
 
-              <div className="space-y-2 text-gray-700">
+              <div className="space-y-2 text-white">
                 {selectedArtwork.maker && (
-                  <p><strong>Maker:</strong> {selectedArtwork.maker}</p>
+                  <p className="text-lg"><strong>Maker:</strong> {selectedArtwork.maker}</p>
                 )}
                 {selectedArtwork.date && (
-                  <p><strong>Date:</strong> {selectedArtwork.date}</p>
+                  <p className="text-lg"><strong>Date:</strong> {selectedArtwork.date}</p>
                 )}
                 {selectedArtwork.medium && (
-                  <p><strong>Medium:</strong> {selectedArtwork.medium}</p>
+                  <p className="text-lg"><strong>Medium:</strong> {selectedArtwork.medium}</p>
                 )}
               </div>
             </div>
 
             {/* Connected Artworks */}
-            <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 animate-fade-in">
-              <h2 className="text-3xl font-bold text-gray-800 mb-2">Connected Artworks</h2>
-              
+            <div className="p-8">
+              <h2 className="text-4xl font-bold text-white mb-4">Connected Artworks</h2>
+            
               {loading && (
                 <div className="text-center py-12">
-                  <div className="inline-block w-10 h-10 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
-                  <p className="mt-4 text-gray-600">Finding connections...</p>
+                  <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
+                  <p className="mt-4 text-white">Finding connections...</p>
                 </div>
               )}
 
               {!loading && connections.length > 0 && (
                 <>
-                  <p className="text-gray-600 mb-6">
+                  <p className="text-gray-300 mb-8 text-lg">
                     Found {connections.length} connected artwork{connections.length !== 1 ? 's' : ''}
                   </p>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                     {connections.map((artwork) => (
                       <div
                         key={artwork.id || artwork.object_id}
-                        className="bg-white rounded-2xl overflow-hidden shadow-lg flex flex-col cursor-pointer transition-all duration-300 hover:shadow-2xl hover:-translate-y-2 group"
+                        className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
                         onClick={() => handleArtworkSelect(artwork)}
                       >
-                        <div className="w-full h-48 bg-gray-100 flex items-center justify-center overflow-hidden relative">
+                        <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
                           {artwork.image_url ? (
                             <img
                               src={artwork.image_url}
                               alt={artwork.title || 'Artwork'}
-                              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+                              className="w-full h-full object-contain transition-transform duration-300"
                               onError={(e) => {
                                 e.target.style.display = 'none';
                                 e.target.nextSibling.style.display = 'flex';
                               }}
                             />
                           ) : null}
-                          <div 
-                            className="w-full h-full hidden items-center justify-center text-6xl bg-gradient-to-br from-indigo-500 to-purple-600 text-white"
+                          <div
+                            className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                             style={{ display: artwork.image_url ? 'none' : 'flex' }}
                           >
                             🎨
                           </div>
                         </div>
-                        <div className="p-5 flex-1 flex flex-col">
+                        <div className="text-white">
                           <div className="flex items-start justify-between mb-2">
-                            <h3 className="text-lg font-semibold text-gray-800 line-clamp-2 flex-1">
+                            <h3 className="text-lg font-semibold line-clamp-2 flex-1">
                               {artwork.title || 'Untitled'}
                             </h3>
                             {artwork.relation && (
-                              <span className="ml-2 px-2 py-1 text-xs font-semibold rounded-full bg-indigo-100 text-indigo-700 whitespace-nowrap flex-shrink-0" title={`Connected by: ${formatRelation(artwork.relation)}`}>
+                              <span className="ml-2 px-2 py-1 text-xs font-semibold rounded-full bg-yellow-400 text-gray-900 whitespace-nowrap flex-shrink-0" title={`Connected by: ${formatRelation(artwork.relation)}`}>
                                 {formatRelation(artwork.relation)}
                               </span>
                             )}
                           </div>
                           {artwork.maker && (
-                            <p className="text-indigo-600 text-sm font-medium mb-1">{artwork.maker}</p>
+                            <p className="text-gray-300 text-sm mb-1">{artwork.maker}</p>
                           )}
                           {artwork.date && (
-                            <p className="text-gray-500 text-xs mt-auto">{artwork.date}</p>
+                            <p className="text-gray-400 text-xs">{artwork.date}</p>
                           )}
                         </div>
                       </div>
@@ -590,13 +582,13 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
               {!loading && connections.length === 0 && (
                 <div className="text-center py-12">
-                  <div className="text-6xl mb-4 opacity-50">🔗</div>
-                  <p className="text-gray-600">No connections found for this artwork.</p>
+                  <div className="text-6xl mb-4 opacity-50 text-white">🔗</div>
+                  <p className="text-white">No connections found for this artwork.</p>
                 </div>
               )}
 
               {error && (
-                <div className="mt-6 bg-red-50 border-l-4 border-red-500 text-red-700 p-4 rounded">
+                <div className="mt-6 bg-red-900 border-l-4 border-red-500 text-red-100 p-4 rounded">
                   {error}
                 </div>
               )}
@@ -604,12 +596,12 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
             {/* Target Artwork Section */}
             {targetArtwork && startingArtwork && (
-              <div className="bg-white bg-opacity-95 backdrop-blur-sm rounded-3xl shadow-xl p-8 mt-6 animate-fade-in">
-                <h2 className="text-3xl font-bold text-gray-800 mb-2">🎯 Your Target</h2>
-                <p className="text-gray-600 mb-6">
+              <div className="p-8 mt-6">
+                <h2 className="text-4xl font-bold text-white mb-4">🎯 Your Target</h2>
+                <p className="text-gray-300 mb-8 text-lg">
                   {targetDistance !== null ? (
                     <>
-                      You are currently <strong className="text-indigo-600">{targetDistance} connection{targetDistance !== 1 ? 's' : ''}</strong> away from the target.
+                      You are currently <strong className="text-yellow-400">{targetDistance} connection{targetDistance !== 1 ? 's' : ''}</strong> away from the target.
                       {targetDistance === 0 ? ' 🎉 You found it!' : ' Can you find the path?'}
                     </>
                   ) : (
@@ -618,21 +610,21 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                     </>
                   )}
                 </p>
-                
+              
                 {loadingTarget ? (
                   <div className="text-center py-12">
-                    <div className="inline-block w-10 h-10 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
-                    <p className="mt-4 text-gray-600">Finding target artwork...</p>
+                    <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
+                    <p className="mt-4 text-white">Finding target artwork...</p>
                   </div>
                 ) : (
-                  <div className="bg-gradient-to-br from-yellow-50 to-orange-50 rounded-2xl p-6 border-2 border-yellow-300">
+                  <div className="border-2 border-yellow-400 rounded-2xl p-6">
                     <div className="flex flex-col md:flex-row gap-6">
                       {targetArtwork.image_url ? (
-                        <div className="w-full md:w-64 h-64 rounded-xl overflow-hidden shadow-lg flex-shrink-0 bg-gray-100">
+                        <div className="w-full md:w-96 h-96 bg-gray-900 flex items-center justify-center overflow-hidden flex-shrink-0">
                           <img
                             src={targetArtwork.image_url}
                             alt={targetArtwork.title || 'Target Artwork'}
-                            className="w-full h-full object-cover"
+                            className="w-full h-full object-contain"
                             onError={(e) => {
                               e.target.style.display = 'none';
                               if (e.target.nextSibling) {
@@ -640,35 +632,35 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                               }
                             }}
                           />
-                          <div 
-                            className="w-full h-full hidden items-center justify-center text-6xl bg-gradient-to-br from-yellow-500 to-orange-600 text-white"
+                          <div
+                            className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                             style={{ display: 'none' }}
                           >
                             🎯
                           </div>
                         </div>
                       ) : (
-                        <div className="w-full md:w-64 h-64 rounded-xl overflow-hidden shadow-lg flex-shrink-0 bg-gradient-to-br from-yellow-500 to-orange-600 flex items-center justify-center text-6xl text-white">
+                        <div className="w-full md:w-96 h-96 bg-gray-800 flex items-center justify-center text-6xl text-white">
                           🎯
                         </div>
                       )}
-                      <div className="flex-1">
-                        <h3 className="text-2xl font-bold text-gray-800 mb-3">
+                      <div className="flex-1 text-white">
+                        <h3 className="text-2xl font-bold mb-3">
                           {targetArtwork.title || 'Untitled'}
                         </h3>
                         {targetArtwork.maker && (
-                          <p className="text-indigo-600 text-lg font-medium mb-2">
+                          <p className="text-gray-300 text-lg font-medium mb-2">
                             {targetArtwork.maker}
                           </p>
                         )}
                         {targetArtwork.date && (
-                          <p className="text-gray-600 mb-2"><strong>Date:</strong> {targetArtwork.date}</p>
+                          <p className="text-gray-300 mb-2 text-lg"><strong>Date:</strong> {targetArtwork.date}</p>
                         )}
                         {targetArtwork.medium && (
-                          <p className="text-gray-600 mb-2"><strong>Medium:</strong> {targetArtwork.medium}</p>
+                          <p className="text-gray-300 mb-2 text-lg"><strong>Medium:</strong> {targetArtwork.medium}</p>
                         )}
                         {targetArtwork.department && (
-                          <p className="text-gray-600"><strong>Department:</strong> {targetArtwork.department}</p>
+                          <p className="text-gray-300 text-lg"><strong>Department:</strong> {targetArtwork.department}</p>
                         )}
                       </div>
                     </div>
