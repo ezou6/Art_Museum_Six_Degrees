@@ -173,10 +173,11 @@ def generate_art_graph(export_path=None):
     cache.set(CACHE_KEY, export, CACHE_TIMEOUT)
     return export
 
-def get_target_artwork(start_id, steps=6):
+def get_target_artwork(start_id, preferred_steps=6, min_steps=4, max_steps=9):
     """
-    Find a target artwork that is exactly 'steps' connections away from the start.
-    Uses BFS to find all nodes at exactly the specified distance, then picks one randomly.
+    Find a target artwork that is between min_steps and max_steps connections away from the start.
+    Prefers the preferred_steps distance, but falls back to other distances in the range if needed.
+    Uses BFS to find all nodes at the target distances, then picks one randomly.
     """
     graph_data = generate_art_graph()
     G = nx.Graph()
@@ -188,23 +189,25 @@ def get_target_artwork(start_id, steps=6):
     if start_id not in G:
         return None
 
-    # Use BFS to find all nodes at exactly 'steps' distance
+    # Use BFS to find all nodes at distances between min_steps and max_steps
     from collections import deque
     
     queue = deque([(start_id, 0)])  # (node, distance)
     visited = {start_id: 0}  # node -> distance
-    nodes_at_target_distance = []
+    nodes_by_distance = {}  # distance -> list of nodes
     
     while queue:
         current, dist = queue.popleft()
         
-        if dist == steps:
-            # Found a node at exactly the target distance
-            if current not in nodes_at_target_distance:
-                nodes_at_target_distance.append(current)
-            continue
-        elif dist > steps:
-            # We've gone too far, stop exploring this branch
+        # If we're in the target range, collect this node
+        if min_steps <= dist <= max_steps:
+            if dist not in nodes_by_distance:
+                nodes_by_distance[dist] = []
+            if current not in nodes_by_distance[dist]:
+                nodes_by_distance[dist].append(current)
+        
+        # Stop exploring if we've gone beyond max_steps
+        if dist >= max_steps:
             continue
         
         # Explore neighbors
@@ -215,26 +218,23 @@ def get_target_artwork(start_id, steps=6):
                 visited[neighbor] = new_dist
                 queue.append((neighbor, new_dist))
     
-    if not nodes_at_target_distance:
-        # If no nodes found at exactly 'steps' distance, try to find one close to it
-        # Find nodes at distance steps-1 or steps+1 (prefer steps-1)
-        fallback_nodes = []
-        for node, node_dist in visited.items():
-            if node_dist == steps - 1:
-                fallback_nodes.append(node)
-        
-        if not fallback_nodes:
-            # Try steps+1 as last resort
-            for node, node_dist in visited.items():
-                if node_dist == steps + 1:
-                    fallback_nodes.append(node)
-        
-        if not fallback_nodes:
-            return None
-        
-        nodes_at_target_distance = fallback_nodes
+    # Try to find nodes at preferred distance first, then fall back to other distances
+    # Priority: preferred_steps, then distances closest to preferred_steps
+    candidate_distances = []
     
-    # Pick a random node from those at the target distance
-    target_id = random.choice(nodes_at_target_distance)
-    target_data = G.nodes[target_id]
-    return target_data
+    # First, try preferred distance
+    if preferred_steps in nodes_by_distance and nodes_by_distance[preferred_steps]:
+        candidate_distances = [preferred_steps]
+    else:
+        # Build list of available distances, sorted by how close they are to preferred_steps
+        available_distances = sorted(nodes_by_distance.keys())
+        candidate_distances = sorted(available_distances, key=lambda d: abs(d - preferred_steps))
+    
+    # Pick a random node from the best available distance
+    if candidate_distances:
+        best_distance = candidate_distances[0]
+        target_id = random.choice(nodes_by_distance[best_distance])
+        target_data = G.nodes[target_id]
+        return target_data
+    
+    return None
