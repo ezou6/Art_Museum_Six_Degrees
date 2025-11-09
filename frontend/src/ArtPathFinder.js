@@ -179,6 +179,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     // If this is the first selection (no starting artwork set), set it and fetch target
     const isFirstSelection = !startingArtwork;
     if (isFirstSelection) {
+      console.log('First selection detected, setting starting artwork:', artwork);
       setStartingArtwork(artwork);
     }
     
@@ -230,6 +231,38 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         setConnections([]);
         setError(`This artwork is not yet in the connection graph. Please try again in a moment.`);
         setLoading(false);
+        
+        // Still try to fetch target artwork even if not in graph
+        if (isFirstSelection) {
+          console.log('Artwork not in graph, but still attempting to fetch target artwork');
+          setLoadingTarget(true);
+          try {
+            const targetResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${artwork.id || artwork.object_id}/target/`);
+            console.log('Target response status (artwork not in graph):', targetResponse.status, targetResponse.ok);
+            if (targetResponse.ok) {
+              const targetData = await targetResponse.json();
+              console.log('Target data received (artwork not in graph):', targetData);
+              if (targetData.error) {
+                console.warn('Could not find target artwork:', targetData.error);
+              } else {
+                const targetWithConvertedUrl = {
+                  ...targetData,
+                  image_url: convertImageUrl(targetData.image_url)
+                };
+                console.log('Setting target artwork (artwork not in graph):', targetWithConvertedUrl);
+                setTargetArtwork(targetWithConvertedUrl);
+                updateTargetDistance(artwork.id || artwork.object_id, targetData.id || targetData.object_id);
+              }
+            } else {
+              const errorText = await targetResponse.text();
+              console.error('Target artwork fetch failed (artwork not in graph):', targetResponse.status, errorText);
+            }
+          } catch (targetErr) {
+            console.error('Error fetching target artwork (artwork not in graph):', targetErr);
+          } finally {
+            setLoadingTarget(false);
+          }
+        }
         return;
       }
       
@@ -298,11 +331,14 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
       
       // Fetch target artwork (exactly 6 steps away) only if this is the first selection
       if (isFirstSelection) {
+        console.log('Fetching target artwork for first selection, artwork ID:', artwork.id || artwork.object_id);
         setLoadingTarget(true);
         try {
           const targetResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${artwork.id || artwork.object_id}/target/`);
+          console.log('Target response status:', targetResponse.status, targetResponse.ok);
           if (targetResponse.ok) {
             const targetData = await targetResponse.json();
+            console.log('Target data received:', targetData);
             if (targetData.error) {
               console.warn('Could not find target artwork:', targetData.error);
             } else {
@@ -311,13 +347,17 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                 ...targetData,
                 image_url: convertImageUrl(targetData.image_url)
               };
+              console.log('Setting target artwork:', targetWithConvertedUrl);
               setTargetArtwork(targetWithConvertedUrl);
               // Calculate initial distance
               updateTargetDistance(artwork.id || artwork.object_id, targetData.id || targetData.object_id);
             }
+          } else {
+            const errorText = await targetResponse.text();
+            console.error('Target artwork fetch failed:', targetResponse.status, errorText);
           }
         } catch (targetErr) {
-          console.warn('Error fetching target artwork:', targetErr);
+          console.error('Error fetching target artwork:', targetErr);
         } finally {
           setLoadingTarget(false);
         }
@@ -595,6 +635,15 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
             </div>
 
             {/* Target Artwork Section */}
+            {(() => {
+              console.log('Target artwork render check:', { 
+                hasTargetArtwork: !!targetArtwork, 
+                hasStartingArtwork: !!startingArtwork,
+                targetArtwork,
+                startingArtwork 
+              });
+              return null;
+            })()}
             {targetArtwork && startingArtwork && (
               <div className="p-8 mt-6">
                 <h2 className="text-4xl font-bold text-white mb-4">🎯 Your Target</h2>
@@ -606,7 +655,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                     </>
                   ) : (
                     <>
-                      This artwork is exactly 6 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
+                      This artwork is 4-9 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
                     </>
                   )}
                 </p>
