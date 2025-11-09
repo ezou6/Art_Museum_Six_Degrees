@@ -21,8 +21,11 @@ const HomePage = ({ onEnter, message }) => {
         throw new Error(data.error);
       }
       
-      // Pass the artworks to onEnter
-      onEnter(data.artworks || []);
+      // Limit display to first 20 artworks (all 1000 are imported into database)
+      const artworksToDisplay = (data.artworks || []).slice(0, 20);
+      
+      // Pass the limited artworks to onEnter for display
+      onEnter(artworksToDisplay);
     } catch (err) {
       console.error('Error fetching random objects:', err);
       if (err.message.includes('Failed to fetch') || err.message.includes('NetworkError')) {

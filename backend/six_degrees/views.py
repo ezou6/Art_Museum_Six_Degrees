@@ -195,7 +195,7 @@ def get_artwork(request, artwork_id):
 
 @api_view(['GET'])
 def get_random_objects(request):
-    """Sample 20 random objects from JSON files and return them."""
+    """Sample 1000 random objects from JSON files and return them."""
     try:
         # Get the data directory path
         # views.py is at backend/six_degrees/views.py, so parents[1] = backend/
@@ -207,8 +207,8 @@ def get_random_objects(request):
                 "error": "No object JSON files found"
             }, status=404)
         
-        # Sample 20 random files
-        sample_size = min(20, len(all_files))
+        # Sample 1000 random files
+        sample_size = min(1000, len(all_files))
         sample_files = random.sample(all_files, sample_size)
         
         objects_data = []
