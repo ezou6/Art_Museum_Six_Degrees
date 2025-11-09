@@ -347,7 +347,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
             Art Path Finder
           </h1>
           <button
-            className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
+            className="bg-gradient-to-r from-white-400 to-white-300 text-gray-900 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
             onClick={onBack}
           >
             ← Back to Home
