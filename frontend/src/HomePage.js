@@ -8,6 +8,77 @@ const HomePage = ({ onEnter, message }) => {
  const [username, setUsername] = useState(null);
  const [checkingAuth, setCheckingAuth] = useState(true);
 
+ // Function to clear the database
+ const clearDatabase = async () => {
+   try {
+     const response = await fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
+       method: 'POST',
+       credentials: 'include',
+     });
+     
+     if (!response.ok) {
+       const errorText = await response.text();
+       console.error('Failed to clear database:', response.status, errorText);
+       return;
+     }
+     
+     const data = await response.json();
+     if (data.error) {
+       console.error('Database clear returned error:', data.error);
+     } else {
+       console.log('Database cleared successfully:', data.message || `Deleted ${data.deleted_count || 0} artworks`);
+     }
+   } catch (err) {
+     console.error('Error clearing database:', err);
+   }
+ };
+
+ // Clear database when component mounts (user navigates to HomePage)
+ useEffect(() => {
+   clearDatabase();
+ }, []);
+
+ // Clear database on page refresh or exit
+ useEffect(() => {
+   const handleBeforeUnload = (e) => {
+     // Use sendBeacon for more reliable cleanup on page exit
+     // sendBeacon is specifically designed for cleanup requests during page unload
+     if (navigator.sendBeacon) {
+       const blob = new Blob([], { type: 'application/x-www-form-urlencoded' });
+       const success = navigator.sendBeacon('http://localhost:8080/api/six_degrees/clear_artworks/', blob);
+       if (!success) {
+         // Fallback to fetch if sendBeacon fails
+         fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
+           method: 'POST',
+           keepalive: true,
+           credentials: 'include',
+         }).catch(() => {});
+       }
+     } else {
+       // Fallback for browsers without sendBeacon
+       fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
+         method: 'POST',
+         keepalive: true,
+         credentials: 'include',
+       }).catch(() => {});
+     }
+   };
+
+   const handleVisibilityChange = () => {
+     // Clear when tab becomes hidden (user switches tabs or minimizes)
+     if (document.hidden) {
+       clearDatabase();
+     }
+   };
+
+   window.addEventListener('beforeunload', handleBeforeUnload);
+   document.addEventListener('visibilitychange', handleVisibilityChange);
+
+   return () => {
+     window.removeEventListener('beforeunload', handleBeforeUnload);
+     document.removeEventListener('visibilitychange', handleVisibilityChange);
+   };
+ }, []);
 
  // Check authentication status on mount and when URL changes (after CAS redirect)
  useEffect(() => {

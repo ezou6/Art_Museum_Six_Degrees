@@ -77,3 +77,9 @@ Through this project, we learned how to balance functionality with performance, 
 
 Future improvements include:
 In the future, we plan to enhance the efficiency of our algorithm further and explore ways to automate image categorization. We also hope to add more interactive features to the user interface and improve data visualization. Expanding the dataset and implementing machine learning models to refine image relationships are potential next steps for making the project more robust and intelligent.
+
+Potential features to develop concern increasing user engagement. A working CAS authentification system can generate user profiles that save histories of games played, and least amount of connections, and keep track of log-in streaks for daily engagement. Perhaps the same sample of objects can also be generated each day for users to compete against each other and a public leaderboard feature could be implemented. 
+
+In addition, the ability to choose easy, medium, and hard modes that change the amount of ghints you receieve, the amount of connections away the target is, and the amount of connections suggested per art object would lead to more user engagement (perhaps develop a similar model to NYT Pips). We could also implement a free-play or arcade mode, where the user can play endless medium mode games. 
+
+It would also be informative to have a brief text blurb about the target piece upon victory (reference texts field from objects JSON data).

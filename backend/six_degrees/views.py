@@ -2,6 +2,7 @@ import json
 import random
 from pathlib import Path
 from django.shortcuts import render
+from django.views.decorators.csrf import csrf_exempt
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from django.http import JsonResponse, HttpResponseRedirect
@@ -303,7 +304,8 @@ def get_random_objects(request):
         }, status=500)
 
 
-@api_view(['DELETE', 'POST'])
+@csrf_exempt
+@api_view(['DELETE', 'POST', 'GET'])
 def clear_artworks(request):
     """Clear all artworks from the database."""
     try:
@@ -313,11 +315,16 @@ def clear_artworks(request):
         from django.core.cache import cache
         cache.delete("art_graph_json")
         
+        print(f"DEBUG clear_artworks: Deleted {deleted_count} artworks from database")
+        
         return JsonResponse({
             'message': f'Successfully deleted {deleted_count} artworks',
             'deleted_count': deleted_count
         })
     except Exception as e:
+        print(f"ERROR clear_artworks: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return JsonResponse({
             "error": str(e)
         }, status=500)

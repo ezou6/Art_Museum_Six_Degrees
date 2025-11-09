@@ -26,7 +26,17 @@ function App() {
     setStarted(true);
   };
 
-  const handleBack = () => {
+  const handleBack = async () => {
+    // Clear database when navigating back to HomePage
+    try {
+      await fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
+        method: 'POST',
+        credentials: 'include',
+      });
+      console.log('Database cleared on back navigation');
+    } catch (err) {
+      console.error('Error clearing database on back:', err);
+    }
     setStarted(false);
     setInitialArtworks([]);
   };

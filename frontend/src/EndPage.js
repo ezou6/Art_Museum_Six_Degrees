@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 // Helper function to convert IIIF URLs to viewable image URLs
 const convertImageUrl = (url) => {
@@ -41,6 +41,40 @@ const EndPage = ({
 }) => {
   const [loadingPlayAgain, setLoadingPlayAgain] = useState(false);
   const [error, setError] = useState(null);
+  const [showLoginModal, setShowLoginModal] = useState(true); // Show modal when end page appears
+  const [isLoggingIn, setIsLoggingIn] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [username, setUsername] = useState(null);
+
+  // Check if user was redirected back from CAS login
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('authenticated') === 'true') {
+      const user = urlParams.get('username');
+      setIsAuthenticated(true);
+      setUsername(user);
+      setShowLoginModal(false);
+      // Clean up URL
+      window.history.replaceState({}, document.title, window.location.pathname);
+    }
+  }, []);
+
+  // Handle CAS login
+  const handleLogin = () => {
+    setIsLoggingIn(true);
+    // Redirect to CAS login endpoint with redirect back to frontend
+    // Use force=true to ensure we go to CAS even if already authenticated
+    // Get the base URL without query params for redirect
+    const baseUrl = window.location.origin + window.location.pathname;
+    const loginUrl = `http://localhost:8080/api/six_degrees/login/?redirect=${encodeURIComponent(baseUrl)}&force=true`;
+    console.log('DEBUG: Redirecting to login URL:', loginUrl);
+    window.location.href = loginUrl;
+  };
+
+  // Handle continue as guest
+  const handleContinueAsGuest = () => {
+    setShowLoginModal(false);
+  };
 
   // Handle Play Again button
   const handlePlayAgain = async () => {
@@ -106,6 +140,50 @@ const EndPage = ({
 
   return (
     <div className="p-8">
+      {/* Login Modal Popup */}
+      {showLoginModal && (
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50">
+          <div className="bg-gray-900 rounded-2xl p-8 max-w-md w-full mx-4 border-2 border-gray-700">
+            <div className="text-center mb-6">
+              <h3 className="text-3xl font-bold text-white mb-2">Save Your Result?</h3>
+              <p className="text-gray-300 mb-4">
+                Login to save your victory, or continue as a guest
+              </p>
+              {isAuthenticated && username && (
+                <div className="bg-green-900 border border-green-500 text-green-100 p-3 rounded mb-4">
+                  <p className="font-semibold">✅ Logged in as: {username}</p>
+                </div>
+              )}
+            </div>
+            
+            <div className="space-y-4">
+              <button
+                onClick={handleLogin}
+                disabled={isLoggingIn}
+                className="w-full bg-blue-600 hover:bg-blue-700 text-white px-6 py-4 rounded-xl font-bold text-lg transition-all duration-300 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {isLoggingIn ? (
+                  <span className="flex items-center justify-center gap-3">
+                    <span>Logging in...</span>
+                    <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
+                  </span>
+                ) : (
+                  '🔐 Login with CAS'
+                )}
+              </button>
+              
+              <button
+                onClick={handleContinueAsGuest}
+                disabled={isLoggingIn}
+                className="w-full bg-gray-700 hover:bg-gray-600 text-white px-6 py-4 rounded-xl font-bold text-lg transition-all duration-300 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                Continue as Guest
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">

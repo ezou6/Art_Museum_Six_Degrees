@@ -15,6 +15,9 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
   const [testingConnection, setTestingConnection] = useState(false);
   const [navigationStack, setNavigationStack] = useState([]); // Track navigation path
   const [isWon, setIsWon] = useState(false); // Track if user has won
+  const [hintConnectionId, setHintConnectionId] = useState(null); // Track which connection is the hint
+  const [hintRevealed, setHintRevealed] = useState(false); // Track if hint has been revealed
+  const [hintCount, setHintCount] = useState(0); // Track how many times user requested a hint
 
   const testBackendConnection = async () => {
     setTestingConnection(true);
@@ -207,6 +210,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
     if (isFirstSelection) {
       console.log('First selection detected, setting starting artwork:', artwork);
       setStartingArtwork(artwork);
+      setHintCount(0); // Reset hint count when selecting a new starting artwork
     }
     
     // Ensure artwork image URL is converted
@@ -396,40 +400,51 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
             art.distanceToTarget !== Infinity
           );
           
-          // Build final connections list, ensuring at least one closer connection if available
+          // Build final connections list, ensuring EXACTLY ONE closer connection if available
+          // IMPORTANT: The closer connection (hint) will be randomly placed in position 1-6
           const finalConnections = [];
           
-          // GUARANTEE: Always include at least one closer connection if any exist
+          // GUARANTEE: Include EXACTLY ONE closer connection if any exist (randomly selected as hint)
+          let hintConnection = null;
           if (closerConnections.length > 0) {
-            finalConnections.push(closerConnections[0]); // Guaranteed closer connection
+            // Randomly pick ONE of the closer connections as the hint
+            const randomIndex = Math.floor(Math.random() * closerConnections.length);
+            hintConnection = closerConnections[randomIndex];
+            // Store the hint connection ID for highlighting
+            setHintConnectionId(hintConnection.id || hintConnection.object_id);
+            setHintRevealed(false); // Reset hint revealed state when new connections load
+          } else {
+            setHintConnectionId(null); // No hint available if no closer connections
+            setHintRevealed(false);
           }
           
-          // Add more closer connections (up to 3 more, total 4 closer)
-          if (closerConnections.length > 1) {
-            finalConnections.push(...closerConnections.slice(1, 4));
+          // Build list of other connections (further and other) - we'll insert hint randomly
+          const otherConnectionsList = [];
+          
+          // Add further connections
+          otherConnectionsList.push(...furtherConnections);
+          
+          // Add other connections
+          otherConnectionsList.push(...otherConnections);
+          
+          // Randomly select position for hint (0-5, which means 1st-6th position)
+          let hintPosition = 6; // Default to last position
+          if (hintConnection && otherConnectionsList.length > 0) {
+            // Random position between 0 and min(5, otherConnectionsList.length)
+            hintPosition = Math.floor(Math.random() * Math.min(6, otherConnectionsList.length + 1));
           }
           
-          // Add further connections (up to 2)
-          finalConnections.push(...furtherConnections.slice(0, 2));
-          
-          // Fill remaining slots with other connections
-          const remainingSlots = 6 - finalConnections.length;
-          if (remainingSlots > 0) {
-            finalConnections.push(...otherConnections.slice(0, remainingSlots));
-          }
-          
-          // If we still don't have 6, add more closer connections if available
-          if (finalConnections.length < 6 && closerConnections.length > finalConnections.filter(a => a.distanceToTarget === preferredDistance).length) {
-            const alreadyIncludedCount = finalConnections.filter(a => a.distanceToTarget === preferredDistance).length;
-            const needed = 6 - finalConnections.length;
-            finalConnections.push(...closerConnections.slice(alreadyIncludedCount, alreadyIncludedCount + needed));
-          }
-          
-          // If we still don't have 6, add more further connections if available
-          if (finalConnections.length < 6) {
-            const alreadyIncludedCount = finalConnections.filter(a => a.distanceToTarget === alternativeDistance).length;
-            const needed = 6 - finalConnections.length;
-            finalConnections.push(...furtherConnections.slice(alreadyIncludedCount, alreadyIncludedCount + needed));
+          // Build final list: insert hint at random position
+          if (hintConnection) {
+            // Add connections before hint position
+            finalConnections.push(...otherConnectionsList.slice(0, hintPosition));
+            // Insert hint at random position
+            finalConnections.push(hintConnection);
+            // Add remaining connections after hint
+            finalConnections.push(...otherConnectionsList.slice(hintPosition));
+          } else {
+            // No hint, just add all other connections
+            finalConnections.push(...otherConnectionsList);
           }
           
           // Remove distanceToTarget from final objects and limit to 6
@@ -500,10 +515,27 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
       className="min-h-screen py-8 bg-black relative"
     >
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Hint Button - Top Right (Permanent) */}
+        <div className="fixed top-4 right-4 z-50">
+          <button
+            onClick={() => {
+              if (hintConnectionId && !hintRevealed && selectedArtwork && targetArtwork && targetDistance !== null && targetDistance > 0) {
+                setHintRevealed(true);
+                setHintCount(prev => prev + 1);
+              }
+            }}
+            disabled={!hintConnectionId || hintRevealed || !selectedArtwork || !targetArtwork || targetDistance === null || targetDistance === 0}
+            className="bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 px-6 py-3 rounded-xl font-bold text-lg transition-all duration-300 shadow-2xl hover:shadow-yellow-500/50 hover:scale-105 active:scale-100 border-2 border-yellow-300 disabled:opacity-50 disabled:cursor-not-allowed disabled:animate-none"
+            title={hintConnectionId && !hintRevealed ? "Click to reveal which artwork gets you closer to the target" : hintRevealed ? "Hint already revealed" : "No hint available"}
+          >
+            💡 Hint {hintCount > 0 && `(${hintCount})`}
+          </button>
+        </div>
+
         {/* Header */}
         <div className="p-6 mb-8 flex justify-between items-center">
           <h1 className="text-3xl font-bold text-white">
-            Art Path Finder
+            Six Degrees
           </h1>
           <button 
             className="bg-gradient-to-r from-white-400 to-white-300 text-gray-900 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
@@ -533,7 +565,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                 <div className="flex justify-between items-center mb-8">
                   <div>
                     <h2 className="text-4xl font-bold text-white mb-2">
-                      Your First Connection
+                      Choose a Starting Point
                     </h2>
                     <p className="text-gray-300 text-lg">
                       Select an artwork from these randomly selected pieces to discover its connections
@@ -657,7 +689,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                   ← Choose Different Artwork
                 </button>
                 </div>
-                <h2 className="text-4xl font-bold text-white mb-4">Selected: {selectedArtwork.title || 'Untitled'}</h2>
+                <h2 className="text-4xl font-bold text-white mb-4">{selectedArtwork.title || 'Untitled'}</h2>
               </div>
 
               {selectedArtwork.image_url && (
@@ -705,13 +737,17 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                     Found {connections.length} connected artwork{connections.length !== 1 ? 's' : ''}
                   </p>
                   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-                    {connections.map((artwork) => (
+                    {connections.map((artwork) => {
+                      const isHint = hintRevealed && (artwork.id || artwork.object_id) === hintConnectionId;
+                      return (
                       <div
                         key={artwork.id || artwork.object_id}
-                        className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
+                        className={`cursor-pointer transition-all duration-300 hover:opacity-80 group ${
+                          isHint ? 'ring-4 ring-yellow-400 ring-offset-4 ring-offset-black rounded-xl animate-pulse' : ''
+                        }`}
                         onClick={() => handleArtworkSelect(artwork, true, artwork.relation)}
                       >
-                        <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
+                        <div className={`w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4 ${isHint ? 'bg-yellow-900/20' : ''}`}>
                           {artwork.image_url ? (
                             <img
                               src={artwork.image_url}
@@ -729,27 +765,33 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                           >
                             🎨
                           </div>
+                          {isHint && (
+                            <div className="absolute top-2 right-2 bg-yellow-400 text-gray-900 px-3 py-1 rounded-full font-bold text-sm shadow-lg animate-bounce">
+                              💡 Hint!
+                            </div>
+                          )}
                         </div>
                         <div className="text-white">
                           <div className="flex items-start justify-between mb-2">
-                            <h3 className="text-lg font-semibold line-clamp-2 flex-1">
+                            <h3 className={`text-lg font-semibold line-clamp-2 flex-1 ${isHint ? 'text-yellow-400' : ''}`}>
                             {artwork.title || 'Untitled'}
                           </h3>
                             {artwork.relation && (
-                              <span className="ml-2 px-2 py-1 text-xs font-semibold rounded-full bg-yellow-400 text-gray-900 whitespace-nowrap flex-shrink-0" title={`Connected by: ${formatRelation(artwork.relation)}`}>
+                              <span className={`ml-2 px-2 py-1 text-xs font-semibold rounded-full whitespace-nowrap flex-shrink-0 ${isHint ? 'bg-yellow-400 text-gray-900' : 'bg-gray-700 text-white'}`} title={`Connected by: ${formatRelation(artwork.relation)}`}>
                                 {formatRelation(artwork.relation)}
                               </span>
                             )}
                           </div>
                           {artwork.maker && (
-                            <p className="text-gray-300 text-sm mb-1">{artwork.maker}</p>
+                            <p className={`text-sm mb-1 ${isHint ? 'text-yellow-300' : 'text-gray-300'}`}>{artwork.maker}</p>
                           )}
                           {artwork.date && (
-                            <p className="text-gray-400 text-xs">{artwork.date}</p>
+                            <p className={`text-xs ${isHint ? 'text-yellow-200' : 'text-gray-400'}`}>{artwork.date}</p>
                           )}
                         </div>
                       </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </>
               )}
@@ -780,7 +822,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
             })()}
             {targetArtwork && startingArtwork && (
               <div className="p-8 mt-6">
-                <h2 className="text-4xl font-bold text-white mb-4">🎯 Your Target</h2>
+                <h2 className="text-4xl font-bold text-white mb-4">Your Target</h2>
                 <p className="text-gray-300 mb-8 text-lg">
                   {targetDistance !== null ? (
                     <>
@@ -819,12 +861,12 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
                             className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                             style={{ display: 'none' }}
                           >
-                            🎯
+                            🎨
                           </div>
                         </div>
                       ) : (
                         <div className="w-full md:w-96 h-96 bg-gray-800 flex items-center justify-center text-6xl text-white">
-                          🎯
+                          🎨
                         </div>
                       )}
                       <div className="flex-1 text-white">
