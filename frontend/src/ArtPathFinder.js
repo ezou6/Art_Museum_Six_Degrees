@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
+const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
   const [artworks, setArtworks] = useState(initialArtworks);
   const [selectedArtwork, setSelectedArtwork] = useState(null);
   const [connections, setConnections] = useState([]);
@@ -13,6 +13,8 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
   const [loadingArtworks, setLoadingArtworks] = useState(initialArtworks.length === 0);
   const [testingConnection, setTestingConnection] = useState(false);
   const [navigationStack, setNavigationStack] = useState([]); // Track navigation path
+  const [isWon, setIsWon] = useState(false); // Track if user has won
+  const [loadingPlayAgain, setLoadingPlayAgain] = useState(false);
 
   const testBackendConnection = async () => {
     setTestingConnection(true);
@@ -159,7 +161,12 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
       if (distanceResponse.ok) {
         const distanceData = await distanceResponse.json();
         if (distanceData.has_path) {
-          setTargetDistance(distanceData.distance);
+          const distance = distanceData.distance;
+          setTargetDistance(distance);
+          // Check if user won (distance is 0)
+          if (distance === 0) {
+            setIsWon(true);
+          }
         } else {
           setTargetDistance(null);
         }
@@ -170,10 +177,87 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     }
   }, []);
 
-  const handleArtworkSelect = async (artwork, addToStack = true) => {
+  // Handle Play Again button
+  const handlePlayAgain = async () => {
+    setLoadingPlayAgain(true);
+    try {
+      // Clear all artworks from database
+      const clearResponse = await fetch('http://localhost:8080/api/six_degrees/clear_artworks/', {
+        method: 'POST'
+      });
+      
+      if (!clearResponse.ok) {
+        throw new Error('Failed to clear artworks');
+      }
+
+      // Fetch new random objects (this will import 1000 new ones)
+      const randomResponse = await fetch('http://localhost:8080/api/six_degrees/random_objects/');
+      
+      if (!randomResponse.ok) {
+        throw new Error('Failed to fetch new artworks');
+      }
+
+      const data = await randomResponse.json();
+      
+      if (data.error) {
+        throw new Error(data.error);
+      }
+
+      // Limit display to first 20 artworks
+      const artworksToDisplay = (data.artworks || []).slice(0, 20);
+
+      // Convert image URLs for display
+      const artworksWithConvertedUrls = artworksToDisplay.map(art => ({
+        ...art,
+        image_url: convertImageUrl(art.image_url)
+      }));
+
+      // Reset all state
+      setIsWon(false);
+      setSelectedArtwork(null);
+      setConnections([]);
+      setTargetArtwork(null);
+      setTargetDistance(null);
+      setStartingArtwork(null);
+      setNavigationStack([]);
+      setError(null);
+      setArtworks(artworksWithConvertedUrls);
+
+      // Call onPlayAgain callback with new artworks
+      if (onPlayAgain) {
+        onPlayAgain(artworksToDisplay);
+      }
+    } catch (err) {
+      console.error('Error playing again:', err);
+      setError(`Failed to start new game: ${err.message}`);
+    } finally {
+      setLoadingPlayAgain(false);
+    }
+  };
+
+  // Build the path from start to target
+  const getPathToTarget = () => {
+    if (!startingArtwork || !selectedArtwork || !targetArtwork) return [];
+    
+    const path = [startingArtwork];
+    // Add all artworks in the navigation stack
+    path.push(...navigationStack);
+    // Add the current selected artwork (which is the target)
+    if (selectedArtwork.id !== startingArtwork.id) {
+      path.push(selectedArtwork);
+    }
+    return path;
+  };
+
+  const handleArtworkSelect = async (artwork, addToStack = true, relation = null) => {
     // Add to navigation stack if we're navigating from a connection (and not going back)
+    // Store the relation between the previous artwork (selectedArtwork) and the current one (artwork)
     if (selectedArtwork && addToStack) {
-      setNavigationStack([...navigationStack, selectedArtwork]);
+      const artworkWithRelation = {
+        ...selectedArtwork,
+        relationToNext: relation // Store relation from this artwork to the next one
+      };
+      setNavigationStack([...navigationStack, artworkWithRelation]);
     }
     
     // If this is the first selection (no starting artwork set), set it and fetch target
@@ -276,9 +360,9 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         
         // Only compare if both are valid numbers
         if (!isNaN(source) && !isNaN(target)) {
-          if (source === artworkId) {
+        if (source === artworkId) {
             connectionRelations.set(target, relation);
-          } else if (target === artworkId) {
+        } else if (target === artworkId) {
             connectionRelations.set(source, relation);
           }
         }
@@ -300,7 +384,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           excludeIds.add(prevId);
         }
       });
-      
+
       const connectedArtworks = graphData.nodes
         .filter(node => {
           const nodeId = Number(node.id || node.object_id);
@@ -315,12 +399,12 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         .map(node => {
           const nodeId = Number(node.id || node.object_id);
           return {
-            id: node.id || node.object_id,
-            object_id: node.id || node.object_id,
-            title: node.title || node.label,
-            maker: node.maker,
-            date: node.date,
-            medium: node.medium,
+          id: node.id || node.object_id,
+          object_id: node.id || node.object_id,
+          title: node.title || node.label,
+          maker: node.maker,
+          date: node.date,
+          medium: node.medium,
             image_url: convertImageUrl(node.image_url), // Convert IIIF URLs
             relation: connectionRelations.get(nodeId) || 'Unknown', // Add relation type
           };
@@ -377,7 +461,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
   };
 
   return (
-    <div
+    <div 
       className="min-h-screen py-8 bg-black relative"
     >
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -386,7 +470,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           <h1 className="text-3xl font-bold text-white">
             Art Path Finder
           </h1>
-          <button
+          <button 
             className="bg-gradient-to-r from-white-400 to-white-300 text-gray-900 px-6 py-3 rounded-xl font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
             onClick={onBack}
           >
@@ -394,19 +478,209 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
           </button>
         </div>
 
-        {!selectedArtwork ? (
+        {/* You Won! End Page */}
+        {isWon && (
           <div className="p-8">
-            <div className="flex justify-between items-center mb-8">
-              <div>
-                <h2 className="text-4xl font-bold text-white mb-2">
-                  Your First Connection
-                </h2>
-                <p className="text-gray-300 text-lg">
-                  Select an artwork from these randomly selected pieces to discover its connections
+            <div className="max-w-4xl mx-auto">
+              {/* Header */}
+              <div className="text-center mb-12">
+                <h2 className="text-5xl font-bold text-white mb-4">You Won!</h2>
+                <p className="text-xl text-gray-300">
+                  Congratulations! You found the path to your target artwork!
                 </p>
               </div>
+
+              {/* Path Summary */}
+              {startingArtwork && targetArtwork && (
+                <div className="bg-gray-900 rounded-2xl p-8 mb-8 border border-gray-700">
+                  <h3 className="text-3xl font-bold text-white mb-6 text-center">Your Path to Victory</h3>
+                  
+                  <div className="space-y-6">
+                    {/* Starting Artwork */}
+                    <div className="flex items-center gap-4">
+                      <div className="flex-shrink-0 w-24 h-24 bg-gray-800 rounded-lg flex items-center justify-center overflow-hidden">
+                        {startingArtwork.image_url ? (
+                          <img
+                            src={startingArtwork.image_url}
+                            alt={startingArtwork.title}
+                            className="w-full h-full object-contain"
+                            onError={(e) => {
+                              e.target.style.display = 'none';
+                              e.target.nextSibling.style.display = 'flex';
+                            }}
+                          />
+                        ) : null}
+                        <div className="w-full h-full hidden items-center justify-center text-4xl bg-gray-800 text-white" style={{ display: startingArtwork.image_url ? 'none' : 'flex' }}>
+                          🎨
+                        </div>
+                      </div>
+                      <div className="flex-1">
+                        <div className="bg-blue-600 text-white px-4 py-2 rounded-lg inline-block mb-2">
+                          <span className="font-semibold">Start</span>
+                        </div>
+                        <h4 className="text-xl font-bold text-white">{startingArtwork.title || 'Untitled'}</h4>
+                        {startingArtwork.maker && (
+                          <p className="text-gray-300">{startingArtwork.maker}</p>
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Path Steps with Relations */}
+                    {navigationStack.map((artwork, index) => {
+                      const nextArtwork = index < navigationStack.length - 1 
+                        ? navigationStack[index + 1] 
+                        : (selectedArtwork && selectedArtwork.id !== startingArtwork.id ? selectedArtwork : null);
+                      const relation = artwork.relationToNext;
+                      
+                      return (
+                        <div key={artwork.id || artwork.object_id}>
+                          {/* Connection Arrow with Relation */}
+                          <div className="flex items-center gap-4 mb-4">
+                            <div className="flex-shrink-0 w-12 flex items-center justify-center">
+                              <div className="text-2xl text-gray-400">→</div>
+                            </div>
+                            {relation && (
+                              <div className="flex-1">
+                                <span className="px-3 py-1 text-sm font-semibold rounded-full bg-yellow-400 text-gray-900">
+                                  {formatRelation(relation)}
+                                </span>
+                              </div>
+                            )}
+                          </div>
+                          
+                          {/* Artwork */}
+                          <div className="flex items-center gap-4">
+                            <div className="flex-shrink-0 w-24 h-24 bg-gray-800 rounded-lg flex items-center justify-center overflow-hidden">
+                              {artwork.image_url ? (
+                                <img
+                                  src={artwork.image_url}
+                                  alt={artwork.title}
+                                  className="w-full h-full object-contain"
+                                  onError={(e) => {
+                                    e.target.style.display = 'none';
+                                    e.target.nextSibling.style.display = 'flex';
+                                  }}
+                                />
+                              ) : null}
+                              <div className="w-full h-full hidden items-center justify-center text-4xl bg-gray-800 text-white" style={{ display: artwork.image_url ? 'none' : 'flex' }}>
+                                🎨
+                              </div>
+                            </div>
+                            <div className="flex-1">
+                              <div className="bg-gray-700 text-white px-4 py-2 rounded-lg inline-block mb-2">
+                                <span className="font-semibold">Step {index + 1}</span>
+                              </div>
+                              <h4 className="text-xl font-bold text-white">{artwork.title || 'Untitled'}</h4>
+                              {artwork.maker && (
+                                <p className="text-gray-300">{artwork.maker}</p>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    })}
+
+                    {/* Final Connection to Target */}
+                    {selectedArtwork && selectedArtwork.id !== startingArtwork.id && navigationStack.length > 0 && (
+                      <>
+                        <div className="flex items-center gap-4 mb-4">
+                          <div className="flex-shrink-0 w-12 flex items-center justify-center">
+                            <div className="text-2xl text-gray-400">→</div>
+                          </div>
+                          {navigationStack[navigationStack.length - 1]?.relationToNext && (
+                            <div className="flex-1">
+                              <span className="px-3 py-1 text-sm font-semibold rounded-full bg-yellow-400 text-gray-900">
+                                {formatRelation(navigationStack[navigationStack.length - 1].relationToNext)}
+                              </span>
+                            </div>
+                          )}
+                        </div>
+                      </>
+                    )}
+
+                    {/* Target Artwork */}
+                    {selectedArtwork && selectedArtwork.id !== startingArtwork.id && (
+                      <div className="flex items-center gap-4">
+                        <div className="flex-shrink-0 w-24 h-24 bg-gray-800 rounded-lg flex items-center justify-center overflow-hidden">
+                          {selectedArtwork.image_url ? (
+                            <img
+                              src={selectedArtwork.image_url}
+                              alt={selectedArtwork.title}
+                              className="w-full h-full object-contain"
+                              onError={(e) => {
+                                e.target.style.display = 'none';
+                                e.target.nextSibling.style.display = 'flex';
+                              }}
+                            />
+                          ) : null}
+                          <div className="w-full h-full hidden items-center justify-center text-4xl bg-gray-800 text-white" style={{ display: selectedArtwork.image_url ? 'none' : 'flex' }}>
+                            🎯
+                          </div>
+                        </div>
+                        <div className="flex-1">
+                          <div className="bg-yellow-500 text-gray-900 px-4 py-2 rounded-lg inline-block mb-2">
+                            <span className="font-semibold">Target</span>
+                          </div>
+                          <h4 className="text-xl font-bold text-white">{selectedArtwork.title || 'Untitled'}</h4>
+                          {selectedArtwork.maker && (
+                            <p className="text-gray-300">{selectedArtwork.maker}</p>
+                          )}
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Path Summary Stats */}
+                    <div className="mt-8 pt-6 border-t border-gray-700 text-center">
+                      {(() => {
+                        const pathLength = navigationStack.length + (selectedArtwork && selectedArtwork.id !== startingArtwork.id ? 1 : 0);
+                        return (
+                          <p className="text-xl text-gray-300">
+                            You completed the path in <strong className="text-yellow-400">{pathLength}</strong> connection{pathLength !== 1 ? 's' : ''}!
+                          </p>
+                        );
+                      })()}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Play Again Button */}
+              <div className="text-center">
+                <button
+                  onClick={handlePlayAgain}
+                  disabled={loadingPlayAgain}
+                  className="bg-white text-gray-900 px-12 py-4 rounded-xl text-xl font-bold transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 active:scale-100 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-100"
+                >
+                  {loadingPlayAgain ? (
+                    <span className="flex items-center gap-3">
+                      <span>Loading New Game...</span>
+                      <div className="w-5 h-5 border-2 border-gray-900 border-t-transparent rounded-full animate-spin"></div>
+                    </span>
+                  ) : (
+                    'Play Again'
+                  )}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Regular Game View - only show if not won */}
+        {!isWon && (
+          <>
+            {!selectedArtwork ? (
+              <div className="p-8">
+                <div className="flex justify-between items-center mb-8">
+                  <div>
+                    <h2 className="text-4xl font-bold text-white mb-2">
+                      Your First Connection
+                    </h2>
+                    <p className="text-gray-300 text-lg">
+                      Select an artwork from these randomly selected pieces to discover its connections
+                    </p>
+              </div>
               {!loadingArtworks && artworks.length > 0 && (
-                <div className="bg-gray-800 text-white px-4 py-2 rounded-lg font-semibold">
+                    <div className="bg-gray-800 text-white px-4 py-2 rounded-lg font-semibold">
                   {artworks.length} Artwork{artworks.length !== 1 ? 's' : ''}
                 </div>
               )}
@@ -414,47 +688,47 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
             {loadingArtworks && (
               <div className="text-center py-12">
-                <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
-                <p className="mt-4 text-white">Loading artworks...</p>
+                    <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
+                    <p className="mt-4 text-white">Loading artworks...</p>
               </div>
             )}
 
             {!loadingArtworks && artworks.length > 0 && (
-              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                 {artworks.map((artwork) => (
                   <div
                     key={artwork.id || artwork.object_id}
-                    className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
+                        className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
                     onClick={() => handleArtworkSelect(artwork)}
                   >
-                    <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
+                        <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
                       {artwork.image_url ? (
                         <img
                           src={artwork.image_url}
                           alt={artwork.title || 'Artwork'}
-                          className="w-full h-full object-contain transition-transform duration-300"
+                              className="w-full h-full object-contain transition-transform duration-300"
                           onError={(e) => {
                             e.target.style.display = 'none';
                             e.target.nextSibling.style.display = 'flex';
                           }}
                         />
                       ) : null}
-                      <div
-                        className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
+                      <div 
+                            className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                         style={{ display: artwork.image_url ? 'none' : 'flex' }}
                       >
                         🎨
                       </div>
                     </div>
-                    <div className="text-white">
-                      <h3 className="text-lg font-semibold mb-2 line-clamp-2">
+                        <div className="text-white">
+                          <h3 className="text-lg font-semibold mb-2 line-clamp-2">
                         {artwork.title || 'Untitled'}
                       </h3>
                       {artwork.maker && (
-                        <p className="text-gray-300 text-sm mb-1">{artwork.maker}</p>
+                            <p className="text-gray-300 text-sm mb-1">{artwork.maker}</p>
                       )}
                       {artwork.date && (
-                        <p className="text-gray-400 text-xs">{artwork.date}</p>
+                            <p className="text-gray-400 text-xs">{artwork.date}</p>
                       )}
                     </div>
                   </div>
@@ -464,13 +738,13 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
 
             {!loadingArtworks && artworks.length === 0 && (
               <div className="text-center py-12">
-                <div className="text-6xl mb-4 opacity-50 text-white">🖼️</div>
-                <p className="text-white">No artworks available. Please import some first!</p>
+                    <div className="text-6xl mb-4 opacity-50 text-white">🖼️</div>
+                    <p className="text-white">No artworks available. Please import some first!</p>
               </div>
             )}
 
             {error && (
-              <div className="mt-6 bg-red-900 border-l-4 border-red-500 text-red-100 p-4 rounded">
+                  <div className="mt-6 bg-red-900 border-l-4 border-red-500 text-red-100 p-4 rounded">
                 <p className="font-semibold mb-2">⚠️ Error Loading Artworks</p>
                 <p>{error}</p>
                 <div className="mt-4 space-y-2">
@@ -483,9 +757,9 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                   </button>
                   <p className="text-sm font-semibold mt-4">Troubleshooting steps:</p>
                   <ol className="list-decimal list-inside text-sm space-y-1 ml-4">
-                    <li>Make sure the Django backend is running: <code className="bg-red-800 px-2 py-1 rounded">cd backend && python manage.py runserver</code></li>
-                    <li>Check that the backend is accessible at <code className="bg-red-800 px-2 py-1 rounded">http://localhost:8080</code></li>
-                    <li>Import artworks first: Visit <a href="http://localhost:8080/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-red-300 underline">http://localhost:8080/api/six_degrees/import_art/</a></li>
+                        <li>Make sure the Django backend is running: <code className="bg-red-800 px-2 py-1 rounded">cd backend && python manage.py runserver</code></li>
+                        <li>Check that the backend is accessible at <code className="bg-red-800 px-2 py-1 rounded">http://localhost:8080</code></li>
+                        <li>Import artworks first: Visit <a href="http://localhost:8080/api/six_degrees/import_art/" target="_blank" rel="noopener noreferrer" className="text-red-300 underline">http://localhost:8080/api/six_degrees/import_art/</a></li>
                     <li>Check browser console (F12) for detailed error messages</li>
                   </ol>
                 </div>
@@ -510,18 +784,18 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                       ← Back
                     </button>
                   ) : null}
-                  <button
+                <button 
                     className="bg-transparent border-2 border-white text-white px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:bg-white hover:text-black hover:-translate-x-1"
-                    onClick={() => {
-                      setSelectedArtwork(null);
-                      setConnections([]);
+                  onClick={() => {
+                    setSelectedArtwork(null);
+                    setConnections([]);
                       setTargetArtwork(null);
                       setStartingArtwork(null);
                       setNavigationStack([]);
-                    }}
-                  >
-                    ← Choose Different Artwork
-                  </button>
+                  }}
+                >
+                  ← Choose Different Artwork
+                </button>
                 </div>
                 <h2 className="text-4xl font-bold text-white mb-4">Selected: {selectedArtwork.title || 'Untitled'}</h2>
               </div>
@@ -529,14 +803,14 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
               {selectedArtwork.image_url && (
                 <div className="w-full max-w-2xl mx-auto my-6">
                   <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden">
-                    <img
-                      src={selectedArtwork.image_url}
-                      alt={selectedArtwork.title}
+                  <img
+                    src={selectedArtwork.image_url}
+                    alt={selectedArtwork.title}
                       className="w-full h-full object-contain"
-                      onError={(e) => {
-                        e.target.style.display = 'none';
-                      }}
-                    />
+                    onError={(e) => {
+                      e.target.style.display = 'none';
+                    }}
+                  />
                   </div>
                 </div>
               )}
@@ -557,7 +831,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
             {/* Connected Artworks */}
             <div className="p-8">
               <h2 className="text-4xl font-bold text-white mb-4">Connected Artworks</h2>
-            
+              
               {loading && (
                 <div className="text-center py-12">
                   <div className="inline-block w-10 h-10 border-4 border-gray-700 border-t-white rounded-full animate-spin"></div>
@@ -575,7 +849,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                       <div
                         key={artwork.id || artwork.object_id}
                         className="cursor-pointer transition-all duration-300 hover:opacity-80 group"
-                        onClick={() => handleArtworkSelect(artwork)}
+                        onClick={() => handleArtworkSelect(artwork, true, artwork.relation)}
                       >
                         <div className="w-full h-96 bg-gray-900 flex items-center justify-center overflow-hidden relative mb-4">
                           {artwork.image_url ? (
@@ -589,7 +863,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                               }}
                             />
                           ) : null}
-                          <div
+                          <div 
                             className="w-full h-full hidden items-center justify-center text-6xl bg-gray-800 text-white"
                             style={{ display: artwork.image_url ? 'none' : 'flex' }}
                           >
@@ -599,8 +873,8 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                         <div className="text-white">
                           <div className="flex items-start justify-between mb-2">
                             <h3 className="text-lg font-semibold line-clamp-2 flex-1">
-                              {artwork.title || 'Untitled'}
-                            </h3>
+                            {artwork.title || 'Untitled'}
+                          </h3>
                             {artwork.relation && (
                               <span className="ml-2 px-2 py-1 text-xs font-semibold rounded-full bg-yellow-400 text-gray-900 whitespace-nowrap flex-shrink-0" title={`Connected by: ${formatRelation(artwork.relation)}`}>
                                 {formatRelation(artwork.relation)}
@@ -717,6 +991,8 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                 )}
               </div>
             )}
+            </>
+          )}
           </>
         )}
       </div>

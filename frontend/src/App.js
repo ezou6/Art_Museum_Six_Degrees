@@ -31,13 +31,22 @@ function App() {
     setInitialArtworks([]);
   };
 
+  const handlePlayAgain = (newArtworks) => {
+    setInitialArtworks(newArtworks);
+    // Keep started as true, but reset will happen in ArtPathFinder
+  };
+
   if (!started) {
     return <HomePage onEnter={handleEnter} message={message} />;
   }
 
   return (
     <div className="min-h-screen">
-      <ArtPathFinder onBack={handleBack} initialArtworks={initialArtworks} />
+      <ArtPathFinder 
+        onBack={handleBack} 
+        initialArtworks={initialArtworks}
+        onPlayAgain={handlePlayAgain}
+      />
     </div>
   );
 }

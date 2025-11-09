@@ -91,11 +91,12 @@ def get_target_artwork_view(request, artwork_id):
     """Get a target artwork that is 4-9 steps away from the starting artwork (prefers 6 steps)."""
     try:
         from .utils import get_target_artwork
-        target_data = get_target_artwork(artwork_id, preferred_steps=6, min_steps=4, max_steps=9)
+        # TEMPORARY: Set to 1 step away for testing the win condition
+        target_data = get_target_artwork(artwork_id, preferred_steps=1, min_steps=1, max_steps=1)
         
         if not target_data:
             return JsonResponse({
-                "error": "Could not find a target artwork 4-9 steps away"
+                "error": "Could not find a target artwork 1 step away"
             }, status=404)
         
         # Convert IIIF URL if needed
@@ -296,6 +297,26 @@ def get_random_objects(request):
             'count': len(objects_data)
         })
         
+    except Exception as e:
+        return JsonResponse({
+            "error": str(e)
+        }, status=500)
+
+
+@api_view(['DELETE', 'POST'])
+def clear_artworks(request):
+    """Clear all artworks from the database."""
+    try:
+        deleted_count = ArtObject.objects.all().delete()[0]
+        
+        # Clear graph cache
+        from django.core.cache import cache
+        cache.delete("art_graph_json")
+        
+        return JsonResponse({
+            'message': f'Successfully deleted {deleted_count} artworks',
+            'deleted_count': deleted_count
+        })
     except Exception as e:
         return JsonResponse({
             "error": str(e)
