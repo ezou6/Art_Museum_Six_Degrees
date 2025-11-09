@@ -45,6 +45,23 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
     return url;
   };
 
+  // Helper function to format relation type for display
+  const formatRelation = (relation) => {
+    if (!relation) return null;
+    // Capitalize first letter and make it more readable
+    const formatted = relation.charAt(0).toUpperCase() + relation.slice(1).toLowerCase();
+    // Handle special cases - add "Same" prefix for appropriate relations
+    const relationMap = {
+      'Artist': 'Same Artist',
+      'Style': 'Same Style',
+      'Material': 'Same Material',
+      'Period': 'Same Period',
+      'Text': 'Similar Text',
+      'Department': 'Same Department',
+    };
+    return relationMap[formatted] || `Same ${formatted}`;
+  };
+
   useEffect(() => {
     // If initialArtworks are provided, use them directly (with converted image URLs)
     if (initialArtworks && initialArtworks.length > 0) {
@@ -216,42 +233,70 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
         return;
       }
       
-      const connectedIds = new Set();
+      // Map to store connection ID -> relation type
+      const connectionRelations = new Map();
       
       graphData.edges.forEach(edge => {
         const source = Number(edge.source || edge[0]);
         const target = Number(edge.target || edge[1]);
+        const relation = edge.relation || 'Unknown';
         
         // Only compare if both are valid numbers
         if (!isNaN(source) && !isNaN(target)) {
           if (source === artworkId) {
-            connectedIds.add(target);
+            connectionRelations.set(target, relation);
           } else if (target === artworkId) {
-            connectedIds.add(source);
+            connectionRelations.set(source, relation);
           }
         }
       });
 
+      // Get IDs of artworks to exclude from connections:
+      // 1. The current selected artwork (if navigating forward)
+      // 2. All artworks in the navigation stack (to avoid showing artworks we've already visited)
+      const excludeIds = new Set();
+      if (selectedArtwork) {
+        const currentId = Number(selectedArtwork.id || selectedArtwork.object_id);
+        if (!isNaN(currentId)) {
+          excludeIds.add(currentId);
+        }
+      }
+      navigationStack.forEach(prevArtwork => {
+        const prevId = Number(prevArtwork.id || prevArtwork.object_id);
+        if (!isNaN(prevId)) {
+          excludeIds.add(prevId);
+        }
+      });
+      
       const connectedArtworks = graphData.nodes
         .filter(node => {
           const nodeId = Number(node.id || node.object_id);
-          return !isNaN(nodeId) && connectedIds.has(nodeId);
+          return !isNaN(nodeId) && connectionRelations.has(nodeId);
+        })
+        .filter(node => {
+          // Exclude previous artworks and current artwork from connections
+          const nodeId = Number(node.id || node.object_id);
+          return !excludeIds.has(nodeId);
         })
         .filter(node => node.image_url) // Only include connections with images
-        .map(node => ({
-          id: node.id || node.object_id,
-          object_id: node.id || node.object_id,
-          title: node.title || node.label,
-          maker: node.maker,
-          date: node.date,
-          medium: node.medium,
-          image_url: convertImageUrl(node.image_url), // Convert IIIF URLs
-        }))
+        .map(node => {
+          const nodeId = Number(node.id || node.object_id);
+          return {
+            id: node.id || node.object_id,
+            object_id: node.id || node.object_id,
+            title: node.title || node.label,
+            maker: node.maker,
+            date: node.date,
+            medium: node.medium,
+            image_url: convertImageUrl(node.image_url), // Convert IIIF URLs
+            relation: connectionRelations.get(nodeId) || 'Unknown', // Add relation type
+          };
+        })
         .slice(0, 6); // Limit to 6 connections
 
       setConnections(connectedArtworks);
       
-      // Fetch target artwork (5-6 steps away) only if this is the first selection
+      // Fetch target artwork (exactly 6 steps away) only if this is the first selection
       if (isFirstSelection) {
         setLoadingTarget(true);
         try {
@@ -520,9 +565,16 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                           </div>
                         </div>
                         <div className="p-5 flex-1 flex flex-col">
-                          <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
-                            {artwork.title || 'Untitled'}
-                          </h3>
+                          <div className="flex items-start justify-between mb-2">
+                            <h3 className="text-lg font-semibold text-gray-800 line-clamp-2 flex-1">
+                              {artwork.title || 'Untitled'}
+                            </h3>
+                            {artwork.relation && (
+                              <span className="ml-2 px-2 py-1 text-xs font-semibold rounded-full bg-indigo-100 text-indigo-700 whitespace-nowrap flex-shrink-0" title={`Connected by: ${formatRelation(artwork.relation)}`}>
+                                {formatRelation(artwork.relation)}
+                              </span>
+                            )}
+                          </div>
                           {artwork.maker && (
                             <p className="text-indigo-600 text-sm font-medium mb-1">{artwork.maker}</p>
                           )}
@@ -562,7 +614,7 @@ const ArtPathFinder = ({ onBack, initialArtworks = [] }) => {
                     </>
                   ) : (
                     <>
-                      This artwork is 5-6 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
+                      This artwork is exactly 6 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
                     </>
                   )}
                 </p>

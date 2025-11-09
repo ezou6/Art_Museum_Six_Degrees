@@ -86,14 +86,14 @@ def art_graph_view(request):
 
 @api_view(['GET'])
 def get_target_artwork_view(request, artwork_id):
-    """Get a target artwork that is 5-6 steps away from the starting artwork."""
+    """Get a target artwork that is exactly 6 steps away from the starting artwork."""
     try:
         from .utils import get_target_artwork
-        target_data = get_target_artwork(artwork_id, steps=5)
+        target_data = get_target_artwork(artwork_id, steps=6)
         
         if not target_data:
             return JsonResponse({
-                "error": "Could not find a target artwork 5 steps away"
+                "error": "Could not find a target artwork exactly 6 steps away"
             }, status=404)
         
         # Convert IIIF URL if needed

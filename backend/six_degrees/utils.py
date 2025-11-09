@@ -173,7 +173,11 @@ def generate_art_graph(export_path=None):
     cache.set(CACHE_KEY, export, CACHE_TIMEOUT)
     return export
 
-def get_target_artwork(start_id, steps=5):
+def get_target_artwork(start_id, steps=6):
+    """
+    Find a target artwork that is exactly 'steps' connections away from the start.
+    Uses BFS to find all nodes at exactly the specified distance, then picks one randomly.
+    """
     graph_data = generate_art_graph()
     G = nx.Graph()
     for node in graph_data["nodes"]:
@@ -181,15 +185,56 @@ def get_target_artwork(start_id, steps=5):
     for edge in graph_data["edges"]:
         G.add_edge(edge["source"], edge["target"], **edge)
 
-    current = start_id
-    visited = set([current])
+    if start_id not in G:
+        return None
 
-    for _ in range(steps):
-        neighbors = [n for n in G.neighbors(current) if n not in visited]
-        if not neighbors:
-            break  # dead end
-        current = random.choice(neighbors)
-        visited.add(current)
-
-    target_data = G.nodes[current]
+    # Use BFS to find all nodes at exactly 'steps' distance
+    from collections import deque
+    
+    queue = deque([(start_id, 0)])  # (node, distance)
+    visited = {start_id: 0}  # node -> distance
+    nodes_at_target_distance = []
+    
+    while queue:
+        current, dist = queue.popleft()
+        
+        if dist == steps:
+            # Found a node at exactly the target distance
+            if current not in nodes_at_target_distance:
+                nodes_at_target_distance.append(current)
+            continue
+        elif dist > steps:
+            # We've gone too far, stop exploring this branch
+            continue
+        
+        # Explore neighbors
+        for neighbor in G.neighbors(current):
+            new_dist = dist + 1
+            # Only add if we haven't visited this node, or if we found a shorter path
+            if neighbor not in visited or visited[neighbor] > new_dist:
+                visited[neighbor] = new_dist
+                queue.append((neighbor, new_dist))
+    
+    if not nodes_at_target_distance:
+        # If no nodes found at exactly 'steps' distance, try to find one close to it
+        # Find nodes at distance steps-1 or steps+1 (prefer steps-1)
+        fallback_nodes = []
+        for node, node_dist in visited.items():
+            if node_dist == steps - 1:
+                fallback_nodes.append(node)
+        
+        if not fallback_nodes:
+            # Try steps+1 as last resort
+            for node, node_dist in visited.items():
+                if node_dist == steps + 1:
+                    fallback_nodes.append(node)
+        
+        if not fallback_nodes:
+            return None
+        
+        nodes_at_target_distance = fallback_nodes
+    
+    # Pick a random node from those at the target distance
+    target_id = random.choice(nodes_at_target_distance)
+    target_data = G.nodes[target_id]
     return target_data
