@@ -120,10 +120,10 @@ const fetchArtworks = async () => {
 
   // Helper function to update target distance
   const updateTargetDistance = async (currentId, targetId) => {
-    if (!targetId) return;
+    if (!targetId || !currentId) return;
     
     try {
-      const distanceResponse = await fetch(`http://localhost:8080/api/six_degrees/artworks/${currentId}/distance/${targetId}/`);
+      const distanceResponse = await fetch(`http://localhost:8000/api/six_degrees/artworks/${currentId}/distance/${targetId}/`);
       if (distanceResponse.ok) {
         const distanceData = await distanceResponse.json();
         if (distanceData.has_path) {
@@ -201,7 +201,40 @@ const fetchArtworks = async () => {
         .slice(0, 6); // Limit to 6 connections
 
       setConnections(connectedArtworks);
-} catch (err) {
+      
+      // Fetch target artwork (4-9 steps away) only if this is the first selection
+      if (isFirstSelection) {
+        setLoadingTarget(true);
+        try {
+          const targetResponse = await fetch(`http://localhost:8000/api/six_degrees/artworks/${artwork.id || artwork.object_id}/target/`);
+          if (targetResponse.ok) {
+            const targetData = await targetResponse.json();
+            if (targetData.error) {
+              console.warn('Could not find target artwork:', targetData.error);
+            } else {
+              // Ensure target image URL is converted
+              const targetWithConvertedUrl = {
+                ...targetData,
+                image_url: convertImageUrl(targetData.image_url)
+              };
+              setTargetArtwork(targetWithConvertedUrl);
+              // Calculate initial distance
+              updateTargetDistance(artwork.id || artwork.object_id, targetData.id || targetData.object_id);
+            }
+          }
+        } catch (targetErr) {
+          console.warn('Error fetching target artwork:', targetErr);
+        } finally {
+          setLoadingTarget(false);
+        }
+      } else if (targetArtwork) {
+        // Update distance when navigating to a new artwork
+        updateTargetDistance(artwork.id || artwork.object_id, targetArtwork.id || targetArtwork.object_id);
+      }
+      
+      // Clear error if we successfully got connections (even if empty)
+      setError(null);
+    } catch (err) {
       console.error('Error finding connections:', err);
       setError('Failed to load connections. Please try again.');
     } finally {
@@ -441,7 +474,7 @@ onError={(e) => {
                     </>
                   ) : (
                     <>
-                      This artwork is 5-6 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
+                      This artwork is 4-9 connections away from your starting artwork ({startingArtwork.title || 'Untitled'}). Can you find the path?
                     </>
                   )}
                 </p>
