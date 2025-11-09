@@ -33,73 +33,80 @@ const HomePage = ({ onEnter, message }) => {
       setLoading(false);
     }
   };
+
   const backgroundImage = process.env.PUBLIC_URL + '/princeton-art-museum1.jpg';
-  
+
   return (
-    <div 
-      className="min-h-screen flex items-center justify-center relative overflow-hidden p-8 bg-cover bg-center bg-no-repeat bg-fixed"
+    <div
+      className="min-h-screen relative overflow-hidden"
       style={{
-        backgroundImage: `url(${backgroundImage})`
+        background: 'linear-gradient(to bottom right, #000000, #1a1a1a, #2d2d2d)',
       }}
     >
-      {/* Black overlay */}
-      <div className="absolute inset-0 bg-black bg-opacity-30 z-0"></div>
-      
-      {/* Floating shapes */}
-      <div className="absolute inset-0 overflow-hidden z-0 opacity-30">
-        <div className="absolute w-72 h-72 -top-24 -left-24 rounded-full bg-white bg-opacity-10 backdrop-blur-sm animate-float"></div>
-        <div className="absolute w-48 h-48 -bottom-12 -right-12 rounded-full bg-white bg-opacity-10 backdrop-blur-sm animate-float" style={{ animationDelay: '5s' }}></div>
-        <div className="absolute w-36 h-36 top-1/2 right-[10%] rounded-full bg-white bg-opacity-10 backdrop-blur-sm animate-float" style={{ animationDelay: '10s' }}></div>
-      </div>
+      {/* Background image */}
+      <div
+        className="absolute inset-0 bg-cover bg-no-repeat"
+        style={{
+          backgroundImage: `url(${backgroundImage})`,
+          backgroundPosition: 'right center',
+          opacity: 0.5,
+        }}
+      ></div>
+    
+      {/* Content container */}
+      <div className="relative z-10 min-h-screen flex flex-col">
+        {/* Main content area - text on the left */}
+        <div className="flex-1 flex items-center">
+          <div className="px-8 md:px-16 lg:px-24 py-16">
+            {/* Title on the left */}
+            <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-white leading-tight mb-8">
+              Princeton University<br />
+              Art Museum<br />
+              <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-normal">Six Degrees</span>
+            </h1>
+          </div>
+        </div>
 
-      {/* Content */}
-      <div className="relative z-10 text-center text-white max-w-3xl animate-fade-in">
-        
-        <h1 className="text-6xl md:text-7xl font-bold mb-4 leading-tight drop-shadow-2xl">
-          Princeton University<br />
-          <span className="bg-gradient-to-r from-yellow-400 to-yellow-300 bg-clip-text text-transparent">
-            Art Museum
-          </span>
-        </h1>
-        
-        <h2 className="text-2xl font-light mb-6 opacity-90 tracking-widest uppercase">
-          Six Degrees of Separation
-        </h2>
-        
-        <p className="text-lg md:text-xl leading-relaxed mb-12 opacity-95 max-w-2xl mx-auto">
-          Discover the connections between artworks through artists, cultures, periods, and more.
-          Find the shortest path from one artwork to another.
-        </p>
-        
-        {message && (
-          <div className="bg-white bg-opacity-20 backdrop-blur-md p-4 rounded-xl mb-8 border border-white border-opacity-30">
-            {message}
+        {/* Bottom section with credits on left, button on right */}
+        <div className="px-8 md:px-16 lg:px-24 pb-12 md:pb-16 flex flex-row justify-between items-end w-full">
+          {/* Left column - creator credits */}
+          <div className="text-white">
+            <p className="text-sm md:text-base font-medium mb-2">Created By:</p>
+            <p className="text-sm md:text-base">Emily Zou</p>
+            <p className="text-sm md:text-base">Sophia Chen</p>
+            <p className="text-sm md:text-base">Olivia Duan</p>
           </div>
-        )}
-        
-        {error && (
-          <div className="bg-red-500 bg-opacity-80 backdrop-blur-md p-4 rounded-xl mb-8 border border-red-300 border-opacity-50">
-            {error}
+
+          {/* Right column - messages and button */}
+          <div className="flex flex-col items-end">
+            {message && (
+              <div className="mb-4 text-white bg-white bg-opacity-20 backdrop-blur-md p-4 rounded-xl border border-white border-opacity-30 max-w-md">
+                {message}
+              </div>
+            )}
+
+            {error && (
+              <div className="mb-4 bg-red-500 bg-opacity-80 backdrop-blur-md p-4 rounded-xl border border-red-300 border-opacity-50 text-white max-w-md">
+                {error}
+              </div>
+            )}
+
+            <button
+              className="bg-gradient-to-br from-white via-gray-50 to-gray-100 text-gray-900 border-none px-10 py-4 rounded-lg text-lg font-semibold cursor-pointer transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 active:scale-100 disabled:opacity-50 disabled:cursor-not-allowed"
+              onClick={handleEnter}
+              disabled={loading}
+            >
+              {loading ? (
+                <span className="flex items-center gap-3">
+                  <span>Loading...</span>
+                  <div className="w-5 h-5 border-2 border-gray-900 border-t-transparent rounded-full animate-spin"></div>
+                </span>
+              ) : (
+                'Enter the Exhibit'
+              )}
+            </button>
           </div>
-        )}
-        
-        <button
-          className="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900 border-none px-12 py-5 rounded-full text-xl font-bold cursor-pointer transition-all duration-300 shadow-2xl hover:shadow-yellow-400/60 hover:-translate-y-1 hover:scale-105 active:scale-100 uppercase tracking-wide inline-flex items-center gap-4 group disabled:opacity-50 disabled:cursor-not-allowed"
-          onClick={handleEnter}
-          disabled={loading}
-        >
-          {loading ? (
-            <>
-              <span>Loading...</span>
-              <div className="w-5 h-5 border-2 border-gray-900 border-t-transparent rounded-full animate-spin"></div>
-            </>
-          ) : (
-            <>
-              <span>Enter the Exhibit</span>
-              <span className="text-2xl transition-transform duration-300 group-hover:translate-x-1">→</span>
-            </>
-          )}
-        </button>
+        </div>
       </div>
     </div>
   );
