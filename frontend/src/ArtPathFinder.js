@@ -381,9 +381,13 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
           const preferredDistance = targetDistance - 1; // One step closer
           const alternativeDistance = targetDistance + 1; // One step further
           
-          // Separate connections into preferred (one step closer/further) and others
-          const preferredConnections = artworksWithDistances.filter(art => 
-            art.distanceToTarget === preferredDistance || art.distanceToTarget === alternativeDistance
+          // Separate connections into categories
+          const closerConnections = artworksWithDistances.filter(art => 
+            art.distanceToTarget === preferredDistance
+          );
+          
+          const furtherConnections = artworksWithDistances.filter(art => 
+            art.distanceToTarget === alternativeDistance
           );
           
           const otherConnections = artworksWithDistances.filter(art => 
@@ -392,18 +396,44 @@ const ArtPathFinder = ({ onBack, initialArtworks = [], onPlayAgain }) => {
             art.distanceToTarget !== Infinity
           );
           
-          // Sort preferred connections: closer first, then further
-          preferredConnections.sort((a, b) => {
-            if (a.distanceToTarget === preferredDistance && b.distanceToTarget === alternativeDistance) return -1;
-            if (a.distanceToTarget === alternativeDistance && b.distanceToTarget === preferredDistance) return 1;
-            return 0;
-          });
+          // Build final connections list, ensuring at least one closer connection if available
+          const finalConnections = [];
           
-          // Combine: preferred first, then others as fallback
-          const allConnections = [...preferredConnections, ...otherConnections];
+          // GUARANTEE: Always include at least one closer connection if any exist
+          if (closerConnections.length > 0) {
+            finalConnections.push(closerConnections[0]); // Guaranteed closer connection
+          }
+          
+          // Add more closer connections (up to 3 more, total 4 closer)
+          if (closerConnections.length > 1) {
+            finalConnections.push(...closerConnections.slice(1, 4));
+          }
+          
+          // Add further connections (up to 2)
+          finalConnections.push(...furtherConnections.slice(0, 2));
+          
+          // Fill remaining slots with other connections
+          const remainingSlots = 6 - finalConnections.length;
+          if (remainingSlots > 0) {
+            finalConnections.push(...otherConnections.slice(0, remainingSlots));
+          }
+          
+          // If we still don't have 6, add more closer connections if available
+          if (finalConnections.length < 6 && closerConnections.length > finalConnections.filter(a => a.distanceToTarget === preferredDistance).length) {
+            const alreadyIncludedCount = finalConnections.filter(a => a.distanceToTarget === preferredDistance).length;
+            const needed = 6 - finalConnections.length;
+            finalConnections.push(...closerConnections.slice(alreadyIncludedCount, alreadyIncludedCount + needed));
+          }
+          
+          // If we still don't have 6, add more further connections if available
+          if (finalConnections.length < 6) {
+            const alreadyIncludedCount = finalConnections.filter(a => a.distanceToTarget === alternativeDistance).length;
+            const needed = 6 - finalConnections.length;
+            finalConnections.push(...furtherConnections.slice(alreadyIncludedCount, alreadyIncludedCount + needed));
+          }
           
           // Remove distanceToTarget from final objects and limit to 6
-          connectedArtworks = allConnections
+          connectedArtworks = finalConnections
             .slice(0, 6)
             .map(({ distanceToTarget, ...art }) => art);
         } catch (err) {
